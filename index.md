@@ -30,15 +30,15 @@ The SEG is developed based on the main knowledge areas of the [SWEBOK V3](https:
 
 The SEG includes nine different role-based tracks (specialization) and provides useful information and learning resources for each track. Each track is associated with a LinkedIn group to facilitate the knowledge sharing and professional networking. Click on anyone of the following tracks to go to its information and learning resources:
 
-1. [Software Requirements Engineer]() | [![](linkedin_small.png)](https://www.linkedin.com/groups/10326019)
-2. [Software Designer]() | [![](linkedin_small.png)](https://www.linkedin.com/groups/10322891)
-3. [Software Programmer]() | [![](linkedin_small.png)](https://www.linkedin.com/groups/10324839)
-4. [Software Tester]() | [![](linkedin_small.png)](https://www.linkedin.com/groups/10324870)
-5. [Software Administrator]() | [![](linkedin_small.png)](https://www.linkedin.com/groups/10322892)
-6. [Software Quality Engineer]() | [![](linkedin_small.png)](https://www.linkedin.com/groups/10332028)
-7. [Software Security Engineer]() | [![](linkedin_small.png)](https://www.linkedin.com/groups/10325821)
-8. [Software Project Manager]() | [![](linkedin_small.png)](https://www.linkedin.com/groups/10325814)
-9. [Software Data Scientist]() | [![](linkedin_small.png)](https://www.linkedin.com/groups/10324852)
+1. [Software Requirements Engineer]() [![](linkedin_small.png)](https://www.linkedin.com/groups/10326019)
+2. [Software Designer]() [![](linkedin_small.png)](https://www.linkedin.com/groups/10322891)
+3. [Software Programmer]() [![](linkedin_small.png)](https://www.linkedin.com/groups/10324839)
+4. [Software Tester]() [![](linkedin_small.png)](https://www.linkedin.com/groups/10324870)
+5. [Software Administrator]() [![](linkedin_small.png)](https://www.linkedin.com/groups/10322892)
+6. [Software Quality Engineer]() [![](linkedin_small.png)](https://www.linkedin.com/groups/10332028)
+7. [Software Security Engineer]() [![](linkedin_small.png)](https://www.linkedin.com/groups/10325821)
+8. [Software Project Manager]() [![](linkedin_small.png)](https://www.linkedin.com/groups/10325814)
+9. [Software Data Scientist]() [![](linkedin_small.png)](https://www.linkedin.com/groups/10324852)
 
 ### Learning Process
 
