@@ -4,7 +4,7 @@ Software Engineering Guide (SEG) is a curated list of high-quality and free self
 
 ### Motivation
 
-The motivation behind building this guide is the noticeable gap between the knowledge and skills that are acquired from the traditional education offering and the ones that are demanded by the industry today-- especially in developing countries. However, nowadays, with the availability and affordability of internet connection, you can easily gain a free-of-cost access to high-quality learning resources from around the world. *Therefore, there is no excuse to say that I don't have a quality education!*
+The motivation behind building this guide is the noticeable gap between the knowledge and skills that are acquired from the traditional education offering and the ones that are demanded by the industry--especially in developing countries. However, nowadays, with the availability and affordability of internet connection, you can easily gain a free-of-cost access to high-quality learning resources from around the world. *Therefore, there is no excuse to say that I don't have a quality education!*
 
 ![](Slide2.JPG "Motivation")
 
