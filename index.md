@@ -42,7 +42,7 @@ The SEG includes nine different role-based tracks (specialization) and provides 
 
 ### Learning Process
 
-To get the full advantage of this guide, we highly recommend you to first select a role from the specialized tracks listed above. Then, begin the following process: learning, practicing, networking, and teaching.
+To get the full advantage of this guide, we highly recommend you to first select a role from the specialized tracks listed above. Then, begin the following process: learning, practicing, networking, and teaching. This process should be a life-long journey for developing knowledge and skills in any domain.
 
 ![](Slide9.JPG "Methodology") 
 
