@@ -79,6 +79,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Data_science)
 #### Webinars
 
 - [How to Become a Data Scientist in 2017?](https://youtu.be/ccCblUZFM0w)
+- [Career Lunch & Learn: Getting Started in Data Science](https://www.youtube.com/watch?v=mpinLxJVZpA)
 
 #### Others
 
@@ -95,29 +96,27 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Data_science)
 
 #### MOOCs
 
-- [Intro to Data Science]()
-- [Data Science Essentials]()
-- [Data Science Fundamentals]()
-- [Getting Started with Data Science]()
-- [Data Science Readiness Assessment]()
-- [Executive Data Science]()
-- [Data Science Math Skills]()
-- [Data Science Ethics]()
-- [Microsoft Virtual Academy]()
+- [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359)
+- [Data Science Essentials](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x-4)
+- [Data Science Fundamentals](https://bigdatauniversity.com/learn/data-science/)
+- [Getting Started with Data Science](https://open.sap.com/courses/ds1)
+- [Data Science Readiness Assessment](https://www.edx.org/course/data-science-readiness-assessment-notredamex-ds101x#!)
+- [Executive Data Science](https://www.coursera.org/specializations/executive-data-science)
+- [Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills)
+- [Data Science Ethics](https://www.edx.org/course/data-science-ethics-michiganx-ds101x-1#!)
+- [Microsoft Virtual Academy](https://mva.microsoft.com/)
 
 #### Webinars
 
-Data Science Webinars
-Data Science Webinar
-Career Lunch & Learn: Getting Started in Data Science
+- [Data Science Webinars](https://www.ngdata.com/top-data-science-resources/#Webinars)
 
 #### Others
 
-Executive Data Science
-Simplilearn's Resources
-Data Science Tutorials
-The Open Source Data Science Masters
-23 Free Data Science Books
+- [Executive Data Science](https://leanpub.com/eds)
+- [Simplilearn's Resources](https://www.simplilearn.com/resources/big-data-and-analytics)
+- [Data Science Tutorials](https://www.codementor.io/data-science/tutorial)
+- [The Open Source Data Science Masters](http://datasciencemasters.org/)
+- [23 Free Data Science Books](http://www.wzchen.com/data-science-books/)
 
 ### Intermediate
 
