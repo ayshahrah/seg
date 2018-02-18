@@ -76,8 +76,6 @@ It is very important for any software engineer to meausre his/her progress towar
 
 ### Contact
 
-![alt text](twitter.png) 
-
-![alt text](Linkedin.png) 
+![alt text](Twitter.png =50x50) ![alt text](Linkedin.png =50x50) 
 
 
