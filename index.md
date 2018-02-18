@@ -44,7 +44,7 @@ The SEG includes nine different tracks (role-based) and provides a guidance and 
 
 To get the full advantage of this guide, we highly recommend you to condider the following methodology:
 
-![alt text](Slide10.JPG "Methodology") 
+![alt text](Slide9.JPG "Methodology") 
 
 - **Learning**: self-learning process to increase the learner's knowledge based on available online resources. The learner can leverage the collected resources available in this gudie for each specializec role. These collections contain up-to-date, high-quality, and free online learning resources. In addition, we will keep updating these collections with latest relevant content.
 
