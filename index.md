@@ -8,12 +8,21 @@ https://github.com/ayshahrah/sweg/blob/master/KA.jpg
 
 SEG includes nine different tracks (role-based), click on any track to go to its learning resources:
 
-1. Software Requirements Engineer
-2. Software Designer
-3. Software Programmer
-4. Software Tester
-5. Software Administrator
-6. Software Quality Engineer
-7. Software Security Engineer
-8. Software Project Manager
-9. Software Data Scientist
+1.[Software Requirements Engineer]()
+2.[Software Designer]()
+3.[Software Programmer]()
+4.[Software Tester]()
+5.[Software Administrator]()
+6.[Software Quality Engineer]()
+7.[Software Security Engineer]()
+8.[Software Project Manager]()
+9.[Software Data Scientist]()
+
+### Learning Outcomes
+
+
+
+### Aditional Resources
+
+-[Soft Skills]()
+-[Entrepreneurship Skills]()
