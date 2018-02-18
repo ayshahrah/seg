@@ -38,7 +38,7 @@ The SEG includes nine different role-based tracks (specialization) and provides 
 6. [Software Quality Engineer]() [![](linkedin_small.png)](https://www.linkedin.com/groups/10332028)
 7. [Software Security Engineer]() [![](linkedin_small.png)](https://www.linkedin.com/groups/10325821)
 8. [Software Project Manager]() [![](linkedin_small.png)](https://www.linkedin.com/groups/10325814)
-9. [Software Data Scientist]() [![](linkedin_small.png)](https://www.linkedin.com/groups/10324852)
+9. [Software Data Scientist](sd.md) [![](linkedin_small.png)](https://www.linkedin.com/groups/10324852)
 
 ### Learning Process
 
