@@ -73,3 +73,9 @@ It is very important for any software engineer to meausre his/her progress towar
 
 - [Soft Skills]()
 - [Entrepreneurship Skills]()
+
+### Contact
+
+![alt text](twitter.PNG) ![alt text](LinkedIn.PNG) 
+
+
