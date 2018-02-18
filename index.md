@@ -42,7 +42,7 @@ The SEG includes nine different tracks (role-based) and provides a guidance and 
 
 ### Learning Process
 
-To get the full advantage of this guide, we highly recommend you to condider the following methodology:
+To get the full advantage of this guide, we highly recommend you to first select a role from the specialized tracks listed above. Then, begin the following process: learning, practicing, networking, and teaching.
 
 ![alt text](Slide9.JPG "Methodology") 
 
