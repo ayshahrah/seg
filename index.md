@@ -2,7 +2,7 @@
 
 Software Engineering Guide (SEG) is a curated list of high-quality and free self-learining materials in software engineering domain. SEG is organized into specialized tracks (role-based) that cover the entire software development life cycle (SDLC) and represent the most popular working roles related to software engineering. Each track has a set of learning resources that are organized into four levels: foundation, basic, intermediate, and advanced. Each level has three categries of learing resources: MOOCs, webinars, and others.
 
-![alt text](https://github.com/ayshahrah/sweg/blob/master/KA.jpg "Knowledge Areas") 
+![alt text](Slide5.JPG "Priciples") 
 
 ### Spcialized Tracks
 
