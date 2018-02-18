@@ -6,25 +6,25 @@ Software Engineering Guide (SEG) is a curated list of high-quality and free self
 
 The motivaiton behind buidling this guide is the noticible gap between the education offering -- specially in developing countries -- and the industry demand. However, nowadasy, with the availability and affordability of internet connection, you can esaily gain free of cost access to high-quality learning resources.
 
-![alt text](Slide2.JPG "Motivation")
+![](Slide2.JPG "Motivation")
 
 ### Principles
 
 To be a professional software engineer, you must guide yourself by adopting some important principles, including ambition, passion, focus, self-motivation, self-learning, and seriousness. Without such principles, it would be very difficult to be in mastry level of software engineering.
 
-![alt text](Slide5.JPG "Priciples") 
+![](Slide5.JPG "Priciples") 
 
 ### Framework
 
 The SEG is developed based on a framework that consists of three important components that form a professional software engineer: learner (aqcuiring technical and non-technical skills), methodology (adopting lean, agile, and DevOps), and technology (using next generation technologies, such as ALM, IoT, cloud computing, etc.).
 
-![alt text](Slide7.JPG "Framework") 
+![](Slide7.JPG "Framework") 
 
 ### Knowledge Areas
 
 The SEG is guided by the knowledge areas of the [SWEBOK V3] (https://www.computer.org/web/swebok/v3) which known as Software Development Life Cycle (SDLC). Moreover, we have tried to link the different software engineering related roles to those knowlege areas. Moreover, we have added more roles that are mostly related to the entire SCLC.
 
-![alt text](Slide8.JPG "Knowledge Areas") 
+![](Slide8.JPG "Knowledge Areas") 
 
 ### Spcialized Tracks
 
@@ -44,7 +44,7 @@ The SEG includes nine different tracks (role-based) and provides a guidance and 
 
 To get the full advantage of this guide, we highly recommend you to first select a role from the specialized tracks listed above. Then, begin the following process: learning, practicing, networking, and teaching.
 
-![alt text](Slide9.JPG "Methodology") 
+![](Slide9.JPG "Methodology") 
 
 - **Learning**: self-learning process to increase the learner's knowledge based on available online resources. The learner can leverage the collected resources available in this gudie for each specializec role. These collections contain up-to-date, high-quality, and free online learning resources. In addition, we will keep updating these collections with latest relevant content.
 
@@ -76,6 +76,6 @@ It is very important for any software engineer to meausre his/her progress towar
 
 ### Contact
 
-![alt text](Twitter.png =50x50) ![alt text](Linkedin.png =50x50) 
+[![](Twitter.png)](https://twitter.com/SWE_Guide) [![](Linkedin.png)](https://www.linkedin.com/groups/10323987)
 
 
