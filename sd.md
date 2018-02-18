@@ -63,11 +63,11 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Data_science)
 
 ## Learning Resources
 
-*Important Note: All learning resources available here are free. If you found any learning resource requires a fee, please post a comment under the discussion post below "Report a Problem Here". Regarding the MOOCs that are bundled as a specialization track with a fee (e.g. coursera's specializations and edx's xseries programs), you can look for each individual course and take it for free (Audit option).
+***Important Note:** All learning resources available here are free. If you found any learning resource requires a fee, please post a comment under the discussion post below "Report a Problem Here". Regarding the MOOCs that are bundled as a specialization track with a fee (e.g. coursera's specializations and edx's xseries programs), you can look for each individual course and take it for free (Audit option).*
 
 ### Foundation
 
-#### Massive Open Online Courses (MOOC)
+#### MOOCs
 
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [Mindshift](https://www.coursera.org/learn/mindshift)
@@ -76,42 +76,42 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Data_science)
 - [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 - [Soft Skills](ss.md)
 
-Webinars
+#### Webinars
 
-How to Become a Data Scientist in 2017?
+- [How to Become a Data Scientist in 2017?](https://youtu.be/ccCblUZFM0w)
 
-E-books, White Papers, and Articles
+#### Others
 
-Read the ebook Data Scientist: The Numbers Game Deciphered
-How To Become A Data Scientist
-How to Become a Data Engineer
-Data Engineering vs. Data Science Infographic
-How to get your first job in Data Science?
-Learn How to Get Your First Data Science Job
-Top Programming Languages for a Data Scientist
-Which Languages Should You Learn For Data Science?
+- [Data Scientist: The Numbers Game Deciphered](https://www.simplilearn.com/the-numbers-game-deciphered-guide-pdf)
+- [How To Become A Data Scientist](https://medium.freecodecamp.org/how-to-become-a-data-scientist-2d829fa33aba)
+- [How to Become a Data Engineer](https://dzone.com/articles/how-to-become-a-data-engineer)
+- [Data Engineering vs. Data Science Infographic](https://www.datacamp.com/community/blog/data-engineering-vs-data-science-infographic)
+- [How to get your first job in Data Science?](https://medium.com/the-mission/how-to-break-into-the-data-science-market-f0e0b79b42f7)
+- [Learn How to Get Your First Data Science Job](https://www.springboard.com/resources/guide-to-data-science-jobs/)
+- [Top Programming Languages for a Data Scientist](https://www.simplilearn.com/top-programming-languages-for-data-scientist-guide-pdf)
+- [Which Languages Should You Learn For Data Science?](https://medium.freecodecamp.org/which-languages-should-you-learn-for-data-science-e806ba55a81f)
 
-Beginner
+### Basic
 
-Massive Open Online Courses (MOOC)
+#### MOOCs
 
-Intro to Data Science
-Data Science Essentials
-Data Science Fundamentals
-Getting Started with Data Science
-Data Science Readiness Assessment
-Executive Data Science
-Data Science Math Skills
-Data Science Ethics
-Microsoft Virtual Academy
+- [Intro to Data Science]()
+- [Data Science Essentials]()
+- [Data Science Fundamentals]()
+- [Getting Started with Data Science]()
+- [Data Science Readiness Assessment]()
+- [Executive Data Science]()
+- [Data Science Math Skills]()
+- [Data Science Ethics]()
+- [Microsoft Virtual Academy]()
 
-Webinars
+#### Webinars
 
 Data Science Webinars
 Data Science Webinar
 Career Lunch & Learn: Getting Started in Data Science
 
-E-books, White Papers, and Articles
+#### Others
 
 Executive Data Science
 Simplilearn's Resources
@@ -119,9 +119,9 @@ Data Science Tutorials
 The Open Source Data Science Masters
 23 Free Data Science Books
 
-Intermediate
+### Intermediate
 
-Massive Open Online Courses (MOOC)
+#### MOOCs
 
 Software Development Lifecycle
 Agile Development
@@ -135,7 +135,7 @@ Business Analytics - edx
 Advanced Business Analytics
 Social Media Data Analytics
 
-Webinars
+#### Webinars
 
 Agile Development Basics
 Better, Faster, and Easier: Agile Application Development for Your Business
@@ -143,7 +143,7 @@ Watch the Do Agile Right webinar – Lessons learned from an Atlassian software 
 Gartner Data & Analytics Webinars
 TDWI Webinars
 
-E-books, White Papers, and Articles
+#### Others
 
 Agile for Dummies
 Agile Skills Learning Circle Wiki
@@ -161,9 +161,9 @@ Software Development Trends and Benchmarks
 The Data Analytics Handbook
 Data Analytics & R
 
-Advanced
+### Advanced
 
-Massive Open Online Courses (MOOC)
+#### MOOCs
 
 Industry 4.0: How to Revolutionize your Business
 Data Science at Scale
@@ -183,7 +183,7 @@ Intro to DevOps
 DevOps: An IT Pro Guide
 Entrepreneurship Skills
 
-Webinars
+#### Webinars
 
 Winning with Big Data Analytics
 Emerging Trends in Big Data Software Spark, MLlib and Beyond
@@ -193,7 +193,7 @@ SAS Webinars
 Modern Application Development Life Cycle Management
 Introducing the Next Generation of ALM
 
-E-books, White Papers, and Articles
+#### Others
 
 Big Data and Analytics for Dummies
 Big Data Analytics eBook
