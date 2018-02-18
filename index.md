@@ -18,13 +18,13 @@ To be a professional software engineer, you must guide yourself by adopting some
 
 The SEG is developed based on a framework that consists of three important components that form a professional software engineer: learner (aqcuiring technical and non-technical skills), methodology (adopting lean, agile, and DevOps), and technology (using next generation technologies, such as ALM, IoT, cloud computing, etc.).
 
-![alt text](Slide7.JPG "Priciples") 
+![alt text](Slide7.JPG "Framework") 
 
 ### Knowledge Areas
 
 The SEG is guided by the knowledge areas of the [SWEBOK V3] (https://www.computer.org/web/swebok/v3) which known as Software Development Life Cycle (SDLC). Moreover, we have tried to link the different software engineering related roles to those knowlege areas. Moreover, we have added more roles that are mostly related to the entire SCLC.
 
-![alt text](Slide8.JPG "Priciples") 
+![alt text](Slide8.JPG "Knowledge Areas") 
 
 ### Spcialized Tracks
 
@@ -44,7 +44,7 @@ The SEG includes nine different tracks (role-based) and provides a guidance and 
 
 To get the full advantage of this guide, we highly recommend you to condider the following methodology:
 
-![alt text](Slide10.JPG "Priciples") 
+![alt text](Slide10.JPG "Methodology") 
 
 - **Learning**: self-learning process to increase the learner's knowledge based on available online resources. The learner can leverage the collected resources available in this gudie for each specializec role. These collections contain up-to-date, high-quality, and free online learning resources. In addition, we will keep updating these collections with latest relevant content.
 
@@ -67,7 +67,7 @@ To get the full advantage of this guide, we highly recommend you to condider the
 
 It is very important for any software engineer to meausre his/her progress towards his/her learning objectives. From practical perspective, this can be achived by different means such as delievring a technical presentation, demonstrating a peice of a developed prototype or a full functioning application, or acquiring a professional certification in his/her domain.
 
-![alt text](Slide12.JPG "Priciples") 
+![alt text](Slide12.JPG "Performance Measurement") 
 
 ### Aditional Resources
 
