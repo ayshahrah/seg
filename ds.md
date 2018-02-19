@@ -8,7 +8,7 @@ Turing award winner Jim Gray imagined data science as a "fourth paradigm" of sci
 
 When Harvard Business Review titled "The Sexiest Job of the 21st Century" the term became a buzzword, and is now often applied to business analytics, and use of data, or used as a sexed-up term for statistics. While many university programs now offer a data science degree, there exists no consensus on a definition or curriculum contents. Because of the current popularity of this term, there is a lot of "advocacy efforts" surrounding it.
 
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Data_science)
+*Source: [Wikipedia](https://en.wikipedia.org/wiki/Data_science)*
 
 ### Knowledge and Skills
 
@@ -164,46 +164,46 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Data_science)
 
 #### MOOCs
 
-Industry 4.0: How to Revolutionize your Business
-Data Science at Scale
-Big Data: Data Visualisation
-Big Data: Mathematical Modelling
-Knowledge Management and Big Data in Business
-Enabling Technologies for Data Science and Analytics: The Internet of Things
-Emerging Technologies: From Smartphones to IoT to Big Data Specialization
-A developer's guide to Exploring and Visualizing IoT Data
-Process Mining: Data science in Action
-Data Science - Udacity
-Data Science - Coursera
-Data Analysis & Statistics Courses - edx
-BigDataUniversity.com
-Cloud Computing
-Intro to DevOps
-DevOps: An IT Pro Guide
-Entrepreneurship Skills
+- [Industry 4.0: How to Revolutionize your Business](https://www.edx.org/course/industry-4-0-how-revolutionize-business-hkpolyux-i4-0x)
+- [Data Science at Scale](https://www.coursera.org/specializations/data-science)
+- [Big Data: Data Visualisation](https://www.futurelearn.com/courses/big-data-visualisation)
+- [Big Data: Mathematical Modelling](https://www.futurelearn.com/courses/big-data-mathematical-modelling)
+- [Knowledge Management and Big Data in Business](https://www.edx.org/course/knowledge-management-big-data-business-hkpolyux-ise101x-2)
+- [Enabling Technologies for Data Science and Analytics: The Internet of Things](https://www.edx.org/course/enabling-technologies-data-science-columbiax-ds103x-0#!)
+- [Emerging Technologies: From Smartphones to IoT to Big Data Specialization](https://www.coursera.org/specializations/emerging-technologies)
+- [A developer's guide to Exploring and Visualizing IoT Data](https://www.coursera.org/learn/exploring-visualizing-iot-data)
+- [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining)
+- [Data Science - Udacity](https://www.udacity.com/courses/data-science)
+- [Data Science - Coursera](https://www.coursera.org/browse/data-science?languages=en)
+- [Data Analysis & Statistics Courses - edx](https://www.edx.org/course/subject/data-analysis-statistics)
+- [BigDataUniversity.com](http://bigdatauniversity.com/)
+- [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
+- [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
+- [DevOps: An IT Pro Guide](https://mva.microsoft.com/en-us/training-courses/devops-an-it-pro-guide-8286)
+- [Entrepreneurship Skills](es.md)
 
 #### Webinars
 
-Winning with Big Data Analytics
-Emerging Trends in Big Data Software Spark, MLlib and Beyond
-Data Science Central Webinars
-Teradata Webinars
-SAS Webinars
-Modern Application Development Life Cycle Management
-Introducing the Next Generation of ALM
+- [Winning with Big Data Analytics](https://www.youtube.com/watch?v=lzv_YrEUYgw&feature=youtu.be)
+- [Emerging Trends in Big Data Software Spark, MLlib and Beyond](http://info.splicemachine.com/Mike-Franklin-Trends-Webinar.html)
+- [Data Science Central Webinars](http://www.datasciencecentral.com/video/video/listFeatured)
+- [Teradata Webinars](https://www.thinkbiganalytics.com/webinar/)
+- [SAS Webinars](http://www.sas.com/en_us/offers/14q1/big-data-matters-webinars/overview.html)
+- [Modern Application Development Life Cycle Management](https://www.gartner.com/webinar/2998618)
+- [Introducing the Next Generation of ALM](https://www.brighttalk.com/webcast/8653/197515)
 
 #### Others
 
-Big Data and Analytics for Dummies
-Big Data Analytics eBook
-Understanding Big Data
-Big Data, Analytics, and the Cloud: Strategies for Success
-Scaling Data Science for the Industrial Internet of Things
-McKinsey Analytics
-Big Data Guides and eBooks
-DevOps For Dummies
-The Ultimate DevOps Toolkit
-DevOps.com
-O’Reilly Free Data Ebooks
-TechBeacon
-TradePub.com
+- [Big Data and Analytics for Dummies](https://www.cisco.com/c/m/en_us/offers/dc05/big-data-for-dummies/index.html#)
+- [Big Data Analytics eBook](http://events.pentaho.com/Big-Data-Analytics-eBook.html)
+- [Understanding Big Data](https://www-01.ibm.com/marketing/iwm/iwm/web/signup.do?source=sw-infomgt&S_PKG=500016891&S_CPM=is_bdebook1_biginsightsfp)
+- [Big Data, Analytics, and the Cloud: Strategies for Success](https://tdwi.org/research/2016/10/ebook-big-data-analytics-and-the-cloud.aspx)
+- [Scaling Data Science for the Industrial Internet of Things](http://www.oreilly.com/iot/free/scaling-data-science-for-the-industrial-internet-of-things.csp)
+- [McKinsey Analytics](http://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights)
+- [O’Reilly Free Data Ebooks](http://www.oreilly.com/data/free/)
+- [Big Data Guides and eBooks](http://data-informed.com/big-data-guides-and-ebooks/)
+- [DevOps For Dummies](http://www.oreilly.com/data/free/)
+- [The Ultimate DevOps Toolkit](https://www.appdynamics.com/lp/devops-toolkit/)
+- [DevOps.com](https://devops.com/)
+- [TechBeacon](https://techbeacon.com/)
+- [TradePub.com](https://sf.tradepub.com/)
