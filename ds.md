@@ -74,7 +74,7 @@ When Harvard Business Review titled "The Sexiest Job of the 21st Century" the te
 - [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
 - [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
 - [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
-- [Soft Skills](ss.md)
+- **[Soft Skills](ss.md)**
 
 #### Webinars
 
@@ -180,7 +180,7 @@ When Harvard Business Review titled "The Sexiest Job of the 21st Century" the te
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [DevOps: An IT Pro Guide](https://mva.microsoft.com/en-us/training-courses/devops-an-it-pro-guide-8286)
-- [Entrepreneurship Skills](es.md)
+- **[Entrepreneurship Skills](es.md)**
 
 #### Webinars
 
