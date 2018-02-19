@@ -122,43 +122,43 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Data_science)
 
 #### MOOCs
 
-Software Development Lifecycle
-Agile Development
-Agile Software Development
-Applied Data Science with Python
-Data Science
-The Analytics Edge
-Data Analysis and Presentation Skills
-Business Analytics - coursera
-Business Analytics - edx
-Advanced Business Analytics
-Social Media Data Analytics
+- [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
+- [Agile Development](https://www.coursera.org/specializations/agile-development)
+- [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
+- [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)
+- [Data Science](https://www.coursera.org/specializations/jhu-data-science)
+- [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)
+- [Data Analysis and Presentation Skills](https://www.coursera.org/specializations/pwc-analytics)
+- [Business Analytics - coursera](https://www.coursera.org/specializations/business-analytics)
+- [Business Analytics - edx](https://www.edx.org/micromasters/business-analytics)
+- [Advanced Business Analytics](https://www.coursera.org/specializations/data-analytics-business)
+- [Social Media Data Analytics](https://www.coursera.org/learn/social-media-data-analytics)
 
 #### Webinars
 
-Agile Development Basics
-Better, Faster, and Easier: Agile Application Development for Your Business
-Watch the Do Agile Right webinar – Lessons learned from an Atlassian software engineer
-Gartner Data & Analytics Webinars
-TDWI Webinars
+- [Agile Development Basics](http://info.versionone.com/Agile-Development-Basics-Webinar.html)
+- [Better, Faster, and Easier: Agile Application Development for Your Business](http://www.appian.com/resources/better-faster-and-easier-agile-application-development-for-your-business/)
+- [Watch the Do Agile Right webinar – Lessons learned from an Atlassian software engineer](http://blogs.atlassian.com/2014/02/watch-agile-right-webinar-lessons-learned-atlassian-software-engineer/)
+- [Gartner Data & Analytics Webinars](http://www.gartner.com/technology/webinars/business-intelligence-big-data.jsp)
+- [TDWI Webinars](https://tdwi.org/webcasts/list/all-webinars.aspx)
 
 #### Others
 
-Agile for Dummies
-Agile Skills Learning Circle Wiki
-Agile Alliance
-The Agile Coach
-Getting Started or Simply Scaling Agile?
-A Practical Guide: Product Management & Agile Development
-Agile Android Software Development
-AgileConnection.com
-Scrum Guide
-CMCrossroads.com
-ALM Body of Knowledge
-Application lifecycle management tools: A buyer's guide to ALM software
-Software Development Trends and Benchmarks
-The Data Analytics Handbook
-Data Analytics & R
+- [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
+- [Agile Skills Learning Circle Wiki](https://www.ibm.com/developerworks/community/wikis/home/wiki/W61b873bae705_4dcd_aa9b_fe8380d4d7fb?lang=en)
+- [Agile Alliance](https://www.agilealliance.org/)
+- [The Agile Coach](https://www.atlassian.com/agile)
+- [Getting Started or Simply Scaling Agile?](https://www.versionone.com/resources/)
+- [A Practical Guide: Product Management & Agile Development](http://web.accompa.com/white-paper-product-management-agile-development/)
+- [Agile Android Software Development](https://www.agiledroid.com/)
+- [AgileConnection.com](https://www.agileconnection.com/)
+- [Scrum Guide](http://www.scrumguides.org/)
+- [CMCrossroads.com](https://www.cmcrossroads.com/)
+- [ALM Body of Knowledge](http://www.almbok.com/start)
+- [Application lifecycle management tools: A buyer's guide to ALM software](http://searchsoftwarequality.techtarget.com/buyersguide/Application-lifecycle-management-tools-A-buyers-guide-to-ALM-software)
+- [Software Development Trends and Benchmarks](https://www.atlassian.com/whitepapers/software-trends-2016?_ga=1.30949695.1485245186.1483265671)
+- [The Data Analytics Handbook](https://www.teamleada.com/handbook)
+- [Data Analytics & R](https://advanceddataanalytics.net/ebooks/)
 
 ### Advanced
 
