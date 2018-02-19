@@ -32,7 +32,7 @@ The SEG includes nine different role-based tracks (specialization) and provides 
 
 1. [Software Requirements Engineer](swr.md) [![](linkedin_small.png)](https://www.linkedin.com/groups/10326019)
 2. [Software Designer](swd.md) [![](linkedin_small.png)](https://www.linkedin.com/groups/10322891)
-3. [Software Programmer](swp.md) [![](linkedin_small.png)](https://www.linkedin.com/groups/10324839)
+3. [Software Programmer](swc.md) [![](linkedin_small.png)](https://www.linkedin.com/groups/10324839)
 4. [Software Tester](swt.md) [![](linkedin_small.png)](https://www.linkedin.com/groups/10324870)
 5. [Software Administrator](swa.md) [![](linkedin_small.png)](https://www.linkedin.com/groups/10322892)
 6. [Software Quality Engineer](swq.md) [![](linkedin_small.png)](https://www.linkedin.com/groups/10332028)
