@@ -140,22 +140,13 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 - [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
-- [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)
-- [Data Science](https://www.coursera.org/specializations/jhu-data-science)
-- [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)
-- [Data Analysis and Presentation Skills](https://www.coursera.org/specializations/pwc-analytics)
-- [Business Analytics - coursera](https://www.coursera.org/specializations/business-analytics)
-- [Business Analytics - edx](https://www.edx.org/micromasters/business-analytics)
-- [Advanced Business Analytics](https://www.coursera.org/specializations/data-analytics-business)
-- [Social Media Data Analytics](https://www.coursera.org/learn/social-media-data-analytics)
+- [GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
 
 #### Webinars
 
 - [Agile Development Basics](http://info.versionone.com/Agile-Development-Basics-Webinar.html)
 - [Better, Faster, and Easier: Agile Application Development for Your Business](http://www.appian.com/resources/better-faster-and-easier-agile-application-development-for-your-business/)
 - [Watch the Do Agile Right webinar – Lessons learned from an Atlassian software engineer](http://blogs.atlassian.com/2014/02/watch-agile-right-webinar-lessons-learned-atlassian-software-engineer/)
-- [Gartner Data & Analytics Webinars](http://www.gartner.com/technology/webinars/business-intelligence-big-data.jsp)
-- [TDWI Webinars](https://tdwi.org/webcasts/list/all-webinars.aspx)
 
 #### Others
 
@@ -172,26 +163,20 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [ALM Body of Knowledge](http://www.almbok.com/start)
 - [Application lifecycle management tools: A buyer's guide to ALM software](http://searchsoftwarequality.techtarget.com/buyersguide/Application-lifecycle-management-tools-A-buyers-guide-to-ALM-software)
 - [Software Development Trends and Benchmarks](https://www.atlassian.com/whitepapers/software-trends-2016?_ga=1.30949695.1485245186.1483265671)
-- [The Data Analytics Handbook](https://www.teamleada.com/handbook)
-- [Data Analytics & R](https://advanceddataanalytics.net/ebooks/)
 
 ### Advanced
 
 #### MOOCs
 
 - [Industry 4.0: How to Revolutionize your Business](https://www.edx.org/course/industry-4-0-how-revolutionize-business-hkpolyux-i4-0x)
-- [Data Science at Scale](https://www.coursera.org/specializations/data-science)
-- [Big Data: Data Visualisation](https://www.futurelearn.com/courses/big-data-visualisation)
-- [Big Data: Mathematical Modelling](https://www.futurelearn.com/courses/big-data-mathematical-modelling)
-- [Knowledge Management and Big Data in Business](https://www.edx.org/course/knowledge-management-big-data-business-hkpolyux-ise101x-2)
-- [Enabling Technologies for Data Science and Analytics: The Internet of Things](https://www.edx.org/course/enabling-technologies-data-science-columbiax-ds103x-0#!)
 - [Emerging Technologies: From Smartphones to IoT to Big Data Specialization](https://www.coursera.org/specializations/emerging-technologies)
-- [A developer's guide to Exploring and Visualizing IoT Data](https://www.coursera.org/learn/exploring-visualizing-iot-data)
-- [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining)
-- [Data Science - Udacity](https://www.udacity.com/courses/data-science)
-- [Data Science - Coursera](https://www.coursera.org/browse/data-science?languages=en)
-- [Data Analysis & Statistics Courses - edx](https://www.edx.org/course/subject/data-analysis-statistics)
-- [BigDataUniversity.com](http://bigdatauniversity.com/)
+- [Internet of Things](https://www.coursera.org/specializations/internet-of-things)
+- [The Internet of Things](https://www.futurelearn.com/courses/internet-of-things)
+- [An Introduction to Programming the Internet of Things (IOT)](https://www.coursera.org/specializations/iot)
+- [A developer's guide to the Internet of Things (IoT)](https://www.coursera.org/learn/developer-iot)
+- [Unpacking the Internet of Things (IoT)](https://www.udemy.com/unpacking-the-internet-of-things/)
+- [A Simple Framework for Designing IoT Products](https://www.udemy.com/a-simple-framework-for-designing-iot-products/)
+- [New Business Markets in the Internet of Things (IoT)](https://www.udemy.com/new-business-markets-in-iot/)
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [DevOps: An IT Pro Guide](https://mva.microsoft.com/en-us/training-courses/devops-an-it-pro-guide-8286)
@@ -199,26 +184,31 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 #### Webinars
 
-- [Winning with Big Data Analytics](https://www.youtube.com/watch?v=lzv_YrEUYgw&feature=youtu.be)
-- [Emerging Trends in Big Data Software Spark, MLlib and Beyond](http://info.splicemachine.com/Mike-Franklin-Trends-Webinar.html)
-- [Data Science Central Webinars](http://www.datasciencecentral.com/video/video/listFeatured)
-- [Teradata Webinars](https://www.thinkbiganalytics.com/webinar/)
-- [SAS Webinars](http://www.sas.com/en_us/offers/14q1/big-data-matters-webinars/overview.html)
 - [Modern Application Development Life Cycle Management](https://www.gartner.com/webinar/2998618)
 - [Introducing the Next Generation of ALM](https://www.brighttalk.com/webcast/8653/197515)
+- [Skytap On-Demand Webinars](https://www.skytap.com/research-center/on-demand-webinars/)
+- [GOTO Conferences](https://www.youtube.com/user/GotoConferences)
+- [VersionOne Webinars](https://www.versionone.com/resources/webinars/)
+- [Internet of Things Webinar Series](https://www.mongodb.com/lp/webinar-series/internet-of-things)
+- [Ayla Webinars](https://www.aylanetworks.com/newsroom/events)
 
 #### Others
 
-- [Big Data and Analytics for Dummies](https://www.cisco.com/c/m/en_us/offers/dc05/big-data-for-dummies/index.html#)
-- [Big Data Analytics eBook](http://events.pentaho.com/Big-Data-Analytics-eBook.html)
-- [Understanding Big Data](https://www-01.ibm.com/marketing/iwm/iwm/web/signup.do?source=sw-infomgt&S_PKG=500016891&S_CPM=is_bdebook1_biginsightsfp)
-- [Big Data, Analytics, and the Cloud: Strategies for Success](https://tdwi.org/research/2016/10/ebook-big-data-analytics-and-the-cloud.aspx)
-- [Scaling Data Science for the Industrial Internet of Things](http://www.oreilly.com/iot/free/scaling-data-science-for-the-industrial-internet-of-things.csp)
-- [McKinsey Analytics](http://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights)
+- [Internet of Things: A Developer's Mandate](https://www.appdevelopersalliance.org/internet-of-things/)
+- [Industrial Internet App Development](http://go.digital.ge.com/Evans-Data-Survey-Results.html)
+- [7 Best Developer Tools to Build your Next Internet of Things Application](https://www.losant.com/blog/7-best-developer-tools-to-build-your-next-internet-of-things-application)
+- [67 open source tools and resources for IoT](https://techbeacon.com/67-open-source-tools-resources-iot)
+- [APIs for Dummies](https://www-01.ibm.com/marketing/iwm/iwm/web/signup.do?source=sw-app&S_PKG=ov29766&dynform=13182)
+- [API University](https://www.programmableweb.com/api-university)
 - [O’Reilly Free Data Ebooks](http://www.oreilly.com/data/free/)
 - [Big Data Guides and eBooks](http://data-informed.com/big-data-guides-and-ebooks/)
 - [DevOps For Dummies](http://www.oreilly.com/data/free/)
 - [The Ultimate DevOps Toolkit](https://www.appdynamics.com/lp/devops-toolkit/)
 - [DevOps.com](https://devops.com/)
+- [XebiaLabs Resource Library](https://xebialabs.com/resources/)
+- [Roles and Responsibilities for DevOps and Agile Teams](https://medium.com/@cote/roles-and-responsibilities-for-devops-and-agile-teams-fdacbffb4cb4#.9de94n71e)
+- [Scaled Agile Framework (SAFe®) in a nutshell](https://intland.com/blog/agile/safe/scaled-agile-framework-safe-in-a-nutshell/)
+- [Doing Scrum with Multiple Teams: Comparing Scaling Frameworks](https://www.infoq.com/articles/scrum-multiple-teams-frameworks)
+- [O’Reilly Free Programming Ebooks](http://www.oreilly.com/programming/free/)
 - [TechBeacon](https://techbeacon.com/)
 - [TradePub.com](https://sf.tradepub.com/)
