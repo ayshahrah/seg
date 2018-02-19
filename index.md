@@ -1,6 +1,6 @@
 ## Welcome to Software Engineering Guide
 
-Software Engineering Guide (SEG) is a self-learning methodology with a curated list of high-quality and free-of-cost learning resources in software engineering domain. SEG is role-based and organized into specialized tracks (career paths) that cover the entire software development life cycle (SDLC) and represent the most popular working roles related to software engineering. Each track has a set of online learning resources that are organized into four levels: foundation, basic, intermediate, and advanced. Each level has three categories of learning resources: MOOCs, webinars, and others.
+Software Engineering Guide (SEG) is a self-learning methodology with a curated list of high-quality and free-of-cost learning resources in software engineering domain. SEG is role-based and organized into specialized tracks (career paths) that cover the entire software development lifecycle (SDLC) and represent the most popular working roles related to software engineering. Each track has a set of online learning resources that are organized into four levels: foundation, basic, intermediate, and advanced. Each level has three categories of learning resources: MOOCs, webinars, and others.
 
 ### Motivation
 
@@ -16,7 +16,7 @@ To be a professional software engineer, you must guide yourself by adopting some
 
 ### Framework
 
-The SEG is inspired by a framework that consists of three important components to develop a professional software engineer: learner (acquiring technical and non-technical skills), methodology (adopting lean, agile, and DevOps), and technology (using next generation technologies, such as ALM, IoT, cloud computing, etc.).
+The SEG is inspired by a framework that combines three essential components to develop a professional software engineer: learner (acquiring technical and non-technical skills), methodology (adopting lean, agile, and DevOps), and technology (using next-generation technologies, such as ALM, IoT, cloud computing, etc.).
 
 ![](Slide7.JPG "Framework") 
 
@@ -50,7 +50,7 @@ To get the full advantage of this guide, we highly recommend you to first select
 
 - **Practicing**: working on and using different tools and technologies to improve the learner's skills. The learner can utilize open source tools and also can gain a trial/free access to some commercial tools to apply the acquired knowledge.
 
-- **Networking**: joining and connecting to professional specialized online communities. This allows the learner to keep updated with latest trends and technologies in their specialized knowledge areas. Moreover, the learner can ask and communicate with experts in case he/she encounters any difficulty.
+- **Networking**: joining and connecting with professional specialized online communities. This allows the learner to keep updated with latest trends and technologies in their specialized knowledge areas. Moreover, the learner can ask and communicate with experts in case he/she encounters any difficulty.
 
 - **Teaching**: getting serious, sharing knowledge, and improving soft skills. Once the learner knows that he/she has to teach others about what he/she has learned, this definitely makes him/her more serious in his/her learning process. Additionally, through this process, the learner can practice and gain non-technical (soft) skills like confidence, communication, presentation, speaking, etc.
 
@@ -61,11 +61,11 @@ To get the full advantage of this guide, we highly recommend you to first select
 | **Foundation**     | Explains how to learn and provides an overall background about software engineering as well as a guidance to the selected career path (track) | Understanding of the importance of self-learning, having an idea about software engineering, in general, and how to become a professional in the selected role (career path) |
 | **Basic**     | Focuses on the basic knowledge and skills of a particular specialization (track)     |   Understanding of the fundamentals of the selected learning track |
 | **Intermediate** | Focuses on agile approaches and application life-cycle management (ALM) software      |    The ability to develop prototypes (partially functioning software) using an agile approach and ALM software |
-| **Advanced** | Focuses on next generation technologies (e.g. internet-of-things and cloud computing) and DevOps      |    The ability to develop next-generation applications (fully functioning software) using cloud computing and DevOps approach |
+| **Advanced** | Focuses on next-generation technologies (e.g. internet-of-things and cloud computing) and DevOps      |    The ability to develop next-generation applications (fully functioning software) using cloud computing and DevOps approach |
 
 ### Performance Measurement
 
-It is very important for any software engineer to measure his/her progress towards his/her learning objectives and career path. From practical perspective, this can be achieved by different means such as delivering a technical presentation, demonstrating a piece of a developed prototype or a full functioning application, or acquiring a professional certification in his/her domain.
+It is very important for any software engineer to measure his/her progress towards his/her learning objectives and career path. From a practical perspective, this can be achieved by different means such as delivering a technical presentation, demonstrating a piece of a developed prototype or a fully functioning application, or acquiring a professional certification in his/her domain.
 
 ![alt text](Slide12.JPG "Performance Measurement") 
 
