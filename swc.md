@@ -200,8 +200,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [67 open source tools and resources for IoT](https://techbeacon.com/67-open-source-tools-resources-iot)
 - [APIs for Dummies](https://www-01.ibm.com/marketing/iwm/iwm/web/signup.do?source=sw-app&S_PKG=ov29766&dynform=13182)
 - [API University](https://www.programmableweb.com/api-university)
-- [O’Reilly Free Data Ebooks](http://www.oreilly.com/data/free/)
-- [Big Data Guides and eBooks](http://data-informed.com/big-data-guides-and-ebooks/)
 - [DevOps For Dummies](http://www.oreilly.com/data/free/)
 - [The Ultimate DevOps Toolkit](https://www.appdynamics.com/lp/devops-toolkit/)
 - [DevOps.com](https://devops.com/)
