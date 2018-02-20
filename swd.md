@@ -201,6 +201,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [12 Core Principles of Application Architecture for Digital Business and IoT](https://www.gartner.com/webinar/3517019)
 - [GOTO Conferences](https://www.youtube.com/user/GotoConferences)
 - [VersionOne Webinars](https://www.versionone.com/resources/webinars/)
+- [Internet of Things Webinar Series](https://www.mongodb.com/lp/webinar-series/internet-of-things)
 - [Introducing the Next Generation of ALM](https://www.brighttalk.com/webcast/8653/197515)
 - [Modern Application Development Life Cycle Management](https://www.gartner.com/webinar/2998618)
 
