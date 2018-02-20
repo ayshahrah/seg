@@ -146,6 +146,8 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 #### Webinars
 
 - [Agile Development Basics](http://info.versionone.com/Agile-Development-Basics-Webinar.html)
+- [Better, Faster, and Easier: Agile Application Development for Your Business](http://www.appian.com/resources/better-faster-and-easier-agile-application-development-for-your-business/)
+- [Watch the Do Agile Right webinar](http://blogs.atlassian.com/2014/02/watch-agile-right-webinar-lessons-learned-atlassian-software-engineer/)
 - [Agile Development & Software Architecture - Crossing the Great Divide](http://www.sei.cmu.edu/webinars/view_webinar.cfm?webinarid=18708&gaWebinar=AgileDevelopment&SoftwareArchitecture-CrossingtheGreatDivide)
 - [Architecting in a Complex World](http://www.sei.cmu.edu/webinars/view_webinar.cfm?webinarid=48701)
 - [Web application architecture: The whole stack](https://www.youtube.com/watch?v=SgEFNRf67Cw)
