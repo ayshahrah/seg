@@ -175,7 +175,7 @@ In one sense, it should be possible to manage a software engineering project in 
 - [The Importance of the Internet of Things (IoT) for Project Management](http://searchcio.techtarget.com/essentialguide/A-CIO-guide-to-project-management-basics)
 - [The Internet of Things and the Future of Project Management](https://www.projectmanagement.com/blog-post/13534/The-Internet-of-Things-and-the-Future-of-Project-Management-)
 - [How to Start an Internet of Things (IoT) Project Team](https://www.liquidplanner.com/blog/how-to-start-an-internet-of-things-iot-project-team/)
-- [DevOps For Dummies](http://www.oreilly.com/data/free/)
+- [DevOps For Dummies](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
 - [The Ultimate DevOps Toolkit](https://www.appdynamics.com/lp/devops-toolkit/)
 - [DevOps.com](https://devops.com/)
 - [Roles and Responsibilities for DevOps and Agile Teams](https://medium.com/@cote/roles-and-responsibilities-for-devops-and-agile-teams-fdacbffb4cb4#.9de94n71e)
