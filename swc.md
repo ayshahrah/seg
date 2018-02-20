@@ -212,5 +212,8 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Scaled Agile Framework (SAFe®) in a nutshell](https://intland.com/blog/agile/safe/scaled-agile-framework-safe-in-a-nutshell/)
 - [Doing Scrum with Multiple Teams: Comparing Scaling Frameworks](https://www.infoq.com/articles/scrum-multiple-teams-frameworks)
 - [O’Reilly Free Programming Ebooks](http://www.oreilly.com/programming/free/)
+- [O’Reilly Free Web Development & Performance Ebooks](http://www.oreilly.com/web-platform/free/)
+- [O’Reilly Free Hardware and IoT Ebooks](http://www.oreilly.com/iot/free/)
+- [O’Reilly Free Free Web Ops & DevOps Ebooks](http://www.oreilly.com/webops/free/)
 - [TechBeacon](https://techbeacon.com/)
 - [TradePub.com](https://sf.tradepub.com/)
