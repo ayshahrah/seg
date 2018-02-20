@@ -179,7 +179,6 @@ In one sense, it should be possible to manage a software engineering project in 
 - [The Ultimate DevOps Toolkit](https://www.appdynamics.com/lp/devops-toolkit/)
 - [DevOps.com](https://devops.com/)
 - [Roles and Responsibilities for DevOps and Agile Teams](https://medium.com/@cote/roles-and-responsibilities-for-devops-and-agile-teams-fdacbffb4cb4#.9de94n71e)
-- [DevOps Essentials for Software Architects](http://resources.sei.cmu.edu/library/asset-view.cfm?assetid=436383)
 - [8 Best Practices for Managing DevOps Projects](https://www.liquidplanner.com/blog/8-best-practices-for-managing-devops-projects/)
 - [CIO guide to project management basics, DevOps and Agile](http://searchcio.techtarget.com/essentialguide/A-CIO-guide-to-project-management-basics)
 - [Why Agile and DevOps is shaking up management](http://www.cio.com.au/article/599283/why-agile-devops-shaking-up-management/)
