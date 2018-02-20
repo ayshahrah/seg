@@ -152,6 +152,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 - [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
 - [Agile Skills Learning Circle Wiki](https://www.ibm.com/developerworks/community/wikis/home/wiki/W61b873bae705_4dcd_aa9b_fe8380d4d7fb?lang=en)
+- [Agile Methodology](https://www.cigital.com/knowledge-database/agile-methodology/)
 - [Agile Alliance](https://www.agilealliance.org/)
 - [The Agile Coach](https://www.atlassian.com/agile)
 - [Getting Started or Simply Scaling Agile?](https://www.versionone.com/resources/)
