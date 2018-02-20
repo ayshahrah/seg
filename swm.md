@@ -80,7 +80,6 @@ Software maintenance is defined as the totality of activities required to provid
 #### Others
 
 - Read the Chapter 5: Software Maintenance in [SWEBOK V3](https://www.computer.org/web/swebok/v3)
-- [How to Become a Project Manager in 6 Easy Steps](https://blog.capterra.com/how-to-become-a-project-manager/)
 
 ### Basic
 
