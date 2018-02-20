@@ -214,7 +214,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Designing and Deploying Microservices](https://www.nginx.com/resources/library/designing-deploying-microservices/)
 - [High Scalability](http://highscalability.com/)
 - [All Things Distributed](http://www.allthingsdistributed.com/)
-- [DevOps For Dummies](http://www.oreilly.com/data/free/)
+- [DevOps For Dummies](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
 - [The Ultimate DevOps Toolkit](https://www.appdynamics.com/lp/devops-toolkit/)
 - [DevOps.com](https://devops.com/)
 - [Roles and Responsibilities for DevOps and Agile Teams](https://medium.com/@cote/roles-and-responsibilities-for-devops-and-agile-teams-fdacbffb4cb4#.9de94n71e)
