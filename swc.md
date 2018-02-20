@@ -21,6 +21,14 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Web Developer](https://www.sokanu.com/careers/web-developer/)
 - [Mobile Apps Developer](https://www.sokanu.com/careers/app-developer/)
 
+### How To
+
+- [Want to become a Software Developer?](https://hackernoon.com/want-to-become-a-software-developer-heres-how-to-get-there-55f393aa443c)
+- [How to Become a Web Developer](https://sf.tradepub.com/free-offer/how-to-become-a-web-developer/w_webd08)
+- [How to Become a Mobile App Developer](https://buildfire.com/become-mobile-app-developer/)
+- [Roadmap to becoming a web developer](https://github.com/kamranahmedse/developer-roadmap)
+- [A Guide to Becoming a Full-Stack Developer in 2017](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)
+
 ### Professional Certifications
 
 - [CompTIA Career Roadmap](https://certification.comptia.org/why-certify/roadmap)
@@ -93,11 +101,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 #### Others
 
 - Read the Chapter 3: Software Construction in [SWEBOK V3](https://www.computer.org/web/swebok/v3)
-- [Want to become a Software Developer?](https://hackernoon.com/want-to-become-a-software-developer-heres-how-to-get-there-55f393aa443c)
-- [How to Become a Web Developer](https://sf.tradepub.com/free-offer/how-to-become-a-web-developer/w_webd08)
-- [How to Become a Mobile App Developer](https://buildfire.com/become-mobile-app-developer/)
-- [Roadmap to becoming a web developer](https://github.com/kamranahmedse/developer-roadmap)
-- [A Guide to Becoming a Full-Stack Developer in 2017](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)
 - [What Code Should You Learn?](http://www.whoishostingthis.com/blog/2014/09/04/learn-to-code/)
 - [Learn to Code: What’s the Best Programming Language to Learn First?](https://makeawebsitehub.com/which-programming-language/)
 - [Best Programming Languages to Start Learning Today](https://www.simplilearn.com/best-programming-languages-start-learning-today-article)
