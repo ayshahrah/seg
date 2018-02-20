@@ -23,6 +23,18 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [User Interface (UI) Designer](https://www.econsultancy.com/blog/68842-a-day-in-the-life-of-a-user-interface-designer)
 - [User Experience (UX) Designer](https://www.sokanu.com/careers/ux-designer/)
 
+### How To
+
+- [The Path to Becoming a Software Architect](https://medium.com/@nvashanin/the-path-to-becoming-a-software-architect-de53f1cb310a)
+- [Duties, Skills, & Knowledge of a Software Architect](https://www.sei.cmu.edu/architecture/research/previousresearch/duties.cfm)
+- [Software Architect's Career Roadmap](http://www.softwarearchitectures.com/career.html)
+- [4 essential skills software architects need to have but often don’t](https://www.oreilly.com/ideas/4-essential-skills-software-architects-need-to-have-but-often-dont)
+- [How to Become a UI Designer](https://careerfoundry.com/en/blog/ui-design/how-to-become-a-ui-designer/)
+- [How To Get Started In User Interface (UI) Design](http://trydesignlab.com/blog/how-to-get-started-user-interface-ui-design/)
+- [7 steps to become a UI/UX designer](https://blog.nicolesaidy.com/7-steps-to-become-a-ui-ux-designer-8beed7639a95)
+- [How to Get Started In UX/UI Design](https://medium.theuxblog.com/how-to-get-into-ux-ui-design-6e07c876088d)
+- [How to Change Your Career from Graphic Design to UX Design](https://www.interaction-design.org/literature/article/how-to-change-your-career-from-graphic-design-to-ux-design)
+
 ### Professional Certifications
 
 - [International Association of Software Architects (IASA) Certifications](http://iasaglobal.org/certifications/)
@@ -93,18 +105,9 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 #### Others
 
 - Read the Chapter 2: Software Design in [SWEBOK V3](https://www.computer.org/web/swebok/v3)
-- [The Path to Becoming a Software Architect](https://medium.com/@nvashanin/the-path-to-becoming-a-software-architect-de53f1cb310a)
-- [Duties, Skills, & Knowledge of a Software Architect](https://www.sei.cmu.edu/architecture/research/previousresearch/duties.cfm)
-- [Software Architect's Career Roadmap](http://www.softwarearchitectures.com/career.html)
-- [4 essential skills software architects need to have but often don’t](https://www.oreilly.com/ideas/4-essential-skills-software-architects-need-to-have-but-often-dont)
 - [Should Designers Code?](https://medium.com/@MrAlanCooper/should-designers-code-f7b745b8cd03)
-- [How to Become a UI Designer](https://careerfoundry.com/en/blog/ui-design/how-to-become-a-ui-designer/)
-- [How To Get Started In User Interface (UI) Design](http://trydesignlab.com/blog/how-to-get-started-user-interface-ui-design/)
-- [7 steps to become a UI/UX designer](https://blog.nicolesaidy.com/7-steps-to-become-a-ui-ux-designer-8beed7639a95)
-- [How to Get Started In UX/UI Design](https://medium.theuxblog.com/how-to-get-into-ux-ui-design-6e07c876088d)
-- [The Difference Between UX and UI Design - A Layman’s Guide](https://careerfoundry.com/en/blog/ux-design/the-difference-between-ux-and-ui-design-a-laymans-guide/)
 - [5 Things You Should Know About UX Design](https://medium.theuxblog.com/5-things-you-should-know-about-ux-design-84748e26f98b)
-- [How to Change Your Career from Graphic Design to UX Design](https://www.interaction-design.org/literature/article/how-to-change-your-career-from-graphic-design-to-ux-design)
+- [The Difference Between UX and UI Design - A Layman’s Guide](https://careerfoundry.com/en/blog/ux-design/the-difference-between-ux-and-ui-design-a-laymans-guide/)
 
 ### Basic
 
