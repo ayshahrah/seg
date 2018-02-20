@@ -176,7 +176,7 @@ Software maintenance is defined as the totality of activities required to provid
 
 - [Application Migration to Cloud Best Practices Guide](https://techbeacon.com/resources/application-migration-cloud-best-practices-guide)
 - [TechTarget Search Cloud Computing](http://searchcloudcomputing.techtarget.com/)
-- [DevOps For Dummies](http://www.oreilly.com/data/free/)
+- [DevOps For Dummies](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
 - [The Ultimate DevOps Toolkit](https://www.appdynamics.com/lp/devops-toolkit/)
 - [DevOps.com](https://devops.com/)
 - [Roles and Responsibilities for DevOps and Agile Teams](https://medium.com/@cote/roles-and-responsibilities-for-devops-and-agile-teams-fdacbffb4cb4#.9de94n71e)
