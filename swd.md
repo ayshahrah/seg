@@ -130,6 +130,8 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 #### Others
 
+- [O’Reilly Software Architecture Free Ebooks](http://www.oreilly.com/programming/free/)
+- [O’Reilly Expertise in UX design](http://www.oreilly.com/design/free/)
 - [Software Architecture](https://sf.tradepub.com/free-offer/software-architecture/w_free08)
 - [SourceMaking](https://sourcemaking.com/)
 - [softwarearchitectures.com](http://www.softwarearchitectures.com/index.html)
@@ -226,7 +228,5 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [XebiaLabs Resource Library](https://xebialabs.com/resources/)
 - [Scaled Agile Framework (SAFe®) in a nutshell](https://intland.com/blog/agile/safe/scaled-agile-framework-safe-in-a-nutshell/)
 - [Doing Scrum with Multiple Teams: Comparing Scaling Frameworks](https://www.infoq.com/articles/scrum-multiple-teams-frameworks)
-- [O’Reilly Software Architecture Free Ebooks](http://www.oreilly.com/programming/free/)
-- [O’Reilly Expertise in UX design](http://www.oreilly.com/design/free/)
 - [TechBeacon](https://techbeacon.com/)
 - [TradePub.com](https://sf.tradepub.com/)
