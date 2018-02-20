@@ -37,7 +37,7 @@ The SEG includes nine different role-based tracks (specialization) and provides 
 5. [Software Administrator](swa.md) [![](linkedin_small.png)](https://www.linkedin.com/groups/10322892)
 6. [Software Quality Engineer](swq.md) [![](linkedin_small.png)](https://www.linkedin.com/groups/10332028)
 7. [Software Security Engineer](sws.md) [![](linkedin_small.png)](https://www.linkedin.com/groups/10325821)
-8. [Software Project Manager](swp.md) [![](linkedin_small.png)](https://www.linkedin.com/groups/10325814)
+8. [Software Project Manager](swem.md) [![](linkedin_small.png)](https://www.linkedin.com/groups/10325814)
 9. [Software Data Scientist](swds.md) [![](linkedin_small.png)](https://www.linkedin.com/groups/10324852)
 
 ### Learning Process
