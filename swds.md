@@ -21,6 +21,14 @@ When Harvard Business Review titled "The Sexiest Job of the 21st Century" the te
 - [Data Analyst](https://www.sokanu.com/careers/data-analyst/)
 - [Data Engineer](http://www.mastersindatascience.org/careers/data-engineer/)
 
+### How To
+
+- [How To Become A Data Scientist](https://medium.freecodecamp.org/how-to-become-a-data-scientist-2d829fa33aba)
+- [How to Become a Data Engineer](https://dzone.com/articles/how-to-become-a-data-engineer)
+- [Data Engineering vs. Data Science Infographic](https://www.datacamp.com/community/blog/data-engineering-vs-data-science-infographic)
+- [How to get your first job in Data Science?](https://medium.com/the-mission/how-to-break-into-the-data-science-market-f0e0b79b42f7)
+- [Learn How to Get Your First Data Science Job](https://www.springboard.com/resources/guide-to-data-science-jobs/)
+
 ### Professional Certifications
 
 - [The Top Data Science Certifications Employers Look For](https://www.datasciencegraduateprograms.com/certification/)
@@ -84,11 +92,6 @@ When Harvard Business Review titled "The Sexiest Job of the 21st Century" the te
 #### Others
 
 - [Data Scientist: The Numbers Game Deciphered](https://www.simplilearn.com/the-numbers-game-deciphered-guide-pdf)
-- [How To Become A Data Scientist](https://medium.freecodecamp.org/how-to-become-a-data-scientist-2d829fa33aba)
-- [How to Become a Data Engineer](https://dzone.com/articles/how-to-become-a-data-engineer)
-- [Data Engineering vs. Data Science Infographic](https://www.datacamp.com/community/blog/data-engineering-vs-data-science-infographic)
-- [How to get your first job in Data Science?](https://medium.com/the-mission/how-to-break-into-the-data-science-market-f0e0b79b42f7)
-- [Learn How to Get Your First Data Science Job](https://www.springboard.com/resources/guide-to-data-science-jobs/)
 - [Top Programming Languages for a Data Scientist](https://www.simplilearn.com/top-programming-languages-for-data-scientist-guide-pdf)
 - [Which Languages Should You Learn For Data Science?](https://medium.freecodecamp.org/which-languages-should-you-learn-for-data-science-e806ba55a81f)
 
