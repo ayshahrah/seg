@@ -115,6 +115,7 @@ When Harvard Business Review titled "The Sexiest Job of the 21st Century" the te
 
 #### Others
 
+- [O’Reilly Free Data Ebooks](http://www.oreilly.com/data/free/)
 - [Executive Data Science](https://leanpub.com/eds)
 - [Simplilearn's Resources](https://www.simplilearn.com/resources/big-data-and-analytics)
 - [Data Science Tutorials](https://www.codementor.io/data-science/tutorial)
@@ -204,7 +205,6 @@ When Harvard Business Review titled "The Sexiest Job of the 21st Century" the te
 - [Big Data, Analytics, and the Cloud: Strategies for Success](https://tdwi.org/research/2016/10/ebook-big-data-analytics-and-the-cloud.aspx)
 - [Scaling Data Science for the Industrial Internet of Things](http://www.oreilly.com/iot/free/scaling-data-science-for-the-industrial-internet-of-things.csp)
 - [McKinsey Analytics](http://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights)
-- [O’Reilly Free Data Ebooks](http://www.oreilly.com/data/free/)
 - [Big Data Guides and eBooks](http://data-informed.com/big-data-guides-and-ebooks/)
 - [DevOps For Dummies](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
 - [The Ultimate DevOps Toolkit](https://www.appdynamics.com/lp/devops-toolkit/)
