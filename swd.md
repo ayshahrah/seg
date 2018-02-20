@@ -41,32 +41,32 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 ### Blogs
 
-- [Medium - Programming](https://medium.com/topic/programming)
-- [O'Reilly - Web Programming](https://www.oreilly.com/topics/web-programming)
-- [TechBeacon - App Dev](https://techbeacon.com/app-dev)
-- [Techbeacon - Mobile](https://techbeacon.com/mobile)
-- [Top 50 Software Development Blogs & Websites For Software Developers](http://blog.feedspot.com/software_development_blogs/)
-- [Top 50 Programming Blogs & Websites Every Programmer Must Follow](http://blog.feedspot.com/programming_blogs/)
-- [Best Web Development & Programming Blogs for 2017](https://www.codementor.io/codementorteam/best-programming-blogs-web-development-blogs-2017-quclkir3s)
+- [O’Reilly - Software Architecture](https://www.oreilly.com/topics/software-architecture)
+- [Martin Fowler](https://martinfowler.com/design.html)
+- [Hitchhiker's Guide to Software Architecture and Everything Else](http://stal.blogspot.com/)
+- [Coding the architecture](http://highscalability.com/)
+- [Medium - Digital Design](https://medium.com/topic/digital-design)
+- [Top 50 Web Design Blogs and Websites for Web Designers](https://blog.feedspot.com/web_design_blogs/)
+- [Top 29 UI/UX Design Blogs to Follow](https://www.figmints.com/blog/ui-ux-design-blogs/)
+- [HH Design](https://medium.com/hh-design)
+- [Toptal Design Blog](https://www.toptal.com/designers/blog)
 
 ### Market Insights
 
-- [Software Developer](https://www.linkedin.com/title/software-developer)
-- [Web Developer](https://www.linkedin.com/title/web-developer)
-- [Mobile Developer](https://www.linkedin.com/title/mobile-developer)
-- [Software Programmer](https://www.linkedin.com/title/software-programmer)
-- [Software Development](https://www.linkedin.com/topic/software-development)
-- [Programming](https://www.linkedin.com/topic/programming)
+- [Software Design](https://www.linkedin.com/topic/software-design)
+- [Software Architecture](https://www.linkedin.com/topic/software-architecture)
+- [Software Architect](https://www.linkedin.com/title/software-architect)
+- [User Interface Designer](https://www.linkedin.com/title/user-interface-designer)
+- [User Experience Designer](https://www.linkedin.com/title/user-experience-designer)
 
 ### Resources Collections
 
-- [22 Places to Learn to Code for Free in 2017](https://makeawebsitehub.com/learn-to-code-for-free/)
-- [45 of The Best Places to Learn to Code For Free](http://learntocodewith.me/posts/code-for-free/)
-- [The Top 66 Developer Resources From 2017](https://hackernoon.com/the-top-66-developer-resources-from-2017-e82531365e6d)
-- [67 useful tools, libraries and resources for saving your time as a web developer](https://hackernoon.com/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-7d3fb8667030)
-- [100+ Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-- [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/blob/master/README.md)
-- [Resources to find, interview, and hire freelance developers](https://www.toptal.com/resources)
+- [Makerbook](http://makerbook.net/)
+- [8 of the Best UI Design Websites For Inspiration in 2017](https://www.mockplus.com/blog/post/best-ui-design-websites-for-inspiration-in-2017)
+- [Awesome Web Design Resources](https://github.com/nicolesaidy/awesome-web-design)
+- [Froala Design Blocks](https://www.froala.com/design-blocks)
+- [Design Resource Sites](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+- [The Ultimate List of 50 of the Best Sketch Plugins](https://www.toptal.com/designers/sketch/50-best-sketch-plugins)
 
 ## Learning Resources
 
@@ -85,54 +85,55 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 #### Webinars
 
-- [Seven Secrets to Starting a Successful Programming Career](https://www.youtube.com/watch?v=dhb1n9zua2I)
-- [Future and Career Opportunities For A Full Stack Developer](https://www.youtube.com/watch?v=KD0M9azH6dE)
-- [Rethinking the Developer Career Path](https://www.youtube.com/watch?v=yIPbE7BssOs)
-- [How to Become a Full Stack Web Developer](https://www.youtube.com/watch?v=X-HevVfZ2dw)
-- [Web Development in 2018](https://www.youtube.com/watch?v=Zftx68K-1D4)
+- [What Makes a Good Software Architect?](https://www.sei.cmu.edu/webinars/view_webinar.cfm?webinarid=455074)
+- [Top 10 Success Secrets for Software Architects](https://www.youtube.com/watch?v=tvZ-Jyt5Em4&cm_mc_uid=60078406098014834207087&cm_mc_sid_50200000=1485168639)
+- [UI Design Tools That Every Designer Should Know About](https://www.youtube.com/watch?v=RaZ-qcfZVXQ)
+- [Why You're Over-Thinking Your UI/UX](https://www.youtube.com/watch?v=Is2O666qDPs)
 
 #### Others
 
-- Read the Chapter 3: Software Construction in [SWEBOK V3](https://www.computer.org/web/swebok/v3)
-- [Want to become a Software Developer?](https://hackernoon.com/want-to-become-a-software-developer-heres-how-to-get-there-55f393aa443c)
-- [How to Become a Web Developer](https://sf.tradepub.com/free-offer/how-to-become-a-web-developer/w_webd08)
-- [How to Become a Mobile App Developer](https://buildfire.com/become-mobile-app-developer/)
-- [Roadmap to becoming a web developer](https://github.com/kamranahmedse/developer-roadmap)
-- [A Guide to Becoming a Full-Stack Developer in 2017](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)
-- [What Code Should You Learn?](http://www.whoishostingthis.com/blog/2014/09/04/learn-to-code/)
-- [Learn to Code: What’s the Best Programming Language to Learn First?](https://makeawebsitehub.com/which-programming-language/)
-- [Best Programming Languages to Start Learning Today](https://www.simplilearn.com/best-programming-languages-start-learning-today-article)
-- [The Best Web Programming Languages to Learn](https://sf.tradepub.com/free-offer/the-best-web-programming-languages-to-learn/w_webd10)
-- [Abilities that makes you a better developer](https://hackernoon.com/abilities-that-makes-you-a-better-developer-82295c75de59)
+- Read the Chapter 2: Software Design in [SWEBOK V3](https://www.computer.org/web/swebok/v3)
+- [The Path to Becoming a Software Architect](https://medium.com/@nvashanin/the-path-to-becoming-a-software-architect-de53f1cb310a)
+- [Duties, Skills, & Knowledge of a Software Architect](https://www.sei.cmu.edu/architecture/research/previousresearch/duties.cfm)
+- [Software Architect's Career Roadmap](http://www.softwarearchitectures.com/career.html)
+- [4 essential skills software architects need to have but often don’t](https://www.oreilly.com/ideas/4-essential-skills-software-architects-need-to-have-but-often-dont)
+- [Should Designers Code?](https://medium.com/@MrAlanCooper/should-designers-code-f7b745b8cd03)
+- [How to Become a UI Designer](https://careerfoundry.com/en/blog/ui-design/how-to-become-a-ui-designer/)
+- [How To Get Started In User Interface (UI) Design](http://trydesignlab.com/blog/how-to-get-started-user-interface-ui-design/)
+- [7 steps to become a UI/UX designer](https://blog.nicolesaidy.com/7-steps-to-become-a-ui-ux-designer-8beed7639a95)
+- [How to Get Started In UX/UI Design](https://medium.theuxblog.com/how-to-get-into-ux-ui-design-6e07c876088d)
+- [The Difference Between UX and UI Design - A Layman’s Guide](https://careerfoundry.com/en/blog/ux-design/the-difference-between-ux-and-ui-design-a-laymans-guide/)
+- [5 Things You Should Know About UX Design](https://medium.theuxblog.com/5-things-you-should-know-about-ux-design-84748e26f98b)
+- [How to Change Your Career from Graphic Design to UX Design](https://www.interaction-design.org/literature/article/how-to-change-your-career-from-graphic-design-to-ux-design)
 
 ### Basic
 
 #### MOOCs
 
-- [Udacity: Imagine your future!](https://www.udacity.com/pathfinder)
-- [Computer Science - coursera](https://www.coursera.org/browse/computer-science?languages=en)
-- [Computer Science - edx](https://www.edx.org/course/subject/computer-science)
-- [Computer programming - khan academy](https://www.khanacademy.org/computing/computer-programming)
-- [Microsoft Virtual Academy](https://mva.microsoft.com/)
+- [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
+- [Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture)
+- [Secure Software Design](https://www.coursera.org/specializations/secure-software-design)
+- [The Software Architect Code: Building the Digital World](https://www.edx.org/course/software-architect-code-building-digital-uc3mx-inf-1x)
+- [Interaction Design](https://www.coursera.org/specializations/interaction-design)
+- [User Interface (UI) Personalization](https://www.edx.org/course/user-interface-ui-personalization-mitx-hdm1-2ax)
+- [User Experience (UX) Research and Design](https://www.edx.org/micromasters/michiganx-user-experience-ux-research-and-design)
+- [Fundamentals of Graphic Design](https://www.coursera.org/learn/fundamentals-of-graphic-design)
 
 #### Webinars
 
-- [How to Program](https://www.youtube.com/watch?v=KNjiKbSSlCM)
-- [Mobile Application Development - The Full Lifecycle](http://www.disys.com/webinar-mobile-application-development/)
-- [Mobile Application Development—Demystified](http://www.telerik.com/webinars/appbuilder/mobile-application-development-demystified)
-- [Programming Webinars](http://www.webagesolutions.com/webinars/categories/programming.html)
+- [Software Architecture Fundamentals: Technical, Business, and Social Influences](http://www.sei.cmu.edu/webinars/view_webinar.cfm?webinarid=21916&gaWebinar=SoftwareArchitectureFundamentals:Technical,Business,andSocialInfluences)
+- [Software Architecture versus Software design - definition and differentiation](https://www.techgig.com/webinar/Software-Architecture-versus-Software-design-definition-and-differentiation-210)
+- [Software Architecture as Code](https://blog.jetbrains.com/idea/2015/02/webinar-recording-software-architecture-as-code/)
 
 #### Others
 
-- [Beginner’s Guide to Web Development](https://www.codeschool.com/beginners-guide-to-web-development)
-- [Learn How to Develop the Next Generation of Applications for the Web](https://developers.google.com/web/)
-- [Make A Website Hub](https://makeawebsitehub.com/resources/)
-- [The Software Engineer's Online Handbook](https://www.toptal.com/handbook#online-tools)
-- [free-programming-books](https://github.com/vhf/free-programming-books)
-- [Toptal's List of Top Free Programming Books](https://www.toptal.com/software/toptal-s-list-of-top-free-programming-books)
-- [9 Free Programming Books That Will Make You A Pro](http://www.makeuseof.com/tag/9-free-programming-books-will-make-pro/)
-- [100 Best Free Programming Books](http://devzum.com/2015/02/100-best-free-programming-books/)
-- [Getting Started with Open Source development](https://bigdatauniversity.com/resources/getting-started-with-open-source-development/)
+- [Software Architecture](https://sf.tradepub.com/free-offer/software-architecture/w_free08)
+- [SourceMaking](https://sourcemaking.com/)
+- [softwarearchitectures.com](http://www.softwarearchitectures.com/index.html)
+- [InfoQ - Architecture & Design Content](https://www.infoq.com/architecture-design/)
+- [SEI - Software Architecture](http://www.sei.cmu.edu/architecture/)
+- [Microsoft Application Architecture Guide, 2nd Edition](https://msdn.microsoft.com/en-us/library/ff650706.aspx)
+- [Google Design](https://design.google/)
 
 ### Intermediate
 
@@ -141,23 +142,27 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 - [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
-- [GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
 
 #### Webinars
 
 - [Agile Development Basics](http://info.versionone.com/Agile-Development-Basics-Webinar.html)
-- [Better, Faster, and Easier: Agile Application Development for Your Business](http://www.appian.com/resources/better-faster-and-easier-agile-application-development-for-your-business/)
-- [Watch the Do Agile Right webinar – Lessons learned from an Atlassian software engineer](http://blogs.atlassian.com/2014/02/watch-agile-right-webinar-lessons-learned-atlassian-software-engineer/)
+- [Agile Development & Software Architecture - Crossing the Great Divide](http://www.sei.cmu.edu/webinars/view_webinar.cfm?webinarid=18708&gaWebinar=AgileDevelopment&SoftwareArchitecture-CrossingtheGreatDivide)
+- [Architecting in a Complex World](http://www.sei.cmu.edu/webinars/view_webinar.cfm?webinarid=48701)
+- [Web application architecture: The whole stack](https://www.youtube.com/watch?v=SgEFNRf67Cw)
 
 #### Others
 
+- [Agile Architect](http://www.agilearchitect.org/agile/index.asp)
+- [SEI Agile Architecting Library](http://www.sei.cmu.edu/architecture/research/agile-architecting/agile_architecting_library.cfm)
+- [Towards an Agile Software Architecture](https://www.infoq.com/articles/towards-agile-software-architecture)
+- [Agile Modeling (AM)](http://agilemodeling.com/)
+- [Software architecture in an agile world](http://www.codingthearchitecture.com/presentations/bouvet2011-software-architecture-in-an-agile-world)
 - [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
 - [Agile Skills Learning Circle Wiki](https://www.ibm.com/developerworks/community/wikis/home/wiki/W61b873bae705_4dcd_aa9b_fe8380d4d7fb?lang=en)
 - [Agile Alliance](https://www.agilealliance.org/)
 - [The Agile Coach](https://www.atlassian.com/agile)
 - [Getting Started or Simply Scaling Agile?](https://www.versionone.com/resources/)
 - [A Practical Guide: Product Management & Agile Development](http://web.accompa.com/white-paper-product-management-agile-development/)
-- [Agile Android Software Development](https://www.agiledroid.com/)
 - [AgileConnection.com](https://www.agileconnection.com/)
 - [Scrum Guide](http://www.scrumguides.org/)
 - [CMCrossroads.com](https://www.cmcrossroads.com/)
@@ -173,11 +178,12 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Emerging Technologies: From Smartphones to IoT to Big Data Specialization](https://www.coursera.org/specializations/emerging-technologies)
 - [Internet of Things](https://www.coursera.org/specializations/internet-of-things)
 - [The Internet of Things](https://www.futurelearn.com/courses/internet-of-things)
-- [An Introduction to Programming the Internet of Things (IOT)](https://www.coursera.org/specializations/iot)
-- [A developer's guide to the Internet of Things (IoT)](https://www.coursera.org/learn/developer-iot)
 - [Unpacking the Internet of Things (IoT)](https://www.udemy.com/unpacking-the-internet-of-things/)
 - [A Simple Framework for Designing IoT Products](https://www.udemy.com/a-simple-framework-for-designing-iot-products/)
 - [New Business Markets in the Internet of Things (IoT)](https://www.udemy.com/new-business-markets-in-iot/)
+- [Software Architecture for the Internet of Things](https://www.coursera.org/learn/iot-software-architecture)
+- [Introduction to Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-devices)
+- [Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-architecture)
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [DevOps: An IT Pro Guide](https://mva.microsoft.com/en-us/training-courses/devops-an-it-pro-guide-8286)
@@ -185,31 +191,34 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 #### Webinars
 
-- [Modern Application Development Life Cycle Management](https://www.gartner.com/webinar/2998618)
-- [Introducing the Next Generation of ALM](https://www.brighttalk.com/webcast/8653/197515)
-- [Skytap On-Demand Webinars](https://www.skytap.com/research-center/on-demand-webinars/)
+- [SEI Software Architecture](https://www.sei.cmu.edu/webinars/webinar_categories.cfm?getCat=14&gaCategory=SoftwareArchitecture)
+- [Software-Defined Architecture: Application Design for Digital Business](https://www.gartner.com/webinar/2698619)
+- [The MIT SDM Systems Thinking Webinar Series](https://sdm.mit.edu/news-and-events/webinars/)
+- [Evolutionary Software Architectures](https://www.youtube.com/watch?v=SzSZpZI02Jg)
+- [12 Core Principles of Application Architecture for Digital Business and IoT](https://www.gartner.com/webinar/3517019)
 - [GOTO Conferences](https://www.youtube.com/user/GotoConferences)
 - [VersionOne Webinars](https://www.versionone.com/resources/webinars/)
-- [Internet of Things Webinar Series](https://www.mongodb.com/lp/webinar-series/internet-of-things)
-- [Ayla Webinars](https://www.aylanetworks.com/newsroom/events)
+- [Introducing the Next Generation of ALM](https://www.brighttalk.com/webcast/8653/197515)
+- [Modern Application Development Life Cycle Management](https://www.gartner.com/webinar/2998618)
 
 #### Others
 
-- [Internet of Things: A Developer's Mandate](https://www.appdevelopersalliance.org/internet-of-things/)
-- [Industrial Internet App Development](http://go.digital.ge.com/Evans-Data-Survey-Results.html)
-- [7 Best Developer Tools to Build your Next Internet of Things Application](https://www.losant.com/blog/7-best-developer-tools-to-build-your-next-internet-of-things-application)
-- [67 open source tools and resources for IoT](https://techbeacon.com/67-open-source-tools-resources-iot)
-- [APIs for Dummies](https://www-01.ibm.com/marketing/iwm/iwm/web/signup.do?source=sw-app&S_PKG=ov29766&dynform=13182)
-- [API University](https://www.programmableweb.com/api-university)
-- [O’Reilly Free Data Ebooks](http://www.oreilly.com/data/free/)
-- [Big Data Guides and eBooks](http://data-informed.com/big-data-guides-and-ebooks/)
+- [Microservices Reference Architecture](https://www.nginx.com/resources/library/microservices-reference-architecture/)
+- [Designing and Deploying Microservices](https://www.nginx.com/resources/library/designing-deploying-microservices/)
+- [High Scalability](http://highscalability.com/)
+- [All Things Distributed](http://www.allthingsdistributed.com/)
 - [DevOps For Dummies](http://www.oreilly.com/data/free/)
 - [The Ultimate DevOps Toolkit](https://www.appdynamics.com/lp/devops-toolkit/)
 - [DevOps.com](https://devops.com/)
-- [XebiaLabs Resource Library](https://xebialabs.com/resources/)
 - [Roles and Responsibilities for DevOps and Agile Teams](https://medium.com/@cote/roles-and-responsibilities-for-devops-and-agile-teams-fdacbffb4cb4#.9de94n71e)
+- [DevOps Essentials for Software Architects](http://resources.sei.cmu.edu/library/asset-view.cfm?assetid=436383)
+- [Software Architecture in DevOps](http://swreflections.blogspot.com/2015/06/software-architecture-in-devops.html)
+- [“DevOps: A Software Architect's Perspective” Book Review and Interview](https://www.infoq.com/articles/devops-software-architect-perspective)
+- [How the DevOps revolution informs software architecture](https://www.oreilly.com/ideas/how-the-devops-revolution-informs-software-architecture)
+- [What Software Architects Need to Know About DevOps](http://www.informit.com/articles/article.aspx?p=2424801)
+- [XebiaLabs Resource Library](https://xebialabs.com/resources/)
 - [Scaled Agile Framework (SAFe®) in a nutshell](https://intland.com/blog/agile/safe/scaled-agile-framework-safe-in-a-nutshell/)
 - [Doing Scrum with Multiple Teams: Comparing Scaling Frameworks](https://www.infoq.com/articles/scrum-multiple-teams-frameworks)
-- [O’Reilly Free Programming Ebooks](http://www.oreilly.com/programming/free/)
+- [O’Reilly Software Architecture Free Ebooks](http://www.oreilly.com/programming/free/)
 - [TechBeacon](https://techbeacon.com/)
 - [TradePub.com](https://sf.tradepub.com/)
