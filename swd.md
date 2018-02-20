@@ -154,17 +154,17 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 #### Others
 
-- [Agile Architect](http://www.agilearchitect.org/agile/index.asp)
-- [SEI Agile Architecting Library](http://www.sei.cmu.edu/architecture/research/agile-architecting/agile_architecting_library.cfm)
-- [Towards an Agile Software Architecture](https://www.infoq.com/articles/towards-agile-software-architecture)
-- [Agile Modeling (AM)](http://agilemodeling.com/)
-- [Software architecture in an agile world](http://www.codingthearchitecture.com/presentations/bouvet2011-software-architecture-in-an-agile-world)
 - [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
 - [Agile Skills Learning Circle Wiki](https://www.ibm.com/developerworks/community/wikis/home/wiki/W61b873bae705_4dcd_aa9b_fe8380d4d7fb?lang=en)
 - [Agile Alliance](https://www.agilealliance.org/)
 - [The Agile Coach](https://www.atlassian.com/agile)
 - [Getting Started or Simply Scaling Agile?](https://www.versionone.com/resources/)
 - [A Practical Guide: Product Management & Agile Development](http://web.accompa.com/white-paper-product-management-agile-development/)
+- [Agile Architect](http://www.agilearchitect.org/agile/index.asp)
+- [SEI Agile Architecting Library](http://www.sei.cmu.edu/architecture/research/agile-architecting/agile_architecting_library.cfm)
+- [Towards an Agile Software Architecture](https://www.infoq.com/articles/towards-agile-software-architecture)
+- [Agile Modeling (AM)](http://agilemodeling.com/)
+- [Software architecture in an agile world](http://www.codingthearchitecture.com/presentations/bouvet2011-software-architecture-in-an-agile-world)
 - [AgileConnection.com](https://www.agileconnection.com/)
 - [Scrum Guide](http://www.scrumguides.org/)
 - [CMCrossroads.com](https://www.cmcrossroads.com/)
