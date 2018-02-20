@@ -23,6 +23,11 @@ In one sense, it should be possible to manage a software engineering project in 
 - [IT Project Manager](https://www.itcareerfinder.com/it-careers/it-project-manager-career-path.html)
 - [Software Project Manager](https://www.itcareerfinder.com/it-careers/it-project-manager-career-path.html)
 
+### How To
+
+- [How to Become a Project Manager in 6 Easy Steps](https://blog.capterra.com/how-to-become-a-project-manager/)
+- [How to Become an IT Project Manager: Step-by-Step Career Guide](https://study.com/articles/How_to_Become_an_IT_Project_Manager_Step-by-Step_Career_Guide.html)
+
 ### Professional Certifications
 
 - [Certified Associate in Project Management (CAPM)](http://www.pmi.org/certification/certified-associate-project-management-capm.aspx)
@@ -79,7 +84,6 @@ In one sense, it should be possible to manage a software engineering project in 
 #### Others
 
 - Read the Chapter 7: Software Engineering Management in [SWEBOK V3](https://www.computer.org/web/swebok/v3)
-- [How to Become a Project Manager in 6 Easy Steps](https://blog.capterra.com/how-to-become-a-project-manager/)
 
 ### Basic
 
