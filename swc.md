@@ -204,7 +204,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [67 open source tools and resources for IoT](https://techbeacon.com/67-open-source-tools-resources-iot)
 - [APIs for Dummies](https://www-01.ibm.com/marketing/iwm/iwm/web/signup.do?source=sw-app&S_PKG=ov29766&dynform=13182)
 - [API University](https://www.programmableweb.com/api-university)
-- [DevOps For Dummies](http://www.oreilly.com/data/free/)
+- [DevOps For Dummies](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
 - [The Ultimate DevOps Toolkit](https://www.appdynamics.com/lp/devops-toolkit/)
 - [DevOps.com](https://devops.com/)
 - [Roles and Responsibilities for DevOps and Agile Teams](https://medium.com/@cote/roles-and-responsibilities-for-devops-and-agile-teams-fdacbffb4cb4#.9de94n71e)
