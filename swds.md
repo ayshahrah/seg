@@ -206,7 +206,7 @@ When Harvard Business Review titled "The Sexiest Job of the 21st Century" the te
 - [McKinsey Analytics](http://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights)
 - [O’Reilly Free Data Ebooks](http://www.oreilly.com/data/free/)
 - [Big Data Guides and eBooks](http://data-informed.com/big-data-guides-and-ebooks/)
-- [DevOps For Dummies](http://www.oreilly.com/data/free/)
+- [DevOps For Dummies](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
 - [The Ultimate DevOps Toolkit](https://www.appdynamics.com/lp/devops-toolkit/)
 - [DevOps.com](https://devops.com/)
 - [TechBeacon](https://techbeacon.com/)
