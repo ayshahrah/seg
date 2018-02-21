@@ -1,3 +1,4 @@
+[Home](index.md)
 ## Welcome to Software Engineering Management
 
 Software engineering management can be defined as the application of management activities—planning, coordinating, measuring, monitoring, controlling, and reporting—to ensure that software products and software engineering services are delivered efficiently, effectively, and to the benefit of stakeholders.
