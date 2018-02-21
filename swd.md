@@ -176,7 +176,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [CMCrossroads.com](https://www.cmcrossroads.com/)
 - [ALM Body of Knowledge](http://www.almbok.com/start)
 - [Application lifecycle management tools: A buyer's guide to ALM software](http://searchsoftwarequality.techtarget.com/buyersguide/Application-lifecycle-management-tools-A-buyers-guide-to-ALM-software)
-- [Software Development Trends and Benchmarks](https://www.atlassian.com/whitepapers/software-trends-2016?_ga=1.30949695.1485245186.1483265671)
+- [Software Development Trends and Benchmarks](https://www.atlassian.com/whitepapers/software-trends-2016)
 
 ### Advanced
 
