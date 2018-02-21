@@ -238,7 +238,6 @@ A generally accepted view concerning software security is that it is much better
 - [Continuous Security monitoring for devops](https://www.upguard.com/ebooks/security-monitoring-for-devops)
 - [Security for Containers – Five Things DevOps Need to Do](http://info.aquasec.com/ebook-security-for-containers-five-things-devops-need-to-know)
 - [DevSecOps: 5 Ways DevOps and Automation Boost Security and Compliance](https://electric-cloud.com/resources/whitepapers/devsecops-5-ways-devops-automation-boost-security-compliance/)
-- [Continuous Delivery Cannot Succeed Without Business Analysts](https://www.thoughtworks.com/insights/blog/continuous-delivery-cannot-succeed-without-business-analysts)
 - [XebiaLabs Resource Library](https://xebialabs.com/resources/)
 - [Scaled Agile Framework (SAFe®) in a nutshell](https://intland.com/blog/agile/safe/scaled-agile-framework-safe-in-a-nutshell/)
 - [Doing Scrum with Multiple Teams: Comparing Scaling Frameworks](https://www.infoq.com/articles/scrum-multiple-teams-frameworks)
