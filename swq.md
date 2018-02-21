@@ -1,3 +1,4 @@
+[Home](index.md)
 ## Welcome to Software Quality
 
 Software quality may refer: to desirable characteristics of software products, to the extent to which a particular software product possess those characteristics, and to processes, tools, and techniques used to achieve those characteristics. Over the years, authors and organizations have defined the term quality differently. To Phil Crosby, it was “conformance to requirements”. Watts Humphrey refers to it as “achieving excellent levels of “fitness for use”. Meanwhile, IBM coined the phrase “market-driven quality,” where the “customer is the final arbiter”.
