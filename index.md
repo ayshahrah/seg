@@ -32,8 +32,10 @@ The SEG is developed based on the main knowledge areas of software engineering (
 
 The SEG includes nine different role-based tracks (specializations) and provides useful information and learning resources for each track. Each track is associated with a LinkedIn group to facilitate the knowledge sharing and professional networking.
 
-```![](1.png)
-[Software Requirements Engineer](swr.md)```
+```
+![](1.png)
+[Software Requirements Engineer](swr.md)
+```
 
 1.  [![](linkedin_small.png)](https://www.linkedin.com/groups/10326019)
 2. [Software Designer](swd.md) [![](linkedin_small.png)](https://www.linkedin.com/groups/10322891)
