@@ -121,7 +121,7 @@ A generally accepted view concerning software security is that it is much better
 
 - [O’Reilly - Free Security Ebooks](https://learn.techbeacon.com/tracks/application-security)
 - [TechBeacon - Application Security](https://learn.techbeacon.com/tracks/application-security)
-- [opensecuritytraining](http://opensecuritytraining.info/)
+- [Open security training](http://opensecuritytraining.info/)
 - [Web Application Security for Dummies](https://www.qualys.com/forms/ebook/web-application-security-for-dummies/)
 - [Ultimate Guide to Getting Started with Application Security](https://www.veracode.com/sites/default/files/Resources/Whitepapers/ultimate-guide-to-getting-started-with-appsec-veracode.pdf)
 - [Introduction to Secure Software Development Life Cycle](http://resources.infosecinstitute.com/intro-secure-software-development-life-cycle/#gref)
