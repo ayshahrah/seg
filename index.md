@@ -44,6 +44,11 @@ The SEG includes nine different role-based tracks (specializations) and provides
 8. [Software Project Manager](swem.md) [![](linkedin_small.png)](https://www.linkedin.com/groups/10325814)
 9. [Software Data Scientist](swds.md) [![](linkedin_small.png)](https://www.linkedin.com/groups/10324852)
 
+### Interpersonal Skills
+
+- [Soft Skills](ss.md)
+- [Entrepreneurship Skills](es.md)
+
 ### Learning Process
 
 To get a full advantage of this guide, we highly recommend you to first select a role from the specialized tracks listed above. Then, begin the following process: learning, practicing, networking, and teaching. This process is overlapped, iterative, and should be a life-long journey for developing knowledge and skills in any domain.
@@ -72,11 +77,6 @@ To get a full advantage of this guide, we highly recommend you to first select a
 It is very important for any software engineer to measure his/her progress towards his/her learning objectives and career path. From a practical perspective, this can be achieved by different means such as delivering a technical presentation, demonstrating a piece of a developed prototype or a fully functioning application, or acquiring a professional certification in his/her domain.
 
 ![alt text](Slide12.JPG "Performance Measurement") 
-
-### Additional Resources
-
-- [Soft Skills](ss.md)
-- [Entrepreneurship Skills](es.md)
 
 ### Follow Us
 
