@@ -1,4 +1,3 @@
-Follow Us [![](twitter.png)](https://twitter.com/SWE_Guide) [![](linkedin.png)](https://www.linkedin.com/groups/10323987)
 ## Welcome to Software Engineering Guide
 
 > *How can I be a professional software engineer without a formal education?* 
