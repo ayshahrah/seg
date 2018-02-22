@@ -18,3 +18,4 @@
 - [Design Thinking for Innovation](https://www.coursera.org/learn/uva-darden-design-thinking-innovation)
 - [Introduction to Design Thinking](https://www.edx.org/course/introduction-design-thinking-microsoft-dev241x-1)
 - [Design Thinking](https://www.edx.org/micromasters/design-thinking)
+- [Design Thinking: Ideation, Iteration and Communication](https://www.edx.org/course/design-thinking-ideation-iteration-ritx-think503x)
