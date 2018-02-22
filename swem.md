@@ -94,6 +94,7 @@ In one sense, it should be possible to manage a software engineering project in 
 - [IT Project Management - edx](https://www.edx.org/xseries/it-project-management)
 - [Engineering Project Management](https://www.coursera.org/specializations/engineering-project-management)
 - [Project Management of Engineering Projects: Preparing for Success](https://www.edx.org/course/project-management-engineering-projects-delftx-mep101x)
+- [Leading People and Teams](https://www.coursera.org/specializations/leading-teams)
 - [Managing Projects with Microsoft Project](https://www.edx.org/course/managing-projects-microsoft-project-microsoft-cld213x-0)
 - [Introduction to Project Management Professional (PMP) Exam](https://www.udemy.com/project-management-professional-pmp-intro/)
 
