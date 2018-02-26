@@ -26,7 +26,7 @@ The SEG is inspired by a framework that combines three essential components to d
 
 ### Knowledge Areas
 
-The SEG is mainly developed based on the main knowledge areas of software engineering (SDLC) included in the [SWEBOK V3](https://www.computer.org/web/swebok/v3). Moreover, we have tried to map those knowledge areas to the most popular software engineering related roles available in the industry.
+The SEG is mainly developed based on the main knowledge areas of software engineering (SDLC) included in the [SWEBOK V3](https://www.computer.org/web/swebok/v3). Furthermore, we have tried to map those knowledge areas to the most popular software engineering related roles available in the industry.
 
 ![](Slide8.JPG "Knowledge Areas") 
 
@@ -46,7 +46,7 @@ The SEG includes nine different role-based tracks (specializations) and provides
 
 ### Interpersonal Skills
 
-Technical skills are not enough for a professional software engineer! In today working environments, soft skills are imperative and not less important than technical skills. Moreover, developing business and establishing your own start-up need an entrepreneurship skill-set.
+Technical skills are not enough for a professional software engineer! In today working environments, soft skills are imperative and not less important than technical skills. Furthermore, developing business and establishing your own start-up need an entrepreneurship skill-set.
 
 - [Soft Skills](ss.md)
 - [Entrepreneurship Skills](es.md)
