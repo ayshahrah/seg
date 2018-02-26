@@ -50,6 +50,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 ### Blogs
 
 - [Medium - Programming](https://medium.com/topic/programming)
+- [Gitconnected](https://levelup.gitconnected.com/)
 - [O'Reilly - Web Programming](https://www.oreilly.com/topics/web-programming)
 - [TechBeacon - App Dev](https://techbeacon.com/app-dev)
 - [Techbeacon - Mobile](https://techbeacon.com/mobile)
