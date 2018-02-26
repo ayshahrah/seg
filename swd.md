@@ -75,6 +75,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 ### Resources Collections
 
 - [Makerbook](http://makerbook.net/)
+- [Open Design: Freeware tools for Designers](https://uxplanet.org/open-design-freeware-tools-for-designers-f7bdde99f2e0)
 - [8 of the Best UI Design Websites For Inspiration in 2017](https://www.mockplus.com/blog/post/best-ui-design-websites-for-inspiration-in-2017)
 - [Awesome Web Design Resources](https://github.com/nicolesaidy/awesome-web-design)
 - [Froala Design Blocks](https://www.froala.com/design-blocks)
