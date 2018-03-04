@@ -7,7 +7,8 @@
 
 - [Academic Integrity: Values, Skills, Action](https://www.futurelearn.com/courses/academic-integrity)
 - [Creativity, Innovation, and Change](https://www.coursera.org/learn/creativity-innovation)
-- [Unleash Your Potential: Innovation and Enterprise](https://www.futurelearn.com/courses/innovation-enterprise)
+- [Critical Thinking & Problem-Solving](https://www.edx.org/course/critical-thinking-problem-solving-ritx-skills103x)
+- [Teamwork & Collaboration](https://www.edx.org/course/teamwork-collaboration-ritx-skills102x-0)
 - [Achieving Personal and Professional Success](https://www.coursera.org/specializations/wharton-success)
 - [Dynamic Public Speaking](https://www.coursera.org/specializations/public-speaking)
 - [Presentation Skills: Speechwriting, Slides and Delivery](https://www.coursera.org/specializations/presentation-skills)
