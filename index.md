@@ -46,7 +46,7 @@ The SEG includes nine different role-based tracks (specializations) and provides
 
 ### Interpersonal Skills
 
-Technical skills are not enough for a professional software engineer! In today working environments, soft skills are imperative and not less important than technical skills. Furthermore, developing business and establishing your own tech start-up need additional skill-set in entrepreneurship.
+Technical skills are not enough for a professional software engineer! In today working environments, soft skills are imperative and not less important than technical skills. Furthermore, developing business and establishing a tech start-up need an additional skill-set in entrepreneurship.
 
 - [Soft Skills](ss.md)
 - [Entrepreneurship Skills](es.md)
