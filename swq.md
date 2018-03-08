@@ -79,7 +79,7 @@ These definitions also illustrate another reason for the prevalence of software 
 
 - Read the Chapter 10: Software Quality in [SWEBOK V3](https://www.computer.org/web/swebok/v3)
 
-### Basic
+### Beginner
 
 #### MOOCs
 
