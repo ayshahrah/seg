@@ -109,7 +109,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [The Best Web Programming Languages to Learn](https://sf.tradepub.com/free-offer/the-best-web-programming-languages-to-learn/w_webd10)
 - [Abilities that makes you a better developer](https://hackernoon.com/abilities-that-makes-you-a-better-developer-82295c75de59)
 
-### Basic
+### Beginner
 
 #### MOOCs
 
