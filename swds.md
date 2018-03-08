@@ -96,7 +96,7 @@ When Harvard Business Review titled "The Sexiest Job of the 21st Century" the te
 - [Top Programming Languages for a Data Scientist](https://www.simplilearn.com/top-programming-languages-for-data-scientist-guide-pdf)
 - [Which Languages Should You Learn For Data Science?](https://medium.freecodecamp.org/which-languages-should-you-learn-for-data-science-e806ba55a81f)
 
-### Basic
+### Beginner
 
 #### MOOCs
 
