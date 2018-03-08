@@ -82,7 +82,7 @@ Software maintenance is defined as the totality of activities required to provid
 
 - Read the Chapter 5: Software Maintenance in [SWEBOK V3](https://www.computer.org/web/swebok/v3)
 
-### Basic
+### Beginner
 
 #### MOOCs
 
