@@ -98,7 +98,7 @@ For many organizations, the approach to software quality is one of prevention: i
 
 - Read the Chapter 4: Software Testing in [SWEBOK V3](https://www.computer.org/web/swebok/v3)
 
-### Basic
+### Beginner
 
 #### MOOCs
 
