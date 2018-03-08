@@ -89,7 +89,7 @@ Quality.
 
 - Read the Chapter 1: Software Requirements in [SWEBOK V3](https://www.computer.org/web/swebok/v3)
 
-### Basic
+### Beginner
 
 #### MOOCs
 
