@@ -86,7 +86,7 @@ In one sense, it should be possible to manage a software engineering project in 
 
 - Read the Chapter 7: Software Engineering Management in [SWEBOK V3](https://www.computer.org/web/swebok/v3)
 
-### Basic
+### Beginner
 
 #### MOOCs
 
