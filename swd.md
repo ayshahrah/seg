@@ -112,7 +112,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [5 Things You Should Know About UX Design](https://medium.theuxblog.com/5-things-you-should-know-about-ux-design-84748e26f98b)
 - [The Difference Between UX and UI Design - A Layman’s Guide](https://careerfoundry.com/en/blog/ux-design/the-difference-between-ux-and-ui-design-a-laymans-guide/)
 
-### Basic
+### Beginner
 
 #### MOOCs
 
