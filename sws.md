@@ -96,7 +96,7 @@ A generally accepted view concerning software security is that it is much better
 
 - Read the Chapter 13: Computing Foundations - Section 17. Secure Software Development and Maintenance in [SWEBOK V3](https://www.computer.org/web/swebok/v3)
 
-### Basic
+### Beginner
 
 #### MOOCs
 
