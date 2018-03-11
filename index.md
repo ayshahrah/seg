@@ -1,6 +1,6 @@
 ## Welcome to Software Engineering Guide
 
-> *How to be a professional software engineer without a formal education!* 
+> *How to be a professional software engineer without a formal education?* 
 
 > *SEG is here to help!*
 
