@@ -106,6 +106,7 @@ A generally accepted view concerning software security is that it is much better
 - [Software Development Security](https://www.cybrary.it/skill-certification-course/software-development-security-certification-training-course)
 - [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals-kuleuvenx-websecx)
 - [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security)
+- [Hacker101](https://www.hackerone.com/hacker101)
 - [Hacking & Security](http://www.leapcourses.com/course_list.php?track_code=hs)
 - [IBM Security Learning Academy](https://www.securitylearningacademy.com/)
 
