@@ -69,8 +69,8 @@ To get a full advantage of this guide, we highly recommend you to first select a
 
 | Level        | Description           | Outcome  |
 | ------------- |:-------------| :-----|
-| **Foundation**     | Explains how to learn and provides an overall background about software engineering | Understanding of the importance of self-learning and having an idea about software engineering in general |
-| **Beginner**     | Focuses on the basic knowledge and skills of a particular specialization (learning path) |   Understanding of the fundamentals of the selected learning path |
+| **Foundation**     | Explains how to learn and provides an overall background about software engineering | Understanding the importance of self-learning and having an idea about software engineering in general |
+| **Beginner**     | Focuses on the basic knowledge and skills of a particular specialization (learning path) |   Understanding the fundamentals of the selected learning path |
 | **Intermediate** | Focuses on agile approaches and application life-cycle management (ALM) software | The ability to develop prototypes (partially functioning software) using an agile approach and ALM software |
 | **Advanced** | Focuses on next-generation technologies (e.g. internet-of-things and cloud computing) and DevOps      |    The ability to develop next-generation applications (fully functioning software) using cloud computing and DevOps approach |
 
