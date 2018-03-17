@@ -59,7 +59,6 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Hitchhiker's Guide to Software Architecture and Everything Else](http://stal.blogspot.com/)
 - [Coding the architecture](http://highscalability.com/)
 - [Medium - Digital Design](https://medium.com/topic/digital-design)
-- [UX Planet](https://uxplanet.org/)
 - [Top 50 Web Design Blogs and Websites for Web Designers](https://blog.feedspot.com/web_design_blogs/)
 - [Top 29 UI/UX Design Blogs to Follow](https://www.figmints.com/blog/ui-ux-design-blogs/)
 - [HH Design](https://medium.com/hh-design)
