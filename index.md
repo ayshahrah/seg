@@ -30,7 +30,7 @@ The SEG is mainly developed based on the main knowledge areas of software engine
 
 ![](Slide8.JPG "Knowledge Areas") 
 
-### Specialized Paths
+### Specialized Learning Paths
 
 The SEG includes nine different role-based learning paths (specializations). SEG provides guiding information and learning resources for each learning path. Each learning path is associated with a LinkedIn group to facilitate the knowledge sharing and professional networking.
 
