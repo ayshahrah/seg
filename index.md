@@ -4,7 +4,7 @@
 
 > *SEG is here to help!*
 
-**Software Engineering Guide (SEG)** is a self-learning roadmap with a curated list of high-quality and free-of-cost learning resources in software engineering domain. SEG is a role-based guide that is organized into specialized tracks (career paths). SEG covers the entire software development lifecycle (SDLC) knowledge domains that represent the most popular working roles related to software engineering. Each track has an overview section and a set of online learning resources that are organized into four levels: foundation, beginner, intermediate, and advanced. Each level has a variety of online learning resources that are categorized into three types: MOOCs, webinars, and others. These learning resources are collected from highly-respected and well-trusted sources.
+**Software Engineering Guide (SEG)** is a self-learning roadmap with a curated list of high-quality and free-of-cost learning resources in software engineering domain. SEG is a role-based guide that is organized into specialized learning paths (leading to career paths). SEG covers the entire software development lifecycle (SDLC) knowledge domains that represent the most popular working roles related to software engineering. Each learning path has an overview section and a set of online learning resources that are organized into four levels: foundation, beginner, intermediate, and advanced. Each level has a variety of online learning resources that are categorized into three types: MOOCs, webinars, and others. These learning resources are collected from highly-respected and well-trusted sources.
 
 ### Motivation
 
@@ -30,9 +30,9 @@ The SEG is mainly developed based on the main knowledge areas of software engine
 
 ![](Slide8.JPG "Knowledge Areas") 
 
-### Specialized Tracks
+### Specialized Paths
 
-The SEG includes nine different role-based tracks (specializations) and provides useful information and learning resources for each track. Each track is associated with a LinkedIn group to facilitate the knowledge sharing and professional networking.
+The SEG includes nine different role-based learning paths (specializations). SEG provides guiding information and learning resources for each learning path. Each learning path is associated with a LinkedIn group to facilitate the knowledge sharing and professional networking.
 
 1. [Software Requirements Engineer](swr.md) [![](linkedin_small.png)](https://www.linkedin.com/groups/10326019)
 2. [Software Designer](swd.md) [![](linkedin_small.png)](https://www.linkedin.com/groups/10322891)
@@ -53,7 +53,7 @@ Technical skills are not enough for a professional software engineer! In today w
 
 ### Learning Process
 
-To get a full advantage of this guide, we highly recommend you to first select a role from the specialized tracks listed above. Then, begin the following process: learning, practicing, networking, and teaching. This process is overlapped, iterative, and should be a life-long journey for developing knowledge and skills in any domain.
+To get a full advantage of this guide, we highly recommend you to first select a role from the specialized learning paths listed above. Then, begin the following process: learning, practicing, networking, and teaching. This process is overlapped, iterative, and should be a life-long journey for developing knowledge and skills in any domain.
 
 ![](Slide9.JPG "Methodology") 
 
@@ -70,7 +70,7 @@ To get a full advantage of this guide, we highly recommend you to first select a
 | Level        | Description           | Outcome  |
 | ------------- |:-------------| :-----|
 | **Foundation**     | Explains how to learn and provides an overall background about software engineering | Understanding of the importance of self-learning and having an idea about software engineering in general |
-| **Beginner**     | Focuses on the basic knowledge and skills of a particular specialization (track) |   Understanding of the fundamentals of the selected learning track |
+| **Beginner**     | Focuses on the basic knowledge and skills of a particular specialization (learning path) |   Understanding of the fundamentals of the selected learning path |
 | **Intermediate** | Focuses on agile approaches and application life-cycle management (ALM) software | The ability to develop prototypes (partially functioning software) using an agile approach and ALM software |
 | **Advanced** | Focuses on next-generation technologies (e.g. internet-of-things and cloud computing) and DevOps      |    The ability to develop next-generation applications (fully functioning software) using cloud computing and DevOps approach |
 
