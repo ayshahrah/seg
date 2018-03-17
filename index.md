@@ -26,7 +26,7 @@ The SEG is inspired by a framework that combines three essential components to d
 
 ### Knowledge Areas
 
-The SEG is mainly developed based on the main knowledge areas of software development lifecycle (SDLC) included in the Software Engineering Body of Knowledge ([SWEBOK V3](https://www.computer.org/web/swebok/v3)). Furthermore, we have tried to map these knowledge areas to the most popular software engineering related roles available in the industry.
+The SEG is mainly developed based on the main knowledge areas of software development lifecycle (SDLC) included in the Software Engineering Body of Knowledge ([SWEBOK V3](https://www.computer.org/web/swebok/v3)). Furthermore, we have tried to map these knowledge areas to the most popular software engineering related roles available today in the industry.
 
 ![](Slide8.JPG "Knowledge Areas") 
 
