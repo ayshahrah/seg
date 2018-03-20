@@ -80,15 +80,14 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 
 #### Webinars
 
-- [How to Become a Data Scientist in 2017?](https://youtu.be/ccCblUZFM0w)
-- [Career Lunch & Learn: Getting Started in Data Science](https://www.youtube.com/watch?v=mpinLxJVZpA)
+- [Build A Career In AI and Machine Learning](https://www.youtube.com/watch?v=LrGA9nAt4XA)
+- [Machine Learning vs Deep Learning vs Artificial Intelligence](https://www.youtube.com/watch?v=9dFhZFUkzuQ)
+- [The Rise of Machine Learning and Artificial Intelligence](https://www.youtube.com/watch?v=kyo5_KG5bVE)
 
 #### Others
 
-- [Data Scientist: The Numbers Game Deciphered](https://www.simplilearn.com/the-numbers-game-deciphered-guide-pdf)
-- [Data Engineering vs. Data Science Infographic](https://www.datacamp.com/community/blog/data-engineering-vs-data-science-infographic)
-- [Top Programming Languages for a Data Scientist](https://www.simplilearn.com/top-programming-languages-for-data-scientist-guide-pdf)
-- [Which Languages Should You Learn For Data Science?](https://medium.freecodecamp.org/which-languages-should-you-learn-for-data-science-e806ba55a81f)
+- [What Is Artificial Intelligence and Why Gain a Certification in This Domain](https://www.simplilearn.com/what-is-artificial-intelligence-and-why-ai-certification-article)
+- [Artificial Intelligence Career path (AI)](https://findcareerinfo.com/artificial-intelligence-career-path/)
 
 ### Beginner
 
