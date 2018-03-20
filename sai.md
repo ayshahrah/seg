@@ -27,43 +27,41 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 
 ### Professional Certifications
 
-- [The Top Data Science Certifications Employers Look For](https://www.datasciencegraduateprograms.com/certification/)
+- [Top Certification Courses on Machine Learning](https://dzone.com/articles/top-certification-courses-on-machine-learning)
+- [MCSA: Machine Learning](https://www.microsoft.com/en-us/learning/mcsa-machine-learning.aspx)
 
 ### Community of Interest
 
-- [Data Science Communities](https://www.ngdata.com/top-data-science-resources/#Communities)
+- [Google+ - Artificial Intelligence](https://plus.google.com/communities/116461000134682563789)
+- [Google+ - Machine Learning](https://plus.google.com/communities/107785538899595981479)
+- [Reddit - Artificial Intelligence](https://www.reddit.com/r/artificial/)
+- [Reddit - Machine Learning](https://www.reddit.com/r/MachineLearning/)
+- [Artificial Intelligence Stack Exchange](https://ai.stackexchange.com/)
 - LinkedIn Groups:
-  - [Software Data Scientists](https://www.linkedin.com/groups/10324852)
-  - [Data Science Central](https://www.linkedin.com/groups/35222/profile)
-  - [Data Science](https://www.linkedin.com/groups/4520344/profile)
-  - [Data Science Professional Network](https://www.linkedin.com/groups/1922105/profile)
-  - [Data Science & Machine Learning](https://www.linkedin.com/groups/4211928/profile)
-  - [Data Scientists](https://www.linkedin.com/groups/2013423/profile)
+  - [Software Artificial Intelligence Engineer](https://www.linkedin.com/groups/13587405)
+  - [Artificial Intelligence](https://www.linkedin.com/groups/3746827/profile)
 
 ### Blogs
 
-- [Medium - Data Science](https://medium.com/topic/data-science)
-- [O'Reilly - Data](https://www.oreilly.com/topics/data)
-- [Top 30 Big Data Blogs For Latest Big Data News](http://blog.feedspot.com/big_data_blogs/)
-- [Top 75 Data Science Blogs And Websites For Data Scientists](http://blog.feedspot.com/data_science_blogs/)
-- [Best Data Science Blogs](https://www.ngdata.com/top-data-science-resources/#Blogs)
-- [The 16 best data scientists to follow on Twitter](http://www.computerworlduk.com/galleries/careers/best-data-scientists-follow-on-twitter-3644862/)
+- [Medium - Artificial intelligence](https://medium.com/topic/artificial-intelligence)
+- [O'Reilly - AI](https://www.oreilly.com/topics/ai)
+- [Top 50 Artificial Intelligence Websites And Blogs for AI Enthusiast](https://blog.feedspot.com/ai_blogs/)
+- [Top 20 Machine Learning Blogs & Websites on the Web](https://blog.feedspot.com/machine_learning_blogs/)
 
 ### Market Insights
 
-- [Data Scientist](https://www.linkedin.com/title/data-scientist)
-- [Data Science](https://www.linkedin.com/topic/data-science)
-- [Data Engineer](https://www.linkedin.com/title/data-engineer)
-- [Data Analyst](https://www.linkedin.com/title/data-analyst)
-- [Data Analysis](https://www.linkedin.com/topic/data-analysis)
+- [Artificial Intelligence](https://www.linkedin.com/topic/artificial-intelligence)
+- [Machine Learning](https://www.linkedin.com/topic/machine-learning)
+- [Machine Learning Engineer](https://www.linkedin.com/title/machine-learning-engineer)
+
 
 ### Resources Collections
 
-- [24 Data Science Resources to Keep Your Finger on the Pulse](http://blog.udacity.com/2014/12/24-data-science-resources-keep-finger-pulse.html)
-- [Learn data science: 44 essential resources for developers](https://techbeacon.com/learn-data-science-44-essential-resources-developers)
-- [Top 50 Data Science Resources](https://www.ngdata.com/top-data-science-resources/)
-- [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
-- [dataviz.tools](http://dataviz.tools/)
+- [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence)
+- [AI Valley](https://ai-valley.com/)
+- [Curated List of AI and Machine Learning Resources](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
+- [The Best Machine Learning Resources](https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1)
+- [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 
 ## Learning Resources
 
