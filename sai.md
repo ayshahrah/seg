@@ -86,8 +86,8 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 
 #### Others
 
-- [What Is Artificial Intelligence and Why Gain a Certification in This Domain](https://www.simplilearn.com/what-is-artificial-intelligence-and-why-ai-certification-article)
-- [Artificial Intelligence Career path (AI)](https://findcareerinfo.com/artificial-intelligence-career-path/)
+- [What is Artificial Intelligence and Why Gain a Certification in This Domain](https://www.simplilearn.com/what-is-artificial-intelligence-and-why-ai-certification-article)
+- [Artificial Intelligence Career Path](https://findcareerinfo.com/artificial-intelligence-career-path/)
 
 ### Beginner
 
