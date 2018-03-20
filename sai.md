@@ -80,7 +80,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 
 #### Webinars
 
-- [Build A Career In AI and Machine Learning](https://www.youtube.com/watch?v=LrGA9nAt4XA)
+- [Build a Career in AI and Machine Learning](https://www.youtube.com/watch?v=LrGA9nAt4XA)
 - [Machine Learning vs Deep Learning vs Artificial Intelligence](https://www.youtube.com/watch?v=9dFhZFUkzuQ)
 - [The Rise of Machine Learning and Artificial Intelligence](https://www.youtube.com/watch?v=kyo5_KG5bVE)
 
