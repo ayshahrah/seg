@@ -94,23 +94,21 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 #### MOOCs
 
 - [Intro to Artificial Intelligence](https://sa.udacity.com/course/intro-to-artificial-intelligence--cs271)
-- [Artificial Intelligence](https://sa.udacity.com/course/artificial-intelligence--ud954)
+- [Artificial Intelligence - udacity](https://sa.udacity.com/course/artificial-intelligence--ud954)
+- [Artificial Intelligence - edx](https://www.edx.org/micromasters/columbiax-artificial-intelligence)
 - [Introduction to Artificial Intelligence (AI)](https://www.edx.org/course/introduction-artificial-intelligence-ai-microsoft-dat263x-0)
-- [Artificial Intelligence](https://www.edx.org/micromasters/columbiax-artificial-intelligence)
 - [Artificial Intelligence for Robotics](https://sa.udacity.com/course/artificial-intelligence-for-robotics--cs373)
 
 #### Webinars
 
-- [Data Science Webinars](https://www.ngdata.com/top-data-science-resources/#Webinars)
+- [AI TRENDS WEBINARS](https://aitrends.com/webinars/)
 
 #### Others
 
 - [O’Reilly Free AI Ebooks](http://www.oreilly.com/data/free/)
-- [Executive Data Science](https://leanpub.com/eds)
-- [Simplilearn's Resources](https://www.simplilearn.com/resources/big-data-and-analytics)
-- [Data Science Tutorials](https://www.codementor.io/data-science/tutorial)
-- [The Open Source Data Science Masters](http://datasciencemasters.org/)
-- [23 Free Data Science Books](http://www.wzchen.com/data-science-books/)
+- [A beginner's guide to artificial intelligence, machine learning, and cognitive computing](https://www.ibm.com/developerworks/library/cc-beginner-guide-machine-learning-ai-cognitive/index.html)
+- [Artificial Intelligence and Machine Learning in Industry](http://www.oreilly.com/data/free/ai-machine-learning-in-industry.csp?cmp=tw-data-free-article-lgen_tw_free_ebook_as)
+
 
 ### Intermediate
 
@@ -135,11 +133,11 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 - [Agile Development Basics](http://info.versionone.com/Agile-Development-Basics-Webinar.html)
 - [Better, Faster, and Easier: Agile Application Development for Your Business](http://www.appian.com/resources/better-faster-and-easier-agile-application-development-for-your-business/)
 - [Watch the Do Agile Right webinar – Lessons learned from an Atlassian software engineer](http://blogs.atlassian.com/2014/02/watch-agile-right-webinar-lessons-learned-atlassian-software-engineer/)
-- [Gartner Data & Analytics Webinars](http://www.gartner.com/technology/webinars/business-intelligence-big-data.jsp)
-- [TDWI Webinars](https://tdwi.org/webcasts/list/all-webinars.aspx)
 
 #### Others
 
+- [Machine Learning for Dummies](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=IMM14209USEN)
+- [Machine Learning Yearning](http://www.mlyearning.org/)
 - [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
 - [Agile Skills Learning Circle Wiki](https://www.ibm.com/developerworks/community/wikis/home/wiki/W61b873bae705_4dcd_aa9b_fe8380d4d7fb?lang=en)
 - [Agile Methodology](https://www.cigital.com/knowledge-database/agile-methodology/)
@@ -154,8 +152,6 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 - [ALM Body of Knowledge](http://www.almbok.com/start)
 - [Application lifecycle management tools: A buyer's guide to ALM software](http://searchsoftwarequality.techtarget.com/buyersguide/Application-lifecycle-management-tools-A-buyers-guide-to-ALM-software)
 - [Software Development Trends and Benchmarks](https://www.atlassian.com/whitepapers/software-trends-2016)
-- [The Data Analytics Handbook](https://www.teamleada.com/handbook)
-- [Data Analytics & R](https://advanceddataanalytics.net/ebooks/)
 
 ### Advanced
 
@@ -188,23 +184,11 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 
 #### Webinars
 
-- [Winning with Big Data Analytics](https://www.youtube.com/watch?v=lzv_YrEUYgw&feature=youtu.be)
-- [Emerging Trends in Big Data Software Spark, MLlib and Beyond](http://info.splicemachine.com/Mike-Franklin-Trends-Webinar.html)
-- [Data Science Central Webinars](http://www.datasciencecentral.com/video/video/listFeatured)
-- [Teradata Webinars](https://www.thinkbiganalytics.com/webinar/)
-- [SAS Webinars](http://www.sas.com/en_us/offers/14q1/big-data-matters-webinars/overview.html)
-- [Modern Application Development Life Cycle Management](https://www.gartner.com/webinar/2998618)
-- [Introducing the Next Generation of ALM](https://www.brighttalk.com/webcast/8653/197515)
+- [Deep Learning With TensorFlow](https://www.youtube.com/playlist?list=PL9ooVrP1hQOEX8BKDplfG86ky8s7Oxbzg)
 
 #### Others
 
-- [Big Data and Analytics for Dummies](https://www.cisco.com/c/m/en_us/offers/dc05/big-data-for-dummies/index.html#)
-- [Big Data Analytics eBook](http://events.pentaho.com/Big-Data-Analytics-eBook.html)
-- [Understanding Big Data](https://www-01.ibm.com/marketing/iwm/iwm/web/signup.do?source=sw-infomgt&S_PKG=500016891&S_CPM=is_bdebook1_biginsightsfp)
-- [Big Data, Analytics, and the Cloud: Strategies for Success](https://tdwi.org/research/2016/10/ebook-big-data-analytics-and-the-cloud.aspx)
-- [Scaling Data Science for the Industrial Internet of Things](http://www.oreilly.com/iot/free/scaling-data-science-for-the-industrial-internet-of-things.csp)
-- [McKinsey Analytics](http://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights)
-- [Big Data Guides and eBooks](http://data-informed.com/big-data-guides-and-ebooks/)
+- [Deep Learning - MIT Press](http://www.deeplearningbook.org/)
 - [DevOps For Dummies](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
 - [The Ultimate DevOps Toolkit](https://www.appdynamics.com/lp/devops-toolkit/)
 - [DevOps.com](https://devops.com/)
