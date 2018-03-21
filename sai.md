@@ -93,15 +93,11 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 
 #### MOOCs
 
-- [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359)
-- [Data Science Essentials](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x-4)
-- [Data Science Fundamentals](https://bigdatauniversity.com/learn/data-science/)
-- [Getting Started with Data Science](https://open.sap.com/courses/ds1)
-- [Data Science Readiness Assessment](https://www.edx.org/course/data-science-readiness-assessment-notredamex-ds101x#!)
-- [Executive Data Science](https://www.coursera.org/specializations/executive-data-science)
-- [Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills)
-- [Data Science Ethics](https://www.edx.org/course/data-science-ethics-michiganx-ds101x-1#!)
-- [Microsoft Virtual Academy](https://mva.microsoft.com/)
+- [Intro to Artificial Intelligence](https://sa.udacity.com/course/intro-to-artificial-intelligence--cs271)
+- [Artificial Intelligence](https://sa.udacity.com/course/artificial-intelligence--ud954)
+- [Introduction to Artificial Intelligence (AI)](https://www.edx.org/course/introduction-artificial-intelligence-ai-microsoft-dat263x-0)
+- [Artificial Intelligence](https://www.edx.org/micromasters/columbiax-artificial-intelligence)
+- [Artificial Intelligence for Robotics](https://sa.udacity.com/course/artificial-intelligence-for-robotics--cs373)
 
 #### Webinars
 
@@ -109,7 +105,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 
 #### Others
 
-- [O’Reilly Free Data Ebooks](http://www.oreilly.com/data/free/)
+- [O’Reilly Free AI Ebooks](http://www.oreilly.com/data/free/)
 - [Executive Data Science](https://leanpub.com/eds)
 - [Simplilearn's Resources](https://www.simplilearn.com/resources/big-data-and-analytics)
 - [Data Science Tutorials](https://www.codementor.io/data-science/tutorial)
@@ -123,15 +119,16 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 - [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
-- [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)
-- [Data Science - coursera](https://www.coursera.org/specializations/jhu-data-science)
-- [Data Science - edx](https://www.edx.org/professional-certificate/harvardx-data-science#courses)
-- [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)
-- [Data Analysis and Presentation Skills](https://www.coursera.org/specializations/pwc-analytics)
-- [Business Analytics - coursera](https://www.coursera.org/specializations/business-analytics)
-- [Business Analytics - edx](https://www.edx.org/micromasters/business-analytics)
-- [Advanced Business Analytics](https://www.coursera.org/specializations/data-analytics-business)
-- [Social Media Data Analytics](https://www.coursera.org/learn/social-media-data-analytics)
+- [Machine Learning - udacity](https://sa.udacity.com/course/machine-learning--ud262)
+- [Machine Learning - coursera specialization](https://www.coursera.org/specializations/machine-learning)
+- [Machine Learning - coursera](https://www.coursera.org/learn/machine-learning)
+- [Machine Learning - edx](https://www.edx.org/course/machine-learning-gtx-cs7641x-1)
+- [Principles of Machine Learning](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-6)
+- [Applied Machine Learning](https://www.edx.org/course/applied-machine-learning-microsoft-dat203-3x-4)
+- [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python/)
+- [Machine learning with Apache SystemML](https://cognitiveclass.ai/courses/machine-learning-apache-systemml/)
+- [Machine Learning: Unsupervised Learning](https://sa.udacity.com/course/machine-learning-unsupervised-learning--ud741)
+- [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 #### Webinars
 
@@ -165,18 +162,25 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 #### MOOCs
 
 - [Industry 4.0: How to Revolutionize your Business](https://www.edx.org/course/industry-4-0-how-revolutionize-business-hkpolyux-i4-0x)
-- [Data Science at Scale](https://www.coursera.org/specializations/data-science)
-- [Big Data: Data Visualisation](https://www.futurelearn.com/courses/big-data-visualisation)
-- [Big Data: Mathematical Modelling](https://www.futurelearn.com/courses/big-data-mathematical-modelling)
-- [Knowledge Management and Big Data in Business](https://www.edx.org/course/knowledge-management-big-data-business-hkpolyux-ise101x-2)
-- [Enabling Technologies for Data Science and Analytics: The Internet of Things](https://www.edx.org/course/enabling-technologies-data-science-columbiax-ds103x-0#!)
 - [Emerging Technologies: From Smartphones to IoT to Big Data Specialization](https://www.coursera.org/specializations/emerging-technologies)
-- [A developer's guide to Exploring and Visualizing IoT Data](https://www.coursera.org/learn/exploring-visualizing-iot-data)
-- [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining)
-- [Data Science - Udacity](https://www.udacity.com/courses/data-science)
-- [Data Science - Coursera](https://www.coursera.org/browse/data-science?languages=en)
-- [Data Analysis & Statistics Courses - edx](https://www.edx.org/course/subject/data-analysis-statistics)
-- [BigDataUniversity.com](http://bigdatauniversity.com/)
+- [Internet of Things](https://www.coursera.org/specializations/internet-of-things)
+- [The Internet of Things](https://www.futurelearn.com/courses/internet-of-things)
+- [Deep Learning - udacity](https://sa.udacity.com/course/deep-learning--ud730)
+- [Deep Learning - coursera](https://www.coursera.org/specializations/deep-learning)
+- [Deep Learning - cognitiveclass](https://cognitiveclass.ai/learn/deep-learning/)
+- [Deep Learning for Business](https://www.coursera.org/learn/deep-learning-business)
+- [Introduction to Deep Learning](http://introtodeeplearning.com/index.html)
+- [Advanced Machine Learning](https://www.coursera.org/specializations/aml)
+- [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
+- [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
+- [Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/)
+- [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+- [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
+- [Applied AI with DeepLearning, IBM Watson IoT Data Science Certificate](https://www.coursera.org/learn/ai)
+- [Speech Recognition Systems](https://www.edx.org/course/speech-recognition-and-synthesis)
+- [Natural Language Processing (NLP)](https://www.edx.org/course/natural-language-processing-nlp-microsoft-dev288x)
+- [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
+- [Deep Natural Language Processing](https://github.com/oxford-cs-deepnlp-2017/lectures/blob/master/README.md)
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [DevOps: An IT Pro Guide](https://mva.microsoft.com/en-us/training-courses/devops-an-it-pro-guide-8286)
