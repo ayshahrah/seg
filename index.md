@@ -43,6 +43,7 @@ The SEG includes nine different role-based learning paths (specializations). SEG
 7. [Software Security Engineer](sws.md) [![](linkedin_small.png)](https://www.linkedin.com/groups/10325821)
 8. [Software Project Manager](swem.md) [![](linkedin_small.png)](https://www.linkedin.com/groups/10325814)
 9. [Software Data Scientist](swds.md) [![](linkedin_small.png)](https://www.linkedin.com/groups/10324852)
+10. [Software Artificial Intelligence Engineer](sai.md) [![](linkedin_small.png)](https://www.linkedin.com/groups/13587405)
 
 ### Interpersonal Skills
 
