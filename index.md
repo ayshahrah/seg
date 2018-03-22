@@ -32,7 +32,7 @@ The SEG is mainly developed based on the main knowledge areas of software develo
 
 ### Learning Paths
 
-The SEG includes nine different role-based learning paths (specializations). SEG provides guiding information and learning resources for each learning path. Each learning path is associated with a LinkedIn group to facilitate the knowledge sharing and professional networking.
+The SEG includes ten different role-based learning paths (specializations). SEG provides guiding information and learning resources for each learning path. In addition, each learning path is associated with a LinkedIn group to facilitate the knowledge sharing and professional networking.
 
 1. [Software Requirements Engineer](swr.md) [![](linkedin_small.png)](https://www.linkedin.com/groups/10326019)
 2. [Software Designer](swd.md) [![](linkedin_small.png)](https://www.linkedin.com/groups/10322891)
