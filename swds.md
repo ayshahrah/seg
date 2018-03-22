@@ -107,6 +107,7 @@ When Harvard Business Review titled "The Sexiest Job of the 21st Century" the te
 - [Data Science Readiness Assessment](https://www.edx.org/course/data-science-readiness-assessment-notredamex-ds101x#!)
 - [Executive Data Science](https://www.coursera.org/specializations/executive-data-science)
 - [Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills)
+- [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [Data Science Ethics](https://www.edx.org/course/data-science-ethics-michiganx-ds101x-1#!)
 - [Microsoft Virtual Academy](https://mva.microsoft.com/)
 
