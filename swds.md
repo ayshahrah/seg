@@ -101,6 +101,7 @@ When Harvard Business Review titled "The Sexiest Job of the 21st Century" the te
 #### MOOCs
 
 - [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359)
+- [What is Data Science?](https://www.coursera.org/learn/what-is-datascience)
 - [Data Science Essentials](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x-4)
 - [Data Science Fundamentals](https://bigdatauniversity.com/learn/data-science/)
 - [Getting Started with Data Science](https://open.sap.com/courses/ds1)
