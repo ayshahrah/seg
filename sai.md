@@ -174,7 +174,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 - [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 - [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
 - [Applied AI with DeepLearning, IBM Watson IoT Data Science Certificate](https://www.coursera.org/learn/ai)
-- [Speech Recognition Systems](https://www.edx.org/course/speech-recognition-and-synthesis)
+- [Practical Deep Learning For Coders](http://course.fast.ai/)
 - [Natural Language Processing (NLP)](https://www.edx.org/course/natural-language-processing-nlp-microsoft-dev288x)
 - [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 - [Deep Natural Language Processing](https://github.com/oxford-cs-deepnlp-2017/lectures/blob/master/README.md)
