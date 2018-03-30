@@ -8,7 +8,7 @@
 
 ### Motivation
 
-The motivation behind building this guide is the existing gap between the knowledge and skills that are acquired from traditional education offerings and the ones that are demanded by industry--especially at the places with a low-quality education. However, nowadays, with the availability and affordability of internet connection, you can easily gain a free-of-cost access to high-quality learning resources from around the world. *Therefore, there is no excuse to say that I don't have a quality education!*
+The motivation behind building this guide is the existing gap between the knowledge and skills that are acquired from traditional education offerings and the ones that are demanded today by industry--especially at the places with a low-quality education. However, nowadays, with the availability and affordability of internet connection, you can easily gain a free-of-cost access to high-quality learning resources from around the world. *Therefore, there is no excuse to say that I don't have a quality education!*
 
 ![](Slide2.JPG "Motivation")
 
