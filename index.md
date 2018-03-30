@@ -14,7 +14,7 @@ The motivation behind building this guide is the existing gap between the knowle
 
 ### Principles
 
-To be a professional software engineer, you have to guide yourself by adopting some important guiding principles, including ambition, passion, focus, self-motivation, self-learning, and seriousness. Without such principles, it would be very difficult to be in a mastery level of software engineering.
+To be a professional software engineer, you have to guide yourself by adopting some important principles, including ambition, passion, focus, self-motivation, self-learning, and seriousness. Without such principles, it would be very difficult to be in a mastery level of software engineering.
 
 ![](Slide5.JPG "Principles") 
 
