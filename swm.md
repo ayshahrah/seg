@@ -87,6 +87,7 @@ Software maintenance is defined as the totality of activities required to provid
 #### MOOCs
 
 - [Google IT Support](https://www.coursera.org/specializations/google-it-support)
+- [Microsoft Professional Program - IT Support](https://academy.microsoft.com/en-us/professional-program/tracks/it-support/)
 - [Computer Security and Systems Management](https://www.coursera.org/specializations/computer-security-systems-management)
 - [Introduction to Data Storage and Management Technologies](https://www.edx.org/course/introduction-data-storage-management-ieeex-storage101x-0)
 - [Systems Administration Courses](https://www.cybrary.it/systems-administration/)
@@ -154,11 +155,12 @@ Software maintenance is defined as the totality of activities required to provid
 - [New Business Markets in the Internet of Things (IoT)](https://www.udemy.com/new-business-markets-in-iot/)
 - [Cloud Computing - coursera](https://www.coursera.org/specializations/cloud-computing)
 - [Cloud Computing - edx](https://www.edx.org/micromasters/cloud-computing)
+- [Microsoft Professional Program - Cloud Administration](https://academy.microsoft.com/en-us/professional-program/tracks/cloud-administration/)
 - [Introduction to Cloud Infrastructure Technologies](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x#!)
 - [Introduction to Cloud Computing](https://www.edx.org/course/introduction-cloud-computing-ieeex-cloudintro-x-2)
 - [Fundamentals of Containers, Kubernetes, and Red Hat OpenShift](https://www.edx.org/course/fundamentals-containers-kubernetes-red-hat-do081x)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
-- [DevOps: An IT Pro Guide](https://mva.microsoft.com/en-us/training-courses/devops-an-it-pro-guide-8286)
+- [Microsoft Professional Program - DevOps](https://academy.microsoft.com/en-us/professional-program/tracks/devops/)
 - **[Entrepreneurship Skills](es.md)**
 
 #### Webinars
