@@ -24,7 +24,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ### How To
 
-- [Learn to code in 2018](https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a)
 - [Want to become a Software Developer?](https://hackernoon.com/want-to-become-a-software-developer-heres-how-to-get-there-55f393aa443c)
 - [How to Become a Web Developer](https://sf.tradepub.com/free-offer/how-to-become-a-web-developer/w_webd08)
 - [How to Become a Mobile App Developer](https://buildfire.com/become-mobile-app-developer/)
@@ -103,6 +102,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 #### Others
 
 - Read the Chapter 3: Software Construction in [SWEBOK V3](https://www.computer.org/web/swebok/v3)
+- [Learn to code in 2018](https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a)
 - [What Code Should You Learn?](http://www.whoishostingthis.com/blog/2014/09/04/learn-to-code/)
 - [Learn to Code: What’s the Best Programming Language to Learn First?](https://makeawebsitehub.com/which-programming-language/)
 - [Best Programming Languages to Start Learning Today](https://www.simplilearn.com/best-programming-languages-start-learning-today-article)
