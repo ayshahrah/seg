@@ -95,6 +95,7 @@ Software maintenance is defined as the totality of activities required to provid
 - [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
 - [Fundamentals of Red Hat Enterprise Linux](https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x)
 - [Windows Server Courses](https://www.edx.org/school/microsoft)
+- [Microsoft Virtual Academy](https://mva.microsoft.com/)
 
 #### Webinars
 
