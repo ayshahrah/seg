@@ -116,6 +116,8 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Computer Science - coursera](https://www.coursera.org/browse/computer-science?languages=en)
 - [Computer Science - edx](https://www.edx.org/course/subject/computer-science)
 - [Computer programming - khan academy](https://www.khanacademy.org/computing/computer-programming)
+- [Microsoft Professional Program - Entry Level Software Development](https://academy.microsoft.com/en-us/professional-program/tracks/entry-level-software-development/)
+- [Microsoft Professional Program - Front-End Web Development](https://academy.microsoft.com/en-us/professional-program/tracks/front-end-development/)
 - [Microsoft Virtual Academy](https://mva.microsoft.com/)
 
 #### Webinars
@@ -189,7 +191,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [New Business Markets in the Internet of Things (IoT)](https://www.udemy.com/new-business-markets-in-iot/)
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
-- [DevOps: An IT Pro Guide](https://mva.microsoft.com/en-us/training-courses/devops-an-it-pro-guide-8286)
+- [Microsoft Professional Program - DevOps](https://academy.microsoft.com/en-us/professional-program/tracks/devops/)
 - **[Entrepreneurship Skills](es.md)**
 
 #### Webinars
