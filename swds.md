@@ -112,6 +112,7 @@ When Harvard Business Review titled "The Sexiest Job of the 21st Century" the te
 - [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [Data Science Ethics](https://www.edx.org/course/data-science-ethics-michiganx-ds101x-1#!)
 - [Microsoft Professional Program - Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
+- [Microsoft Virtual Academy](https://mva.microsoft.com/)
 
 #### Webinars
 
