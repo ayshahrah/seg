@@ -111,6 +111,7 @@ When Harvard Business Review titled "The Sexiest Job of the 21st Century" the te
 - [Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills)
 - [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [Data Science Ethics](https://www.edx.org/course/data-science-ethics-michiganx-ds101x-1#!)
+- [Microsoft Professional Program - Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
 - [Microsoft Virtual Academy](https://mva.microsoft.com/)
 
 #### Webinars
@@ -178,6 +179,7 @@ When Harvard Business Review titled "The Sexiest Job of the 21st Century" the te
 - [Data Science at Scale](https://www.coursera.org/specializations/data-science)
 - [Big Data: Data Visualisation](https://www.futurelearn.com/courses/big-data-visualisation)
 - [Big Data: Mathematical Modelling](https://www.futurelearn.com/courses/big-data-mathematical-modelling)
+- [Microsoft Professional Program - Big Data](https://academy.microsoft.com/en-us/professional-program/tracks/big-data/)
 - [Knowledge Management and Big Data in Business](https://www.edx.org/course/knowledge-management-big-data-business-hkpolyux-ise101x-2)
 - [Enabling Technologies for Data Science and Analytics: The Internet of Things](https://www.edx.org/course/enabling-technologies-data-science-columbiax-ds103x-0#!)
 - [Emerging Technologies: From Smartphones to IoT to Big Data Specialization](https://www.coursera.org/specializations/emerging-technologies)
@@ -189,7 +191,7 @@ When Harvard Business Review titled "The Sexiest Job of the 21st Century" the te
 - [BigDataUniversity.com](http://bigdatauniversity.com/)
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
-- [DevOps: An IT Pro Guide](https://mva.microsoft.com/en-us/training-courses/devops-an-it-pro-guide-8286)
+- [Microsoft Professional Program - DevOps](https://academy.microsoft.com/en-us/professional-program/tracks/devops/)
 - **[Entrepreneurship Skills](es.md)**
 
 #### Webinars
