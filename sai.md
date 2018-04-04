@@ -98,6 +98,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 - [Artificial Intelligence - udacity](https://sa.udacity.com/course/artificial-intelligence--ud954)
 - [Artificial Intelligence - edx](https://www.edx.org/micromasters/columbiax-artificial-intelligence)
 - [Introduction to Artificial Intelligence (AI)](https://www.edx.org/course/introduction-artificial-intelligence-ai-microsoft-dat263x-0)
+- [Microsoft Professional Program - Artificial Intelligence](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
 - [Artificial Intelligence for Robotics](https://sa.udacity.com/course/artificial-intelligence-for-robotics--cs373)
 
 #### Webinars
@@ -176,7 +177,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 - [Practical Deep Learning For Coders](http://course.fast.ai/)
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
-- [DevOps: An IT Pro Guide](https://mva.microsoft.com/en-us/training-courses/devops-an-it-pro-guide-8286)
+- [Microsoft Professional Program - DevOps](https://academy.microsoft.com/en-us/professional-program/tracks/devops/)
 - **[Entrepreneurship Skills](es.md)**
 
 #### Webinars
