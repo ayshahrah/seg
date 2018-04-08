@@ -101,6 +101,8 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 - [Microsoft Professional Program - Artificial Intelligence](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
 - [Microsoft AI School](https://aischool.microsoft.com/learning-paths)
 - [Artificial Intelligence for Robotics](https://sa.udacity.com/course/artificial-intelligence-for-robotics--cs373)
+- [Robotics](https://www.coursera.org/specializations/robotics)
+
 
 #### Webinars
 
