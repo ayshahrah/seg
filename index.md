@@ -58,7 +58,7 @@ To get a full advantage of this guide, it is highly recommended to first select 
 
 ![](Slide9.JPG "Methodology") 
 
-- **Learning**: a self-learning process to increase the learner's knowledge based on available online resources. The learner can leverage the collected resources available in this guide for each specialized role. These collections contain up-to-date, high-quality, and free-of-cost online learning resources. In addition, they will be kept updated with latest relevant content.
+- **Learning**: a self-learning process to increase the learner's knowledge based on available online resources. The learner can leverage the collected resources available in this guide for each specialized role. These collections contain up-to-date, high-quality, and free-of-cost online learning resources.
 
 - **Practicing**: using software tools and technologies to improve the learner's skills. The learner can utilize open source software tools and also can gain a trial/free access to some commercial software tools to apply the acquired knowledge.
 
