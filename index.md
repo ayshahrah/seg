@@ -54,7 +54,7 @@ Technical skills are not enough for a professional software engineer! In today w
 
 ### Learning Process
 
-To get a full advantage of this guide, we highly recommend you to first select a role from the specialized learning paths listed above. Then, begin the following process: learning, practicing, networking, and teaching. This process is overlapped, iterative, and should be a life-long journey for developing knowledge and skills in any domain.
+To get a full advantage of this guide, we highly recommend you to first select a role from the specialized learning paths listed above. Then, begin the following process: learning, practicing, networking, and teaching. This process is overlapped, iterative, and should be a life-long journey to have effective knowledge and skills.
 
 ![](Slide9.JPG "Methodology") 
 
