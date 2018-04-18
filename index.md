@@ -60,24 +60,24 @@ To get a full advantage of this guide, it is highly recommended to first select 
 
 - **Learning**: a self-learning process to increase the learner's knowledge based on available online resources. The learner can leverage the collected resources available in this guide for each specialized role. These collections contain up-to-date, high-quality, and free-of-cost online learning resources.
 
-- **Practicing**: using software tools and technologies to improve the learner's skills. The learner can utilize open source software tools and also can gain a trial/free access to some commercial software tools to apply the acquired knowledge.
+- **Practicing**: using software tools and technologies to improve the learner's skills. The learner can utilize open source and free software tools, and also can gain a trial access to some commercial software tools to apply the acquired knowledge.
 
 - **Networking**: joining and connecting with professional specialized online communities. This allows the learner to keep updated with latest trends and technologies in the specialized knowledge areas. Moreover, the learner can ask and communicate with specialized experts in case of doubt or ambiguity.
 
-- **Teaching**: to help in getting serious, sharing knowledge, and improving soft skills. Through this process, the learner can practice and gain non-technical (soft) skills like confidence, communication, presentation, speaking, etc.
+- **Teaching**: helps in getting serious, sharing knowledge, and improving soft skills. Through this process, the learner can interact with others and gain non-technical (soft) skills like confidence, communication, presentation, speaking, etc.
 
 ### Learning Outcomes
 
 | Level        | Description           | Outcome  |
 | ------------- |:-------------| :-----|
-| **Foundation**     | Explains how to learn and provides an overall background about software engineering | Understanding the importance of self-learning and having an idea about software engineering in general |
+| **Foundation**     | Explains how to learn and provides an overall background in software engineering | Understanding the importance of self-learning and having an idea about software engineering in general |
 | **Beginner**     | Focuses on the basic knowledge and skills of a particular specialization (learning path) |   Understanding the fundamentals of the selected learning path |
 | **Intermediate** | Focuses on agile approaches and application life-cycle management (ALM) software | The ability to develop prototypes (partially functioning software) using an agile approach and ALM software |
 | **Advanced** | Focuses on next-generation technologies (e.g. internet-of-things and cloud computing) and DevOps      |    The ability to develop next-generation applications (fully functioning software) using cloud computing and DevOps approach |
 
 ### Performance Measurement
 
-It is very important for any software engineer to measure his/her progress towards his/her learning objectives and career path. From a practical perspective, this can be achieved by different means (achievment-based), such as delivering a technical presentation, demonstrating a piece of a developed prototype or a fully functioning application, or acquiring a professional certification in a particular domain.
+It is very important for any software engineer to measure the learning progress towards the learning objectives and future career path. From a practical perspective, this can be achieved by different means (achievment-based), such as delivering a technical presentation, demonstrating a piece of a developed prototype or a fully functioning application, or acquiring a professional certification in a particular domain.
 
 ![alt text](Slide12.JPG "Performance Measurement") 
 
