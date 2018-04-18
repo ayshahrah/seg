@@ -54,7 +54,7 @@ Technical skills are not enough for a professional software engineer! In today w
 
 ### Learning Process
 
-To get a full advantage of this guide, it is highly recommended to first select a role from the specialized learning paths listed above. Then, begin the following process: learning, practicing, networking, and teaching. This process is overlapped, iterative, and should be a life-long journey to have effective knowledge and skills.
+To get a full advantage of this guide, it is highly recommended to first select a role from the specialized learning paths listed above. Then, begin the following process: learning, practicing, networking, and teaching. This process is overlapped, iterative, and should be a life-long journey.
 
 ![](Slide9.JPG "Methodology") 
 
@@ -62,9 +62,9 @@ To get a full advantage of this guide, it is highly recommended to first select 
 
 - **Practicing**: using software tools and technologies to improve the learner's skills. The learner can utilize open source software tools and also can gain a trial/free access to some commercial software tools to apply the acquired knowledge.
 
-- **Networking**: joining and connecting with professional specialized online communities. This allows the learner to keep updated with latest trends and technologies in his/her specialized knowledge areas. Moreover, the learner can ask and communicate with experts in case he/she has an inquiry or encounters any difficulty.
+- **Networking**: joining and connecting with professional specialized online communities. This allows the learner to keep updated with latest trends and technologies in the specialized knowledge areas. Moreover, the learner can ask and communicate with specialized experts in case of doubt or ambiguity.
 
-- **Teaching**: to help in getting serious, sharing knowledge, and improving soft skills. Once the learner knows that he/she has to teach others about what he/she has learned, this definitely makes him/her more serious in his/her learning process. Additionally, through this process, the learner can practice and gain non-technical (soft) skills like confidence, communication, presentation, speaking, etc.
+- **Teaching**: to help in getting serious, sharing knowledge, and improving soft skills. Through this process, the learner can practice and gain non-technical (soft) skills like confidence, communication, presentation, speaking, etc.
 
 ### Learning Outcomes
 
