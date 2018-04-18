@@ -26,7 +26,7 @@ The SEG is inspired by a framework that combines three essential components to d
 
 ### Knowledge Areas
 
-The SEG is mainly developed based on the main knowledge areas of software development lifecycle (SDLC) included in the Software Engineering Body of Knowledge ([SWEBOK V3](https://www.computer.org/web/swebok/v3)). Furthermore, we have tried to map these knowledge areas to the most popular software engineering related roles available today in the industry.
+The SEG is mainly developed based on the main knowledge areas of software development lifecycle (SDLC) included in the Software Engineering Body of Knowledge ([SWEBOK V3](https://www.computer.org/web/swebok/v3)). Furthermore, these knowledge areas are mapped to the most popular software engineering related roles available today in the industry.
 
 ![](Slide8.JPG "Knowledge Areas") 
 
@@ -54,11 +54,11 @@ Technical skills are not enough for a professional software engineer! In today w
 
 ### Learning Process
 
-To get a full advantage of this guide, we highly recommend you to first select a role from the specialized learning paths listed above. Then, begin the following process: learning, practicing, networking, and teaching. This process is overlapped, iterative, and should be a life-long journey to have effective knowledge and skills.
+To get a full advantage of this guide, it is highly recommended to first select a role from the specialized learning paths listed above. Then, begin the following process: learning, practicing, networking, and teaching. This process is overlapped, iterative, and should be a life-long journey to have effective knowledge and skills.
 
 ![](Slide9.JPG "Methodology") 
 
-- **Learning**: a self-learning process to increase the learner's knowledge based on available online resources. The learner can leverage the collected resources available in this guide for each specialized role. These collections contain up-to-date, high-quality, and free-of-cost online learning resources. In addition, we will keep updating these collections with latest relevant content.
+- **Learning**: a self-learning process to increase the learner's knowledge based on available online resources. The learner can leverage the collected resources available in this guide for each specialized role. These collections contain up-to-date, high-quality, and free-of-cost online learning resources. In addition, they will be kept updated with latest relevant content.
 
 - **Practicing**: using software tools and technologies to improve the learner's skills. The learner can utilize open source software tools and also can gain a trial/free access to some commercial software tools to apply the acquired knowledge.
 
