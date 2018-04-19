@@ -138,6 +138,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [O’Reilly Expertise in UX design](http://www.oreilly.com/design/free/)
 - [Software Architecture](https://sf.tradepub.com/free-offer/software-architecture/w_free08)
 - [SourceMaking](https://sourcemaking.com/)
+- [microservices.io](http://microservices.io)
 - [softwarearchitectures.com](http://www.softwarearchitectures.com/index.html)
 - [InfoQ - Architecture & Design Content](https://www.infoq.com/architecture-design/)
 - [SEI - Software Architecture](http://www.sei.cmu.edu/architecture/)
