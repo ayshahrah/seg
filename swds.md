@@ -95,6 +95,7 @@ When Harvard Business Review titled "The Sexiest Job of the 21st Century" the te
 - [Data Engineering vs. Data Science Infographic](https://www.datacamp.com/community/blog/data-engineering-vs-data-science-infographic)
 - [Top Programming Languages for a Data Scientist](https://www.simplilearn.com/top-programming-languages-for-data-scientist-guide-pdf)
 - [Which Languages Should You Learn For Data Science?](https://medium.freecodecamp.org/which-languages-should-you-learn-for-data-science-e806ba55a81f)
+- [Quick Intro to Statistics — Power Your Stories with Data](https://hackernoon.com/quick-intro-to-statistics-power-your-stories-with-data-a3a35785692b)
 
 ### Beginner
 
