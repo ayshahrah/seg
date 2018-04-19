@@ -34,16 +34,16 @@ The SEG is mainly developed based on the main knowledge areas of software develo
 
 The SEG includes ten different role-based learning paths (specializations). SEG provides guiding information and learning resources for each learning path. In addition, each learning path is associated with a LinkedIn group to facilitate the knowledge sharing and professional networking.
 
-1. [Software Requirements Engineer](swr.md) - [![](linkedin_small.png)](https://www.linkedin.com/groups/10326019)
-2. [Software Designer](swd.md) - [![](linkedin_small.png)](https://www.linkedin.com/groups/10322891)
-3. [Software Programmer](swc.md) - [![](linkedin_small.png)](https://www.linkedin.com/groups/10324839)
-4. [Software Tester](swt.md) - [![](linkedin_small.png)](https://www.linkedin.com/groups/10324870)
-5. [Software Administrator](swm.md) - [![](linkedin_small.png)](https://www.linkedin.com/groups/10322892)
-6. [Software Quality Engineer](swq.md) - [![](linkedin_small.png)](https://www.linkedin.com/groups/10332028)
-7. [Software Security Engineer](sws.md) - [![](linkedin_small.png)](https://www.linkedin.com/groups/10325821)
-8. [Software Project Manager](swem.md) - [![](linkedin_small.png)](https://www.linkedin.com/groups/10325814)
-9. [Software Data Scientist](swds.md) - [![](linkedin_small.png)](https://www.linkedin.com/groups/10324852)
-10. [Software Artificial Intelligence Engineer](sai.md) - [![](linkedin_small.png)](https://www.linkedin.com/groups/13587405)
+1. [Software Requirements Engineer](swr.md) -- [![](linkedin_small.png)](https://www.linkedin.com/groups/10326019)
+2. [Software Designer](swd.md) -- [![](linkedin_small.png)](https://www.linkedin.com/groups/10322891)
+3. [Software Programmer](swc.md) -- [![](linkedin_small.png)](https://www.linkedin.com/groups/10324839)
+4. [Software Tester](swt.md) -- [![](linkedin_small.png)](https://www.linkedin.com/groups/10324870)
+5. [Software Administrator](swm.md) -- [![](linkedin_small.png)](https://www.linkedin.com/groups/10322892)
+6. [Software Quality Engineer](swq.md) -- [![](linkedin_small.png)](https://www.linkedin.com/groups/10332028)
+7. [Software Security Engineer](sws.md) -- [![](linkedin_small.png)](https://www.linkedin.com/groups/10325821)
+8. [Software Project Manager](swem.md) -- [![](linkedin_small.png)](https://www.linkedin.com/groups/10325814)
+9. [Software Data Scientist](swds.md) -- [![](linkedin_small.png)](https://www.linkedin.com/groups/10324852)
+10. [Software Artificial Intelligence Engineer](sai.md) -- [![](linkedin_small.png)](https://www.linkedin.com/groups/13587405)
 
 ### Interpersonal Skills
 
