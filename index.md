@@ -32,7 +32,7 @@ The SEG is mainly developed based on the main knowledge areas of software develo
 
 ### Learning Paths
 
-The SEG includes ten different role-based learning paths (specializations). SEG provides guiding information and learning resources for each learning path. In addition, each learning path is associated with a LinkedIn group to facilitate the knowledge sharing and professional networking.
+The SEG currently includes ten different role-based learning paths (specializations). SEG provides guiding information and learning resources for each learning path. In addition, each learning path is associated with a LinkedIn group to facilitate knowledge sharing and professional networking.
 
 1. [Software Requirements Engineer](swr.md) -- [![](linkedin_small.png)](https://www.linkedin.com/groups/10326019)
 2. [Software Designer](swd.md) -- [![](linkedin_small.png)](https://www.linkedin.com/groups/10322891)
@@ -47,14 +47,14 @@ The SEG includes ten different role-based learning paths (specializations). SEG 
 
 ### Interpersonal Skills
 
-Technical skills are not enough for a professional software engineer! In today working environments, soft skills are imperative and not less important than technical skills. Furthermore, developing business and establishing a tech start-up need an additional skill-set in entrepreneurship.
+Technical skills are not enough for a professional software engineer! In today's competitive working environments, soft skills are imperative and not less important than technical skills. Furthermore, developing a new business or establishing a tech start-up needs an additional type of a skill-set in entrepreneurship.
 
 - [Soft Skills](ss.md)
 - [Entrepreneurship Skills](es.md)
 
 ### Learning Process
 
-To get a full advantage of this guide, it is highly recommended to first select a role from the specialized learning paths listed above. Then, begin the following process: learning, practicing, networking, and teaching. This process is overlapped, iterative, and should be a life-long journey.
+To get a full advantage of this guide, it is highly recommended to first select a role from the specialized learning paths listed above. Then, begin the following self-development process: learning, practicing, networking, and teaching. These steps are overlapped, iterative, and should be a life-long journey.
 
 ![](Slide9.JPG "Methodology") 
 
@@ -62,7 +62,7 @@ To get a full advantage of this guide, it is highly recommended to first select 
 
 - **Practicing**: using software tools and technologies to improve the learner's skills. The learner can utilize open source and free software tools, and also can gain a trial access to some commercial software tools to apply the acquired knowledge.
 
-- **Networking**: joining and connecting with professional specialized online communities. This allows the learner to keep updated with latest trends and technologies in the specialized knowledge areas. Moreover, the learner can ask and communicate with specialized experts in case of doubt or ambiguity.
+- **Networking**: joining and connecting with professional specialized online communities. This allows the learner to keep updated with latest trends and technologies in a selected learning path. Moreover, the learner can ask and communicate with specialized experts in case of any doubt or ambiguity.
 
 - **Teaching**: helps in getting serious, sharing knowledge, and improving soft skills. Through this process, the learner can interact with others and gain non-technical (soft) skills like confidence, communication, presentation, speaking, etc.
 
@@ -71,13 +71,13 @@ To get a full advantage of this guide, it is highly recommended to first select 
 | Level        | Description           | Outcome  |
 | ------------- |:-------------| :-----|
 | **Foundation**     | Explains how to learn and provides an overall background in software engineering | Understanding the importance of self-learning and having an idea about software engineering in general |
-| **Beginner**     | Focuses on the basic knowledge and skills of a particular specialization (learning path) |   Understanding the fundamentals of a selected learning path |
-| **Intermediate** | Focuses on agile approaches and application life-cycle management (ALM) software | The ability to develop prototypes (partially functioning software) using an agile approach and ALM software |
-| **Advanced** | Focuses on next-generation technologies (e.g. internet-of-things and cloud computing) and DevOps      |    The ability to develop next-generation applications (fully functioning software) using cloud computing and DevOps approach |
+| **Beginner**     | Focuses on basic knowledge and skills of a particular learning path | Understanding the fundamentals of a selected learning path |
+| **Intermediate** | Focuses on agile approaches and application life-cycle management software (ALM) | The ability to develop prototypes (partially functioning software) using an agile approach and ALM software |
+| **Advanced** | Focuses on next-generation technologies (e.g. internet-of-things and cloud computing) and approches (DevOps)      |    The ability to develop next-generation applications (fully functioning software) using cloud computing and DevOps approach |
 
 ### Performance Measurement
 
-It is very important for any software engineer to measure the learning progress towards the learning objectives and future career path. From a practical perspective, this can be achieved by different means (achievment-based), such as delivering a technical presentation, demonstrating a piece of a developed prototype or a fully functioning application, or acquiring a professional certification in a particular domain.
+It is very important for any software engineer to measure his learning progress towards learning objectives and future career path. From a practical perspective, this can be achieved by different means (achievment-based), such as delivering a technical presentation, demonstrating a piece of a developed prototype or a fully functioning application, or acquiring a professional certification in a particular domain.
 
 ![alt text](Slide12.JPG "Performance Measurement") 
 
