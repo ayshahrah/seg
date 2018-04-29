@@ -110,6 +110,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 - Read the Chapter 2: Software Design in [SWEBOK V3](https://www.computer.org/web/swebok/v3)
 - [Should Designers Code?](https://medium.com/@MrAlanCooper/should-designers-code-f7b745b8cd03)
+- [7 Rules for Creating Gorgeous UI](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
 - [5 Things You Should Know About UX Design](https://medium.theuxblog.com/5-things-you-should-know-about-ux-design-84748e26f98b)
 - [The Difference Between UX and UI Design - A Layman’s Guide](https://careerfoundry.com/en/blog/ux-design/the-difference-between-ux-and-ui-design-a-laymans-guide/)
 
