@@ -21,6 +21,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 
 - [How to Become an Artificial Intelligence Engineer](http://blog.liveedu.tv/become-artificial-intelligence-engineer/)
 - [A Roadmap to Becoming an AI Engineer](https://www.paysa.com/blog/2017/05/17/a-roadmap-to-becoming-an-ai-engineer/)
+- [The Blueprint for Developers to Get Started with Machine Learning](https://thenewstack.io/blueprint-developers-get-started-machine-learning/)
 - [Becoming a machine learning engineer](https://www.oreilly.com/ideas/becoming-a-machine-learning-engineer)
 - [How To Become A Machine Learning Engineer: Learning Path](https://medium.com/machine-learning-world/learning-path-for-machine-learning-engineer-a7d5dc9de4a4)
 - [How to learn Deep Learning in 6 months](https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48)
