@@ -107,7 +107,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 
 #### Webinars
 
-- [AI TRENDS WEBINARS](https://aitrends.com/webinars/)
+- [AI Trends Webinars](https://aitrends.com/webinars/)
 
 #### Others
 
