@@ -191,7 +191,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 #### Others
 
 - [Deep Learning - MIT Press](http://www.deeplearningbook.org/)
-- [fast.ai](http://www.fast.ai/)
+- [Fast.ai](http://www.fast.ai/)
 - [DevOps For Dummies](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
 - [The Ultimate DevOps Toolkit](https://www.appdynamics.com/lp/devops-toolkit/)
 - [DevOps.com](https://devops.com/)
