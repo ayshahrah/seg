@@ -6,6 +6,7 @@
 ### MOOCs
 
 - [Creativity, Innovation, and Change](https://www.coursera.org/learn/creativity-innovation)
+- [Creative Thinking: Techniques and Tools for Success](https://www.edx.org/course/creative-thinking-techniques-0)
 - [Critical Thinking & Problem-Solving](https://www.edx.org/course/critical-thinking-problem-solving-ritx-skills103x)
 - [Teamwork & Collaboration](https://www.edx.org/course/teamwork-collaboration-ritx-skills102x-0)
 - [Achieving Personal and Professional Success](https://www.coursera.org/specializations/wharton-success)
