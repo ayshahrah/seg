@@ -79,7 +79,7 @@ To get a full advantage of this guide, it is highly recommended to first select 
 
 ### Performance Measurement
 
-It is very important for any professional in software engineering to measure his learning progress towards learning objectives and future career path. From a practical perspective, this can be achieved by different means (achievment-based), such as delivering a technical presentation, demonstrating a piece of a developed prototype or a fully functioning application, or acquiring a professional certification in a particular domain.
+It is very important for any professional in software engineering to measure his/her learning progress towards learning objectives and future career path. From a practical perspective, this can be achieved by different means (achievment-based), such as delivering a technical presentation, demonstrating a piece of a developed prototype or a fully functioning application, or acquiring a professional certification in a particular domain.
 
 ![alt text](Slide12.JPG "Performance Measurement") 
 
