@@ -164,6 +164,7 @@ A generally accepted view concerning software security is that it is much better
 - [Better, Faster, and Easier: Agile Application Development for Your Business](http://www.appian.com/resources/better-faster-and-easier-agile-application-development-for-your-business/)
 - [Watch the Do Agile Right webinar](http://blogs.atlassian.com/2014/02/watch-agile-right-webinar-lessons-learned-atlassian-software-engineer/)
 - [Achieving Agile Web Security](http://www.trustedknight.com/resources/webinar-achieving-agile-web-security/)
+- [Moving Fast and Securing Things](https://www.youtube.com/watch?v=feRypwVqcuQ)
 
 #### Others
 
