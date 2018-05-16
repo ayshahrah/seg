@@ -10,19 +10,19 @@ The motivation behind building this guide is the existing gap between the knowle
 
 ### Relationship
 
-Software engineering is a broad field that encompasses so many different sub-specializations that inter-relate to many other foundational computing fields, such as computer science, data science, math, and others. Therefore, to be a professional software engineer, you need to have a foundational background on software engineering, in general, and its related fields (that is being taught in bachelor degree of software engineering). However, that is not enough to master a specific software engineering sub-domain (job-related) and you need to get into a software engineering sub-specialization (role-based).    
+Software engineering is a broad field that encompasses so many different sub-specializations that inter-relate to many other foundational computing fields, such as computer science, data science, math, and others. Therefore, to be a professional in software engineering, you need to have a foundational background on software engineering, in general, and its related fields (that is being taught in bachelor degree of software engineering). However, that is not enough to master a specific software engineering sub-domain (job-related) and you need to get into a software engineering sub-specialization (role-based).    
 
 ![](Slide4.JPG "Principles") 
 
 ### Principles
 
-To be a professional software engineer, you have to guide yourself by adopting some important principles, including purpose, ambition, passion, focus, self-motivation, self-learning, seriousness, and patience. Without such principles, it would be very difficult to be in a mastery level of software engineering.
+To be a professional in software engineering, you have to guide yourself by adopting some important principles, including purpose, ambition, passion, focus, self-motivation, self-learning, seriousness, and patience. Without such principles, it would be very difficult to be in a mastery level of software engineering.
 
 ![](Slide5.JPG "Principles") 
 
 ### Framework
 
-The SEG is inspired by a framework that combines three essential components to develop a professional software engineer, including learner (acquiring technical and non-technical skills), methodology (adopting lean, agile, and DevOps), and technology (using next-generation technologies, such as ALM, IoT, cloud computing, etc.).
+The SEG is inspired by a framework that combines three essential components to master software engineering, including learner (acquiring technical and non-technical skills), methodology (adopting lean, agile, and DevOps), and technology (using next-generation technologies, such as ALM, IoT, cloud computing, etc.).
 
 ![](Slide7.JPG "Framework") 
 
@@ -49,7 +49,7 @@ The SEG currently includes ten different role-based learning paths (specializati
 
 ### Interpersonal Skills
 
-Technical skills are not enough for a professional software engineer! In today's competitive working environments, soft skills are imperative and not less important than technical skills. Furthermore, developing a new business or establishing a tech start-up needs an additional type of a skill-set in entrepreneurship.
+Technical skills are not enough to be a professional in software engineering! In today's competitive working environments, soft skills are imperative and not less important than technical skills. Furthermore, developing a new business or establishing a tech start-up needs an additional type of a skill-set in entrepreneurship.
 
 - [Soft Skills](ss.md)
 - [Entrepreneurship Skills](es.md)
@@ -79,7 +79,7 @@ To get a full advantage of this guide, it is highly recommended to first select 
 
 ### Performance Measurement
 
-It is very important for any software engineer to measure his learning progress towards learning objectives and future career path. From a practical perspective, this can be achieved by different means (achievment-based), such as delivering a technical presentation, demonstrating a piece of a developed prototype or a fully functioning application, or acquiring a professional certification in a particular domain.
+It is very important for any professional in software engineering to measure his learning progress towards learning objectives and future career path. From a practical perspective, this can be achieved by different means (achievment-based), such as delivering a technical presentation, demonstrating a piece of a developed prototype or a fully functioning application, or acquiring a professional certification in a particular domain.
 
 ![alt text](Slide12.JPG "Performance Measurement") 
 
