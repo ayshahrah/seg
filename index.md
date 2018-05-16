@@ -1,9 +1,5 @@
 ## Welcome to Software Engineering Guide
 
-> *How to be a professional software engineer without a formal education?* 
-
-> *SEG is here to help!*
-
 **Software Engineering Guide (SEG)** is a self-learning roadmap with a curated list of high-quality and free-of-cost learning resources in software engineering domain. SEG is a role-based guide that is organized into specialized learning paths. SEG covers the entire software development lifecycle (SDLC) knowledge domains that represent the most popular working roles related to software engineering. Each learning path has an overview section and a set of structured online learning resources that are organized into four levels: foundation, beginner, intermediate, and advanced. Each level has a variety of online learning resources that are categorized into three types: MOOCs, webinars, and others. These learning resources are collected from highly-respected and well-trusted sources.
 
 ### Motivation
@@ -11,6 +7,12 @@
 The motivation behind building this guide is the existing gap between the knowledge and skills that are acquired from traditional education offerings and the ones that are demanded today by industry--especially at the places with a low-quality education. However, nowadays, with the availability and affordability of internet connection, you can easily gain a free-of-cost access to high-quality learning resources from around the world. *Therefore, there is no excuse to say that I don't have a quality education!*
 
 ![](Slide2.JPG "Motivation")
+
+### Relationship
+
+Software engineering is a broad field that encompasses so many different sub-specializations that inter-relate to many other foundational fields, such as computer science, data science, math, and others. Therefore, to be a professional software engineer, you need to have a foundational background on software engineering, in general, and its related fields (that what is being taught in software engineering bachelor degree). However, that is not enough to master a specific software engineering sub-domain (job-related) and you need to get into a software engineering sub-specialization (role-based).    
+
+![](Slide4.JPG "Principles") 
 
 ### Principles
 
