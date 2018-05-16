@@ -10,7 +10,7 @@ The motivation behind building this guide is the existing gap between the knowle
 
 ### Relationship
 
-Software engineering is a broad field that encompasses so many different sub-specializations that inter-relate to many other foundational computing fields, such as computer science, data science, math, and others. Therefore, to be a professional software engineer, you need to have a foundational background on software engineering, in general, and its related fields (that what is being taught in software engineering bachelor degree). However, that is not enough to master a specific software engineering sub-domain (job-related) and you need to get into a software engineering sub-specialization (role-based).    
+Software engineering is a broad field that encompasses so many different sub-specializations that inter-relate to many other foundational computing fields, such as computer science, data science, math, and others. Therefore, to be a professional software engineer, you need to have a foundational background on software engineering, in general, and its related fields (that is being taught in bachelor degree of software engineering). However, that is not enough to master a specific software engineering sub-domain (job-related) and you need to get into a software engineering sub-specialization (role-based).    
 
 ![](Slide4.JPG "Principles") 
 
