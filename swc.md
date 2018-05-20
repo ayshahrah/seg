@@ -24,6 +24,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ### How To
 
+- [Warning: Your programming career](https://medium.com/sololearn/warning-your-programming-career-b9579b3a878b)
 - [Want to become a Software Developer?](https://hackernoon.com/want-to-become-a-software-developer-heres-how-to-get-there-55f393aa443c)
 - [How to Become a Web Developer](https://sf.tradepub.com/free-offer/how-to-become-a-web-developer/w_webd08)
 - [How to Become a Mobile App Developer](https://buildfire.com/become-mobile-app-developer/)
