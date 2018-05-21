@@ -20,3 +20,5 @@
 - [Introduction to Design Thinking](https://www.edx.org/course/introduction-design-thinking-microsoft-dev241x-1)
 - [Design Thinking](https://www.edx.org/micromasters/design-thinking)
 - [Design Thinking: Ideation, Iteration and Communication](https://www.edx.org/course/design-thinking-ideation-iteration-ritx-think503x)
+- [A Virtual Crash Course in Design Thinking](https://dschool.stanford.edu/resources/a-virtual-crash-course-in-design-thinking)
+
