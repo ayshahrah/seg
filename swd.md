@@ -60,8 +60,8 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Hitchhiker's Guide to Software Architecture and Everything Else](http://stal.blogspot.com/)
 - [Coding the architecture](http://highscalability.com/)
 - [Medium - Digital Design](https://medium.com/topic/digital-design)
-- [Top 50 Web Design Blogs and Websites for Web Designers](https://blog.feedspot.com/web_design_blogs/)
 - [Top 29 UI/UX Design Blogs to Follow](https://www.figmints.com/blog/ui-ux-design-blogs/)
+- [Top 50 Web Design Blogs and Websites for Web Designers](https://blog.feedspot.com/web_design_blogs/)
 - [HH Design](https://medium.com/hh-design)
 - [Toptal Design Blog](https://www.toptal.com/designers/blog)
 
@@ -122,6 +122,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture)
 - [Secure Software Design](https://www.coursera.org/specializations/secure-software-design)
 - [The Software Architect Code: Building the Digital World](https://www.edx.org/course/software-architect-code-building-digital-uc3mx-inf-1x)
+- [Product Design](https://sa.udacity.com/course/product-design--ud509)
 - [Interaction Design](https://www.coursera.org/specializations/interaction-design)
 - [User Interface (UI) Personalization](https://www.edx.org/course/user-interface-ui-personalization-mitx-hdm1-2ax)
 - [User Experience (UX) Research and Design](https://www.edx.org/micromasters/michiganx-user-experience-ux-research-and-design)
@@ -132,6 +133,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Software Architecture Fundamentals: Technical, Business, and Social Influences](http://www.sei.cmu.edu/webinars/view_webinar.cfm?webinarid=21916&gaWebinar=SoftwareArchitectureFundamentals:Technical,Business,andSocialInfluences)
 - [Software Architecture versus Software design - definition and differentiation](https://www.techgig.com/webinar/Software-Architecture-versus-Software-design-definition-and-differentiation-210)
 - [Software Architecture as Code](https://blog.jetbrains.com/idea/2015/02/webinar-recording-software-architecture-as-code/)
+- [DesignTalks by InVision](https://www.invisionapp.com/webinars)
 
 #### Others
 
