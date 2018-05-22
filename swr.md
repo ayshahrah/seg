@@ -94,6 +94,7 @@ Quality.
 #### MOOCs
 
 - [Software Product Management](https://www.coursera.org/learn/client-needs-and-software-requirements)
+- [Requirements Engineering: Secure Software Specifications](https://www.coursera.org/specializations/requirements-engineering-secure-software)
 
 #### Webinars
 
