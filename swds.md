@@ -68,6 +68,7 @@ When Harvard Business Review titled "The Sexiest Job of the 21st Century" the te
 - [Top 50 Data Science Resources](https://www.ngdata.com/top-data-science-resources/)
 - [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
 - [dataviz.tools](http://dataviz.tools/)
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
 ## Learning Resources
 
