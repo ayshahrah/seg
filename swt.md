@@ -48,7 +48,7 @@ For many organizations, the approach to software quality is one of prevention: i
 - [The Ministry of Testing](http://www.ministryoftesting.com/)
 - [Google Group - Quality Assurance](https://plus.google.com/communities/105700734847882492217)
 - LinkedIn Groups:
-  - [Software Testers](https://www.linkedin.com/groups/10324870)
+  - [Software QA Testers](https://www.linkedin.com/groups/10324870)
   - [Ministry of Testing - the online software testing community](https://www.linkedin.com/groups/25412/profile)
   - [Software Testing Profession](https://www.linkedin.com/groups/81915/profile)
   - [Software Testing and QA](https://www.linkedin.com/groups/112164/profile)
