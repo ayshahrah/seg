@@ -159,7 +159,8 @@ Software maintenance is defined as the totality of activities required to provid
 - [Microsoft Professional Program - Cloud Administration](https://academy.microsoft.com/en-us/professional-program/tracks/cloud-administration/)
 - [Introduction to Cloud Infrastructure Technologies](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x#!)
 - [Introduction to Cloud Computing](https://www.edx.org/course/introduction-cloud-computing-ieeex-cloudintro-x-2)
-- [Fundamentals of Containers, Kubernetes, and Red Hat OpenShift](https://www.edx.org/course/fundamentals-containers-kubernetes-red-hat-do081x)
+- [Introduction to Cloud Computing](https://www.edx.org/course/introduction-cloud-computing-ieeex-cloudintro-x-2)
+- [Introduction to Cloud Foundry and Cloud Native Software Architecture](https://www.edx.org/course/introduction-cloud-foundry-cloud-native-linuxfoundationx-lfs132x)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [Microsoft Professional Program - DevOps](https://academy.microsoft.com/en-us/professional-program/tracks/devops/)
 - **[Entrepreneurship Skills](es.md)**
