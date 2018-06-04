@@ -83,7 +83,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Awesome Web Design Resources](https://github.com/nicolesaidy/awesome-web-design)
 - [Froala Design Blocks](https://www.froala.com/design-blocks)
 - [Design Resource Sites](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-- [The Ultimate List of 50 of the Best Sketch Plugins](https://www.toptal.com/designers/sketch/50-best-sketch-plugins)
+- [The UX Designer’s Ultimate Compendium of Free Typography Resources](https://uxplanet.org/the-ux-designers-ultimate-compendium-of-free-typography-resources-4e8796679f50)
 
 ## Learning Resources
 
