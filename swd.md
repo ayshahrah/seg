@@ -128,6 +128,8 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [User Interface (UI) Personalization](https://www.edx.org/course/user-interface-ui-personalization-mitx-hdm1-2ax)
 - [User Experience (UX) Research and Design](https://www.edx.org/micromasters/michiganx-user-experience-ux-research-and-design)
 - [Fundamentals of Graphic Design](https://www.coursera.org/learn/fundamentals-of-graphic-design)
+- [Introduction to Typography](https://www.coursera.org/learn/typography)
+
 
 #### Webinars
 
