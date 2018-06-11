@@ -76,13 +76,12 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 ### Resources Collections
 
 - [Makerbook](http://makerbook.net/)
-- [Design Style Guides](https://www.cointreat.com/design-style-guides-to-learn-from-in-2018/)
+- [Awesome Web Design Resources](https://github.com/nicolesaidy/awesome-web-design)
 - [Open Design: Freeware tools for Designers](https://uxplanet.org/open-design-freeware-tools-for-designers-f7bdde99f2e0)
 - [The Best UX/UI Designer Tools, Resources, Blogs & Books Collection](https://uxplanet.org/the-best-ux-ui-designer-tools-resources-blogs-books-collection-2d045592d7d7)
+- [Design Style Guides to Learn From in 2018](https://medium.com/@punitweb/design-style-guides-to-learn-from-in-2018-1ae43a5c8191)
 - [8 of the Best UI Design Websites For Inspiration in 2017](https://www.mockplus.com/blog/post/best-ui-design-websites-for-inspiration-in-2017)
-- [Awesome Web Design Resources](https://github.com/nicolesaidy/awesome-web-design)
 - [Froala Design Blocks](https://www.froala.com/design-blocks)
-- [Design Resource Sites](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 - [The UX Designer’s Ultimate Compendium of Free Typography Resources](https://uxplanet.org/the-ux-designers-ultimate-compendium-of-free-typography-resources-4e8796679f50)
 
 ## Learning Resources
@@ -150,6 +149,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [SEI - Software Architecture](http://www.sei.cmu.edu/architecture/)
 - [Microsoft Application Architecture Guide, 2nd Edition](https://msdn.microsoft.com/en-us/library/ff650706.aspx)
 - [Google Design](https://design.google/)
+- [DesignBetter.Co](https://www.designbetter.co/)
 
 ### Intermediate
 
