@@ -140,6 +140,7 @@ When Harvard Business Review titled "The Sexiest Job of the 21st Century" the te
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 - [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
+- [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)
 - [Data Science - coursera](https://www.coursera.org/specializations/jhu-data-science)
 - [Data Science - edx](https://www.edx.org/professional-certificate/harvardx-data-science#courses)
