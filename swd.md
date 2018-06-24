@@ -158,6 +158,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 - [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
+- [Software Product Management](https://www.coursera.org/specializations/product-management)
 
 #### Webinars
 
