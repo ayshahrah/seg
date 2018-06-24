@@ -123,6 +123,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 - [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
+- [Software Product Managemen](https://www.coursera.org/specializations/product-management)
 - [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [Machine Learning - udacity](https://sa.udacity.com/course/machine-learning--ud262)
 - [Machine Learning - coursera specialization](https://www.coursera.org/specializations/machine-learning)
