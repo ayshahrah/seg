@@ -148,6 +148,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [InfoQ - Architecture & Design Content](https://www.infoq.com/architecture-design/)
 - [SEI - Software Architecture](http://www.sei.cmu.edu/architecture/)
 - [Microsoft Application Architecture Guide, 2nd Edition](https://msdn.microsoft.com/en-us/library/ff650706.aspx)
+- [The ‘UI and UX Design’ Pocket Guide ](https://medium.com/sketch-app-sources/the-ui-and-ux-design-pocket-guide-volume-one-dfb3675ea828)
 - [Google Design](https://design.google/)
 - [DesignBetter.Co](https://www.designbetter.co/)
 
