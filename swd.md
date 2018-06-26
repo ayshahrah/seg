@@ -46,7 +46,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 ### Community of Interest
 
 - [International Association of Software Architects (IASA)](http://iasaglobal.org/)
-- [Top UX/UI Designer Communities To Follow In 2017](https://www.cloudways.com/blog/top-ux-ui-designer-communities/)
+- [Top 12 Design Communities for UX/UI Designers and Developers](https://blog.prototypr.io/top-12-design-communities-for-ux-ui-designers-and-developers-8fce239d8ed7)
 - LinkedIn Groups:
   - [Software Designers](https://www.linkedin.com/groups/10322891)
   - [Software Architects and Enterprise Architects Group](https://www.linkedin.com/groups/1465727/profile)
