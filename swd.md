@@ -30,7 +30,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Duties, Skills, & Knowledge of a Software Architect](https://www.sei.cmu.edu/architecture/research/previousresearch/duties.cfm)
 - [Software Architect's Career Roadmap](http://www.softwarearchitectures.com/career.html)
 - [4 essential skills software architects need to have but often don’t](https://www.oreilly.com/ideas/4-essential-skills-software-architects-need-to-have-but-often-dont)
-- [38 Actions and Insights to Become a Better Software Architect](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b
+- [38 Actions and Insights to Become a Better Software Architect](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
 - [How to Become a UI Designer](https://careerfoundry.com/en/blog/ui-design/how-to-become-a-ui-designer/)
 - [How To Get Started In User Interface (UI) Design](http://trydesignlab.com/blog/how-to-get-started-user-interface-ui-design/)
 - [7 steps to become a UI/UX designer](https://blog.nicolesaidy.com/7-steps-to-become-a-ui-ux-designer-8beed7639a95)
