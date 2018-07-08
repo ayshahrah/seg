@@ -11,6 +11,7 @@
 - [Teamwork & Collaboration](https://www.edx.org/course/teamwork-collaboration-ritx-skills102x-0)
 - [Achieving Personal and Professional Success](https://www.coursera.org/specializations/wharton-success)
 - [Dynamic Public Speaking](https://www.coursera.org/specializations/public-speaking)
+- [Public Speaking](https://www.edx.org/course/public-speaking-ritx-skills105x-0)
 - [Presentation Skills: Speechwriting, Slides and Delivery](https://www.coursera.org/specializations/presentation-skills)
 - [How to Create a Memorable Presentation](https://www.soundviewpro.com/online-courses/_/how-to-create-a-memorable-presentation/)
 - [Effective Communication: Writing, Design, and Presentation](https://www.coursera.org/specializations/effective-business-communication)
