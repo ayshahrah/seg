@@ -91,7 +91,7 @@ In one sense, it should be possible to manage a software engineering project in 
 #### MOOCs
 
 - [IT Project Management - coursera](https://www.coursera.org/learn/it-project-management?)
-- [IT Project Management - edx](https://www.edx.org/xseries/it-project-management)
+- [IT Project Management - edx](https://www.edx.org/professional-certificate/uwashingtonx-it-project-management)
 - [Engineering Project Management](https://www.coursera.org/specializations/engineering-project-management)
 - [Project Management of Engineering Projects: Preparing for Success](https://www.edx.org/course/project-management-engineering-projects-delftx-mep101x)
 - [Leading People and Teams](https://www.coursera.org/specializations/leading-teams)
