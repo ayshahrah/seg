@@ -4,13 +4,13 @@
 
 ### Motivation
 
-The motivation behind building this guide is the existing gap between the knowledge and skills that are acquired from traditional education offerings and the ones that are demanded today by industry--especially at the places with low-quality education. However, nowadays, with the availability and affordability of internet connection, you can easily gain a free-of-cost access to high-quality learning resources from around the world. *Therefore, there is no excuse to say that I don't have quality education!*
+The motivation behind building this guide is the existing gap between the knowledge and skills that are acquired from traditional education offerings and the ones that are demanded today by industry--especially at the places with low-quality education. However, nowadays, with the availability and affordability of internet connectivity, you can easily gain a free-of-cost access to high-quality learning resources from around the world. *Therefore, there is no excuse to say that I don't have a quality education!*
 
 ![](Slide2.JPG "Motivation")
 
 ### Relationship
 
-Software engineering is a broad field that encompasses so many different sub-specializations that inter-relate to many other foundational computing fields, such as computer science, computer engineering, and data science. Therefore, to be a professional in software engineering, you need to have a foundational background on software engineering and its related fields (that is being taught in bachelor degree of software engineering). However, that is not enough to master a specific software engineering sub-domain (job-related) and you need to get into a software engineering sub-specialization (role-based).    
+Software engineering is a broad field that encompasses so many different sub-specializations and interrelates to many other foundational computing fields, such as computer science, computer engineering, and data science. Therefore, to be a professional in software engineering, you need to have a foundational background on software engineering and its related fields (it is being taught in bachelor degree of software engineering). Eventhough, that is not enough to master a specific software engineering sub-domain (job-related) and you need to get into a software engineering sub-specialization (role-based).    
 
 ![](Slide4.JPG "Principles") 
 
