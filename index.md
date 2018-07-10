@@ -10,7 +10,7 @@ The motivation behind building this guide is the existing gap between the knowle
 
 ### Relationship
 
-Software engineering is a broad field that encompasses so many different sub-specializations and interrelates to many other foundational computing fields, such as computer science, computer engineering, and data science. Therefore, to be a professional in software engineering, you need to have a foundational background on software engineering and its related fields (it is being taught in bachelor degree of software engineering). Eventhough, that is not enough to master a specific software engineering sub-domain (job-related) and you need to get into a software engineering sub-specialization (role-based).    
+Software engineering is a broad field that encompasses so many different sub-specializations and interrelates to many other foundational computing fields, such as computer science, computer engineering, and data science. Therefore, to be a professional in software engineering, you need to have a foundational background on software engineering and its related fields (it is being taught in bachelor degree of software engineering). Eventhough, that is not enough to master a specific software engineering sub-domain and you need to get into a software engineering sub-specialization (role-based).    
 
 ![](Slide4.JPG "Principles") 
 
@@ -75,11 +75,11 @@ To get a full advantage of this guide, it is highly recommended to first select 
 | **Foundation**     | Explains how to learn and provides an overall background in software engineering | Understanding the importance of self-learning and software engineering|
 | **Beginner**     | Focuses on basic knowledge and skills of a particular learning path | Understanding the fundamentals of a selected learning path |
 | **Intermediate** | Focuses on agile approaches and application life-cycle management software (ALM) | The ability to develop prototypes using an agile approach and ALM software |
-| **Advanced** | Focuses on next-generation technologies (e.g. internet-of-things and cloud computing) and approches (e.g. DevOps)      |    The ability to develop next-generation applications using cloud computing and DevOps approach |
+| **Advanced** | Focuses on next-generation technologies (e.g. internet-of-things and cloud computing) and approaches (e.g. DevOps)      |    The ability to develop next-generation applications using cloud computing and DevOps approach |
 
 ### Performance Measurement
 
-It is very important for any professional in software engineering to measure his/her learning progress towards learning objectives and future career path. From a practical perspective, this can be achieved by different means (achievment-based), such as delivering a technical presentation, demonstrating a piece of a developed prototype or a fully functioning application, or acquiring a professional certification in a particular domain.
+It is very important for any professional in software engineering to measure his/her learning progress towards learning objectives and future career path. From a practical perspective, this can be achieved by different means (achievement-based), such as delivering a technical presentation, demonstrating a piece of a developed prototype or a fully functioning application, or acquiring a professional certification in a particular domain.
 
 ![alt text](Slide12.JPG "Performance Measurement") 
 
