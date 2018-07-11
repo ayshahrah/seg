@@ -152,6 +152,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [The ‘UI and UX Design’ Pocket Guide ](https://medium.com/sketch-app-sources/the-ui-and-ux-design-pocket-guide-volume-one-dfb3675ea828)
 - [Google Design](https://design.google/)
 - [DesignBetter.Co](https://www.designbetter.co/)
+- [Laws of UX](https://lawsofux.com/)
 
 ### Intermediate
 
