@@ -109,6 +109,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Best Programming Languages to Start Learning Today](https://www.simplilearn.com/best-programming-languages-start-learning-today-article)
 - [The Best Web Programming Languages to Learn](https://sf.tradepub.com/free-offer/the-best-web-programming-languages-to-learn/w_webd10)
 - [Abilities that makes you a better developer](https://hackernoon.com/abilities-that-makes-you-a-better-developer-82295c75de59)
+- [Learning Web Development? These Skills Will Make You Stand Out](https://dev.to/colinmtech/learning-web-development-these-skills-will-make-you-stand-out-56fh)
 
 ### Beginner
 
