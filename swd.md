@@ -144,7 +144,6 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [O’Reilly Expertise in UX design](http://www.oreilly.com/design/free/)
 - [Software Architecture](https://sf.tradepub.com/free-offer/software-architecture/w_free08)
 - [SourceMaking](https://sourcemaking.com/)
-- [microservices.io](http://microservices.io)
 - [softwarearchitectures.com](http://www.softwarearchitectures.com/index.html)
 - [InfoQ - Architecture & Design Content](https://www.infoq.com/architecture-design/)
 - [SEI - Software Architecture](http://www.sei.cmu.edu/architecture/)
@@ -228,8 +227,11 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 #### Others
 
+- [SOA Source Book](http://www.opengroup.org/soa/source-book/intro/index.htm)
+- [Microservices vs. Service-Oriented Architecture](https://www.nginx.com/resources/library/microservices-vs-soa/)
 - [Microservices Reference Architecture](https://www.nginx.com/resources/library/microservices-reference-architecture/)
 - [Designing and Deploying Microservices](https://www.nginx.com/resources/library/designing-deploying-microservices/)
+- [microservices.io](http://microservices.io)
 - [High Scalability](http://highscalability.com/)
 - [All Things Distributed](http://www.allthingsdistributed.com/)
 - [DevOps For Dummies](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
