@@ -71,6 +71,7 @@ For many organizations, the approach to software quality is one of prevention: i
 - [20 Best Websites to Learn Software Testing](https://www.utest.com/articles/20-best-websites-to-learn-software-testing)
 - [30 Things Every New Software Tester Should Learn](https://dojo.ministryoftesting.com/lessons/30-things-every-new-software-tester-should-learn)
 - [45 Websites Every Software Tester Should Bookmark in 2017](http://www.testing-whiz.com/blog/2017/january/11/45-websites-every-software-tester-should-bookmark-in-2017.aspx)
+- [50+ resources for test automation engineers](https://techbeacon.com/50-resources-test-automation-engineers)
 - [Free Learning Resources For Software Testers](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters/)
 - [List of Free Software Testing Resources](https://github.com/ligurio/awesome-software-quality)
 - [Awesome Testing](https://github.com/TheJambo/awesome-testing)
