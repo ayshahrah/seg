@@ -140,6 +140,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 #### Others
 
+- [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 - [O’Reilly Software Architecture Free Ebooks](http://www.oreilly.com/programming/free/)
 - [O’Reilly Expertise in UX design](http://www.oreilly.com/design/free/)
 - [Software Architecture](https://sf.tradepub.com/free-offer/software-architecture/w_free08)
