@@ -5,6 +5,7 @@
 
 ### MOOCs
 
+- [Creativity, Innovation, and Change](https://www.coursera.org/learn/creativity-innovation)
 - [How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 - [Startup School](https://www.startupschool.org/)
 - [Creating and Developing a Tech Startup](https://www.coursera.org/learn/tech-startup)
