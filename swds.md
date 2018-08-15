@@ -184,6 +184,7 @@ When Harvard Business Review titled "The Sexiest Job of the 21st Century" the te
 
 - [Industry 4.0: How to Revolutionize your Business](https://www.edx.org/course/industry-4-0-how-revolutionize-business-hkpolyux-i4-0x)
 - [Data Science at Scale](https://www.coursera.org/specializations/data-science)
+- [Advanced Data Science with IBM](https://www.coursera.org/specializations/advanced-data-science-ibm)
 - [Big Data: Data Visualisation](https://www.futurelearn.com/courses/big-data-visualisation)
 - [Big Data: Mathematical Modelling](https://www.futurelearn.com/courses/big-data-mathematical-modelling)
 - [Microsoft Professional Program - Big Data](https://academy.microsoft.com/en-us/professional-program/tracks/big-data/)
