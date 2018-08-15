@@ -174,6 +174,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 - [The Internet of Things](https://www.futurelearn.com/courses/internet-of-things)
 - [Deep Learning - udacity](https://sa.udacity.com/course/deep-learning--ud730)
 - [Deep Learning - coursera](https://www.coursera.org/specializations/deep-learning)
+- [Deep Learning - edx](https://www.edx.org/professional-certificate/ibm-deep-learning)
 - [Deep Learning - cognitiveclass](https://cognitiveclass.ai/learn/deep-learning/)
 - [Deep Learning for Business](https://www.coursera.org/learn/deep-learning-business)
 - [Introduction to Deep Learning](http://introtodeeplearning.com/index.html)
