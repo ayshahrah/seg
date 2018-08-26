@@ -30,6 +30,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [How to Become a Mobile App Developer](https://buildfire.com/become-mobile-app-developer/)
 - [Roadmap to becoming a web developer](https://github.com/kamranahmedse/developer-roadmap)
 - [A Guide to Becoming a Full-Stack Developer in 2017](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)
+- [Here are the best programming languages to learn in 2018](https://medium.freecodecamp.org/best-programming-languages-to-learn-in-2018-ultimate-guide-bfc93e615b35)
 
 ### Professional Certifications
 
