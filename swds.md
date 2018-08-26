@@ -148,6 +148,7 @@ When Harvard Business Review titled "The Sexiest Job of the 21st Century" the te
 - [Data Analysis and Presentation Skills](https://www.coursera.org/specializations/pwc-analytics)
 - [Business Analytics - coursera](https://www.coursera.org/specializations/business-analytics)
 - [Business Analytics - edx](https://www.edx.org/micromasters/business-analytics)
+- [Analytics: Essential Tools and Methods](https://www.edx.org/micromasters/analytics-essential-tools-methods)
 - [Advanced Business Analytics](https://www.coursera.org/specializations/data-analytics-business)
 - [Social Media Data Analytics](https://www.coursera.org/learn/social-media-data-analytics)
 
