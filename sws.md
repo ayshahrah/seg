@@ -72,6 +72,7 @@ A generally accepted view concerning software security is that it is much better
 - [21 Application Security Resources No Developer Should Be Without](https://www.checkmarx.com/2015/12/11/21-application-security-resources-no-developer-should-be-without/)
 - [Awesome AppSec](https://github.com/paragonie/awesome-appsec)
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)
+- [Bugcrowd University](https://github.com/bugcrowd/bugcrowd_university)
 
 ## Learning Resources
 
