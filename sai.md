@@ -149,6 +149,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 - [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 - [Machine Learning Yearning](http://www.mlyearning.org/)
 - [Seedbank - Collection of Interactive Machine Learning Examples](http://tools.google.com/seedbank/)
+- [100 Days of Machine Learning Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 - [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
 - [Agile Skills Learning Circle Wiki](https://www.ibm.com/developerworks/community/wikis/home/wiki/W61b873bae705_4dcd_aa9b_fe8380d4d7fb?lang=en)
 - [Agile Methodology](https://www.cigital.com/knowledge-database/agile-methodology/)
