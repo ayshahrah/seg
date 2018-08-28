@@ -19,8 +19,7 @@ A generally accepted view concerning software security is that it is much better
 
 ### Possible Roles
 
-- [Software Security Engineer](https://www.synopsys.com/blogs/software-security/application-security-vs-software-security/)
-- [Software Cybersecurity Engineer](https://www.cybersecuritymastersdegree.org/software-development/)
+- [Application Security Engineer](https://techbeacon.com/best-path-how-become-application-security-engineer)
 - [Security Software Developer](https://www.sokanu.com/careers/security-software-developer/)
 - [Source Code Auditor](https://cybersecurityportal.com/jobs/source-code-auditor/)
 
@@ -123,6 +122,8 @@ A generally accepted view concerning software security is that it is much better
 
 #### Others
 
+- [Application security vs. software security: What’s the difference?](https://www.synopsys.com/blogs/software-security/application-security-vs-software-security/)
+- [Cybersecurity in the Software Development Lifecycle](https://www.cybersecuritymastersdegree.org/software-development/)
 - [O’Reilly - Free Security Ebooks](https://learn.techbeacon.com/tracks/application-security)
 - [TechBeacon - Application Security](https://learn.techbeacon.com/tracks/application-security)
 - [Open security training](http://opensecuritytraining.info/)
