@@ -117,8 +117,6 @@ When Harvard Business Review titled "The Sexiest Job of the 21st Century" the te
 - [Statistics and Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
 - [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [Data Science Ethics](https://www.edx.org/course/data-science-ethics-michiganx-ds101x-1#!)
-- [Microsoft Professional Program - Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
-- [Microsoft Virtual Academy](https://mva.microsoft.com/)
 
 #### Webinars
 
@@ -144,6 +142,9 @@ When Harvard Business Review titled "The Sexiest Job of the 21st Century" the te
 - [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)
 - [Data Science - coursera](https://www.coursera.org/specializations/jhu-data-science)
 - [Data Science - edx](https://www.edx.org/professional-certificate/harvardx-data-science#courses)
+- [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
+- [Microsoft Professional Program - Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
+- [Microsoft Virtual Academy](https://mva.microsoft.com/)
 - [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)
 - [Data Analysis and Presentation Skills](https://www.coursera.org/specializations/pwc-analytics)
 - [Business Analytics - coursera](https://www.coursera.org/specializations/business-analytics)
