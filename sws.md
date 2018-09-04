@@ -122,8 +122,6 @@ A generally accepted view concerning software security is that it is much better
 
 #### Others
 
-- [Application security vs. software security: What’s the difference?](https://www.synopsys.com/blogs/software-security/application-security-vs-software-security/)
-- [Cybersecurity in the Software Development Lifecycle](https://www.cybersecuritymastersdegree.org/software-development/)
 - [O’Reilly - Free Security Ebooks](https://learn.techbeacon.com/tracks/application-security)
 - [TechBeacon - Application Security](https://learn.techbeacon.com/tracks/application-security)
 - [Open security training](http://opensecuritytraining.info/)
