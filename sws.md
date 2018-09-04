@@ -144,7 +144,6 @@ A generally accepted view concerning software security is that it is much better
 - [AppSec Classroom](https://codedx.com/resources/blog/appsec-classroom/)
 - [State of Software Security Reports](https://www.veracode.com/resources/state-of-software-security)
 - [The State of Open Source Security](https://snyk.io/stateofossecurity/)
-- [SANS 2017 State of Application Security](https://www.tenable.com/whitepapers/research-report-sans-2017-state-of-application-security-balancing-speed-and-risk)
 - [SecurityIntelligence](https://securityintelligence.com/)
 - [Security Innovation Knowledge Center](https://www.securityinnovation.com/knowledge-center)
 - [Patterns & practices Security Engineering Explained](https://www.microsoft.com/en-us/download/details.aspx?id=20528)
