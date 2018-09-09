@@ -107,7 +107,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Learn to code in 2018](https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a)
 - [What Code Should You Learn?](http://www.whoishostingthis.com/blog/2014/09/04/learn-to-code/)
 - [Learn to Code: What’s the Best Programming Language to Learn First?](https://makeawebsitehub.com/which-programming-language/)
-- [Best Programming Languages to Start Learning Today](https://www.simplilearn.com/best-programming-languages-start-learning-today-article)
 - [The Best Web Programming Languages to Learn](https://sf.tradepub.com/free-offer/the-best-web-programming-languages-to-learn/w_webd10)
 - [Abilities that makes you a better developer](https://hackernoon.com/abilities-that-makes-you-a-better-developer-82295c75de59)
 - [Learning Web Development? These Skills Will Make You Stand Out](https://dev.to/colinmtech/learning-web-development-these-skills-will-make-you-stand-out-56fh)
