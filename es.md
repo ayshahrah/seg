@@ -5,7 +5,7 @@
 
 ### MOOCs
 
-**Innovation:
+**Innovation:**
 
 - [Creativity, Innovation, and Change](https://www.coursera.org/learn/creativity-innovation)
 - [Innovation: From Creativity to Entrepreneurship](https://www.coursera.org/specializations/innovation-creativity-entrepreneurship)
@@ -14,7 +14,7 @@
 - [Innovating in a Digital World](https://www.coursera.org/learn/innovating-digital-world)
 - [Unleash Your Potential: Innovation and Enterprise](https://www.futurelearn.com/courses/innovation-enterprise)
 
-**Building a Startup:
+**Building a Startup:**
 
 - [How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245)
 - [Startup School](https://www.startupschool.org/)
