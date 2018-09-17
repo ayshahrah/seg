@@ -5,15 +5,20 @@
 
 ### MOOCs
 
+Innovation:
+
 - [Creativity, Innovation, and Change](https://www.coursera.org/learn/creativity-innovation)
-- [How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245)
-- [Startup School](https://www.startupschool.org/)
-- [Creating and Developing a Tech Startup](https://www.coursera.org/learn/tech-startup)
 - [Innovation: From Creativity to Entrepreneurship](https://www.coursera.org/specializations/innovation-creativity-entrepreneurship)
 - [Entrepreneurship: Launching an Innovative Business](https://www.coursera.org/specializations/business-entrepreneurship)
 - [Innovation & Entrepreneurship - From Design Thinking to Funding](https://www.coursera.org/learn/design-thinking-entrepreneurship)
 - [Innovating in a Digital World](https://www.coursera.org/learn/innovating-digital-world)
 - [Unleash Your Potential: Innovation and Enterprise](https://www.futurelearn.com/courses/innovation-enterprise)
+
+Building a Startup:
+
+- [How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245)
+- [Startup School](https://www.startupschool.org/)
+- [Creating and Developing a Tech Startup](https://www.coursera.org/learn/tech-startup)
 - [Technology Commercialization, Part 1: Setting up your Idea Filtering System](https://www.coursera.org/learn/technology-commercialization)
 - [Technology Entrepreneurship Part 1](https://course.novoed.com/venture)
 - [Technology Entrepreneurship Part 2](https://course.novoed.com/venture2-2016-2)
