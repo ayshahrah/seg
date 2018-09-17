@@ -5,7 +5,7 @@
 
 ### MOOCs
 
-Innovation:
+**Innovation:**
 
 - [Creativity, Innovation, and Change](https://www.coursera.org/learn/creativity-innovation)
 - [Innovation: From Creativity to Entrepreneurship](https://www.coursera.org/specializations/innovation-creativity-entrepreneurship)
