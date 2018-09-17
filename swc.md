@@ -122,6 +122,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Microsoft Professional Program - Entry Level Software Development](https://academy.microsoft.com/en-us/professional-program/tracks/entry-level-software-development/)
 - [Microsoft Professional Program - Front-End Web Development](https://academy.microsoft.com/en-us/professional-program/tracks/front-end-development/)
 - [Microsoft Virtual Academy](https://mva.microsoft.com/)
+- [Intro to Relational Databases](https://sa.udacity.com/course/intro-to-relational-databases--ud197)
 
 #### Webinars
 
