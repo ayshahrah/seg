@@ -135,10 +135,6 @@ When Harvard Business Review titled "The Sexiest Job of the 21st Century" the te
 
 #### MOOCs
 
-- [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
-- [Agile Development](https://www.coursera.org/specializations/agile-development)
-- [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
-- [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)
 - [Data Science - coursera](https://www.coursera.org/specializations/jhu-data-science)
 - [Data Science - edx](https://www.edx.org/professional-certificate/harvardx-data-science#courses)
@@ -152,17 +148,23 @@ When Harvard Business Review titled "The Sexiest Job of the 21st Century" the te
 - [Analytics: Essential Tools and Methods](https://www.edx.org/micromasters/analytics-essential-tools-methods)
 - [Advanced Business Analytics](https://www.coursera.org/specializations/data-analytics-business)
 - [Social Media Data Analytics](https://www.coursera.org/learn/social-media-data-analytics)
+- [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
+- [Agile Development](https://www.coursera.org/specializations/agile-development)
+- [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
+- [Software Product Management](https://www.coursera.org/specializations/product-management)
 
 #### Webinars
 
+- [Gartner Data & Analytics Webinars](http://www.gartner.com/technology/webinars/business-intelligence-big-data.jsp)
+- [TDWI Webinars](https://tdwi.org/webcasts/list/all-webinars.aspx)
 - [Agile Development Basics](http://info.versionone.com/Agile-Development-Basics-Webinar.html)
 - [Better, Faster, and Easier: Agile Application Development for Your Business](http://www.appian.com/resources/better-faster-and-easier-agile-application-development-for-your-business/)
 - [Watch the Do Agile Right webinar – Lessons learned from an Atlassian software engineer](http://blogs.atlassian.com/2014/02/watch-agile-right-webinar-lessons-learned-atlassian-software-engineer/)
-- [Gartner Data & Analytics Webinars](http://www.gartner.com/technology/webinars/business-intelligence-big-data.jsp)
-- [TDWI Webinars](https://tdwi.org/webcasts/list/all-webinars.aspx)
 
 #### Others
 
+- [The Data Analytics Handbook](https://www.teamleada.com/handbook)
+- [Data Analytics & R](https://advanceddataanalytics.net/ebooks/)
 - [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
 - [Agile Skills Learning Circle Wiki](https://www.ibm.com/developerworks/community/wikis/home/wiki/W61b873bae705_4dcd_aa9b_fe8380d4d7fb?lang=en)
 - [Agile Methodology](https://www.cigital.com/knowledge-database/agile-methodology/)
@@ -177,14 +179,11 @@ When Harvard Business Review titled "The Sexiest Job of the 21st Century" the te
 - [ALM Body of Knowledge](http://www.almbok.com/start)
 - [Application lifecycle management tools: A buyer's guide to ALM software](http://searchsoftwarequality.techtarget.com/buyersguide/Application-lifecycle-management-tools-A-buyers-guide-to-ALM-software)
 - [Software Development Trends and Benchmarks](https://www.atlassian.com/whitepapers/software-trends-2016)
-- [The Data Analytics Handbook](https://www.teamleada.com/handbook)
-- [Data Analytics & R](https://advanceddataanalytics.net/ebooks/)
 
 ### Advanced
 
 #### MOOCs
 
-- [Industry 4.0: How to Revolutionize your Business](https://www.edx.org/course/industry-4-0-how-revolutionize-business-hkpolyux-i4-0x)
 - [Data Science at Scale](https://www.coursera.org/specializations/data-science)
 - [Advanced Data Science with IBM](https://www.coursera.org/specializations/advanced-data-science-ibm)
 - [Big Data: Data Visualisation](https://www.futurelearn.com/courses/big-data-visualisation)
@@ -192,6 +191,7 @@ When Harvard Business Review titled "The Sexiest Job of the 21st Century" the te
 - [Microsoft Professional Program - Big Data](https://academy.microsoft.com/en-us/professional-program/tracks/big-data/)
 - [Knowledge Management and Big Data in Business](https://www.edx.org/course/knowledge-management-big-data-business-hkpolyux-ise101x-2)
 - [Enabling Technologies for Data Science and Analytics: The Internet of Things](https://www.edx.org/course/enabling-technologies-data-science-columbiax-ds103x-0#!)
+- [Industry 4.0: How to Revolutionize your Business](https://www.edx.org/course/industry-4-0-how-revolutionize-business-hkpolyux-i4-0x)
 - [Emerging Technologies: From Smartphones to IoT to Big Data Specialization](https://www.coursera.org/specializations/emerging-technologies)
 - [A developer's guide to Exploring and Visualizing IoT Data](https://www.coursera.org/learn/exploring-visualizing-iot-data)
 - [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining)
