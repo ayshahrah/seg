@@ -148,6 +148,14 @@ Software maintenance is defined as the totality of activities required to provid
 
 #### MOOCs
 
+- [Cloud Computing - coursera](https://www.coursera.org/specializations/cloud-computing)
+- [Cloud Computing - edx](https://www.edx.org/micromasters/cloud-computing)
+- [Microsoft Professional Program - Cloud Administration](https://academy.microsoft.com/en-us/professional-program/tracks/cloud-administration/)
+- [Introduction to Cloud Infrastructure Technologies](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x#!)
+- [Introduction to Cloud Computing](https://www.edx.org/course/introduction-cloud-computing-ieeex-cloudintro-x-2)
+- [Introduction to Cloud Foundry and Cloud Native Software Architecture](https://www.edx.org/course/introduction-cloud-foundry-cloud-native-linuxfoundationx-lfs132x)
+- [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
+- [Microsoft Professional Program - DevOps](https://academy.microsoft.com/en-us/professional-program/tracks/devops/)
 - [Industry 4.0: How to Revolutionize your Business](https://www.edx.org/course/industry-4-0-how-revolutionize-business-hkpolyux-i4-0x)
 - [Emerging Technologies: From Smartphones to IoT to Big Data Specialization](https://www.coursera.org/specializations/emerging-technologies)
 - [Internet of Things](https://www.coursera.org/specializations/internet-of-things)
@@ -155,15 +163,6 @@ Software maintenance is defined as the totality of activities required to provid
 - [Unpacking the Internet of Things (IoT)](https://www.udemy.com/unpacking-the-internet-of-things/)
 - [A Simple Framework for Designing IoT Products](https://www.udemy.com/a-simple-framework-for-designing-iot-products/)
 - [New Business Markets in the Internet of Things (IoT)](https://www.udemy.com/new-business-markets-in-iot/)
-- [Cloud Computing - coursera](https://www.coursera.org/specializations/cloud-computing)
-- [Cloud Computing - edx](https://www.edx.org/micromasters/cloud-computing)
-- [Microsoft Professional Program - Cloud Administration](https://academy.microsoft.com/en-us/professional-program/tracks/cloud-administration/)
-- [Introduction to Cloud Infrastructure Technologies](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x#!)
-- [Introduction to Cloud Computing](https://www.edx.org/course/introduction-cloud-computing-ieeex-cloudintro-x-2)
-- [Introduction to Cloud Computing](https://www.edx.org/course/introduction-cloud-computing-ieeex-cloudintro-x-2)
-- [Introduction to Cloud Foundry and Cloud Native Software Architecture](https://www.edx.org/course/introduction-cloud-foundry-cloud-native-linuxfoundationx-lfs132x)
-- [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
-- [Microsoft Professional Program - DevOps](https://academy.microsoft.com/en-us/professional-program/tracks/devops/)
 - **[Entrepreneurship Skills](es.md)**
 
 #### Webinars
