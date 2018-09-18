@@ -166,6 +166,7 @@ For many organizations, the approach to software quality is one of prevention: i
 
 #### MOOCs
 
+- [Automated Software Testing in Java](https://www.edx.org/professional-certificate/delftx-automated-software-testing-in-java)
 - [Industry 4.0: How to Revolutionize your Business](https://www.edx.org/course/industry-4-0-how-revolutionize-business-hkpolyux-i4-0x)
 - [Emerging Technologies: From Smartphones to IoT to Big Data Specialization](https://www.coursera.org/specializations/emerging-technologies)
 - [Internet of Things](https://www.coursera.org/specializations/internet-of-things)
