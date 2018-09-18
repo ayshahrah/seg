@@ -124,6 +124,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Microsoft Virtual Academy](https://mva.microsoft.com/)
 - [Database Systems Concepts & Design](https://sa.udacity.com/course/database-systems-concepts-design--ud150)
 - [Intro to Relational Databases](https://sa.udacity.com/course/intro-to-relational-databases--ud197)
+- [Algorithms](https://www.coursera.org/specializations/algorithms)
 
 #### Webinars
 
