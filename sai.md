@@ -121,10 +121,6 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 
 #### MOOCs
 
-- [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
-- [Agile Development](https://www.coursera.org/specializations/agile-development)
-- [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
-- [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [Machine Learning - udacity](https://sa.udacity.com/course/machine-learning--ud262)
 - [Machine Learning - coursera specialization](https://www.coursera.org/specializations/machine-learning)
@@ -136,6 +132,10 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 - [Machine learning with Apache SystemML](https://cognitiveclass.ai/courses/machine-learning-apache-systemml/)
 - [Machine Learning: Unsupervised Learning](https://sa.udacity.com/course/machine-learning-unsupervised-learning--ud741)
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+- [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
+- [Agile Development](https://www.coursera.org/specializations/agile-development)
+- [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
+- [Software Product Management](https://www.coursera.org/specializations/product-management)
 
 #### Webinars
 
@@ -171,10 +171,6 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 
 #### MOOCs
 
-- [Industry 4.0: How to Revolutionize your Business](https://www.edx.org/course/industry-4-0-how-revolutionize-business-hkpolyux-i4-0x)
-- [Emerging Technologies: From Smartphones to IoT to Big Data Specialization](https://www.coursera.org/specializations/emerging-technologies)
-- [Internet of Things](https://www.coursera.org/specializations/internet-of-things)
-- [The Internet of Things](https://www.futurelearn.com/courses/internet-of-things)
 - [Deep Learning - udacity](https://sa.udacity.com/course/deep-learning--ud730)
 - [Deep Learning - coursera](https://www.coursera.org/specializations/deep-learning)
 - [Deep Learning - edx](https://www.edx.org/professional-certificate/ibm-deep-learning)
@@ -185,8 +181,11 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 - [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
 - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
 - [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
-- [Applied AI with DeepLearning, IBM Watson IoT Data Science Certificate](https://www.coursera.org/learn/ai)
 - [Practical Deep Learning For Coders](http://course.fast.ai/)
+- [Industry 4.0: How to Revolutionize your Business](https://www.edx.org/course/industry-4-0-how-revolutionize-business-hkpolyux-i4-0x)
+- [Emerging Technologies: From Smartphones to IoT to Big Data Specialization](https://www.coursera.org/specializations/emerging-technologies)
+- [Internet of Things](https://www.coursera.org/specializations/internet-of-things)
+- [The Internet of Things](https://www.futurelearn.com/courses/internet-of-things)
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [Microsoft Professional Program - DevOps](https://academy.microsoft.com/en-us/professional-program/tracks/devops/)
