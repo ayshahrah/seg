@@ -9,24 +9,18 @@ In the past, blockchains were commonly associated with digital currencies, and B
 
 ### Knowledge and Skills
 
-- [5 Skills You Need to Become a Machine Learning Engineer](https://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html)
-- [Transitioning from Software Engineering to Artificial Intelligence](https://blog.insightdatascience.com/preparing-for-the-transition-to-applied-ai-d41e48403447)
+- [Don’t Get Disrupted: Blockchain Skills Your Business Needs for Success](https://business.udemy.com/blog/dont-get-disrupted-blockchain-skills-your-business-needs-for-success/)
 
 ### Possible Roles
 
-- [Artificial Intelligence Engineer](https://www.paysa.com/salaries/artificial-intelligence-engineer--t)
-- [Machine Learning Engineer](https://www.oreilly.com/ideas/what-are-machine-learning-engineers)
-- [Robotics Engineer](https://www.sokanu.com/careers/robotics-engineer/)
+- [Blockchain Developer](https://www.toptal.com/blockchain/job-description)
+- [Blockchain Engineer](https://study.com/articles/blockchain_engineer_job_description_salary.html)
 
 ### How To
 
-- [How to Become an Artificial Intelligence Engineer](http://blog.liveedu.tv/become-artificial-intelligence-engineer/)
-- [A Roadmap to Becoming an AI Engineer](https://www.paysa.com/blog/2017/05/17/a-roadmap-to-becoming-an-ai-engineer/)
-- [The Blueprint for Developers to Get Started with Machine Learning](https://thenewstack.io/blueprint-developers-get-started-machine-learning/)
-- [Becoming a machine learning engineer](https://www.oreilly.com/ideas/becoming-a-machine-learning-engineer)
-- [How To Become A Machine Learning Engineer: Learning Path](https://medium.com/machine-learning-world/learning-path-for-machine-learning-engineer-a7d5dc9de4a4)
-- [How to learn Deep Learning in 6 months](https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48)
-- [How to become a Robotics Engineer](https://www.sokanu.com/careers/robotics-engineer/how-to-become/)
+- [How to Become a Blockchain Developer](https://x-team.com/become-blockchain-developer/)
+- [The authoritative guide to blockchain development](https://medium.freecodecamp.org/the-authoritative-guide-to-blockchain-development-855ab65b58bc)
+- [IT Careers: How to become a Blockchain Engineer](https://www.idgconnect.com/abstract/30124/it-careers-how-blockchain-engineer)
 
 ### Professional Certifications
 
@@ -61,7 +55,7 @@ In the past, blockchains were commonly associated with digital currencies, and B
 ### Resources Collections
 
 - [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence)
-- [AI Valley](https://ai-valley.com/)
+- [Blockchain for Software Engineers](https://github.com/benstew/blockchain-for-software-engineers)
 - [Curated List of AI and Machine Learning Resources](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
 - [The Best Machine Learning Resources](https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1)
 - [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
