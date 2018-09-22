@@ -19,46 +19,27 @@ In the past, blockchains were commonly associated with digital currencies, and B
 ### How To
 
 - [How to Become a Blockchain Developer](https://x-team.com/become-blockchain-developer/)
-- [The authoritative guide to blockchain development](https://medium.freecodecamp.org/the-authoritative-guide-to-blockchain-development-855ab65b58bc)
-- [IT Careers: How to become a Blockchain Engineer](https://www.idgconnect.com/abstract/30124/it-careers-how-blockchain-engineer)
 
 ### Professional Certifications
 
-- [Top Certification Courses on Machine Learning](https://dzone.com/articles/top-certification-courses-on-machine-learning)
-- [MCSA: Machine Learning](https://www.microsoft.com/en-us/learning/mcsa-machine-learning.aspx)
+- [8 Blockchain Certifications and Courses for Professionals](https://news.coinify.com/8-professional-blockchain-certifications/)
 
 ### Community of Interest
 
-- [Google+ - Artificial Intelligence](https://plus.google.com/communities/116461000134682563789)
-- [Google+ - Machine Learning](https://plus.google.com/communities/107785538899595981479)
-- [Reddit - Artificial Intelligence](https://www.reddit.com/r/artificial/)
-- [Reddit - Machine Learning](https://www.reddit.com/r/MachineLearning/)
-- [Artificial Intelligence Stack Exchange](https://ai.stackexchange.com/)
-- LinkedIn Groups:
-  - [Software Artificial Intelligence Engineer](https://www.linkedin.com/groups/13587405)
-  - [Artificial Intelligence](https://www.linkedin.com/groups/3746827/profile)
+- [The Topcoder Blockchain Community](https://blockchain.topcoder.com/)
 
 ### Blogs
 
-- [Medium - Artificial intelligence](https://medium.com/topic/artificial-intelligence)
-- [O'Reilly - AI](https://www.oreilly.com/topics/ai)
-- [Top 50 Artificial Intelligence Websites And Blogs for AI Enthusiast](https://blog.feedspot.com/ai_blogs/)
-- [Top 20 Machine Learning Blogs & Websites on the Web](https://blog.feedspot.com/machine_learning_blogs/)
+- [Top 25 Blockchain Blogs and Websites on Blockchain Technology](https://blog.feedspot.com/blockchain_blogs/)
 
 ### Market Insights
 
-- [Artificial Intelligence](https://www.linkedin.com/topic/artificial-intelligence)
-- [Machine Learning](https://www.linkedin.com/topic/machine-learning)
-- [Machine Learning Engineer](https://www.linkedin.com/title/machine-learning-engineer)
-
+- [Developer - Blockchain](https://www.linkedin.com/title/developer-at-blockchain)
 
 ### Resources Collections
 
-- [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence)
-- [Blockchain for Software Engineers](https://github.com/benstew/blockchain-for-software-engineers)
-- [Curated List of AI and Machine Learning Resources](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
-- [The Best Machine Learning Resources](https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1)
-- [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
+- [Awesome Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme)
+- [Blockchain Resources](https://github.com/blockchainedindia/resources)
 
 ## Learning Resources
 
@@ -77,14 +58,12 @@ In the past, blockchains were commonly associated with digital currencies, and B
 
 #### Webinars
 
-- [Build a Career in AI and Machine Learning](https://www.youtube.com/watch?v=LrGA9nAt4XA)
-- [Machine Learning vs Deep Learning vs Artificial Intelligence](https://www.youtube.com/watch?v=9dFhZFUkzuQ)
-- [The Rise of Machine Learning and Artificial Intelligence](https://www.youtube.com/watch?v=kyo5_KG5bVE)
+- [Blockchain Technology Explained](https://www.youtube.com/watch?v=qOVAbKKSH10)
 
 #### Others
 
-- [What is Artificial Intelligence and Why Gain a Certification in This Domain](https://www.simplilearn.com/what-is-artificial-intelligence-and-why-ai-certification-article)
-- [Artificial Intelligence Career Path](https://findcareerinfo.com/artificial-intelligence-career-path/)
+- [The authoritative guide to blockchain development](https://medium.freecodecamp.org/the-authoritative-guide-to-blockchain-development-855ab65b58bc)
+- [A free guide for non-coders to learn blockchain tech in 6 months or less](https://medium.com/coinmonks/free-resources-to-get-a-blockchain-job-in-6-months-or-less-for-non-coders-5ddee72fbc7b)
 
 ### Beginner
 
