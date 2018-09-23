@@ -39,9 +39,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 - [Reddit - Artificial Intelligence](https://www.reddit.com/r/artificial/)
 - [Reddit - Machine Learning](https://www.reddit.com/r/MachineLearning/)
 - [Artificial Intelligence Stack Exchange](https://ai.stackexchange.com/)
-- LinkedIn Groups:
-  - [Software Artificial Intelligence Engineer](https://www.linkedin.com/groups/13587405)
-  - [Artificial Intelligence](https://www.linkedin.com/groups/3746827/profile)
+- [LinkedIn - Artificial Intelligence](https://www.linkedin.com/groups/3746827/profile)
 
 ### Blogs
 
