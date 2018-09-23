@@ -27,6 +27,7 @@ In the past, blockchains were commonly associated with digital currencies, and B
 
 ### Community of Interest
 
+- [blockchain - DEV Community](https://dev.to/t/blockchain)
 - [The Topcoder Blockchain Community](https://blockchain.topcoder.com/)
 
 ### Blogs
