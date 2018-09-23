@@ -33,10 +33,7 @@ These definitions also illustrate another reason for the prevalence of software 
 ### Community of Interest
 
 - [StickyMinds](https://www.stickyminds.com/)
-- LinkedIn Groups:
-  - [Software Quality Engineers](https://www.linkedin.com/groups/10332028)
-  - [Software Quality Assurance Leadership Networking Group](https://www.linkedin.com/groups/1779934/profile)
-  - [Software Quality (2967339)](https://www.linkedin.com/groups/2967339/profile)
+- [LinkedIn - Software Quality (2967339)](https://www.linkedin.com/groups/2967339/profile)
 
 ### Blogs
 
