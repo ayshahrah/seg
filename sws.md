@@ -47,10 +47,8 @@ A generally accepted view concerning software security is that it is much better
 - [Snyk](https://snyk.io/)
 - [Security StackExchange](https://security.stackexchange.com/)
 - [reddit.com/r/netsec](https://www.reddit.com/r/netsec/)
-- LinkedIn Groups:
-  - [Software Security Engineers](https://www.linkedin.com/groups/10325821)
-  - [The Web Application Security Consortium](https://www.linkedin.com/groups/83336/profile)
-  - [Software Security Group](https://www.linkedin.com/groups/3027331/profile)
+- [LinkedIn - The Web Application Security Consortium](https://www.linkedin.com/groups/83336/profile)
+- [LinkedIn - Software Security Group](https://www.linkedin.com/groups/3027331/profile)
 
 ### Blogs
 
