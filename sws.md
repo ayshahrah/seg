@@ -140,7 +140,6 @@ A generally accepted view concerning software security is that it is much better
 - [The State of Open Source Security](https://snyk.io/stateofossecurity/)
 - [SecurityIntelligence](https://securityintelligence.com/)
 - [Security Innovation Knowledge Center](https://www.securityinnovation.com/knowledge-center)
-- [Patterns & practices Security Engineering Explained](https://www.microsoft.com/en-us/download/details.aspx?id=20528)
 - [Application and Database Security](https://www.sans.org/reading-room/whitepapers/application)
 - [Cigital's ebooks](https://www.cigital.com/resources/ebooks-and-whitepapers/)
 - [BSIMM](https://www.bsimm.com/)
