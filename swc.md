@@ -44,11 +44,8 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Top 10 Sites to Ask All Your Programming Questions](http://www.hongkiat.com/blog/programming-questions-websites/)
 - [14 Programming Communities for Developers, Hackers](http://codecondo.com/programming-communities/)
 - [Awesome Community](https://github.com/php-earth/awesome-community)
-- LinkedIn Groups:
-  - [Software Programmers](https://www.linkedin.com/groups/10324839)
-  - [Software Developer](https://www.linkedin.com/groups/1074487/profile)
-  - [Mobile Application Developers Connections](https://www.linkedin.com/groups/4297440/profile)
-
+- [LinkedIn - Software Developer](https://www.linkedin.com/groups/1074487/profile)
+ 
 ### Blogs
 
 - [Medium - Programming](https://medium.com/topic/programming)
