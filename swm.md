@@ -34,8 +34,7 @@ Software maintenance is defined as the totality of activities required to provid
 ### Community of Interest
 
 - [League of Professional System Administrators (LOPSA)](https://lopsa.org/)
-- LinkedIn Groups:
-  - [Software Administrators](https://www.linkedin.com/groups/10322892)
+- [LinkedIn - System Administrator](https://www.linkedin.com/groups/51443/)
 
 ### Blogs
 
