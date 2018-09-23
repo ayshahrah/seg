@@ -19,6 +19,7 @@ In the past, blockchains were commonly associated with digital currencies, and B
 ### How To
 
 - [How to Become a Blockchain Developer](https://x-team.com/become-blockchain-developer/)
+- [How To Become A Blockchain Developer: Cram Session](https://blockgeeks.com/guides/blockchain-developer/)
 
 ### Professional Certifications
 
@@ -30,6 +31,7 @@ In the past, blockchains were commonly associated with digital currencies, and B
 
 ### Blogs
 
+- [Blockchain - Medium](https://blog.feedspot.com/blockchain_blogs/)
 - [Top 25 Blockchain Blogs and Websites on Blockchain Technology](https://blog.feedspot.com/blockchain_blogs/)
 
 ### Market Insights
@@ -69,43 +71,29 @@ In the past, blockchains were commonly associated with digital currencies, and B
 
 #### MOOCs
 
-- [Intro to Artificial Intelligence](https://sa.udacity.com/course/intro-to-artificial-intelligence--cs271)
-- [Artificial Intelligence - udacity](https://sa.udacity.com/course/artificial-intelligence--ud954)
-- [Artificial Intelligence - edx](https://www.edx.org/micromasters/columbiax-artificial-intelligence)
-- [Introduction to Artificial Intelligence (AI)](https://www.edx.org/course/introduction-artificial-intelligence-ai-microsoft-dat263x-0)
-- [Microsoft Professional Program - Artificial Intelligence](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
-- [Microsoft AI School](https://aischool.microsoft.com/learning-paths)
-- [Artificial Intelligence for Robotics](https://sa.udacity.com/course/artificial-intelligence-for-robotics--cs373)
-- [Robotics](https://www.coursera.org/specializations/robotics)
-
+- [Blockchain](https://www.coursera.org/specializations/blockchain)
+- [Blockchain Fundamentals](https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals)
+- [Blockchain: Foundations and Use Cases](https://www.coursera.org/learn/blockchain-foundations-and-use-cases)
+- [Blockchain Essentials](https://cognitiveclass.ai/courses/blockchain-course/)
+- [IBM Blockchain Foundation for Developers](https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers)
 
 #### Webinars
 
-- [AI Trends Webinars](https://aitrends.com/webinars/)
+- [Blockchain: How Real Is The Market?](https://www.gartner.com/webinar/3607520)
+- [Blockchain Special Report: What to Expect in 2018](https://www.gartner.com/webinar/3858509)
 
 #### Others
 
-- [O’Reilly Free AI Ebooks](http://www.oreilly.com/data/free/)
-- [A beginner's guide to artificial intelligence, machine learning, and cognitive computing](https://www.ibm.com/developerworks/library/cc-beginner-guide-machine-learning-ai-cognitive/index.html)
-- [Artificial Intelligence and Machine Learning in Industry](http://www.oreilly.com/data/free/ai-machine-learning-in-industry.csp?cmp=tw-data-free-article-lgen_tw_free_ebook_as)
-- [OpenAI](https://www.openai.com/)
-- [AI Index](http://aiindex.org/)
+- [Blockchain for Dummies](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XIM12354USEN)
+- [What is a blockchain?](https://www.oreilly.com/ideas/what-is-a-blockchain)
+- [Blockchain applications](https://www.oreilly.com/ideas/blockchain-applications)
+- [Hyperledger](https://www.hyperledger.org/)
+- [blockchain.mit.edu](http://aiindex.org/)
 
 ### Intermediate
 
 #### MOOCs
 
-- [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
-- [Machine Learning - udacity](https://sa.udacity.com/course/machine-learning--ud262)
-- [Machine Learning - coursera specialization](https://www.coursera.org/specializations/machine-learning)
-- [Machine Learning - coursera](https://www.coursera.org/learn/machine-learning)
-- [Machine Learning - edx](https://www.edx.org/course/machine-learning-gtx-cs7641x-1)
-- [Principles of Machine Learning](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-6)
-- [Applied Machine Learning](https://www.edx.org/course/applied-machine-learning-microsoft-dat203-3x-4)
-- [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python/)
-- [Machine learning with Apache SystemML](https://cognitiveclass.ai/courses/machine-learning-apache-systemml/)
-- [Machine Learning: Unsupervised Learning](https://sa.udacity.com/course/machine-learning-unsupervised-learning--ud741)
-- [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 - [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
@@ -119,13 +107,6 @@ In the past, blockchains were commonly associated with digital currencies, and B
 
 #### Others
 
-- [Machine Learning for Dummies](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=IMM14209USEN)
-- [Learning Math for Machine Learning](https://blog.ycombinator.com/learning-math-for-machine-learning/)
-- [Machine Learning for Humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
-- [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
-- [Machine Learning Yearning](http://www.mlyearning.org/)
-- [Seedbank - Collection of Interactive Machine Learning Examples](http://tools.google.com/seedbank/)
-- [100 Days of Machine Learning Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 - [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
 - [Agile Skills Learning Circle Wiki](https://www.ibm.com/developerworks/community/wikis/home/wiki/W61b873bae705_4dcd_aa9b_fe8380d4d7fb?lang=en)
 - [Agile Methodology](https://www.cigital.com/knowledge-database/agile-methodology/)
@@ -145,17 +126,6 @@ In the past, blockchains were commonly associated with digital currencies, and B
 
 #### MOOCs
 
-- [Deep Learning - udacity](https://sa.udacity.com/course/deep-learning--ud730)
-- [Deep Learning - coursera](https://www.coursera.org/specializations/deep-learning)
-- [Deep Learning - edx](https://www.edx.org/professional-certificate/ibm-deep-learning)
-- [Deep Learning - cognitiveclass](https://cognitiveclass.ai/learn/deep-learning/)
-- [Deep Learning for Business](https://www.coursera.org/learn/deep-learning-business)
-- [Introduction to Deep Learning](http://introtodeeplearning.com/index.html)
-- [Advanced Machine Learning](https://www.coursera.org/specializations/aml)
-- [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
-- [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
-- [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
-- [Practical Deep Learning For Coders](http://course.fast.ai/)
 - [Industry 4.0: How to Revolutionize your Business](https://www.edx.org/course/industry-4-0-how-revolutionize-business-hkpolyux-i4-0x)
 - [Emerging Technologies: From Smartphones to IoT to Big Data Specialization](https://www.coursera.org/specializations/emerging-technologies)
 - [Internet of Things](https://www.coursera.org/specializations/internet-of-things)
@@ -167,12 +137,12 @@ In the past, blockchains were commonly associated with digital currencies, and B
 
 #### Webinars
 
-- [Deep Learning With TensorFlow](https://www.youtube.com/playlist?list=PL9ooVrP1hQOEX8BKDplfG86ky8s7Oxbzg)
+- [IBM Blockchain webinars](https://www.ibm.com/blockchain/news-and-events/webinars)
+- [Blockchain Council webinars](https://www.blockchain-council.org/webinars/)
+- [BrightTALK webinars](https://www.brighttalk.com/search?q=blockchain)
 
 #### Others
 
-- [Deep Learning - MIT Press](http://www.deeplearningbook.org/)
-- [Fast.ai](http://www.fast.ai/)
 - [DevOps For Dummies](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
 - [The Ultimate DevOps Toolkit](https://www.appdynamics.com/lp/devops-toolkit/)
 - [DevOps.com](https://devops.com/)
