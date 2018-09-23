@@ -39,11 +39,7 @@ Quality.
 ### Community of Interest
 
 - [Modernanalyst.com](http://www.modernanalyst.com/Home.aspx)
-- LinkedIn Groups:
-  - [Software Requirements Engineers](https://www.linkedin.com/groups/10326019)
-  - [Requirements Engineering Specialist Group (RESG)](https://www.linkedin.com/groups/2662234/profile)
-  - [Requirements Management and Analysis](https://www.linkedin.com/groups/144346/profile)
-  - [IIBA (International Institute of Business Analysis)](https://www.linkedin.com/groups/92583/profile)
+- [LinkedIn - IIBA (International Institute of Business Analysis)](https://www.linkedin.com/groups/92583/profile)
 
 ### Blogs
 
