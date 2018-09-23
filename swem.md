@@ -39,11 +39,7 @@ In one sense, it should be possible to manage a software engineering project in 
 ### Community of Interest
 
 - [ProjectManagement.com](https://www.projectmanagement.com/)
-- LinkedIn Groups:
-  - [Software Project Managers](https://www.linkedin.com/groups/10325814)
-  - [Project Manager Community](https://www.linkedin.com/groups/35313/profile)
-  - [Project Manager Alliance](https://www.linkedin.com/groups/29417/profile)
-  - [Project Manager Professional](https://www.linkedin.com/groups/37767/profile)
+- [LinkedIn - Project Manager Community](https://www.linkedin.com/groups/35313/profile)
 
 ### Blogs
 
