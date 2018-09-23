@@ -32,13 +32,7 @@ The data science field employs mathematics, statistics and computer science disc
 ### Community of Interest
 
 - [Data Science Communities](https://www.ngdata.com/top-data-science-resources/#Communities)
-- LinkedIn Groups:
-  - [Software Data Scientists](https://www.linkedin.com/groups/10324852)
-  - [Data Science Central](https://www.linkedin.com/groups/35222/profile)
-  - [Data Science](https://www.linkedin.com/groups/4520344/profile)
-  - [Data Science Professional Network](https://www.linkedin.com/groups/1922105/profile)
-  - [Data Science & Machine Learning](https://www.linkedin.com/groups/4211928/profile)
-  - [Data Scientists](https://www.linkedin.com/groups/2013423/profile)
+- [LinkedIn - Data Science Central](https://www.linkedin.com/groups/35222/profile)
 
 ### Blogs
 
