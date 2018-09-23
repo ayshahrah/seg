@@ -88,7 +88,8 @@ In the past, blockchains were commonly associated with digital currencies, and B
 - [What is a blockchain?](https://www.oreilly.com/ideas/what-is-a-blockchain)
 - [Blockchain applications](https://www.oreilly.com/ideas/blockchain-applications)
 - [Hyperledger](https://www.hyperledger.org/)
-- [blockchain.mit.edu](http://aiindex.org/)
+- [blockchain.mit.edu](http://blockchain.mit.edu/)
+- [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
 
 ### Intermediate
 
