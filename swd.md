@@ -121,6 +121,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [The Software Architect Code: Building the Digital World](https://www.edx.org/course/software-architect-code-building-digital-uc3mx-inf-1x)
 - [Product Design](https://sa.udacity.com/course/product-design--ud509)
 - [Interaction Design](https://www.coursera.org/specializations/interaction-design)
+- [UI / UX Design](https://www.coursera.org/specializations/ui-ux-design)
 - [User Interface (UI) Personalization](https://www.edx.org/course/user-interface-ui-personalization-mitx-hdm1-2ax)
 - [User Experience (UX) Research and Design](https://www.edx.org/micromasters/michiganx-user-experience-ux-research-and-design)
 - [Design Thinking: UX and Advanced Topics](https://www.edx.org/course/design-thinking-advanced-topics)
