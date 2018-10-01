@@ -123,6 +123,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Interaction Design](https://www.coursera.org/specializations/interaction-design)
 - [User Interface (UI) Personalization](https://www.edx.org/course/user-interface-ui-personalization-mitx-hdm1-2ax)
 - [User Experience (UX) Research and Design](https://www.edx.org/micromasters/michiganx-user-experience-ux-research-and-design)
+- [Design Thinking: UX and Advanced Topics](https://www.edx.org/course/design-thinking-advanced-topics)
 - [Fundamentals of Graphic Design](https://www.coursera.org/learn/fundamentals-of-graphic-design)
 - [Introduction to Typography](https://www.coursera.org/learn/typography)
 - [Mobile Interaction Design: How to Design Usable Mobile Products and Service](https://www.coursera.org/learn/mobile-interaction-design)
