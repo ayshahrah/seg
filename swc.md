@@ -30,7 +30,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [How to Become a Mobile App Developer](https://buildfire.com/become-mobile-app-developer/)
 - [Roadmap to becoming a web developer](https://github.com/kamranahmedse/developer-roadmap)
 - [A Guide to Becoming a Full-Stack Developer in 2017](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)
-- [Here are the best programming languages to learn in 2018](https://medium.freecodecamp.org/best-programming-languages-to-learn-in-2018-ultimate-guide-bfc93e615b35)
 
 ### Professional Certifications
 
@@ -102,6 +101,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 - Read the Chapter 3: Software Construction in [SWEBOK V3](https://www.computer.org/web/swebok/v3)
 - [Learn to code in 2018](https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a)
+- [Here are the best programming languages to learn in 2018](https://medium.freecodecamp.org/best-programming-languages-to-learn-in-2018-ultimate-guide-bfc93e615b35)
 - [What Code Should You Learn?](http://www.whoishostingthis.com/blog/2014/09/04/learn-to-code/)
 - [Learn to Code: What’s the Best Programming Language to Learn First?](https://makeawebsitehub.com/which-programming-language/)
 - [The Best Web Programming Languages to Learn](https://sf.tradepub.com/free-offer/the-best-web-programming-languages-to-learn/w_webd10)
