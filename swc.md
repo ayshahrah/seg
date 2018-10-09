@@ -183,11 +183,11 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 #### MOOCs
 
+- [Microservices - Fundamentals](https://www.coursera.org/learn/intro-ibm-microservices)
 - [Industry 4.0: How to Revolutionize your Business](https://www.edx.org/course/industry-4-0-how-revolutionize-business-hkpolyux-i4-0x)
 - [Emerging Technologies: From Smartphones to IoT to Big Data Specialization](https://www.coursera.org/specializations/emerging-technologies)
 - [Internet of Things](https://www.coursera.org/specializations/internet-of-things)
 - [The Internet of Things](https://www.futurelearn.com/courses/internet-of-things)
-- [Microservices - Fundamentals](https://www.coursera.org/learn/intro-ibm-microservices)
 - [An Introduction to Programming the Internet of Things (IOT)](https://www.coursera.org/specializations/iot)
 - [A developer's guide to the Internet of Things (IoT)](https://www.coursera.org/learn/developer-iot)
 - [Unpacking the Internet of Things (IoT)](https://www.udemy.com/unpacking-the-internet-of-things/)
