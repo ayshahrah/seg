@@ -231,6 +231,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Microservices Reference Architecture](https://www.nginx.com/resources/library/microservices-reference-architecture/)
 - [Designing and Deploying Microservices](https://www.nginx.com/resources/library/designing-deploying-microservices/)
 - [microservices.io](http://microservices.io)
+- [API Academy Resources](https://www.apiacademy.co/resources)
 - [High Scalability](http://highscalability.com/)
 - [All Things Distributed](http://www.allthingsdistributed.com/)
 - [DevOps For Dummies](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
