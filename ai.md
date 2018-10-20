@@ -10,6 +10,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 
 - [5 Skills You Need to Become a Machine Learning Engineer](https://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html)
 - [Transitioning from Software Engineering to Artificial Intelligence](https://blog.insightdatascience.com/preparing-for-the-transition-to-applied-ai-d41e48403447)
+- [Machine Learning Engineer Job Description](https://www.toptal.com/machine-learning/job-description)
 
 ### Possible Roles
 
