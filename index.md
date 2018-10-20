@@ -34,7 +34,7 @@ The SEG is mainly developed based on the main knowledge areas of the software de
 
 ### Learning Paths
 
-The SEG currently includes 11 different role-based learning paths (specializations). SEG provides guiding information and learning resources for each learning path.
+The SEG currently includes 12 different role-based learning paths (specializations). SEG provides guiding information and learning resources for each learning path.
 
 1. [Software Requirements Engineer](swr.md)
 2. [Software Designer](swd.md)
