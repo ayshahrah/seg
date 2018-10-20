@@ -47,7 +47,7 @@ The SEG currently includes 11 different role-based learning paths (specializatio
 9. [Data Scientist](ds.md)
 10. [Artificial Intelligence Engineer](ai.md)
 11. [Blockchain Developer](bc.md)
-//12. [Virtual or Augmented Reality Developer](var.md)
+12. [Virtual or Augmented Reality Developer](var.md)
 
 ### Interpersonal Skills
 
