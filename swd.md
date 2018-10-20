@@ -16,6 +16,10 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 ![](swd.png)
 *Source: [SWEBOK V3](https://www.computer.org/web/swebok/v3)*
 
+- [Web Designer Job Description](https://www.toptal.com/web/job-description)
+- [User Interface (UI) Designer Job Description](https://www.toptal.com/designers/ui/job-description)
+- [User-Experience (UX) Job Description](https://www.toptal.com/designers/ux/job-description)
+
 ### Possible Roles
 
 - [Software Designer](https://www.softwareengineerinsider.com/careers/software-designer.html)
