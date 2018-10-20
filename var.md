@@ -9,7 +9,8 @@ Augmented reality is the integration of digital information with the user's envi
 
 ### Knowledge and Skills
 
-- [Don’t Get Disrupted: Blockchain Skills Your Business Needs for Success](https://business.udemy.com/blog/dont-get-disrupted-blockchain-skills-your-business-needs-for-success/)
+- [VR vs AR vs MR: Differences and Real-Life Applications](https://rubygarage.org/blog/difference-between-ar-vr-mr)
+- [AR vs. VR: What's the Difference?](https://me.pcmag.com/consumer/9919/feature/ar-vs-vr-whats-the-difference)
 
 ### Possible Roles
 
@@ -18,8 +19,8 @@ Augmented reality is the integration of digital information with the user's envi
 
 ### How To
 
-- [How to Become a Blockchain Developer](https://x-team.com/become-blockchain-developer/)
-- [How To Become A Blockchain Developer: Cram Session](https://blockgeeks.com/guides/blockchain-developer/)
+- [How you can become an AR/VR developer](https://blog.pusher.com/how-you-can-become-an-ar-vr-developer/)
+- [How to become a Unity developer for VR and AR](https://www.techrepublic.com/article/how-to-become-a-unity-developer-for-vr-and-ar/)
 
 ### Professional Certifications
 
@@ -42,7 +43,7 @@ Augmented reality is the integration of digital information with the user's envi
 
 ### Resources Collections
 
-- [Awesome Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme)
+- [VR, AR and Mixed Reality Resources](https://blog.prototypr.io/vr-and-mixed-reality-resources-90a57498220e)
 - [Blockchain Resources](https://github.com/blockchainedindia/resources)
 
 ## Learning Resources
@@ -66,8 +67,9 @@ Augmented reality is the integration of digital information with the user's envi
 
 #### Others
 
-- [The authoritative guide to blockchain development](https://medium.freecodecamp.org/the-authoritative-guide-to-blockchain-development-855ab65b58bc)
-- [A free guide for non-coders to learn blockchain tech in 6 months or less](https://medium.com/coinmonks/free-resources-to-get-a-blockchain-job-in-6-months-or-less-for-non-coders-5ddee72fbc7b)
+- [The Complete Beginner’s Guide to VR Development](http://www.vudream.com/complete-beginners-guide-to-vr-development/)
+- [Six Top Tools to Build Augmented Reality Mobile Apps](https://www.infoq.com/articles/augmented-reality-best-skds)
+- [How to pick the right authoring tools for VR and AR](https://www.oreilly.com/ideas/how-to-pick-the-right-authoring-tools-for-vr-and-ar)
 
 ### Beginner
 
