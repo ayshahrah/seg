@@ -14,8 +14,8 @@ Augmented reality is the integration of digital information with the user's envi
 
 ### Possible Roles
 
-- [Blockchain Developer](https://www.toptal.com/blockchain/job-description)
-- [Blockchain Engineer](https://study.com/articles/blockchain_engineer_job_description_salary.html)
+- [Virtual Reality Developer](https://www.paysa.com/salaries/virtual-reality-developer--t)
+- [Augmented Reality Developer](https://www.paysa.com/salaries/augmented-reality-developer--t)
 
 ### How To
 
