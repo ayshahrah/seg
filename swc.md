@@ -118,7 +118,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 #### MOOCs
 
-- [Udacity: Imagine your future!](https://www.udacity.com/pathfinder)
+- [Programming and Development - Udacity](https://sa.udacity.com/courses/school-of-development)
 - [Computer Science - coursera](https://www.coursera.org/browse/computer-science?languages=en)
 - [Computer Science - edx](https://www.edx.org/course/subject/computer-science)
 - [Computer programming - khan academy](https://www.khanacademy.org/computing/computer-programming)
