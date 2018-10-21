@@ -24,7 +24,7 @@ Augmented reality is the integration of digital information with the user's envi
 
 ### Professional Certifications
 
-- [8 Blockchain Certifications and Courses for Professionals](https://news.coinify.com/8-professional-blockchain-certifications/)
+
 
 ### Community of Interest
 
