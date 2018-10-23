@@ -58,6 +58,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 
 ### Resources Collections
 
+- [HowDo Artificial Intelligence](https://howdo.com/growth-primers/artificial-intelligence/)
 - [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [AI Valley](https://ai-valley.com/)
 - [Curated List of AI and Machine Learning Resources](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
