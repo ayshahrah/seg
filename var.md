@@ -19,18 +19,20 @@ Augmented reality is the integration of digital information with the user's envi
 
 ### How To
 
+- [How to Get into VR](https://blog.ycombinator.com/how-to-get-into-vr/)
 - [How you can become an AR/VR developer](https://blog.pusher.com/how-you-can-become-an-ar-vr-developer/)
 - [How to become a Unity developer for VR and AR](https://www.techrepublic.com/article/how-to-become-a-unity-developer-for-vr-and-ar/)
 
 ### Professional Certifications
 
-
+- [Unity Certification](https://certification.unity.com/)
 
 ### Community of Interest
 
-- [blockchain - DEV Community](https://dev.to/t/blockchain)
-- [The Topcoder Blockchain Community](https://blockchain.topcoder.com/)
-- [LinkedIn - Blockchain](https://www.linkedin.com/groups/1922105/)
+- [The VR/AR Association](http://www.thevrara.com/)
+- [Unity AR/VR (XR) Discussion](https://forum.unity.com/forums/ar-vr-xr-discussion.80/)
+- [Google+ Virtual Reality and Augmented Reality](https://plus.google.com/communities/103462486213122557343)
+- [Google+ Augmented Reality Developers](https://plus.google.com/communities/105671705304716193960)
 
 ### Blogs
 
@@ -43,8 +45,8 @@ Augmented reality is the integration of digital information with the user's envi
 
 ### Resources Collections
 
+- [HowDo Augmented & Virtual Reality](https://howdo.com/growth-primers/augmented-virtual-reality/#ar-vr-essential-reading)
 - [VR, AR and Mixed Reality Resources](https://blog.prototypr.io/vr-and-mixed-reality-resources-90a57498220e)
-- [Blockchain Resources](https://github.com/blockchainedindia/resources)
 
 ## Learning Resources
 
@@ -89,8 +91,8 @@ Augmented reality is the integration of digital information with the user's envi
 #### Others
 
 - [Blockchain for Dummies](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XIM12354USEN)
-- [What is a blockchain?](https://www.oreilly.com/ideas/what-is-a-blockchain)
-- [Blockchain applications](https://www.oreilly.com/ideas/blockchain-applications)
+- [AR 101 — Learn the basics of Augmented Reality](https://blog.viromedia.com/ar-101-learn-the-basics-of-augmented-reality-4b100e136242)
+- [Google VR](https://developers.google.com/vr/)
 - [Hyperledger](https://www.hyperledger.org/)
 - [blockchain.mit.edu](http://blockchain.mit.edu/)
 - [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
