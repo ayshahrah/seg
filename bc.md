@@ -42,6 +42,7 @@ In the past, blockchains were commonly associated with digital currencies, and B
 
 ### Resources Collections
 
+- [HowDo Blockchain](https://howdo.com/growth-primers/blockchain/blockchain-primer/)
 - [Awesome Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme)
 - [Blockchain Resources](https://github.com/blockchainedindia/resources)
 
