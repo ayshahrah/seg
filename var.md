@@ -36,17 +36,22 @@ Augmented reality is the integration of digital information with the user's envi
 
 ### Blogs
 
-- [Blockchain - Medium](https://blog.feedspot.com/blockchain_blogs/)
-- [Top 25 Blockchain Blogs and Websites on Blockchain Technology](https://blog.feedspot.com/blockchain_blogs/)
+- [Top 50 Virtual Reality Blogs, Websites & Newsletters](https://blog.feedspot.com/virtual_reality_blogs/)
+- [Top 50 Augmented Reality Blogs and Websites](https://blog.feedspot.com/augmented_reality_blogs/)
 
 ### Market Insights
 
-- [Developer - Blockchain](https://www.linkedin.com/title/developer-at-blockchain)
+- [Virtual Reality](https://www.linkedin.com/topic/virtual-reality)
+- [Augmented Reality](https://www.linkedin.com/topic/augmented-reality)
+- [Unity Developer](https://www.linkedin.com/title/unity-developer)
 
 ### Resources Collections
 
 - [HowDo Augmented & Virtual Reality](https://howdo.com/growth-primers/augmented-virtual-reality/#ar-vr-essential-reading)
 - [VR, AR and Mixed Reality Resources](https://blog.prototypr.io/vr-and-mixed-reality-resources-90a57498220e)
+- [VR-Awesome](https://github.com/Vytek/VR-Awesome)
+- [Awesome Augmented Realit](https://github.com/Domeee/awesome-augmented-reality)
+
 
 ## Learning Resources
 
