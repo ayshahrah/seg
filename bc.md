@@ -78,7 +78,6 @@ In the past, blockchains were commonly associated with digital currencies, and B
 - [Blockchain Fundamentals](https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals)
 - [Blockchain: Foundations and Use Cases](https://www.coursera.org/learn/blockchain-foundations-and-use-cases)
 - [Blockchain Essentials](https://cognitiveclass.ai/courses/blockchain-course/)
-- [IBM Blockchain Foundation for Developers](https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers)
 
 #### Webinars
 
@@ -98,6 +97,7 @@ In the past, blockchains were commonly associated with digital currencies, and B
 
 #### MOOCs
 
+- [IBM Blockchain Foundation for Developers](https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers)
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 - [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
