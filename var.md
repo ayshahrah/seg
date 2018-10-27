@@ -49,9 +49,9 @@ Augmented reality is the integration of digital information with the user's envi
 
 - [HowDo Augmented & Virtual Reality](https://howdo.com/growth-primers/augmented-virtual-reality/#ar-vr-essential-reading)
 - [VR, AR and Mixed Reality Resources](https://blog.prototypr.io/vr-and-mixed-reality-resources-90a57498220e)
+- [The Comprehensive Guide to Getting Started in Virtual Reality](https://medium.com/@KristianBouw/the-comprehensive-guide-to-getting-started-in-virtual-reality-c6a6419cf8cf)
 - [VR-Awesome](https://github.com/Vytek/VR-Awesome)
 - [Awesome Augmented Realit](https://github.com/Domeee/awesome-augmented-reality)
-
 
 ## Learning Resources
 
@@ -70,42 +70,46 @@ Augmented reality is the integration of digital information with the user's envi
 
 #### Webinars
 
-- [Blockchain Technology Explained](https://www.youtube.com/watch?v=qOVAbKKSH10)
+- [How VR, AR, MR and XR are changing the world](https://www.youtube.com/watch?v=WYxj5_OR53w)
+- [The future of Virtual and Augmented Reality for the web](https://youtu.be/fiUhSLwaA6o)
 
 #### Others
 
 - [The Complete Beginner’s Guide to VR Development](http://www.vudream.com/complete-beginners-guide-to-vr-development/)
 - [Six Top Tools to Build Augmented Reality Mobile Apps](https://www.infoq.com/articles/augmented-reality-best-skds)
-- [How to pick the right authoring tools for VR and AR](https://www.oreilly.com/ideas/how-to-pick-the-right-authoring-tools-for-vr-and-ar)
+- [How to pick the right authoring tools for VR and AR](https://www.youtube.com/watch?v=ipEy_Iz7hhw)
 
 ### Beginner
 
 #### MOOCs
 
-- [Blockchain](https://www.coursera.org/specializations/blockchain)
-- [Blockchain Fundamentals](https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals)
-- [Blockchain: Foundations and Use Cases](https://www.coursera.org/learn/blockchain-foundations-and-use-cases)
-- [Blockchain Essentials](https://cognitiveclass.ai/courses/blockchain-course/)
-- [IBM Blockchain Foundation for Developers](https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers)
+- [Introduction to XR: VR, AR, and MR Foundations](https://www.coursera.org/learn/xr-introduction)
+- [Introduction to Virtual Reality](https://sa.udacity.com/course/introduction-to-virtual-reality--ud1012)
+- [Getting started with Augmented Reality](https://www.coursera.org/learn/augmented-reality)
+- [VR Scenes and Objects](https://sa.udacity.com/course/vr-scenes-and-objects--ud1013)
+- [VR Interview Prep](https://sa.udacity.com/course/vr-interview-prep--ud251)
 
 #### Webinars
 
-- [Blockchain: How Real Is The Market?](https://www.gartner.com/webinar/3607520)
-- [Blockchain Special Report: What to Expect in 2018](https://www.gartner.com/webinar/3858509)
+- [Virtual Reality and Augmented Reality](https://youtu.be/fiUhSLwaA6o)
+- [Augmented Reality 101](http://vroomtechnology.com/augmented-reality-101/)
 
 #### Others
 
-- [Blockchain for Dummies](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XIM12354USEN)
 - [AR 101 — Learn the basics of Augmented Reality](https://blog.viromedia.com/ar-101-learn-the-basics-of-augmented-reality-4b100e136242)
 - [Google VR](https://developers.google.com/vr/)
-- [Hyperledger](https://www.hyperledger.org/)
-- [blockchain.mit.edu](http://blockchain.mit.edu/)
-- [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
+- [XinReality](https://xinreality.com/wiki/Main_Page)
 
 ### Intermediate
 
 #### MOOCs
 
+- [VR Software Development](https://sa.udacity.com/course/vr-software-development--ud1014)
+- [Virtual Reality (VR) App Development](https://www.edx.org/professional-certificate/virtual-reality-vr-app-development)
+- [Unity XR: How to Build AR and VR Apps](https://www.coursera.org/specializations/unity-xr)
+- [Exploring the Mixed Reality Landscape](https://www.kadenze.com/courses/exploring-the-mixed-reality-landscape/info)
+- [Learn ARKit using Swift](https://sa.udacity.com/course/learn-arkit-using-swift--ud116)
+- [Learn ARKit using Unity](https://sa.udacity.com/course/learn-arkit-using-unity--ud114)
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 - [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
@@ -149,9 +153,7 @@ Augmented reality is the integration of digital information with the user's envi
 
 #### Webinars
 
-- [IBM Blockchain webinars](https://www.ibm.com/blockchain/news-and-events/webinars)
-- [Blockchain Council webinars](https://www.blockchain-council.org/webinars/)
-- [BrightTALK webinars](https://www.brighttalk.com/search?q=blockchain)
+- [VR/AR Association webinars](http://www.thevrara.com/webinars/)
 
 #### Others
 
