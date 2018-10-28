@@ -38,21 +38,21 @@ The SEG currently includes 12 different role-based learning paths (specializatio
 
 **Traditional Roles:**
 
-1. [Software Requirements Engineer](swr.md)
-2. [Software Designer](swd.md)
-3. [Software Programmer](swc.md)
-4. [Software Tester](swt.md)
-5. [Software Administrator](swm.md)
-6. [Software Quality Engineer](swq.md)
-7. [Software Security Engineer](sws.md)
-8. [Software Project Manager](swem.md)
+- [Software Requirements Engineer](swr.md)
+- [Software Designer](swd.md)
+- [Software Programmer](swc.md)
+- [Software Tester](swt.md)
+- [Software Administrator](swm.md)
+- [Software Quality Engineer](swq.md)
+- [Software Security Engineer](sws.md)
+- [Software Project Manager](swem.md)
 
 **Emerging Roles:**
 
-9. [Data Scientist](ds.md)
-10. [Artificial Intelligence Engineer](ai.md)
-11. [Blockchain Developer](bc.md)
-12. [Virtual and Augmented Reality Developer](var.md)
+- [Data Scientist](ds.md)
+- [Artificial Intelligence Engineer](ai.md)
+- [Blockchain Developer](bc.md)
+- [Virtual and Augmented Reality Developer](var.md)
 
 ### Interpersonal Skills
 
