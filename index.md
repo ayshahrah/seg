@@ -37,6 +37,7 @@ The SEG is mainly developed based on the main knowledge areas of the software de
 The SEG currently includes 12 different role-based learning paths (specializations). SEG provides guiding information and learning resources for each learning path.
 
 **Traditional Roles:**
+
 1. [Software Requirements Engineer](swr.md)
 2. [Software Designer](swd.md)
 3. [Software Programmer](swc.md)
@@ -47,6 +48,7 @@ The SEG currently includes 12 different role-based learning paths (specializatio
 8. [Software Project Manager](swem.md)
 
 **Emerging Roles:**
+
 9. [Data Scientist](ds.md)
 10. [Artificial Intelligence Engineer](ai.md)
 11. [Blockchain Developer](bc.md)
