@@ -28,7 +28,7 @@ The SEG is inspired by a framework that combines three essential components to m
 
 ### Knowledge Areas
 
-The SEG is mainly developed based on the main knowledge areas of the software development lifecycle (SDLC) included in the Software Engineering Body of Knowledge ([SWEBOK V3](https://www.computer.org/web/swebok/v3)). Each knowledge area can be mapped to a career path in the industry. Furthermore, there are cross-knowledge area and new career paths, such as data scientist and artificial intelligence engineer.
+The SEG is mainly developed based on the main knowledge areas of the software development lifecycle (SDLC) included in the Software Engineering Body of Knowledge ([SWEBOK V3](https://www.computer.org/web/swebok/v3)). Each knowledge area can be mapped to a career path in the industry. Furthermore, there are cross-knowledge area and emerging career paths, such as data scientist and artificial intelligence engineer.
 
 ![](Slide8.JPG "Knowledge Areas") 
 
@@ -36,6 +36,7 @@ The SEG is mainly developed based on the main knowledge areas of the software de
 
 The SEG currently includes 12 different role-based learning paths (specializations). SEG provides guiding information and learning resources for each learning path.
 
+####Traditional Roles:
 1. [Software Requirements Engineer](swr.md)
 2. [Software Designer](swd.md)
 3. [Software Programmer](swc.md)
@@ -44,6 +45,8 @@ The SEG currently includes 12 different role-based learning paths (specializatio
 6. [Software Quality Engineer](swq.md)
 7. [Software Security Engineer](sws.md)
 8. [Software Project Manager](swem.md)
+
+####Emerging Roles:
 9. [Data Scientist](ds.md)
 10. [Artificial Intelligence Engineer](ai.md)
 11. [Blockchain Developer](bc.md)
