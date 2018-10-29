@@ -89,8 +89,8 @@ The data science field employs mathematics, statistics and computer science disc
 - [Data engineers vs. data scientists](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
 - [Top Programming Languages for a Data Scientist](https://www.simplilearn.com/top-programming-languages-for-data-scientist-guide-pdf)
 - [Which Languages Should You Learn For Data Science?](https://medium.freecodecamp.org/which-languages-should-you-learn-for-data-science-e806ba55a81f)
-- [Quick Intro to Statistics — Power Your Stories with Data](https://hackernoon.com/quick-intro-to-statistics-power-your-stories-with-data-a3a35785692b)
 - [Essential Math for Data Science — ‘Why’ and ‘How’](https://towardsdatascience.com/essential-math-for-data-science-why-and-how-e88271367fbd)
+- [Quick Intro to Statistics — Power Your Stories with Data](https://hackernoon.com/quick-intro-to-statistics-power-your-stories-with-data-a3a35785692b)
 
 ### Beginner
 
