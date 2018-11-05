@@ -159,6 +159,7 @@ In one sense, it should be possible to manage a software engineering project in 
 - [New Business Markets in the Internet of Things (IoT)](https://www.udemy.com/new-business-markets-in-iot/)
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
+- [Introduction to DevOps: Transforming and Improving Operations](https://www.edx.org/course/introduction-to-devops-transforming-and-improving-operations)
 - [Microsoft Professional Program - DevOps](https://academy.microsoft.com/en-us/professional-program/tracks/devops/)
 - **[Entrepreneurship Skills](es.md)**
 
