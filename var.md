@@ -110,6 +110,7 @@ Augmented reality is the integration of digital information with the user's envi
 - [Exploring the Mixed Reality Landscape](https://www.kadenze.com/courses/exploring-the-mixed-reality-landscape/info)
 - [Learn ARKit using Swift](https://sa.udacity.com/course/learn-arkit-using-swift--ud116)
 - [Learn ARKit using Unity](https://sa.udacity.com/course/learn-arkit-using-unity--ud114)
+- [Unity Certified Programmer Exam Preparation](https://www.coursera.org/specializations/unity-certified-programmer)
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 - [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
