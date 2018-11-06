@@ -26,6 +26,7 @@
 - [Effective Communication: Writing, Design, and Presentation](https://www.coursera.org/specializations/effective-business-communication)
 - [Teamwork & Collaboration](https://www.edx.org/course/teamwork-collaboration-ritx-skills102x-0)
 - [Achieving Personal and Professional Success](https://www.coursera.org/specializations/wharton-success)
+- [Communication Strategies for a Virtual Age](https://www.coursera.org/learn/communication-strategies-virtual-age)
 
 **Career:**
 - [Career Development: Skills for Success](https://www.edx.org/xseries/career-development-skills-success)
