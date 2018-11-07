@@ -32,5 +32,11 @@
 - [Career Development: Skills for Success](https://www.edx.org/xseries/career-development-skills-success)
 - [Employability Skills](https://iversity.org/en/courses/employability-skills-may-2016)
 
+**Emotional Intelligence:**
+- [Emotional Intelligence at Work](https://www.futurelearn.com/courses/emotional-intelligence-at-work)
+- [Empathy and Emotional Intelligence at Work](https://www.edx.org/course/empathy-emotional-intelligence-work-uc-berkeleyx-gg203x)
+- [Leadership and Emotional Intelligence](https://www.coursera.org/learn/emotional-intelligence-in-leadership)
+- [Inspiring Leadership through Emotional Intelligence](https://www.coursera.org/learn/emotional-intelligence-leadership)
+
 
 
