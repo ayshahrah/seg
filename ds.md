@@ -132,6 +132,7 @@ The data science field employs mathematics, statistics and computer science disc
 - [Data Science - coursera](https://www.coursera.org/specializations/jhu-data-science)
 - [Data Science - edx](https://www.edx.org/professional-certificate/harvardx-data-science#courses)
 - [Information Visualization](https://www.coursera.org/specializations/information-visualization)
+- [Data Visualization](https://www.coursera.org/specializations/datavisualization)
 - [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
 - [Microsoft Professional Program - Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
 - [Microsoft Virtual Academy](https://mva.microsoft.com/)
