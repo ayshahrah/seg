@@ -10,11 +10,11 @@
 - [Critical Thinking & Problem-Solving](https://www.edx.org/course/critical-thinking-problem-solving-ritx-skills103x)
 
 **Design Thinking:**
+- [A Virtual Crash Course in Design Thinking](https://dschool.stanford.edu/resources/a-virtual-crash-course-in-design-thinking)
 - [Design Thinking for Innovation](https://www.coursera.org/learn/uva-darden-design-thinking-innovation)
 - [Introduction to Design Thinking](https://www.edx.org/course/introduction-design-thinking-microsoft-dev241x-1)
 - [Design Thinking](https://www.edx.org/micromasters/design-thinking)
 - [Design Thinking: Ideation, Iteration and Communication](https://www.edx.org/course/design-thinking-ideation-iteration-ritx-think503x)
-- [A Virtual Crash Course in Design Thinking](https://dschool.stanford.edu/resources/a-virtual-crash-course-in-design-thinking)
 
 **Presentation:**
 - [Dynamic Public Speaking](https://www.coursera.org/specializations/public-speaking)
