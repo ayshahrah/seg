@@ -35,6 +35,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [How to Become a Web Developer](https://sf.tradepub.com/free-offer/how-to-become-a-web-developer/w_webd08)
 - [How to Become a Mobile App Developer](https://buildfire.com/become-mobile-app-developer/)
 - [Roadmap to becoming a web developer](https://github.com/kamranahmedse/developer-roadmap)
+- [Beginner’s Web Development Guide](https://www.devtrails.io/web-development)
 - [A Guide to Becoming a Full-Stack Developer in 2017](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)
 
 ### Professional Certifications
