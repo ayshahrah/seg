@@ -129,6 +129,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Database Systems Concepts & Design](https://sa.udacity.com/course/database-systems-concepts-design--ud150)
 - [Intro to Relational Databases](https://sa.udacity.com/course/intro-to-relational-databases--ud197)
 - [Algorithms](https://www.coursera.org/specializations/algorithms)
+- [Open Source Software Development, Linux and Git](https://www.coursera.org/specializations/oss-development-linux-git)
 
 #### Webinars
 
