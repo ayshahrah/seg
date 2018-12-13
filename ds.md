@@ -26,6 +26,7 @@ The data science field employs mathematics, statistics and computer science disc
 - [How to Become a Data Engineer](https://dzone.com/articles/how-to-become-a-data-engineer)
 - [How to get your first job in Data Science?](https://medium.com/the-mission/how-to-break-into-the-data-science-market-f0e0b79b42f7)
 - [Learn How to Get Your First Data Science Job](https://www.springboard.com/resources/guide-to-data-science-jobs/)
+- [3 common data science career transitions, and how to make them happen](https://towardsdatascience.com/3-common-data-science-career-transitions-and-how-to-make-them-happen-588c3618942f)
 
 ### Professional Certifications
 
