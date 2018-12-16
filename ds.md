@@ -129,9 +129,10 @@ The data science field employs mathematics, statistics and computer science disc
 
 #### MOOCs
 
-- [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)
 - [Data Science - coursera](https://www.coursera.org/specializations/jhu-data-science)
 - [Data Science - edx](https://www.edx.org/professional-certificate/harvardx-data-science#courses)
+- [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)
+- [Data Science with Python](https://www.edx.org/professional-certificate/data-science-with-python)
 - [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
 - [Microsoft Professional Program - Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
 - [Microsoft Virtual Academy](https://mva.microsoft.com/)
