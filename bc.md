@@ -79,6 +79,7 @@ In the past, blockchains were commonly associated with digital currencies, and B
 - [Blockchain: Foundations and Use Cases](https://www.coursera.org/learn/blockchain-foundations-and-use-cases)
 - [Blockchain Essentials](https://cognitiveclass.ai/courses/blockchain-course/)
 - [Blockchain Technology](https://www.edx.org/course/blockchain-advancing-decentralized-technology)
+- [Blockchain 360: A State of the Art for Professionals](https://www.coursera.org/learn/blockchain-professionals)
 
 #### Webinars
 
