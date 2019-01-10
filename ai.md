@@ -33,7 +33,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 - [Top Certification Courses on Machine Learning](https://dzone.com/articles/top-certification-courses-on-machine-learning)
 - [MCSA: Machine Learning](https://www.microsoft.com/en-us/learning/mcsa-machine-learning.aspx)
 
-### Community of Interest
+### Online Communities
 
 - [Google+ - Artificial Intelligence](https://plus.google.com/communities/116461000134682563789)
 - [Google+ - Machine Learning](https://plus.google.com/communities/107785538899595981479)
