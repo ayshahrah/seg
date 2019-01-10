@@ -27,7 +27,7 @@ Augmented reality is the integration of digital information with the user's envi
 
 - [Unity Certification](https://certification.unity.com/)
 
-### Community of Interest
+### Online Communities
 
 - [The VR/AR Association](http://www.thevrara.com/)
 - [Unity AR/VR (XR) Discussion](https://forum.unity.com/forums/ar-vr-xr-discussion.80/)
