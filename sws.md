@@ -35,7 +35,7 @@ A generally accepted view concerning software security is that it is much better
 - [GIAC Software Security](http://www.giac.org/certifications/software-security)
 - [8 most in-demand IT security certifications](http://www.cio.com/article/2951115/certifications/8-most-in-demand-it-security-certifications.html#slide1)
 
-### Community of Interest
+### Online Communities
 
 - [OWASP](http://www.modernanalyst.com/Home.aspx)
 - [CWE](https://cwe.mitre.org/index.html)
