@@ -30,7 +30,7 @@ These definitions also illustrate another reason for the prevalence of software 
 - [The International Software Certifications Board’s (ISCB) Certifications](http://www.softwarecertifications.org/process/software-certifications-overview/)
 - [Software Quality Engineer Certification (CSQE)](https://asq.org/cert/software-quality-engineer)
 
-### Community of Interest
+### Online Communities
 
 - [StickyMinds](https://www.stickyminds.com/)
 - [LinkedIn - Software Quality (2967339)](https://www.linkedin.com/groups/2967339/profile)
