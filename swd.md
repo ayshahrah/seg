@@ -48,7 +48,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [The Software Engineering Institute (SEI) Software Architecture Certificates](https://www.sei.cmu.edu/training/certificates/architecture/)
 - [International Software Architecture Qualification Board (iSAQB) Certifications](http://www.isaqb.org/certifications/)
 
-### Community of Interest
+### Online Communities
 
 - [International Association of Software Architects (IASA)](http://iasaglobal.org/)
 - [Top 12 Design Communities for UX/UI Designers and Developers](https://blog.prototypr.io/top-12-design-communities-for-ux-ui-designers-and-developers-8fce239d8ed7)
