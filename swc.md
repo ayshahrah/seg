@@ -45,7 +45,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Best Computer Programming Certifications For 2017](http://www.tomsitpro.com/articles/programming-certifications,2-274.html)
 - [Programming and Developer Certifications](http://certification.about.com/cs/beginner/a/progcerts.htm)
 
-### Community of Interest
+### Online Communities
 
 - [Top 10 Sites to Ask All Your Programming Questions](http://www.hongkiat.com/blog/programming-questions-websites/)
 - [14 Programming Communities for Developers, Hackers](http://codecondo.com/programming-communities/)
