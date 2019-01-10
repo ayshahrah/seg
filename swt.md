@@ -35,7 +35,7 @@ For many organizations, the approach to software quality is one of prevention: i
 - [British Computer Society (BCS) Certifications](http://certifications.bcs.org/category/15568)
 - [International Institute of Software Testing (IIST)](http://testinginstitute.com/software-testing-certifications.php)
 
-### Community of Interest
+### Online Communities
 
 - [The Association for Software Testing](https://www.associationforsoftwaretesting.org/)
 - [Software Testing Community](https://plus.google.com/communities/113791676149912683317)
