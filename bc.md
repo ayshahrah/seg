@@ -25,7 +25,7 @@ In the past, blockchains were commonly associated with digital currencies, and B
 
 - [8 Blockchain Certifications and Courses for Professionals](https://news.coinify.com/8-professional-blockchain-certifications/)
 
-### Community of Interest
+### Online Communities
 
 - [blockchain - DEV Community](https://dev.to/t/blockchain)
 - [The Topcoder Blockchain Community](https://blockchain.topcoder.com/)
