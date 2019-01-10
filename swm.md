@@ -31,7 +31,7 @@ Software maintenance is defined as the totality of activities required to provid
 - [Best System Administrator Certifications For 2017](http://www.tomsitpro.com/articles/system-administrator-certifications,2-632.html)
 - [CompTIA Career Roadmap](https://certification.comptia.org/why-certify/roadmap#.WEbilLmJITw.linkedin)
 
-### Community of Interest
+### Online Communities
 
 - [League of Professional System Administrators (LOPSA)](https://lopsa.org/)
 - [LinkedIn - System Administrator](https://www.linkedin.com/groups/51443/)
