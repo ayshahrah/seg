@@ -32,7 +32,7 @@ The data science field employs mathematics, statistics and computer science disc
 
 - [The Top Data Science Certifications Employers Look For](https://www.datasciencegraduateprograms.com/certification/)
 
-### Community of Interest
+### Online Communities
 
 - [Data Science Communities](https://www.ngdata.com/top-data-science-resources/#Communities)
 - [LinkedIn - Data Science Central](https://www.linkedin.com/groups/35222/profile)
