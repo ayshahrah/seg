@@ -36,7 +36,7 @@ Quality.
 - [PMI Professional in Business Analysis (PMI-PBA)](https://www.pmi.org/certifications/types/business-analysis-pba)
 - [British Computer Society (BCS) Certifications](http://certifications.bcs.org/category/15680)
 
-### Community of Interest
+### Online Communities
 
 - [Modernanalyst.com](http://www.modernanalyst.com/Home.aspx)
 - [LinkedIn - IIBA (International Institute of Business Analysis)](https://www.linkedin.com/groups/92583/profile)
