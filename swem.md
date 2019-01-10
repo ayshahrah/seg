@@ -36,7 +36,7 @@ In one sense, it should be possible to manage a software engineering project in 
 - [Agile Certified Practitioner (PMI-ACP)](https://www.pmi.org/certification/agile-management-acp.aspx)
 - [Certified ScrumMaster (CSM)](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm)
 
-### Community of Interest
+### Online Communities
 
 - [ProjectManagement.com](https://www.projectmanagement.com/)
 - [LinkedIn - Project Manager Community](https://www.linkedin.com/groups/35313/profile)
