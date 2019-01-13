@@ -85,6 +85,7 @@ The data science field employs mathematics, statistics and computer science disc
 
 #### Others
 
+- [Data Science Academy](https://www.coursera.org/academy/data-science)
 - [Data Scientist: The Numbers Game Deciphered](https://www.simplilearn.com/the-numbers-game-deciphered-guide-pdf)
 - [Data Science Interview Guide](https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778)
 - [Data Engineering vs. Data Science Infographic](https://www.datacamp.com/community/blog/data-engineering-vs-data-science-infographic)
