@@ -137,6 +137,7 @@ The data science field employs mathematics, statistics and computer science disc
 - [Microsoft Professional Program - Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
 - [Microsoft Virtual Academy](https://mva.microsoft.com/)
 - [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)
+- [Data Analysis: Absolute Beginners](https://www.edx.org/professional-certificate/data-analysis-absolute-beginners)
 - [Data Analysis and Presentation Skills](https://www.coursera.org/specializations/pwc-analytics)
 - [Business Analytics - coursera](https://www.coursera.org/specializations/business-analytics)
 - [Business Analytics - edx](https://www.edx.org/micromasters/business-analytics)
