@@ -16,7 +16,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 ![](swc.png)
 *Source: [SWEBOK V3](https://www.computer.org/web/swebok/v3)*
 
-- [Web Developer Job Description](https://platform.toptal.com/web/job-description)
 - [Front-End Web Developer Job Description](https://www.toptal.com/front-end/job-description)
 - [Back-End Web Developer Job Description](https://www.toptal.com/back-end/job-description)
 - [iOS Developer Job Description](https://www.toptal.com/ios/job-description)
