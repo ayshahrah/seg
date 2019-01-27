@@ -127,7 +127,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Microsoft Virtual Academy](https://mva.microsoft.com/)
 - [Database Systems Concepts & Design](https://sa.udacity.com/course/database-systems-concepts-design--ud150)
 - [Intro to Relational Databases](https://sa.udacity.com/course/intro-to-relational-databases--ud197)
-- [Algorithms](https://www.coursera.org/specializations/algorithms)
 
 #### Webinars
 
@@ -162,6 +161,10 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
 - [Open Source Software Development, Linux and Git](https://www.coursera.org/specializations/oss-development-linux-git)
+- [Algorithms](https://www.coursera.org/specializations/algorithms)
+- [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms)
+- [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+- [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 
 #### Webinars
 
