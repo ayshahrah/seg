@@ -159,6 +159,7 @@ Software maintenance is defined as the totality of activities required to provid
 - [Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes)
 - [Industry 4.0: How to Revolutionize your Business](https://www.edx.org/course/industry-4-0-how-revolutionize-business-hkpolyux-i4-0x)
 - [Emerging Technologies: From Smartphones to IoT to Big Data Specialization](https://www.coursera.org/specializations/emerging-technologies)
+- [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
 - [Internet of Things](https://www.coursera.org/specializations/internet-of-things)
 - [The Internet of Things](https://www.futurelearn.com/courses/internet-of-things)
 - [Unpacking the Internet of Things (IoT)](https://www.udemy.com/unpacking-the-internet-of-things/)
