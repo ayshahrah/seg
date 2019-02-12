@@ -40,6 +40,7 @@ Software maintenance is defined as the totality of activities required to provid
 
 - [O'Reilly - Operations](https://www.oreilly.com/topics/operations)
 - [TechBeacon - IT Ops](https://techbeacon.com/it-ops)
+- [opensource.com](https://opensource.com/)
 - [Flexera Software Blogs](http://blogs.flexerasoftware.com/)
 - [The Agile Admin](https://theagileadmin.com/)
 - [Top 30 Cloud Computing Blogs For Latest Cloud Technology News](http://blog.feedspot.com/cloud_computing_blogs/)
