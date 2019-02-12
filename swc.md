@@ -57,6 +57,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [O'Reilly - Web Programming](https://www.oreilly.com/topics/web-programming)
 - [TechBeacon - App Dev](https://techbeacon.com/app-dev)
 - [Techbeacon - Mobile](https://techbeacon.com/mobile)
+- [opensource.com](https://opensource.com/)
 - [Top 50 Software Development Blogs & Websites For Software Developers](http://blog.feedspot.com/software_development_blogs/)
 - [Top 50 Programming Blogs & Websites Every Programmer Must Follow](http://blog.feedspot.com/programming_blogs/)
 - [Best Web Development & Programming Blogs for 2017](https://www.codementor.io/codementorteam/best-programming-blogs-web-development-blogs-2017-quclkir3s)
