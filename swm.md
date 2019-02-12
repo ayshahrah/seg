@@ -181,6 +181,7 @@ Software maintenance is defined as the totality of activities required to provid
 
 #### Others
 
+- [Cloud Native DevOps With Kubernetes](https://www.nginx.com/resources/library/cloud-native-devops-with-kubernetes/)
 - [Application Migration to Cloud Best Practices Guide](https://techbeacon.com/resources/application-migration-cloud-best-practices-guide)
 - [TechTarget Search Cloud Computing](http://searchcloudcomputing.techtarget.com/)
 - [DevOps For Dummies](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
