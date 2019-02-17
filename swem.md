@@ -16,8 +16,9 @@ In one sense, it should be possible to manage a software engineering project in 
 
 ### Knowledge and Skills
 
-![](swem.png)
-*Source: [SWEBOK V3](https://www.computer.org/web/swebok/v3)*
+- [SWEBOK V3 - Chapter 7: Software Engineering Management](https://www.computer.org/web/swebok/v3)
+- [What to Expect From a Project Manager Job Description](https://www.paymoapp.com/academy/project-management-job-description/)
+- [Sample Project Manager Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/project-manager#)
 
 ### Possible Roles
 
@@ -26,6 +27,7 @@ In one sense, it should be possible to manage a software engineering project in 
 
 ### How To
 
+- [How To Become A Project Manager](https://thedigitalprojectmanager.com/how-to-become-a-project-manager/)
 - [How to Become a Project Manager in 6 Easy Steps](https://blog.capterra.com/how-to-become-a-project-manager/)
 - [How to Become an IT Project Manager: Step-by-Step Career Guide](https://study.com/articles/How_to_Become_an_IT_Project_Manager_Step-by-Step_Career_Guide.html)
 
@@ -80,7 +82,7 @@ In one sense, it should be possible to manage a software engineering project in 
 
 #### Others
 
-- Read the Chapter 7: Software Engineering Management in [SWEBOK V3](https://www.computer.org/web/swebok/v3)
+- [Project Management 101](https://www.brightwork.com/project-management-guide)
 
 ### Beginner
 
