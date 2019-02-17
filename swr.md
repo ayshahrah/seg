@@ -12,8 +12,8 @@ Quality.
 
 ### Knowledge and Skills
 
-![](swr.png)
-*Source: [SWEBOK V3](https://www.computer.org/web/swebok/v3)*
+- [SWEBOK V3 - Chapter 1: Software Requirements](https://www.computer.org/web/swebok/v3)
+- [Sample Business Analyst Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/business-analyst)
 
 ### Possible Roles
 
@@ -83,7 +83,6 @@ Quality.
 
 #### Others
 
-- Read the Chapter 1: Software Requirements in [SWEBOK V3](https://www.computer.org/web/swebok/v3)
 - [What is Business Analysis?](http://www.iiba.org/Careers/What-is-Business-Analysis.aspx)
 - [Difference Between Systems Analyst and Business Analyst](http://www.modernanalyst.com/Resources/Articles/tabid/115/ID/185/Difference-Between-Systems-Analyst-and-Business-Analyst.aspx)
 - [Business Analyst vs. System Analyst: Differences and Similarities](https://www.villanovau.com/resources/business-analysis/business-analyst-vs-system-analyst/#.Ww_NlEiFOUk)
