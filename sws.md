@@ -9,13 +9,7 @@ A generally accepted view concerning software security is that it is much better
 
 ### Knowledge and Skills
 
-- Software Requirements Security
-- Software Design Security
-- Software Construction Security
-- Software Testing Security
-- Software Maintenance Security
-
-*Source: [SWEBOK V3](https://www.computer.org/web/swebok/v3)*
+- [SWEBOK V3 - Chapter 13: Computing Foundations - Section 17. Secure Software Development and Maintenance](https://www.computer.org/web/swebok/v3)
 
 ### Possible Roles
 
@@ -93,7 +87,7 @@ A generally accepted view concerning software security is that it is much better
 
 #### Others
 
-- Read the Chapter 13: Computing Foundations - Section 17. Secure Software Development and Maintenance in [SWEBOK V3](https://www.computer.org/web/swebok/v3)
+- [A Developer’s Guide to the OWASP Top 10 2017](https://www.microfocus.com/en-us/assets/security/developers-guide-to-the-owasp-top-10-2017)
 
 ### Beginner
 
