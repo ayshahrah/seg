@@ -97,6 +97,7 @@ A generally accepted view concerning software security is that it is much better
 - [Cybersecurity](https://www.coursera.org/specializations/cyber-security)
 - [Essentials of Cybersecurity](https://www.edx.org/professional-certificate/uwashingtonx-essentials-cybersecurity)
 - [Software Development Security](https://www.cybrary.it/skill-certification-course/software-development-security-certification-training-course)
+- [Cyber Security in the Software Development Life Cycle](https://www.futurelearn.com/courses/cyber-security-in-the-software-development-life-cycle)
 - [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals-kuleuvenx-websecx)
 - [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security)
 - [Hacker101](https://www.hackerone.com/hacker101)
