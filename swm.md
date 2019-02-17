@@ -11,8 +11,8 @@ Software maintenance is defined as the totality of activities required to provid
 
 ### Knowledge and Skills
 
-![](swm.png)
-*Source: [SWEBOK V3](https://www.computer.org/web/swebok/v3)*
+- [SWEBOK V3 - Chapter 5: Software Maintenance](https://www.computer.org/web/swebok/v3)
+- [Sample Systems Administrator Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/systems-administrator)
 
 ### Possible Roles
 
@@ -25,6 +25,7 @@ Software maintenance is defined as the totality of activities required to provid
 - [The Essential Guide to Becoming a Systems Administrator](https://www.paysa.com/blog/2016/12/05/the-essential-guide-to-becoming-a-systems-administrator/)
 - [Want to Become a Systems Engineer?](https://www.roberthalf.com/blog/salaries-and-skills/want-to-become-a-systems-engineer-here-are-the-skills-required)
 - [7 Steps to Start Your Linux SysAdmin Career](https://www.linuxfoundation.org/blog/7-steps-to-start-your-linux-sysadmin-career/)
+- [4 Career Paths for System Administrators](https://www.newhorizons.com/resources/article/articleid/59/title/4-career-paths-for-system-administrators-and-the-certifications-you-need-to-succeed)
 
 ### Professional Certifications
 
@@ -80,7 +81,7 @@ Software maintenance is defined as the totality of activities required to provid
 
 #### Others
 
-- Read the Chapter 5: Software Maintenance in [SWEBOK V3](https://www.computer.org/web/swebok/v3)
+- [System administration](https://en.wikiversity.org/wiki/System_administration)
 
 ### Beginner
 
