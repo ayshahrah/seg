@@ -13,9 +13,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ### Knowledge and Skills
 
-![](swc.png)
-*Source: [SWEBOK V3](https://www.computer.org/web/swebok/v3)*
-
+- Chapter 3: Software Construction in [SWEBOK V3](https://www.computer.org/web/swebok/v3)
 - [Front-End Web Developer Job Description](https://www.toptal.com/front-end/job-description)
 - [Back-End Web Developer Job Description](https://www.toptal.com/back-end/job-description)
 - [iOS Developer Job Description](https://www.toptal.com/ios/job-description)
@@ -106,7 +104,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 #### Others
 
-- Read the Chapter 3: Software Construction in [SWEBOK V3](https://www.computer.org/web/swebok/v3)
 - [Learn to code in 2018](https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a)
 - [Here are the best programming languages to learn in 2018](https://medium.freecodecamp.org/best-programming-languages-to-learn-in-2018-ultimate-guide-bfc93e615b35)
 - [What Code Should You Learn?](http://www.whoishostingthis.com/blog/2014/09/04/learn-to-code/)
