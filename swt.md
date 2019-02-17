@@ -92,7 +92,7 @@ For many organizations, the approach to software quality is one of prevention: i
 
 #### Others
 
-- [Software Testing Tutorial: Free Course](https://www.computer.org/web/swebok/v3)
+- [Software Testing Tutorial: Free Course](https://www.guru99.com/software-testing.html)
 
 ### Beginner
 
