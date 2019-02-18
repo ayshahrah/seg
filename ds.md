@@ -13,6 +13,8 @@ The data science field employs mathematics, statistics and computer science disc
 - [8 Skills You Need to Be a Data Scientist](http://blog.udacity.com/2014/11/data-science-job-skills.html)
 - [Data Science Career Paths: Different Roles in the Industry](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/)
 - [Data Scientist Job Description](https://www.toptal.com/data-science/job-description)
+- [Sample Data Scientist Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/data-scientist)
+- [Sample Data Analyst Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/data-analyst)
 
 ### Possible Roles
 
