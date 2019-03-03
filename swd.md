@@ -13,7 +13,6 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 ### Knowledge and Skills
 
-- [SWEBOK V3 - Chapter 2: Software Design](https://www.computer.org/web/swebok/v3)
 - [Web Designer Job Description](https://www.toptal.com/web/job-description)
 - [User Interface (UI) Designer Job Description](https://www.toptal.com/designers/ui/job-description)
 - [User-Experience (UX) Job Description](https://www.toptal.com/designers/ux/job-description)
@@ -140,6 +139,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 #### Others
 
+- [SWEBOK V3 - Chapter 2: Software Design](https://www.computer.org/web/swebok/v3)
 - [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 - [O’Reilly Software Architecture Free Ebooks](http://www.oreilly.com/programming/free/)
 - [O’Reilly Expertise in UX design](http://www.oreilly.com/design/free/)
