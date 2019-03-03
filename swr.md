@@ -12,7 +12,6 @@ Quality.
 
 ### Knowledge and Skills
 
-- [SWEBOK V3 - Chapter 1: Software Requirements](https://www.computer.org/web/swebok/v3)
 - [Sample Business Analyst Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/business-analyst)
 
 ### Possible Roles
@@ -106,6 +105,7 @@ Quality.
 
 #### Others
 
+- [SWEBOK V3 - Chapter 1: Software Requirements](https://www.computer.org/web/swebok/v3)
 - [Requirements Definition and Management for Dummies](http://www.blueprintsys.com/content/ebook-requirements-definition-and-management-for-dummies/)
 - [A List of Free Ebooks & White Papers For Business Analysts](https://businessanalystlearnings.com/blog/2014/12/5/a-list-of-free-ebooks-white-papers-for-business-analysts)
 - [Requirements Management Guide](https://intland.com/guides-brochures/guides/requirements-management-guide-2/)
