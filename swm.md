@@ -11,7 +11,6 @@ Software maintenance is defined as the totality of activities required to provid
 
 ### Knowledge and Skills
 
-- [SWEBOK V3 - Chapter 5: Software Maintenance](https://www.computer.org/web/swebok/v3)
 - [Sample Systems Administrator Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/systems-administrator)
 - [Sample Systems Engineer Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/systems-engineer)
 
@@ -106,6 +105,7 @@ Software maintenance is defined as the totality of activities required to provid
 
 #### Others
 
+- [SWEBOK V3 - Chapter 5: Software Maintenance](https://www.computer.org/web/swebok/v3)
 - [Introduction to Linux - A Hands on Guide](http://sf.tradepub.com/free/w_mach01/)
 - [Linux Tutorials For System Administrators](https://training.linuxfoundation.org/free-linux-training/linux-training-videos#sysadmin)
 - [Linux System Administration Tutorials and Courses](https://hackr.io/tutorials/learn-system-administration)
