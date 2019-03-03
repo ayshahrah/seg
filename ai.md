@@ -96,6 +96,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 #### MOOCs
 
 - [Intro to Artificial Intelligence](https://sa.udacity.com/course/intro-to-artificial-intelligence--cs271)
+- [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
 - [Artificial Intelligence - udacity](https://sa.udacity.com/course/artificial-intelligence--ud954)
 - [Artificial Intelligence - edx](https://www.edx.org/micromasters/columbiax-artificial-intelligence)
 - [Introduction to Artificial Intelligence (AI)](https://www.edx.org/course/introduction-artificial-intelligence-ai-microsoft-dat263x-0)
@@ -206,6 +207,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 
 - [Deep Learning - MIT Press](http://www.deeplearningbook.org/)
 - [Fast.ai](http://www.fast.ai/)
+- [deeplearning.ai](https://www.deeplearning.ai/)
 - [DevOps For Dummies](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
 - [The Ultimate DevOps Toolkit](https://www.appdynamics.com/lp/devops-toolkit/)
 - [DevOps.com](https://devops.com/)
