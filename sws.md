@@ -9,7 +9,7 @@ A generally accepted view concerning software security is that it is much better
 
 ### Knowledge and Skills
 
-- [SWEBOK V3 - Chapter 13: Computing Foundations - Section 17. Secure Software Development and Maintenance](https://www.computer.org/web/swebok/v3)
+- [InfoSec Career Paths vs Programming Skills — The Basics](https://hackernoon.com/infosec-career-paths-vs-programming-skills-the-basics-bf841187165f)
 
 ### Possible Roles
 
@@ -115,6 +115,7 @@ A generally accepted view concerning software security is that it is much better
 
 #### Others
 
+- [SWEBOK V3 - Chapter 13: Computing Foundations - Section 17. Secure Software Development and Maintenance](https://www.computer.org/web/swebok/v3)
 - [O’Reilly - Free Security Ebooks](https://www.oreilly.com/security/free/)
 - [TechBeacon - Application Security](https://learn.techbeacon.com/tracks/application-security)
 - [Open security training](http://opensecuritytraining.info/)
