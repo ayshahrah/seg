@@ -11,7 +11,6 @@ For many organizations, the approach to software quality is one of prevention: i
 
 ### Knowledge and Skills
 
-- [SWEBOK V3 - Chapter 4: Software Testing](https://www.computer.org/web/swebok/v3)
 - [Software Testing as a Career Path (Skills, Salary, Growth)](https://www.guru99.com/software-testing-career-complete-guide.html)
 - [QA Tester Job Description](https://www.jobhero.com/qa-tester-job-description/)
 
@@ -112,6 +111,7 @@ For many organizations, the approach to software quality is one of prevention: i
 
 #### Others
 
+- [SWEBOK V3 - Chapter 4: Software Testing](https://www.computer.org/web/swebok/v3)
 - [Mobile Testing](https://learn.techbeacon.com/tracks/mobile-testing)
 - [The Testing Map](http://thetestingmap.org/)
 - [Testing Excellence](http://www.testingexcellence.com/)
