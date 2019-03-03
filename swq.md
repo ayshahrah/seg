@@ -11,7 +11,6 @@ These definitions also illustrate another reason for the prevalence of software 
 
 ### Knowledge and Skills
 
-- [SWEBOK V3 - Chapter 10: Software Quality](https://www.computer.org/web/swebok/v3)
 - [Sample Quality Engineer Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/quality-engineer)
 - [Sample Quality Assurance Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/quality-assurance)
 
@@ -98,6 +97,7 @@ These definitions also illustrate another reason for the prevalence of software 
 
 #### Others
 
+- [SWEBOK V3 - Chapter 10: Software Quality](https://www.computer.org/web/swebok/v3)
 - [Software quality challenges and practice recommendations](http://www.ibm.com/developerworks/rational/library/software-quality-challenges-practice-recommendations/)
 - [The Ultimate Guide to Measuring Software Quality](http://intetics.com/white-papers/the-ultimate-guide-to-measuring-software-quality/)
 - [SQA Definition](http://www.sqa.net/)
