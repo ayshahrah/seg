@@ -129,6 +129,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 - [Machine Learning - coursera specialization](https://www.coursera.org/specializations/machine-learning)
 - [Machine Learning - coursera](https://www.coursera.org/learn/machine-learning)
 - [Machine Learning - edx](https://www.edx.org/course/machine-learning-gtx-cs7641x-1)
+- [Machine Learning - AWS](https://aws.amazon.com/training/learning-paths/machine-learning/)
 - [Principles of Machine Learning](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-6)
 - [Introduction to Machine Learning for Coders](http://course.fast.ai/ml.html)
 - [Applied Machine Learning](https://www.edx.org/course/applied-machine-learning-microsoft-dat203-3x-4)
