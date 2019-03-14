@@ -209,6 +209,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Software Architecture for the Internet of Things](https://www.coursera.org/learn/iot-software-architecture)
 - [Introduction to Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-devices)
 - [Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-architecture)
+- [IoT System Architecture: Design and Evaluation](https://www.edx.org/course/iot-system-architecture-design-and-evaluation)
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [Introduction to DevOps: Transforming and Improving Operations](https://www.edx.org/course/introduction-to-devops-transforming-and-improving-operations)
