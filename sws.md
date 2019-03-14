@@ -193,7 +193,7 @@ A generally accepted view concerning software security is that it is much better
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [Introduction to DevOps: Transforming and Improving Operations](https://www.edx.org/course/introduction-to-devops-transforming-and-improving-operations)
-- [Microsoft Professional Program - DevOps](https://academy.microsoft.com/en-us/professional-program/tracks/devops/)
+- [Microsoft Professional Program for DevOps](https://academy.microsoft.com/en-us/professional-program/tracks/devops/)
 - **[Entrepreneurship Skills](es.md)**
 
 #### Webinars
