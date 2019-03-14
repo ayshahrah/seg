@@ -88,7 +88,7 @@ Software maintenance is defined as the totality of activities required to provid
 #### MOOCs
 
 - [Google IT Support](https://www.coursera.org/specializations/google-it-support)
-- [Microsoft Professional Program - IT Support](https://academy.microsoft.com/en-us/professional-program/tracks/it-support/)
+- [Microsoft Professional Program for IT Support](https://academy.microsoft.com/en-us/professional-program/tracks/it-support/)
 - [Computer Security and Systems Management](https://www.coursera.org/specializations/computer-security-systems-management)
 - [Introduction to Data Storage and Management Technologies](https://www.edx.org/course/introduction-data-storage-management-ieeex-storage101x-0)
 - [Systems Administration Courses](https://www.cybrary.it/systems-administration/)
@@ -158,7 +158,7 @@ Software maintenance is defined as the totality of activities required to provid
 - [Microsoft Professional Program - Cloud Administration](https://academy.microsoft.com/en-us/professional-program/tracks/cloud-administration/)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [Introduction to DevOps: Transforming and Improving Operations](https://www.edx.org/course/introduction-to-devops-transforming-and-improving-operations)
-- [Microsoft Professional Program - DevOps](https://academy.microsoft.com/en-us/professional-program/tracks/devops/)
+- [Microsoft Professional Program for DevOps](https://academy.microsoft.com/en-us/professional-program/tracks/devops/)
 - [Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes)
 - [Industry 4.0: How to Revolutionize your Business](https://www.edx.org/course/industry-4-0-how-revolutionize-business-hkpolyux-i4-0x)
 - [Emerging Technologies: From Smartphones to IoT to Big Data Specialization](https://www.coursera.org/specializations/emerging-technologies)
