@@ -119,8 +119,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Computer Science - coursera](https://www.coursera.org/browse/computer-science?languages=en)
 - [Computer Science - edx](https://www.edx.org/course/subject/computer-science)
 - [Computer programming - khan academy](https://www.khanacademy.org/computing/computer-programming)
-- [Microsoft Professional Program - Entry Level Software Development](https://academy.microsoft.com/en-us/professional-program/tracks/entry-level-software-development/)
-- [Microsoft Professional Program - Front-End Web Development](https://academy.microsoft.com/en-us/professional-program/tracks/front-end-development/)
+- [Microsoft Professional Program for Entry Level Software Development](https://academy.microsoft.com/en-us/professional-program/tracks/entry-level-software-development/)
 - [Microsoft Virtual Academy](https://mva.microsoft.com/)
 - [Database Systems Concepts & Design](https://sa.udacity.com/course/database-systems-concepts-design--ud150)
 - [Intro to Relational Databases](https://sa.udacity.com/course/intro-to-relational-databases--ud197)
@@ -205,7 +204,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [Introduction to DevOps: Transforming and Improving Operations](https://www.edx.org/course/introduction-to-devops-transforming-and-improving-operations)
-- [Microsoft Professional Program - DevOps](https://academy.microsoft.com/en-us/professional-program/tracks/devops/)
+- [Microsoft Professional Program for DevOps](https://academy.microsoft.com/en-us/professional-program/tracks/devops/)
 - **[Entrepreneurship Skills](es.md)**
 
 #### Webinars
