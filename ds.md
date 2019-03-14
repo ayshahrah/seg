@@ -137,7 +137,8 @@ The data science field employs mathematics, statistics and computer science disc
 - [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)
 - [Data Science with Python](https://www.edx.org/professional-certificate/data-science-with-python)
 - [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
-- [Microsoft Professional Program - Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
+- [Microsoft Professional Program for Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
+- [Microsoft Professional Program for Data Analysis](https://academy.microsoft.com/en-us/professional-program/tracks/data-analysis/)
 - [Microsoft Virtual Academy](https://mva.microsoft.com/)
 - [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)
 - [Data Analysis: Absolute Beginners](https://www.edx.org/professional-certificate/data-analysis-absolute-beginners)
@@ -189,7 +190,7 @@ The data science field employs mathematics, statistics and computer science disc
 - [Advanced Data Science with IBM](https://www.coursera.org/specializations/advanced-data-science-ibm)
 - [Big Data: Data Visualisation](https://www.futurelearn.com/courses/big-data-visualisation)
 - [Big Data: Mathematical Modelling](https://www.futurelearn.com/courses/big-data-mathematical-modelling)
-- [Microsoft Professional Program - Big Data](https://academy.microsoft.com/en-us/professional-program/tracks/big-data/)
+- [Microsoft Professional Program for Big Data](https://academy.microsoft.com/en-us/professional-program/tracks/big-data/)
 - [Knowledge Management and Big Data in Business](https://www.edx.org/course/knowledge-management-big-data-business-hkpolyux-ise101x-2)
 - [Enabling Technologies for Data Science and Analytics: The Internet of Things](https://www.edx.org/course/enabling-technologies-data-science-columbiax-ds103x-0#!)
 - [Industry 4.0: How to Revolutionize your Business](https://www.edx.org/course/industry-4-0-how-revolutionize-business-hkpolyux-i4-0x)
@@ -203,7 +204,7 @@ The data science field employs mathematics, statistics and computer science disc
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [Introduction to DevOps: Transforming and Improving Operations](https://www.edx.org/course/introduction-to-devops-transforming-and-improving-operations)
-- [Microsoft Professional Program - DevOps](https://academy.microsoft.com/en-us/professional-program/tracks/devops/)
+- [Microsoft Professional Program for DevOps](https://academy.microsoft.com/en-us/professional-program/tracks/devops/)
 - **[Entrepreneurship Skills](es.md)**
 
 #### Webinars
