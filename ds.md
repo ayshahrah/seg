@@ -122,6 +122,7 @@ The data science field employs mathematics, statistics and computer science disc
 #### Others
 
 - [O’Reilly Free Data Ebooks](http://www.oreilly.com/data/free/)
+- [Kaggle Micro-Courses](https://www.kaggle.com/learn/overview)
 - [Executive Data Science](https://leanpub.com/eds)
 - [Simplilearn's Resources](https://www.simplilearn.com/resources/big-data-and-analytics)
 - [Data Science Tutorials](https://www.codementor.io/data-science/tutorial)
