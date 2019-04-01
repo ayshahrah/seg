@@ -69,11 +69,11 @@ To get a full advantage of this guide, it is highly recommended to first select 
 
 - **Learning**: a self-learning process to increase the learner's knowledge based on available online resources. The learner can leverage the collected resources available in this guide for each specialized role. These collections contain up-to-date, high-quality, and free-of-cost online learning resources.
 
-- **Practicing**: using software tools and technologies to improve the learner's skills. The learner can utilize open source and free software tools, and also can gain a trial access to some commercial software tools to apply the acquired knowledge.
+- **Practicing**: using software tools and technologies to improve the learner's practical skills. The learner can utilize open source and free software tools. Learner can also gain a trial access to some commercial software tools to apply the acquired theoretical knowledge.
 
 - **Networking**: joining and connecting with professional and specialized online communities. This allows the learner to keep updated with latest trends and technologies in a selected learning path. Furthermore, networking provides a medium for asking questions and getting help in resolving encountered issues.
 
-- **Teaching**: helps in getting serious, sharing knowledge, and improving soft skills. Through this process, the learner can interact with others and gain non-technical (soft) skills like confidence, communication, presentation, speaking, etc.
+- **Teaching**: this process helps in keeping the learner more focused and connected to others through knowledge sharing and open discussions. In addition, teaching can help in sharpening the learner's soft skills like confidence, communication, presentation, speaking, etc.
 
 ### Learning Outcomes
 
