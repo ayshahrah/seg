@@ -73,7 +73,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 ### Resources Collections
 
-- [Makerbook](http://makerbook.net/)
+- [Checklist Design](https://www.checklist.design/)
 - [noShit](https://noshit.xyz/)
 - [Awesome Web Design Resources](https://github.com/nicolesaidy/awesome-web-design)
 - [Open Design: Freeware tools for Designers](https://uxplanet.org/open-design-freeware-tools-for-designers-f7bdde99f2e0)
