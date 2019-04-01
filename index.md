@@ -71,7 +71,7 @@ To get a full advantage of this guide, it is highly recommended to first select 
 
 - **Practicing**: using software tools and technologies to improve the learner's skills. The learner can utilize open source and free software tools, and also can gain a trial access to some commercial software tools to apply the acquired knowledge.
 
-- **Networking**: joining and connecting with professional specialized online communities. This allows the learner to keep updated with latest trends and technologies in a selected learning path. Furthermore, the learner can ask and communicate with specialized experts in case of any doubt or ambiguity.
+- **Networking**: joining and connecting with professional and specialized online communities. This allows the learner to keep updated with latest trends and technologies in a selected learning path. Furthermore, networking provides a medium for asking questions and getting help in resolving encountered issues.
 
 - **Teaching**: helps in getting serious, sharing knowledge, and improving soft skills. Through this process, the learner can interact with others and gain non-technical (soft) skills like confidence, communication, presentation, speaking, etc.
 
