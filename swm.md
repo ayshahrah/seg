@@ -12,6 +12,7 @@ Software maintenance is defined as the totality of activities required to provid
 ### Knowledge and Skills
 
 - [DevOps Engineer Job Description Template](https://www.toptal.com/devops/job-description)
+- [Roles and Responsibilities for DevOps and Agile Teams](https://medium.com/@cote/roles-and-responsibilities-for-devops-and-agile-teams-fdacbffb4cb4#.9de94n71e)
 - [Sample Systems Administrator Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/systems-administrator)
 - [Sample Systems Engineer Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/systems-engineer)
 
@@ -38,6 +39,7 @@ Software maintenance is defined as the totality of activities required to provid
 
 ### Online Communities
 
+- [DevOps.com](https://devops.com/)
 - [League of Professional System Administrators (LOPSA)](https://lopsa.org/)
 - [LinkedIn - System Administrator](https://www.linkedin.com/groups/51443/)
 
@@ -194,8 +196,6 @@ Software maintenance is defined as the totality of activities required to provid
 - [TechTarget Search Cloud Computing](http://searchcloudcomputing.techtarget.com/)
 - [DevOps For Dummies](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
 - [The Ultimate DevOps Toolkit](https://www.appdynamics.com/lp/devops-toolkit/)
-- [DevOps.com](https://devops.com/)
-- [Roles and Responsibilities for DevOps and Agile Teams](https://medium.com/@cote/roles-and-responsibilities-for-devops-and-agile-teams-fdacbffb4cb4#.9de94n71e)
 - [XebiaLabs Resource Library](https://xebialabs.com/resources/)
 - [Scaled Agile Framework (SAFe®) in a nutshell](https://intland.com/blog/agile/safe/scaled-agile-framework-safe-in-a-nutshell/)
 - [Doing Scrum with Multiple Teams: Comparing Scaling Frameworks](https://www.infoq.com/articles/scrum-multiple-teams-frameworks)
