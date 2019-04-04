@@ -34,7 +34,6 @@ Software maintenance is defined as the totality of activities required to provid
 
 ### Professional Certifications
 
-- [Best System Administrator Certifications For 2017](http://www.tomsitpro.com/articles/system-administrator-certifications,2-632.html)
 - [CompTIA Career Roadmap](https://certification.comptia.org/why-certify/roadmap#.WEbilLmJITw.linkedin)
 
 ### Online Communities
@@ -50,6 +49,7 @@ Software maintenance is defined as the totality of activities required to provid
 - [opensource.com](https://opensource.com/)
 - [Flexera Software Blogs](http://blogs.flexerasoftware.com/)
 - [The Agile Admin](https://theagileadmin.com/)
+- [Top 20 DevOps Blogs and Websites To Follow in 2019](https://blog.feedspot.com/devops_blogs/)
 - [Top 30 Cloud Computing Blogs For Latest Cloud Technology News](http://blog.feedspot.com/cloud_computing_blogs/)
 - [Best Blogs Every Linux SysAdmin Must Follow](https://itsfoss.com/best-sysadmin-blogs/)
 
