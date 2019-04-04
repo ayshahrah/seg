@@ -44,7 +44,7 @@ Software maintenance is defined as the totality of activities required to provid
 ### Blogs
 
 - [O'Reilly - Operations](https://www.oreilly.com/topics/operations)
-- [TechBeacon - IT Ops](https://techbeacon.com/it-ops)
+- [TechBeacon - DevOps](https://techbeacon.com/devops)
 - [opensource.com](https://opensource.com/)
 - [Flexera Software Blogs](http://blogs.flexerasoftware.com/)
 - [The Agile Admin](https://theagileadmin.com/)
@@ -53,6 +53,7 @@ Software maintenance is defined as the totality of activities required to provid
 
 ### Market Insights
 
+- [Devops](https://www.linkedin.com/topic/devops)
 - [System Administration](https://www.linkedin.com/topic/system-administration)
 - [Administrator](https://www.linkedin.com/title/administrator)
 - [Software Administration](https://www.linkedin.com/topic/software-administration)
