@@ -11,17 +11,21 @@ Software maintenance is defined as the totality of activities required to provid
 
 ### Knowledge and Skills
 
+- [DevOps Engineer Job Description Template](https://www.toptal.com/devops/job-description)
 - [Sample Systems Administrator Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/systems-administrator)
 - [Sample Systems Engineer Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/systems-engineer)
 
 ### Possible Roles
 
+- [DevOps Engineer](https://www.edureka.co/blog/devops-engineer-role)
 - [Computer Systems Administrator](https://www.sokanu.com/careers/computer-systems-administrator/)
 - [Server Administrator](https://www.sokanu.com/careers/server-administrator/)
 - [Technical Support Specialist](https://www.sokanu.com/careers/technical-support-specialist/)
 
 ### How To
 
+- [The 2019 DevOps RoadMap](https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb)
+- [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
 - [The Essential Guide to Becoming a Systems Administrator](https://www.paysa.com/blog/2016/12/05/the-essential-guide-to-becoming-a-systems-administrator/)
 - [Want to Become a Systems Engineer?](https://www.roberthalf.com/blog/salaries-and-skills/want-to-become-a-systems-engineer-here-are-the-skills-required)
 - [7 Steps to Start Your Linux SysAdmin Career](https://www.linuxfoundation.org/blog/7-steps-to-start-your-linux-sysadmin-career/)
