@@ -1,10 +1,10 @@
 ## Welcome to Software Engineering Guide
 
-**Software Engineering Guide (SEG)** is a self-learning roadmap with a curated list of high-quality and free-of-cost learning resources in software engineering domain. SEG is a role-based guide that is organized into specialized learning paths. SEG covers the entire software development lifecycle (SDLC) knowledge domains that represent the most popular working roles related to software engineering. Each learning path has an overview section and a set of structured online learning resources that are organized into four levels: foundation, beginner, intermediate, and advanced. Each level has a variety of online learning resources that are categorized into three types: MOOCs, webinars, and others. These learning resources are collected from highly-respected and well-trusted sources.
+**Software Engineering Guide (SEG)** is a self-learning roadmap with a curated list of high-quality and free-of-cost learning resources in the software engineering domain. SEG is a role-based guide that is organized into specialized learning paths. SEG covers the entire software development lifecycle (SDLC) knowledge domains that represent the most popular working roles related to software engineering. Each learning path has an overview section and a set of structured online learning resources that are organized into four levels: foundation, beginner, intermediate, and advanced. Each level has a variety of online learning resources that are categorized into three types: MOOCs, webinars, and others. These learning resources are collected from highly-respected and well-trusted sources.
 
 ### Motivation
 
-The motivation behind building this guide is the existing gap between the knowledge and skills that are acquired from traditional education offerings and the ones that are demanded today by industry--particularly at the places with low-quality education. However, nowadays, with the availability and affordability of internet connectivity, you can easily gain a free-of-cost access to high-quality learning resources from around the world. *Therefore, there is no excuse to say that I don't have a quality education!*
+The motivation behind building this guide is the existing gap between the knowledge and skills that are acquired from traditional education offerings and the ones that are demanded today by industry--particularly at the places with low-quality education. However, nowadays, with the availability and affordability of internet connectivity, you can easily gain free-of-cost access to high-quality learning resources from around the world. *Therefore, there is no excuse to say that I don't have a quality education!*
 
 ![](Slide2.JPG "Motivation")
 
@@ -56,22 +56,22 @@ The SEG currently includes 12 different role-based learning paths (specializatio
 
 ### Interpersonal Skills
 
-Technical skills are not enough to be a professional in software engineering! In today's competitive working environments, soft skills are imperative and not less important than technical skills. Furthermore, developing a new business or establishing a tech start-up needs an additional type of a skill-set in entrepreneurship.
+Technical skills are not enough to be a professional in software engineering! In today's competitive working environments, soft skills are imperative and not less important than technical skills. Furthermore, developing a new business or establishing a tech start-up needs an additional type of skill-set in entrepreneurship.
 
 - [Soft Skills](ss.md)
 - [Entrepreneurship Skills](es.md)
 
 ### Learning Process
 
-To get a full advantage of this guide, it is highly recommended to first select a role from the specialized learning paths listed above. Then, begin the following self-development process: learning, practicing, networking, and teaching. These steps are overlapped, iterative, and should be a life-long journey.
+To get full advantage of this guide, it is highly recommended to first select a role from the specialized learning paths listed above. Then, begin the following self-development process: learning, practicing, networking, and teaching. These steps are overlapped, iterative, and should be a life-long journey.
 
 ![](Slide9.JPG "Methodology") 
 
 - **Learning**: a self-learning process to increase the learner's knowledge based on available online resources. The learner can leverage the collected resources available in this guide for each specialized role. These collections contain up-to-date, high-quality, and free-of-cost online learning resources.
 
-- **Practicing**: using software tools and technologies to improve the learner's practical skills. The learner can utilize open source and free software tools. Learner can also gain a trial access to some commercial software tools to apply the acquired theoretical knowledge.
+- **Practicing**: using software tools and technologies to improve the learner's practical skills. The learner can utilize open source and free software tools. The learner can also gain trial access to some commercial software tools to apply the acquired theoretical knowledge.
 
-- **Networking**: joining and connecting with professional and specialized online communities. This allows the learner to keep updated with latest trends and technologies in a selected learning path. Furthermore, networking provides a medium for asking questions and getting help in resolving encountered issues.
+- **Networking**: joining and connecting with professional and specialized online communities. This allows the learner to keep updated with the latest trends and technologies in a selected learning path. Furthermore, networking provides a medium for asking questions and getting help in resolving encountered issues.
 
 - **Teaching**: this process helps in keeping the learner more focused and connected with others through knowledge sharing and open discussions. In addition, teaching can help in sharpening the learner's soft skills like confidence, communication, presentation, speaking, etc.
 
