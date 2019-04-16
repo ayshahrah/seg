@@ -62,6 +62,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 - [HowDo Artificial Intelligence](https://howdo.com/growth-primers/artificial-intelligence/)
 - [The Best Machine Learning Resources](https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1)
 - [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence)
+- [Awesome machine learning operations](https://github.com/EthicalML/awesome-machine-learning-operations)
 - [AI Valley](https://ai-valley.com/)
 - [Curated List of AI and Machine Learning Resources](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
 - [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
