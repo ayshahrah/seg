@@ -73,7 +73,7 @@ To get a full advantage of this guide, it is highly recommended to first select 
 
 - **Networking**: joining and connecting with professional and specialized online communities. This allows the learner to keep updated with latest trends and technologies in a selected learning path. Furthermore, networking provides a medium for asking questions and getting help in resolving encountered issues.
 
-- **Teaching**: this process helps in keeping the learner more focused and connected to others through knowledge sharing and open discussions. In addition, teaching can help in sharpening the learner's soft skills like confidence, communication, presentation, speaking, etc.
+- **Teaching**: this process helps in keeping the learner more focused and connected with others through knowledge sharing and open discussions. In addition, teaching can help in sharpening the learner's soft skills like confidence, communication, presentation, speaking, etc.
 
 ### Learning Outcomes
 
