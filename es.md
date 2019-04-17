@@ -8,9 +8,10 @@
 **Innovation:**
 
 - [Creativity, Innovation, and Change](https://www.coursera.org/learn/creativity-innovation)
+- [Design Thinking and Creativity for Innovation](https://www.edx.org/course/design-thinking-and-creativity-for-innovation-0)
+- [Innovation & Entrepreneurship - From Design Thinking to Funding](https://www.coursera.org/learn/design-thinking-entrepreneurship)
 - [Innovation: From Creativity to Entrepreneurship](https://www.coursera.org/specializations/innovation-creativity-entrepreneurship)
 - [Innovation: From Plan to Product](https://www.edx.org/course/innovation-from-plan-to-product)
-- [Innovation & Entrepreneurship - From Design Thinking to Funding](https://www.coursera.org/learn/design-thinking-entrepreneurship)
 - [Entrepreneurship: Launching an Innovative Business](https://www.coursera.org/specializations/business-entrepreneurship)
 - [Innovating in a Digital World](https://www.coursera.org/learn/innovating-digital-world)
 - [Unleash Your Potential: Innovation and Enterprise](https://www.futurelearn.com/courses/innovation-enterprise)
