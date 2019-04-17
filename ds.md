@@ -12,6 +12,7 @@ The data science field employs mathematics, statistics and computer science disc
 - [The Most in Demand Skills for Data Scientists](https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db)
 - [8 Skills You Need to Be a Data Scientist](http://blog.udacity.com/2014/11/data-science-job-skills.html)
 - [Data Science Career Paths: Different Roles in the Industry](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/)
+- [Software development skills for data scientists](http://treycausey.com/software_dev_skills.html)
 - [Data Scientist Job Description](https://www.toptal.com/data-science/job-description)
 - [Sample Data Scientist Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/data-scientist)
 - [Sample Data Analyst Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/data-analyst)
@@ -29,6 +30,7 @@ The data science field employs mathematics, statistics and computer science disc
 - [How to get your first job in Data Science?](https://medium.com/the-mission/how-to-break-into-the-data-science-market-f0e0b79b42f7)
 - [Learn How to Get Your First Data Science Job](https://www.springboard.com/resources/guide-to-data-science-jobs/)
 - [3 common data science career transitions, and how to make them happen](https://towardsdatascience.com/3-common-data-science-career-transitions-and-how-to-make-them-happen-588c3618942f)
+- [If you’re a developer transitioning into data science, here are your best resources](https://medium.freecodecamp.org/if-youre-a-developer-transitioning-into-data-science-here-are-your-best-resources-c31928b53cd1)
 
 ### Professional Certifications
 
