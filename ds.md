@@ -27,6 +27,7 @@ The data science field employs mathematics, statistics and computer science disc
 
 - [How To Become A Data Scientist](https://medium.freecodecamp.org/how-to-become-a-data-scientist-2d829fa33aba)
 - [How to Become a Data Engineer](https://dzone.com/articles/how-to-become-a-data-engineer)
+- [Data engineers vs. data scientists](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
 - [How to get your first job in Data Science?](https://medium.com/the-mission/how-to-break-into-the-data-science-market-f0e0b79b42f7)
 - [Learn How to Get Your First Data Science Job](https://www.springboard.com/resources/guide-to-data-science-jobs/)
 - [3 common data science career transitions, and how to make them happen](https://towardsdatascience.com/3-common-data-science-career-transitions-and-how-to-make-them-happen-588c3618942f)
