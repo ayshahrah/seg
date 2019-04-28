@@ -100,7 +100,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 #### Webinars
 
-- [What Makes a Good Software Architect?](https://www.sei.cmu.edu/webinars/view_webinar.cfm?webinarid=455074)
+- [What Makes a Good Software Architect (2019 Edition)?](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=543614)
 - [Top 10 Success Secrets for Software Architects](https://www.youtube.com/watch?v=tvZ-Jyt5Em4&cm_mc_uid=60078406098014834207087&cm_mc_sid_50200000=1485168639)
 - [UI Design Tools That Every Designer Should Know About](https://www.youtube.com/watch?v=RaZ-qcfZVXQ)
 - [Why You're Over-Thinking Your UI/UX](https://www.youtube.com/watch?v=Is2O666qDPs)
