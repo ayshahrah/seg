@@ -140,6 +140,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [O’Reilly Free Free Web Ops & DevOps Ebooks](http://www.oreilly.com/webops/free/)
 - [Beginner’s Guide to Web Development](https://www.codeschool.com/beginners-guide-to-web-development)
 - [Learn How to Develop the Next Generation of Applications for the Web](https://developers.google.com/web/)
+- [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [Make A Website Hub](https://makeawebsitehub.com/resources/)
 - [The Software Engineer's Online Handbook](https://www.toptal.com/handbook#online-tools)
 - [free-programming-books](https://github.com/vhf/free-programming-books)
