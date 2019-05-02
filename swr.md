@@ -17,14 +17,11 @@ Quality.
 ### Possible Roles
 
 - [Software Requirements Engineer](https://en.wikipedia.org/wiki/Requirements_engineering)
-- [Software Requirements Analyst](https://en.wikipedia.org/wiki/Requirements_analysis)
-- [Computer Systems Analyst](https://www.sokanu.com/careers/computer-systems-analyst/)
-- [Business Analyst](https://www.sokanu.com/careers/business-analyst/)
-- [Business System Analyst](https://www.iiba.org/Careers/Careers/understanding-the-s-in-business-systems-analysis.aspx)
+- [Business Analyst](https://www.iiba.org/professional-development/career-centre/what-is-business-analysis/)
 
 ### How To
 
-- [How to become a business analyst](https://www.discoverdatascience.org/career-information/business-analyst/)
+- [How to become a business analyst](https://www.modis.com/en-us/resources/job-seekers/how-to-become-a-business-analyst-our-easy-to-follow-guide/)
 - [Business Analyst Career Road Map](https://www.iiba.org/professional-development/career-centre/business-analyst-career-road-map/)
 
 ### Professional Certifications
