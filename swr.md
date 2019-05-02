@@ -26,7 +26,6 @@ Quality.
 
 - [How to become a business analyst](https://www.discoverdatascience.org/career-information/business-analyst/)
 - [Business Analyst Career Road Map](https://www.iiba.org/professional-development/career-centre/business-analyst-career-road-map/)
-- [42 Reasons To Start a Business Analyst Career](http://www.bridging-the-gap.com/42-reasons-to-consider-starting-a-business-analyst-career/)
 
 ### Professional Certifications
 
