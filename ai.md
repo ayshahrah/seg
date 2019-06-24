@@ -66,6 +66,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 - [AI Valley](https://ai-valley.com/)
 - [Curated List of AI and Machine Learning Resources](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
 - [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
+- [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning)
 
 ## Learning Resources
 
