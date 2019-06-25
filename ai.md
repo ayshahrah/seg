@@ -155,6 +155,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 - [Machine Learning for Dummies](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=IMM14209USEN)
 - [Machine Learning for Humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
 - [Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g168a3288f7_0_58)
+- [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
 - [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 - [Machine Learning Yearning](http://www.mlyearning.org/)
 - [Learning Math for Machine Learning](https://blog.ycombinator.com/learning-math-for-machine-learning/)
