@@ -20,9 +20,11 @@ In the past, blockchains were commonly associated with digital currencies, and B
 
 - [How to Become a Blockchain Developer](https://x-team.com/become-blockchain-developer/)
 - [How To Become A Blockchain Developer: Cram Session](https://blockgeeks.com/guides/blockchain-developer/)
+- [What Skills Do You Need to Become a Blockchain Engineer?](https://datafloq.com/read/skills-need-become-blockchain-engineer/6456)
 
 ### Professional Certifications
 
+- [CBCA Certified Blockchain Engineer](https://www.cbcamerica.org/blockchain-certifications/certified-blockchain-engineer)
 - [8 Blockchain Certifications and Courses for Professionals](https://news.coinify.com/8-professional-blockchain-certifications/)
 
 ### Online Communities
