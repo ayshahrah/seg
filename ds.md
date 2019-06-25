@@ -65,6 +65,7 @@ The data science field employs mathematics, statistics and computer science disc
 - [Learn data science: 44 essential resources for developers](https://techbeacon.com/learn-data-science-44-essential-resources-developers)
 - [Top 50 Data Science Resources](https://www.ngdata.com/top-data-science-resources/)
 - [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
+- [How To Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo)
 - [dataviz.tools](http://dataviz.tools/)
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
