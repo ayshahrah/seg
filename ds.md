@@ -195,6 +195,7 @@ The data science field employs mathematics, statistics and computer science disc
 - [Advanced Data Science with IBM](https://www.coursera.org/specializations/advanced-data-science-ibm)
 - [Big Data: Data Visualisation](https://www.futurelearn.com/courses/big-data-visualisation)
 - [Big Data: Mathematical Modelling](https://www.futurelearn.com/courses/big-data-mathematical-modelling)
+- [Modern Big Data Analysis with SQL](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql)
 - [Microsoft Professional Program for Big Data](https://academy.microsoft.com/en-us/professional-program/tracks/big-data/)
 - [Knowledge Management and Big Data in Business](https://www.edx.org/course/knowledge-management-big-data-business-hkpolyux-ise101x-2)
 - [Enabling Technologies for Data Science and Analytics: The Internet of Things](https://www.edx.org/course/enabling-technologies-data-science-columbiax-ds103x-0#!)
