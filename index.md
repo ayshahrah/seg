@@ -34,7 +34,9 @@ The SEG is mainly developed based on the main knowledge areas of the software de
 
 ### Learning Paths
 
-The SEG currently includes 12 different role-based learning paths (specializations). SEG provides guiding information and learning resources for each learning path.
+The SEG currently includes 12 different role-based learning paths (specializations). SEG provides guiding information and learning resources for each learning path. If you don't know which learning path to go with! you can begin by assessing yourself in:
+
+- [IBM IT Assessment: Identifying the Right Career for You!](https://www.coursera.org/learn/ibm-it-assessment)
 
 **Traditional Roles:**
 
