@@ -27,6 +27,7 @@ Software maintenance is defined as the totality of activities required to provid
 
 - [The 2019 DevOps RoadMap](https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb)
 - [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
+- [The case for making the transition from sysadmin to DevOps engineer](https://opensource.com/article/19/7/devops-vs-sysadmin)
 - [The Essential Guide to Becoming a Systems Administrator](https://www.paysa.com/blog/2016/12/05/the-essential-guide-to-becoming-a-systems-administrator/)
 - [Want to Become a Systems Engineer?](https://www.roberthalf.com/blog/salaries-and-skills/want-to-become-a-systems-engineer-here-are-the-skills-required)
 - [7 Steps to Start Your Linux SysAdmin Career](https://www.linuxfoundation.org/blog/7-steps-to-start-your-linux-sysadmin-career/)
