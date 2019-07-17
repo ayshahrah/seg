@@ -114,9 +114,9 @@ The data science field employs mathematics, statistics and computer science disc
 - [Getting Started with Data Science](https://open.sap.com/courses/ds1)
 - [Data Science Readiness Assessment](https://www.edx.org/course/data-science-readiness-assessment-notredamex-ds101x#!)
 - [Executive Data Science](https://www.coursera.org/specializations/executive-data-science)
+- [Open Source tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science)
 - [Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills)
 - [Statistics and Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
-- [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [Data Science Ethics](https://www.edx.org/course/data-science-ethics-michiganx-ds101x-1#!)
 
 #### Webinars
