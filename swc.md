@@ -121,8 +121,9 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Computer programming - khan academy](https://www.khanacademy.org/computing/computer-programming)
 - [Microsoft Professional Program for Entry Level Software Development](https://academy.microsoft.com/en-us/professional-program/tracks/entry-level-software-development/)
 - [Microsoft Virtual Academy](https://mva.microsoft.com/)
-- [Database Systems Concepts & Design](https://sa.udacity.com/course/database-systems-concepts-design--ud150)
 - [Intro to Relational Databases](https://sa.udacity.com/course/intro-to-relational-databases--ud197)
+- [Introduction to Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
+- [Database Systems Concepts & Design](https://sa.udacity.com/course/database-systems-concepts-design--ud150)
 
 #### Webinars
 
