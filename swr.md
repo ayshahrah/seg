@@ -18,11 +18,13 @@ Quality.
 
 - [Software Requirements Engineer](https://en.wikipedia.org/wiki/Requirements_engineering)
 - [Business Analyst](https://www.iiba.org/professional-development/career-centre/what-is-business-analysis/)
+- [Computer Systems Analyst](https://www.fieldengineer.com/skills/computer-systems-analyst)
 
 ### How To
 
 - [How to become a business analyst](https://www.modis.com/en-us/resources/job-seekers/how-to-become-a-business-analyst-our-easy-to-follow-guide/)
 - [Business Analyst Career Road Map](https://www.iiba.org/professional-development/career-centre/business-analyst-career-road-map/)
+- [Become a Systems Analyst: Step-by-Step Career Guide](https://study.com/articles/Become_a_Systems_Analyst_Step-by-Step_Career_Guide.html)
 
 ### Professional Certifications
 
