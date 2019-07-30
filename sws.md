@@ -144,6 +144,7 @@ A generally accepted view concerning software security is that it is much better
 
 #### MOOCs
 
+- [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 - [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
