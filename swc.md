@@ -227,6 +227,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Industrial Internet App Development](http://go.digital.ge.com/Evans-Data-Survey-Results.html)
 - [7 Best Developer Tools to Build your Next Internet of Things Application](https://www.losant.com/blog/7-best-developer-tools-to-build-your-next-internet-of-things-application)
 - [67 open source tools and resources for IoT](https://techbeacon.com/67-open-source-tools-resources-iot)
+- [Red Hat Developer](https://developers.redhat.com/)
 - [SOA Source Book](http://www.opengroup.org/soa/source-book/intro/index.htm)
 - [Microservices vs. Service-Oriented Architecture](https://www.nginx.com/resources/library/microservices-vs-soa/)
 - [Microservices Reference Architecture](https://www.nginx.com/resources/library/microservices-reference-architecture/)
