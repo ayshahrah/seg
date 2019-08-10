@@ -80,10 +80,9 @@ Quality.
 
 #### Others
 
-- [What is Business Analysis?](http://www.iiba.org/Careers/What-is-Business-Analysis.aspx)
+- [What is Business Analysis?](https://www.iiba.org/professional-development/career-centre/what-is-business-analysis/)
 - [Difference Between Systems Analyst and Business Analyst](http://www.modernanalyst.com/Resources/Articles/tabid/115/ID/185/Difference-Between-Systems-Analyst-and-Business-Analyst.aspx)
 - [Business Analyst vs. System Analyst: Differences and Similarities](https://www.villanovau.com/resources/business-analysis/business-analyst-vs-system-analyst/#.Ww_NlEiFOUk)
-- [What is the Difference Between a Business Analyst and a Systems Analyst?](http://www.bridging-the-gap.com/difference-between-a-business-analyst-and-systems-analyst/)
 
 ### Beginner
 
