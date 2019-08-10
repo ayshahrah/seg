@@ -82,8 +82,6 @@ Quality.
 
 - [What is Business Analysis?](https://www.iiba.org/professional-development/career-centre/what-is-business-analysis/)
 - [Difference Between Systems Analyst and Business Analyst](http://www.modernanalyst.com/Resources/Articles/tabid/115/ID/185/Difference-Between-Systems-Analyst-and-Business-Analyst.aspx)
-- [Business Analyst vs. System Analyst: Differences and Similarities](https://www.villanovau.com/resources/business-analysis/business-analyst-vs-system-analyst/#.Ww_NlEiFOUk)
-- [Business Analyst vs. Business Systems Analyst: What's the Difference?](https://www.inteqgroup.com/blog/business-analyst-vs.-business-systems-analyst)
 - [Business Analysis Vs Requirements Engineering: Is It the Same Thing?](https://requirementstechniques.wordpress.com/welcome/business-analysis-vs-requirements-engineering-is-it-the-same-thing/)
 
 ### Beginner
