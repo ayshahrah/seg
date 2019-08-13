@@ -119,19 +119,13 @@ A generally accepted view concerning software security is that it is much better
 - [O’Reilly - Free Security Ebooks](https://www.oreilly.com/security/free/)
 - [TechBeacon - Application Security](https://learn.techbeacon.com/tracks/application-security)
 - [Open security training](http://opensecuritytraining.info/)
-- [Secure Coding](https://developers.redhat.com/topics/secure-coding/)
 - [Web Application Security for Dummies](https://www.qualys.com/forms/ebook/web-application-security-for-dummies/)
 - [Securing Web Applications](https://pages.dyn.com/Securing-Web-Apps.html)
-- [Ultimate Guide to Getting Started with Application Security](https://www.veracode.com/sites/default/files/Resources/Whitepapers/ultimate-guide-to-getting-started-with-appsec-veracode.pdf)
-- [Secure Development Lifecycle: The essential guide to safe software pipelines](https://techbeacon.com/secure-development-lifecycle-essential-guide)
 - [OWASP Secure Software Development Lifecycle Project](https://www.owasp.org/index.php/OWASP_Secure_Software_Development_Lifecycle_Project)
 - [Security Development Lifecycle](https://www.microsoft.com/en-us/SDL)
-- [Fundamental Practices for Secure Software Development](https://safecode.org/news/safecode-publishes-fundamental-practices-secure-software-development-essential-elements-secure-development-life-cycle-program/)
-- [CISO Kit for Application Security](https://info.veracode.com/ciso-kit-for-application-security.html)
-- [Veracode's Application Security Knowledge Base](https://www.veracode.com/security)
+- [Veracode Resources](https://www.veracode.com/resources)
 - [Checkmarx resources](https://www.checkmarx.com/resources/)
 - [AppSec Classroom](https://codedx.com/resources/blog/appsec-classroom/)
-- [State of Software Security Reports](https://www.veracode.com/resources/state-of-software-security)
 - [The State of Open Source Security](https://snyk.io/stateofossecurity/)
 - [SecurityIntelligence](https://securityintelligence.com/)
 - [Security Innovation Knowledge Center](https://www.securityinnovation.com/knowledge-center)
@@ -160,6 +154,7 @@ A generally accepted view concerning software security is that it is much better
 
 #### Others
 
+- [Secure Coding](https://developers.redhat.com/topics/secure-coding/)
 - [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
 - [Agile Skills Learning Circle Wiki](https://www.ibm.com/developerworks/community/wikis/home/wiki/W61b873bae705_4dcd_aa9b_fe8380d4d7fb?lang=en)
 - [Agile Methodology](https://www.cigital.com/knowledge-database/agile-methodology/)
