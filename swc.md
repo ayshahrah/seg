@@ -159,7 +159,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 - [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
-- [GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
+- [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 - [Open Source Software Development, Linux and Git](https://www.coursera.org/specializations/oss-development-linux-git)
 - [Algorithms](https://www.coursera.org/specializations/algorithms)
 - [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms)
