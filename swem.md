@@ -115,6 +115,7 @@ In one sense, it should be possible to manage a software engineering project in 
 #### MOOCs
 
 - [Agile Project Management](https://www.edx.org/professional-certificate/umd-usmx-agile-project-management)
+- [Applied Scrum for Project Management](https://www.edx.org/course/applied-scrum-for-project-management)
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 - [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
