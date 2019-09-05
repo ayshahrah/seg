@@ -31,7 +31,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 
 ### Professional Certifications
 
-- [Top Certification Courses on Machine Learning](https://dzone.com/articles/top-certification-courses-on-machine-learning)
+- [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer)
 - [MCSA: Machine Learning](https://www.microsoft.com/en-us/learning/mcsa-machine-learning.aspx)
 
 ### Online Communities
