@@ -53,10 +53,6 @@ A generally accepted view concerning software security is that it is much better
 - [Veracode Blog](https://www.veracode.com/blog)
 - [Cigital Software Security Blog](https://www.cigital.com/blog/)
 
-### Market Insights
-
-- [Application Security](https://www.linkedin.com/topic/application-security)
-
 ### Resources Collections
 
 - [Developer's security guide: 50 online resources to shift left](https://techbeacon.com/developer-secure-code-starter-kit-resources)
