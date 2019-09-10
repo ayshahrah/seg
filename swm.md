@@ -55,13 +55,6 @@ Software maintenance is defined as the totality of activities required to provid
 - [Top 30 Cloud Computing Blogs For Latest Cloud Technology News](http://blog.feedspot.com/cloud_computing_blogs/)
 - [Best Blogs Every Linux SysAdmin Must Follow](https://itsfoss.com/best-sysadmin-blogs/)
 
-### Market Insights
-
-- [Devops](https://www.linkedin.com/topic/devops)
-- [System Administration](https://www.linkedin.com/topic/system-administration)
-- [Administrator](https://www.linkedin.com/title/administrator)
-- [Software Administration](https://www.linkedin.com/topic/software-administration)
-
 ### Resources Collections
 
 - [DevopsWiki](https://github.com/Leo-G/DevopsWiki)
