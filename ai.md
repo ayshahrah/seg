@@ -50,13 +50,6 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 - [Top 50 Artificial Intelligence Websites And Blogs for AI Enthusiast](https://blog.feedspot.com/ai_blogs/)
 - [Top 20 Machine Learning Blogs & Websites on the Web](https://blog.feedspot.com/machine_learning_blogs/)
 
-### Posted Jobs
-
-- [Artificial Intelligence](https://www.linkedin.com/topic/artificial-intelligence)
-- [Machine Learning](https://www.linkedin.com/topic/machine-learning)
-- [Machine Learning Engineer](https://www.linkedin.com/title/machine-learning-engineer)
-
-
 ### Resources Collections
 
 - [HowDo Artificial Intelligence](https://howdo.com/growth-primers/artificial-intelligence/)
