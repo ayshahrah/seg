@@ -43,15 +43,6 @@ Quality.
 - [Top Business Analyst Websites and Blogs to Follow](https://businessanalystlearnings.com/blog/2013/1/12/top-6-business-analyst-websites-and-blogs-to-follow)
 - [19 must-read business analysis blogs and websites](http://www.businessanalyststoolkit.com/business-analysis-blogs/)
 
-### Market Insights
-
-- [Software Requirements](https://www.linkedin.com/topic/software-requirements)
-- [Requirements Management](https://www.linkedin.com/topic/requirements-management)
-- [Business Analyst](https://www.linkedin.com/title/business-analyst)
-- [Business Analysis](https://www.linkedin.com/topic/business-analysis#definition)
-- [Requirements Analysis](https://www.linkedin.com/topic/business-requirements?trk=sushi_topic_insights_name)
-- [Systems Analysis](https://www.linkedin.com/topic/systems-analysis#definition)
-
 ### Resources Collections
 
 - [A List of Free Business Analyst Training Online](https://businessanalystlearnings.com/blog/2013/1/20/a-list-of-free-business-analyst-training-online)
