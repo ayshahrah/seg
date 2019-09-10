@@ -59,15 +59,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Top 50 Programming Blogs & Websites Every Programmer Must Follow](http://blog.feedspot.com/programming_blogs/)
 - [Best Web Development & Programming Blogs for 2017](https://www.codementor.io/codementorteam/best-programming-blogs-web-development-blogs-2017-quclkir3s)
 
-### Market Insights
-
-- [Software Developer](https://www.linkedin.com/title/software-developer)
-- [Web Developer](https://www.linkedin.com/title/web-developer)
-- [Mobile Developer](https://www.linkedin.com/title/mobile-developer)
-- [Software Programmer](https://www.linkedin.com/title/software-programmer)
-- [Software Development](https://www.linkedin.com/topic/software-development)
-- [Programming](https://www.linkedin.com/topic/programming)
-
 ### Resources Collections
 
 - [22 Places to Learn to Code for Free in 2017](https://makeawebsitehub.com/learn-to-code-for-free/)
