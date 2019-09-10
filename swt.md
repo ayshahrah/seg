@@ -55,11 +55,6 @@ For many organizations, the approach to software quality is one of prevention: i
 - [40 Best Blogs and Resources on Software Testing You Must Follow](http://www.aditiconsulting.com/40-best-blogs-and-resources-on-software-testing-you-must-follow/)
 - [Top 60 Software Testing Blogs and Websites for Testers](http://blog.feedspot.com/software_testing_blogs/)
 
-### Market Insights
-
-- [Software Test Engineer](https://www.linkedin.com/title/software-test-engineer)
-- [Software Testing](https://www.linkedin.com/topic/software-testing)
-
 ### Resources Collections
 
 - [20 Best Websites to Learn Software Testing](https://www.utest.com/articles/20-best-websites-to-learn-software-testing)
