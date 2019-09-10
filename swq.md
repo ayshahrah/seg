@@ -41,13 +41,6 @@ These definitions also illustrate another reason for the prevalence of software 
 - [QA Mentor’s Wisdom Center](http://www.qamentor.com/wisdom-center/)
 - [QABlogs.net](http://www.qablogs.net/)
 
-### Market Insights
-
-- [Software Quality Assurance - Members](https://www.linkedin.com/title/software-quality-assurance)
-- [Software Quality Assurance - Topic](https://www.linkedin.com/topic/software-quality-assurance)
-- [Software Quality Control](https://www.linkedin.com/topic/software-quality-control)
-- [Software Quality Management](https://www.linkedin.com/topic/software-quality-management)
-
 ### Resources Collections
 
 - [SQGNE - The Software Quality Page](http://www.sqgne.org/links.html)
