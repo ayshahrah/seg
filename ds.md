@@ -51,14 +51,6 @@ The data science field employs mathematics, statistics and computer science disc
 - [Best Data Science Blogs](https://www.ngdata.com/top-data-science-resources/#Blogs)
 - [The 16 best data scientists to follow on Twitter](http://www.computerworlduk.com/galleries/careers/best-data-scientists-follow-on-twitter-3644862/)
 
-### Market Insights
-
-- [Data Scientist](https://www.linkedin.com/title/data-scientist)
-- [Data Science](https://www.linkedin.com/topic/data-science)
-- [Data Engineer](https://www.linkedin.com/title/data-engineer)
-- [Data Analyst](https://www.linkedin.com/title/data-analyst)
-- [Data Analysis](https://www.linkedin.com/topic/data-analysis)
-
 ### Resources Collections
 
 - [24 Data Science Resources to Keep Your Finger on the Pulse](http://blog.udacity.com/2014/12/24-data-science-resources-keep-finger-pulse.html)
