@@ -47,13 +47,6 @@ In one sense, it should be possible to manage a software engineering project in 
 - [Top 10 Project Management Blogs to Follow In 2017](https://blog.taskque.com/top-10-project-management-blogs/)
 - [Top 50 Project Management Blog & Website List](http://blog.feedspot.com/project_management_blog/)
 
-### Market Insights
-
-- [Software Project Manager](https://www.linkedin.com/title/software-project-manager)
-- [Software Project Management](https://www.linkedin.com/topic/software-project-management)
-- [Project Manager](https://www.linkedin.com/title/project-manager)
-- [Project Management](https://www.linkedin.com/topic/project-management)
-
 ### Resources Collections
 
 - [Project Management Resource List](https://www.alctraining.com.au/project-management-resource-list/)
