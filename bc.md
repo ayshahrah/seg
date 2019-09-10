@@ -38,10 +38,6 @@ In the past, blockchains were commonly associated with digital currencies, and B
 - [Blockchain - Medium](https://blog.feedspot.com/blockchain_blogs/)
 - [Top 25 Blockchain Blogs and Websites on Blockchain Technology](https://blog.feedspot.com/blockchain_blogs/)
 
-### Market Insights
-
-- [Developer - Blockchain](https://www.linkedin.com/title/developer-at-blockchain)
-
 ### Resources Collections
 
 - [HowDo Blockchain](https://howdo.com/growth-primers/blockchain/blockchain-primer/)
