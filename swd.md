@@ -63,12 +63,6 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [HH Design](https://medium.com/hh-design)
 - [Toptal Design Blog](https://www.toptal.com/designers/blog)
 
-### Posted Jobs
-
-- [Software Architect](https://www.linkedin.com/title/software-architect)
-- [User Interface Designer](https://www.linkedin.com/title/user-interface-designer)
-- [User Experience Designer](https://www.linkedin.com/title/user-experience-designer)
-
 ### Resources Collections
 
 - [Undesign](https://undesign.learn.uno/)
