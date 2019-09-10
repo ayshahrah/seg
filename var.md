@@ -39,12 +39,6 @@ Augmented reality is the integration of digital information with the user's envi
 - [Top 50 Virtual Reality Blogs, Websites & Newsletters](https://blog.feedspot.com/virtual_reality_blogs/)
 - [Top 50 Augmented Reality Blogs and Websites](https://blog.feedspot.com/augmented_reality_blogs/)
 
-### Market Insights
-
-- [Virtual Reality](https://www.linkedin.com/topic/virtual-reality)
-- [Augmented Reality](https://www.linkedin.com/topic/augmented-reality)
-- [Unity Developer](https://www.linkedin.com/title/unity-developer)
-
 ### Resources Collections
 
 - [HowDo Augmented & Virtual Reality](https://howdo.com/growth-primers/augmented-virtual-reality/#ar-vr-essential-reading)
