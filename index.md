@@ -92,6 +92,6 @@ It is very important for any professional in software engineering to measure his
 
 ### Follow Us
 
-[![](twitter.png)](https://twitter.com/SWE_Guide) [![](linkedin.png)](https://www.linkedin.com/groups/10323987)
+[![](linkedin.png)](https://www.linkedin.com/groups/10323987)
 
 
