@@ -90,4 +90,6 @@ It is very important for any professional in software engineering to measure his
 
 ![alt text](Slide12.JPG "Performance Measurement") 
 
+### Follow Us
 
+[![](twitter.png)](https://twitter.com/SWE_Guide)
