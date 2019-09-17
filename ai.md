@@ -92,6 +92,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 
 #### MOOCs
 
+- [Elements of AI](https://www.elementsofai.com/)
 - [Intro to Artificial Intelligence - udacity](https://sa.udacity.com/course/intro-to-artificial-intelligence--cs271)
 - [Introduction to Artificial Intelligence (AI) - coursera](https://www.coursera.org/learn/introduction-to-ai)
 - [Introduction to Artificial Intelligence (AI) - edx](https://www.edx.org/course/introduction-artificial-intelligence-ai-microsoft-dat263x-0)
@@ -110,7 +111,6 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 
 #### Others
 
-- [Elements of AI](https://www.elementsofai.com/)
 - [O’Reilly Free AI Ebooks](http://www.oreilly.com/data/free/)
 - [A beginner’s guide to artificial intelligence, machine learning, and cognitive computing](https://developer.ibm.com/articles/cc-beginner-guide-machine-learning-ai-cognitive/)
 - [Artificial Intelligence and Machine Learning in Industry](http://www.oreilly.com/data/free/ai-machine-learning-in-industry.csp?cmp=tw-data-free-article-lgen_tw_free_ebook_as)
