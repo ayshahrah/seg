@@ -99,6 +99,7 @@ In the past, blockchains were commonly associated with digital currencies, and B
 #### MOOCs
 
 - [IBM Blockchain Foundation for Developers](https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers)
+- [Hyperledger Sawtooth for Application Developers](https://www.edx.org/course/hyperledger-sawtooth-for-application-developers)
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 - [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
