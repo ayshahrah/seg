@@ -154,6 +154,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 - [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 - [Machine Learning Yearning](http://www.mlyearning.org/)
 - [Learning Math for Machine Learning](https://blog.ycombinator.com/learning-math-for-machine-learning/)
+- [ML Workspace](https://github.com/ml-tooling/ml-workspace/blob/develop/README.md)
 - [scikit-learn](https://scikit-learn.org/stable/index.html)
 - [Seedbank - Collection of Interactive Machine Learning Examples](http://tools.google.com/seedbank/)
 - [100 Days of Machine Learning Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
