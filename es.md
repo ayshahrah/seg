@@ -8,6 +8,7 @@
 **Innovation:**
 
 - [Creativity, Innovation, and Change](https://www.coursera.org/learn/creativity-innovation)
+- [The Iterative Innovation Process](https://www.edx.org/course/the-iterative-innovation-process)
 - [Design Thinking and Creativity for Innovation](https://www.edx.org/course/design-thinking-and-creativity-for-innovation-0)
 - [Innovation & Entrepreneurship - From Design Thinking to Funding](https://www.coursera.org/learn/design-thinking-entrepreneurship)
 - [Innovation: From Creativity to Entrepreneurship](https://www.coursera.org/specializations/innovation-creativity-entrepreneurship)
