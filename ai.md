@@ -121,7 +121,6 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 
 #### MOOCs
 
-- [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [Machine Learning - udacity](https://sa.udacity.com/course/machine-learning--ud262)
 - [Machine Learning - coursera specialization](https://www.coursera.org/specializations/machine-learning)
 - [Machine Learning - coursera](https://www.coursera.org/learn/machine-learning)
@@ -129,6 +128,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 - [Machine Learning - AWS](https://aws.amazon.com/training/learning-paths/machine-learning/)
 - [Principles of Machine Learning](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-6)
 - [Introduction to Machine Learning for Coders](http://course.fast.ai/ml.html)
+- [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [Applied Machine Learning](https://www.edx.org/course/applied-machine-learning-microsoft-dat203-3x-4)
 - [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python/)
 - [Machine learning with Apache SystemML](https://cognitiveclass.ai/courses/machine-learning-apache-systemml/)
@@ -154,7 +154,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 - [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 - [Machine Learning Yearning](http://www.mlyearning.org/)
 - [Open Machine Learning Course](https://mlcourse.ai/)
-- [Learning Math for Machine Learning](https://blog.ycombinator.com/learning-math-for-machine-learning/)
+- [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [ML Workspace](https://github.com/ml-tooling/ml-workspace/blob/develop/README.md)
 - [scikit-learn](https://scikit-learn.org/stable/index.html)
 - [Seedbank - Collection of Interactive Machine Learning Examples](http://tools.google.com/seedbank/)
