@@ -90,16 +90,14 @@ Software maintenance is defined as the totality of activities required to provid
 
 #### MOOCs
 
-- [Google IT Support](https://www.coursera.org/specializations/google-it-support)
-- [Microsoft Professional Program for IT Support](https://academy.microsoft.com/en-us/professional-program/tracks/it-support/)
 - [Computer Security and Systems Management](https://www.coursera.org/specializations/computer-security-systems-management)
 - [Introduction to Data Storage and Management Technologies](https://www.edx.org/course/introduction-data-storage-management-ieeex-storage101x-0)
 - [Systems Administration Courses](https://www.cybrary.it/systems-administration/)
 - [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 - [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
 - [Fundamentals of Red Hat Enterprise Linux](https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x)
-- [Windows Server Courses](https://www.edx.org/school/microsoft)
-- [Microsoft Virtual Academy](https://mva.microsoft.com/)
+- [Google IT Support](https://www.coursera.org/specializations/google-it-support)
+- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
 #### Webinars
 
