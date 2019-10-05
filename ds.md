@@ -36,6 +36,8 @@ The data science field employs mathematics, statistics and computer science disc
 ### Professional Certifications
 
 - [The Top Data Science Certifications Employers Look For](https://www.datasciencegraduateprograms.com/certification/)
+- [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
+
 
 ### Online Communities
 
@@ -111,6 +113,7 @@ The data science field employs mathematics, statistics and computer science disc
 - [Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills)
 - [Statistics and Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
 - [Data Science Ethics](https://www.edx.org/course/data-science-ethics-michiganx-ds101x-1#!)
+- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
 #### Webinars
 
@@ -135,10 +138,6 @@ The data science field employs mathematics, statistics and computer science disc
 - [Applied Data Science](https://www.coursera.org/specializations/applied-data-science)
 - [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)
 - [Data Science with Python](https://www.edx.org/professional-certificate/data-science-with-python)
-- [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
-- [Microsoft Professional Program for Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
-- [Microsoft Professional Program for Data Analysis](https://academy.microsoft.com/en-us/professional-program/tracks/data-analysis/)
-- [Microsoft Virtual Academy](https://mva.microsoft.com/)
 - [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)
 - [Data Analysis: Absolute Beginners](https://www.edx.org/professional-certificate/data-analysis-absolute-beginners)
 - [Data Analysis and Presentation Skills](https://www.coursera.org/specializations/pwc-analytics)
