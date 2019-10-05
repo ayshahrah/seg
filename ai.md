@@ -32,6 +32,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 ### Professional Certifications
 
 - [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer)
+- [Micorsoft Professional Certificate in Artificial Intelligence (AI)](https://www.edx.org/professional-certificate/microsoft-artificial-intelligence)
 - [MCSA: Machine Learning](https://www.microsoft.com/en-us/learning/mcsa-machine-learning.aspx)
 
 ### Online Communities
@@ -99,7 +100,6 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 - [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
 - [Artificial Intelligence - udacity](https://sa.udacity.com/course/artificial-intelligence--ud954)
 - [Artificial Intelligence - edx](https://www.edx.org/micromasters/columbiax-artificial-intelligence)
-- [Microsoft Professional Program for Artificial Intelligence](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
 - [Microsoft AI School](https://aischool.microsoft.com/learning-paths)
 - [Artificial Intelligence for Robotics](https://sa.udacity.com/course/artificial-intelligence-for-robotics--cs373)
 - [Robotics](https://www.coursera.org/specializations/robotics)
