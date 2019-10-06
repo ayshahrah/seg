@@ -94,13 +94,12 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 #### Others
 
-- [Learn to code in 2018](https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a)
-- [Here are the best programming languages to learn in 2018](https://medium.freecodecamp.org/best-programming-languages-to-learn-in-2018-ultimate-guide-bfc93e615b35)
-- [What Code Should You Learn?](http://www.whoishostingthis.com/blog/2014/09/04/learn-to-code/)
-- [Learn to Code: What’s the Best Programming Language to Learn First?](https://makeawebsitehub.com/which-programming-language/)
-- [The Best Web Programming Languages to Learn](https://sf.tradepub.com/free-offer/the-best-web-programming-languages-to-learn/w_webd10)
-- [Abilities that makes you a better developer](https://hackernoon.com/abilities-that-makes-you-a-better-developer-82295c75de59)
-- [Learning Web Development? These Skills Will Make You Stand Out](https://dev.to/colinmtech/learning-web-development-these-skills-will-make-you-stand-out-56fh)
+- [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey/)
+- [GitHub: The State of the Octoverse](https://octoverse.github.com/)
+- [TIOBE Index](https://www.tiobe.com/tiobe-index/)
+- [IEEE: The Top Programming Languages](https://spectrum.ieee.org/static/interactive-the-top-programming-languages-2019)
+- [HackerRank Developer Skills Report](https://research.hackerrank.com/)
+- [Developer Economics](https://www.developereconomics.com/reports)
 
 ### Beginner
 
