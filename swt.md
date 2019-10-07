@@ -30,8 +30,8 @@ For many organizations, the approach to software quality is one of prevention: i
 ### Professional Certifications
 
 - [International Software Testing Qualifications Board (ISTQB)](http://www.istqb.org/certification-path-root.html)
-- [American Software Testing Qualifications Board (ASTQB) Certifications](https://www.astqb.org/get-certified/steps-to-certification/)
 - [The International Software Certifications Board’s (ISCB) Certifications](http://www.softwarecertifications.org/process/software-certifications-overview/)
+- [American Software Testing Qualifications Board (ASTQB) Certifications](https://www.astqb.org/get-certified/steps-to-certification/)
 - [British Computer Society (BCS) Certifications](http://certifications.bcs.org/category/15568)
 - [International Institute of Software Testing (IIST)](http://testinginstitute.com/software-testing-certifications.php)
 
