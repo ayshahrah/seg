@@ -65,11 +65,13 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 ### Resources Collections
 
-- [$0 Design Tools](https://www.producthunt.com/e/0-design-tools)
 - [Undesign](https://undesign.learn.uno/)
 - [Checklist Design](https://www.checklist.design/)
 - [noShit](https://noshit.xyz/)
 - [Freebies ByPeople](https://freebies.bypeople.com/)
+- [$0 Design Tools](https://www.producthunt.com/e/0-design-tools)
+- [Awesome Design Tools](https://flawlessapp.io/designtools)
+- [Awesome Design Plugins](https://flawlessapp.io/designplugins)
 - [Awesome Web Design Resources](https://github.com/nicolesaidy/awesome-web-design)
 - [Open Design: Freeware tools for Designers](https://uxplanet.org/open-design-freeware-tools-for-designers-f7bdde99f2e0)
 - [The Best UX/UI Designer Tools, Resources, Blogs & Books Collection](https://uxplanet.org/the-best-ux-ui-designer-tools-resources-blogs-books-collection-2d045592d7d7)
