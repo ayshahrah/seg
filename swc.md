@@ -128,6 +128,8 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [O’Reilly Free Web Development & Performance Ebooks](http://www.oreilly.com/web-platform/free/)
 - [O’Reilly Free Hardware and IoT Ebooks](http://www.oreilly.com/iot/free/)
 - [O’Reilly Free Free Web Ops & DevOps Ebooks](http://www.oreilly.com/webops/free/)
+- [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+- [Getting Started with Open Source development](https://bigdatauniversity.com/resources/getting-started-with-open-source-development/)
 - [The Freelancer’s Journey](https://university.webflow.com/freelancer)
 - [Beginner’s Guide to Web Development](https://www.codeschool.com/beginners-guide-to-web-development)
 - [Learn How to Develop the Next Generation of Applications for the Web](https://developers.google.com/web/)
@@ -138,7 +140,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Toptal's List of Top Free Programming Books](https://www.toptal.com/software/toptal-s-list-of-top-free-programming-books)
 - [9 Free Programming Books That Will Make You A Pro](http://www.makeuseof.com/tag/9-free-programming-books-will-make-pro/)
 - [100 Best Free Programming Books](http://devzum.com/2015/02/100-best-free-programming-books/)
-- [Getting Started with Open Source development](https://bigdatauniversity.com/resources/getting-started-with-open-source-development/)
 
 ### Intermediate
 
