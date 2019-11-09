@@ -38,6 +38,7 @@ The data science field employs mathematics, statistics and computer science disc
 - [The Top Data Science Certifications Employers Look For](https://www.datasciencegraduateprograms.com/certification/)
 - [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
 - [Microsoft Professional Certificate in Data Science Fundamentals](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
+- [Data Engineering with GCP Professional Certificate](https://www.coursera.org/professional-certificates/gcp-data-engineering)
 
 ### Online Communities
 
