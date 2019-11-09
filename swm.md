@@ -24,7 +24,6 @@ Software maintenance is defined as the totality of activities required to provid
 - [Cloud Engineer](https://www.edureka.co/blog/how-to-become-a-cloud-engineer/)
 - [Cloud Architect](https://cloudacademy.com/blog/what-exactly-is-a-cloud-architect-and-how-do-you-become-one/)
 - [Computer Systems Administrator](https://www.sokanu.com/careers/computer-systems-administrator/)
-- [Server Administrator](https://www.sokanu.com/careers/server-administrator/)
 - [Technical Support Specialist](https://www.sokanu.com/careers/technical-support-specialist/)
 
 ### How To
@@ -36,9 +35,6 @@ Software maintenance is defined as the totality of activities required to provid
 - [What Exactly Is a Cloud Architect and How Do You Become One?](https://cloudacademy.com/blog/what-exactly-is-a-cloud-architect-and-how-do-you-become-one/)
 - [The Essential Guide to Becoming a Systems Administrator](https://www.paysa.com/blog/2016/12/05/the-essential-guide-to-becoming-a-systems-administrator/)
 - [Want to Become a Systems Engineer?](https://www.roberthalf.com/blog/salaries-and-skills/want-to-become-a-systems-engineer-here-are-the-skills-required)
-- [16 essentials for sysadmin superheroes](https://opensource.com/article/19/7/sysadmin-essentials)
-- [7 Steps to Start Your Linux SysAdmin Career](https://www.linuxfoundation.org/blog/7-steps-to-start-your-linux-sysadmin-career/)
-- [4 Career Paths for System Administrators](https://www.newhorizons.com/resources/article/articleid/59/title/4-career-paths-for-system-administrators-and-the-certifications-you-need-to-succeed)
 
 ### Professional Certifications
 
