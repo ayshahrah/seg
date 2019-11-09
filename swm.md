@@ -13,12 +13,16 @@ Software maintenance is defined as the totality of activities required to provid
 
 - [DevOps Engineer Job Description Template](https://www.toptal.com/devops/job-description)
 - [Roles and Responsibilities for DevOps and Agile Teams](https://medium.com/@cote/roles-and-responsibilities-for-devops-and-agile-teams-fdacbffb4cb4#.9de94n71e)
+- [Cloud Engineer : Roles Responsibilities And All You Need To Know](https://www.edureka.co/blog/cloud-engineer-roles-and-responsibilities/)
+- [Cloud Architect Job Description](https://www.betterteam.com/cloud-architect-job-description)
 - [Sample Systems Administrator Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/systems-administrator)
 - [Sample Systems Engineer Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/systems-engineer)
 
 ### Possible Roles
 
 - [DevOps Engineer](https://www.edureka.co/blog/devops-engineer-role)
+- [Cloud Engineer](https://www.edureka.co/blog/how-to-become-a-cloud-engineer/)
+- [Cloud Architect](https://cloudacademy.com/blog/what-exactly-is-a-cloud-architect-and-how-do-you-become-one/)
 - [Computer Systems Administrator](https://www.sokanu.com/careers/computer-systems-administrator/)
 - [Server Administrator](https://www.sokanu.com/careers/server-administrator/)
 - [Technical Support Specialist](https://www.sokanu.com/careers/technical-support-specialist/)
@@ -28,6 +32,8 @@ Software maintenance is defined as the totality of activities required to provid
 - [The 2019 DevOps RoadMap](https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb)
 - [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
 - [The case for making the transition from sysadmin to DevOps engineer](https://opensource.com/article/19/7/devops-vs-sysadmin)
+- [How To Become A Cloud Engineer?](https://www.edureka.co/blog/how-to-become-a-cloud-engineer/)
+- [What Exactly Is a Cloud Architect and How Do You Become One?](https://cloudacademy.com/blog/what-exactly-is-a-cloud-architect-and-how-do-you-become-one/)
 - [The Essential Guide to Becoming a Systems Administrator](https://www.paysa.com/blog/2016/12/05/the-essential-guide-to-becoming-a-systems-administrator/)
 - [Want to Become a Systems Engineer?](https://www.roberthalf.com/blog/salaries-and-skills/want-to-become-a-systems-engineer-here-are-the-skills-required)
 - [16 essentials for sysadmin superheroes](https://opensource.com/article/19/7/sysadmin-essentials)
@@ -37,6 +43,9 @@ Software maintenance is defined as the totality of activities required to provid
 ### Professional Certifications
 
 - [CompTIA Career Roadmap](https://certification.comptia.org/why-certify/roadmap#.WEbilLmJITw.linkedin)
+- [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
+- [Cloud Architecture with GCP Professional Certificate](https://www.coursera.org/professional-certificates/gcp-cloud-architect)
+- [Cloud Engineering with GCP Professional Certificate](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
 
 ### Online Communities
 
