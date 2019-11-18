@@ -32,7 +32,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [How to Become a Mobile App Developer](https://buildfire.com/become-mobile-app-developer/)
 - [Roadmaps for Developers](https://roadmap.sh/)
 - [Beginner’s Web Development Guide](https://www.devtrails.io/web-development)
-- [A Guide to Becoming a Full-Stack Developer in 2017](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)
+- [Become a Web Developer in 180 Days](https://medium.com/better-programming/become-a-web-developer-in-180-days-without-cs-degree-e869395972e1)
 
 ### Professional Certifications
 
