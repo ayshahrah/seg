@@ -102,6 +102,7 @@ Augmented reality is the integration of digital information with the user's envi
 - [Virtual Reality (VR) App Development](https://www.edx.org/professional-certificate/virtual-reality-vr-app-development)
 - [Unity XR: How to Build AR and VR Apps](https://www.coursera.org/specializations/unity-xr)
 - [Exploring the Mixed Reality Landscape](https://www.kadenze.com/courses/exploring-the-mixed-reality-landscape/info)
+- [Advanced App Development in Android](https://www.coursera.org/specializations/advanced-app-android)
 - [Learn ARKit using Swift](https://sa.udacity.com/course/learn-arkit-using-swift--ud116)
 - [Learn ARKit using Unity](https://sa.udacity.com/course/learn-arkit-using-unity--ud114)
 - [Unity Certified Programmer Exam Preparation](https://www.coursera.org/specializations/unity-certified-programmer)
