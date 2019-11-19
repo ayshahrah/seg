@@ -15,6 +15,7 @@ Software maintenance is defined as the totality of activities required to provid
 - [Roles and Responsibilities for DevOps and Agile Teams](https://medium.com/@cote/roles-and-responsibilities-for-devops-and-agile-teams-fdacbffb4cb4#.9de94n71e)
 - [Cloud Engineer : Roles Responsibilities And All You Need To Know](https://www.edureka.co/blog/cloud-engineer-roles-and-responsibilities/)
 - [Cloud Architect Job Description](https://www.betterteam.com/cloud-architect-job-description)
+- [Site Reliability Engineer (SRE) Roles and Responsibilities](https://victorops.com/blog/site-reliability-engineer-sre-roles-and-responsibilities)
 - [Sample Systems Administrator Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/systems-administrator)
 - [Sample Systems Engineer Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/systems-engineer)
 
@@ -23,6 +24,7 @@ Software maintenance is defined as the totality of activities required to provid
 - [DevOps Engineer](https://www.edureka.co/blog/devops-engineer-role)
 - [Cloud Engineer](https://www.edureka.co/blog/how-to-become-a-cloud-engineer/)
 - [Cloud Architect](https://cloudacademy.com/blog/what-exactly-is-a-cloud-architect-and-how-do-you-become-one/)
+- [Site Reliability Engineer](https://opensource.com/article/18/10/what-site-reliability-engineer)
 - [Computer Systems Administrator](https://www.sokanu.com/careers/computer-systems-administrator/)
 - [Technical Support Specialist](https://www.sokanu.com/careers/technical-support-specialist/)
 
@@ -89,6 +91,7 @@ Software maintenance is defined as the totality of activities required to provid
 
 #### Others
 
+- [Site Reliability Engineering](https://landing.google.com/sre/)
 - [System administration](https://en.wikiversity.org/wiki/System_administration)
 
 ### Beginner
