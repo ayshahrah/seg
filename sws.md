@@ -9,7 +9,8 @@ A generally accepted view concerning software security is that it is much better
 
 ### Knowledge and Skills
 
-- [InfoSec Career Paths vs Programming Skills — The Basics](https://hackernoon.com/infosec-career-paths-vs-programming-skills-the-basics-bf841187165f)
+- [Software Security Engineer Responsibilities](https://resources.workable.com/software-security-engineer-job-description)
+- [Software Security Engineer job description template](https://www.talentlyft.com/en/resources/software-security-engineer-job-description)
 
 ### Possible Roles
 
@@ -83,6 +84,7 @@ A generally accepted view concerning software security is that it is much better
 #### Others
 
 - [A Developer’s Guide to the OWASP Top 10 2017](https://www.microfocus.com/en-us/assets/security/developers-guide-to-the-owasp-top-10-2017)
+- [InfoSec Career Paths vs Programming Skills — The Basics](https://hackernoon.com/infosec-career-paths-vs-programming-skills-the-basics-bf841187165f)
 
 ### Beginner
 
