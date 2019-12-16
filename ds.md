@@ -9,7 +9,7 @@ The data science field employs mathematics, statistics and computer science disc
 
 ### Knowledge and Skills
 
-- [The Most in Demand Skills for Data Scientists](https://towardsdatascience.com/the-most-in-demand-skills-for-data-scientists-4a4a8db896db)
+- [The Most In Demand Tech Skills for Data Scientists](https://towardsdatascience.com/the-most-in-demand-tech-skills-for-data-scientists-d716d10c191d)
 - [8 Skills You Need to Be a Data Scientist](http://blog.udacity.com/2014/11/data-science-job-skills.html)
 - [Data Science Career Paths: Different Roles in the Industry](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/)
 - [Software development skills for data scientists](http://treycausey.com/software_dev_skills.html)
