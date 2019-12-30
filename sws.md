@@ -103,6 +103,8 @@ A generally accepted view concerning software security is that it is much better
 
 #### Webinars
 
+- [Secure Software Lifecycle Webinar](https://www.cybok.org/events/secure-software-lifecycle-webinar)
+- [Software Security Knowledge Area Webinar](https://www.cybok.org/events/software-security-knowledge-area-webinar)
 - [Gartner's Security Webinars](http://www.gartner.com/technology/webinars/security.jsp)
 - [Cigital's Security Webinars](https://www.cigital.com/resources/videos/)
 - [Veracode's Security Webinars](https://www.veracode.com/resources/webinars)
