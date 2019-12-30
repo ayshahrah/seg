@@ -113,7 +113,7 @@ A generally accepted view concerning software security is that it is much better
 #### Others
 
 - [SWEBOK V3 - Chapter 13: Computing Foundations - Section 17. Secure Software Development and Maintenance](https://www.computer.org/web/swebok/v3)
-- [The Cyber Security Body Of Knowledge](https://www.cybok.org/)
+- [The Cyber Security Body of Knowledge](https://www.cybok.org/)
 - [O’Reilly - Free Security Ebooks](https://www.oreilly.com/security/free/)
 - [TechBeacon - Application Security](https://learn.techbeacon.com/tracks/application-security)
 - [Open security training](http://opensecuritytraining.info/)
