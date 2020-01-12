@@ -213,6 +213,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 
 #### Others
 
+- [MIT Deep Learning](https://deeplearning.mit.edu/)
 - [Deep Learning - MIT Press](http://www.deeplearningbook.org/)
 - [Fast.ai](http://www.fast.ai/)
 - [deeplearning.ai](https://www.deeplearning.ai/)
