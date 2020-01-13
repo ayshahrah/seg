@@ -113,6 +113,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 
 #### Others
 
+- [AI Playbook](http://aiplaybook.a16z.com/)
 - [O’Reilly Free AI Ebooks](http://www.oreilly.com/data/free/)
 - [A beginner’s guide to artificial intelligence, machine learning, and cognitive computing](https://developer.ibm.com/articles/cc-beginner-guide-machine-learning-ai-cognitive/)
 - [Artificial Intelligence and Machine Learning in Industry](http://www.oreilly.com/data/free/ai-machine-learning-in-industry.csp?cmp=tw-data-free-article-lgen_tw_free_ebook_as)
