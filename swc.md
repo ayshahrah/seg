@@ -33,6 +33,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Roadmaps for Developers](https://roadmap.sh/)
 - [Beginner’s Web Development Guide](https://www.devtrails.io/web-development)
 - [Become a Web Developer in 180 Days](https://medium.com/better-programming/become-a-web-developer-in-180-days-without-cs-degree-e869395972e1)
+- [Teaching Yourself to Code to Become an Employable Programmer](http://javascriptissexy.com/teaching-yourself-to-code-to-become-an-employable-programmer-what-to-learn-where-to-learn-and-more/)
 
 ### Professional Certifications
 
