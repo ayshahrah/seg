@@ -195,6 +195,7 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 - [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning)
 - [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 - [TensorFlow in Practice](https://www.coursera.org/specializations/tensorflow-in-practice)
+- [TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
 - [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
 - [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
 - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
