@@ -4,13 +4,13 @@
 
 ### Motivation
 
-The motivation behind building this guide is the existing gap between the knowledge and skills that are acquired from traditional education offerings and the ones that are demanded today by industry--particularly at the places with low-quality education. However, nowadays, with the availability and affordability of internet connectivity, you can easily gain free-of-cost access to high-quality learning resources from around the world. *Therefore, there is no excuse to say that I don't have a quality education!*
+ There is a noticeable gap between traditional education offerings and industry demands. Particularly, at the places with low-quality education. Nowadays, you can access high-quality learning resources from around the world for free. *Thus, there is no excuse to say that I don't have a quality education!*
 
 ![](Slide2.JPG "Motivation")
 
 ### Relationship
 
-Software engineering is a broad field that encompasses so many different sub-specializations and interrelates to many other computing fields, such as computer science and computer engineering. Therefore, to be a professional in software engineering, you need to have a foundational background on software engineering and its related fields. Furthermore, you need to choose and master a sub-specialization in software engineering (role-based).    
+Software engineering is a broad field that encompasses many sub-fields. It also interrelates with other computing fields, like computer science and computer engineering. Thus, it is important first to understand the basics of software engineering. Then, choose and master a sub-field based on your interest and the market demand.     
 
 ![](Slide4.JPG "Principles") 
 
