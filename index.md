@@ -22,7 +22,7 @@ There are some important principles to guide yourself in your self-learning jour
 
 ### Framework
 
-A framework of three components inspires the scope of the SEG. The first component is the "learner" who has to get technical and non-technical skills. The second component is the "methodology" to manage the process of software development (e.g. lean, agile, and DevOps). The third component is the "technology" to support software development (e.g. ALM, IoT, and cloud computing).
+A framework of three components inspires the scope of the SEG. The first is the "learner" who has to get technical and non-technical skills. The second is the "method" to manage the process of software development (e.g. lean, agile, and DevOps). The third is the "technology" to support software development (e.g. ALM, IoT, and cloud computing).
 
 ![](Slide7.JPG "Framework") 
 
