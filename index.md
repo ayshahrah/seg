@@ -16,13 +16,13 @@ Software engineering is a broad field that encompasses many sub-fields. It also 
 
 ### Principles
 
-To be a professional in software engineering, you have to guide yourself by adopting some important principles, including purpose, ambition, passion, focus, self-motivation, self-learning, seriousness, and patience. Without such principles, it would be very difficult to be in a mastery level of software engineering.
+There are some important principles to guide yourself in your self-learning journey. The principles are purpose, ambition, passion, focus, self-motivation, self-learning, seriousness, and patience. These principles can help you to get into a mastery level of software engineering.
 
 ![](Slide5.JPG "Principles") 
 
 ### Framework
 
-The SEG is inspired by a framework that combines three essential components to master software engineering, including learner (acquiring technical and non-technical skills), methodology (adopting lean, agile, and DevOps), and technology (using next-generation technologies, such as ALM, IoT, cloud computing, etc.).
+A framework of three components inspires the scope of the SEG. The first component is the "learner" who has to get technical and non-technical skills. The second component is the "methodology" to manage the process of software development (e.g. lean, agile, and DevOps). The third component is the "technology" to support software development (e.g. ALM, IoT, and cloud computing).
 
 ![](Slide7.JPG "Framework") 
 
