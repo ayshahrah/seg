@@ -4,7 +4,7 @@
 
 ### Motivation
 
- There is a noticeable gap between traditional education offerings and industry demands. Particularly, at the places with low-quality education. Nowadays, you can access high-quality learning resources from around the world for free. *Thus, there is no excuse to say that I don't have a quality education!*
+There is a noticeable gap between traditional education offerings and industry demands. Particularly, at the places with low-quality education. Nowadays, you can access high-quality learning resources from around the world for free. *Thus, there is no excuse to say that I don't have a quality education!*
 
 ![](Slide2.JPG "Motivation")
 
@@ -22,19 +22,19 @@ There are some important principles to guide yourself in your self-learning jour
 
 ### Framework
 
-A framework of three components inspires the scope of the SEG. The first is the "learner" who has to get technical and non-technical skills. The second is the "method" to manage the process of software development (e.g. lean, agile, and DevOps). The third is the "technology" to support software development (e.g. ALM, IoT, and cloud computing).
+A framework of three components inspires the scope of the SEG. The first component is the "learner" who has to get technical and non-technical skills. The second is the "method" to manage the process of software development (e.g. lean, agile, and DevOps). The third is the "technology" to support software development (e.g. ALM, IoT, and cloud computing).
 
 ![](Slide7.JPG "Framework") 
 
 ### Knowledge Areas
 
-The SEG is mainly developed based on the main knowledge areas of the software development lifecycle (SDLC) included in the Software Engineering Body of Knowledge ([SWEBOK V3](https://www.computer.org/web/swebok/v3)). Each knowledge area can be mapped to a career path in the industry. Furthermore, there are cross-knowledge areas and emerging career paths, such as data scientist and artificial intelligence engineer.
+The SEG covers the main knowledge areas described in the Software Engineering Body of Knowledge ([SWEBOK V3](https://www.computer.org/web/swebok/v3)). It attempts to map each knowledge area to a set of career paths. It also includes other emerging career paths, like data scientists and artificial intelligence engineers.
 
 ![](Slide8.JPG "Knowledge Areas") 
 
 ### Learning Paths
 
-The SEG currently includes 12 different role-based learning paths (specializations). SEG provides guiding information and learning resources for each learning path. If you don't know which learning path to go with! you can identify your potential career by using the [IBM IT Assessment](https://www.coursera.org/learn/ibm-it-assessment).
+The SEG currently includes 12 role-based learning paths. It provides guiding information and up-to-date learning resources for each learning path. You can identify your potential career by using the [IBM IT Assessment](https://www.coursera.org/learn/ibm-it-assessment).
 
 **Traditional Roles:**
 
@@ -56,37 +56,37 @@ The SEG currently includes 12 different role-based learning paths (specializatio
 
 ### Interpersonal Skills
 
-Technical skills are not enough to be a professional in software engineering! In today's competitive working environments, soft skills are imperative and not less important than technical skills. Furthermore, developing a new business or establishing a tech start-up needs an additional type of skill-set in entrepreneurship.
+Technical skills are not enough to be a professional in software engineering! Soft skills are imperative and not less important than technical skills. Moreover,  entrepreneurship skills are crucial when thinking about establishing a new business.
 
 - [Soft Skills](ss.md)
 - [Entrepreneurship Skills](es.md)
 
 ### Learning Process
 
-To get full advantage of this guide, it is highly recommended to first select a role from the specialized learning paths listed above. Then, begin the following self-development process: learning, practicing, networking, and teaching. These steps are overlapped, iterative, and should be a life-long journey.
+The SEG recommends a set of activities to guide the self-learners. The first activity is to select a specialized role. Then, begin other activities: learning, practicing, networking, and teaching. These activities are overlapping, iterative, and should be a life-long journey.
 
 ![](Slide9.JPG "Methodology") 
 
-- **Learning**: a self-learning process to increase the learner's knowledge based on available online resources. The learner can leverage the collected resources available in this guide for each specialized role. These collections contain up-to-date, high-quality, and free-of-cost online learning resources.
+- **Learning**: take and study the provided resources. It is not necessary to take all the provided materials if you know the subject or there is a duplication in topics.
 
-- **Practicing**: using software tools and technologies to improve the learner's practical skills. The learner can utilize open source and free software tools. The learner can also gain trial access to some commercial software tools to apply the acquired theoretical knowledge.
+- **Practicing**: Put your hands on the topics you have learned. Use the free tools or open-source software. You can also use a free trial of some commercial tools.
 
-- **Networking**: joining and connecting with professional and specialized online communities. This allows the learner to keep updated with the latest trends and technologies in a selected learning path. Furthermore, networking provides a medium for asking questions and getting help in resolving encountered issues.
+- **Networking**: join and connect with professional and specialized communities. This provides a medium for knowledge sharing and question answering. 
 
-- **Teaching**: this process helps in keeping the learner more focused and connected with others through knowledge sharing and open discussions. In addition, teaching can help in sharpening the learner's soft skills like confidence, communication, presentation, speaking, etc.
+- **Teaching**: give back to the community by sharing what you have learned. This activity encourages deep understanding and helps in gaining soft skills.
 
 ### Learning Outcomes
 
 | Level        | Description           | Outcome  |
 | ------------- |:-------------| :-----|
-| **Foundation**     | Explains how to learn and provides an overall background in software engineering | Understanding the importance of self-learning and the basics of software engineering|
-| **Beginner**     | Focuses on basic knowledge and skills of a particular learning path | Understanding the fundamentals of the selected learning path |
-| **Intermediate** | Focuses on agile approaches and application life-cycle management software (ALM) | The ability to develop prototypes using an agile approach and ALM software |
-| **Advanced** | Focuses on next-generation technologies (e.g. internet-of-things and cloud computing) and approaches (e.g. DevOps)      |    The ability to develop next-generation applications using cloud computing and DevOps approach |
+| **Foundation**     | How to learn and what is software engineering | Understanding the learning process and the basics of software engineering|
+| **Beginner**     | The basic knowledge and skills for the selected learning path | Understanding the fundamentals of the selected learning path |
+| **Intermediate** | Agile methods and application life-cycle management software (ALM) | The ability to develop applications using an agile approach and ALM software |
+| **Advanced** | Next-generation technologies (e.g. cloud computing) and approaches (e.g. DevOps)      |    The ability to develop next-generation applications using cloud computing and DevOps approach |
 
 ### Performance Measurement
 
-It is very important for any professional in software engineering to measure his/her learning progress towards learning objectives and future career path. From a practical perspective, this can be achieved by different means (achievement-based), such as delivering a technical presentation, demonstrating a piece of a developed prototype or a fully functioning application, or acquiring a professional certification in a particular domain.
+It is very important to measure your learning progress towards the intended objectives. From a practical perspective, you can achieve that by different means  (achievement-based). One way is to deliver a technical presentation and show a developed application. Another way is to get a professional certification.
 
 ![alt text](Slide12.JPG "Performance Measurement") 
 
