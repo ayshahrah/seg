@@ -12,6 +12,7 @@ For many organizations, the approach to software quality is one of prevention: i
 ### Knowledge and Skills
 
 - [Software Testing as a Career Path (Skills, Salary, Growth)](https://www.guru99.com/software-testing-career-complete-guide.html)
+- [Test automation and QA career guide: Top roles and skills](https://techbeacon.com/app-dev-testing/test-automation-qa-career-guide-top-roles-skills)
 - [QA Tester Job Description](https://www.jobhero.com/qa-tester-job-description/)
 
 ### Possible Roles
