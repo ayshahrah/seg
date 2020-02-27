@@ -104,6 +104,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 #### Others
 
+- [Bite sized learning](https://www.booklets.io/)
 - [Should Designers Code?](https://medium.com/@MrAlanCooper/should-designers-code-f7b745b8cd03)
 - [7 Rules for Creating Gorgeous UI](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
 - [5 Things You Should Know About UX Design](https://medium.theuxblog.com/5-things-you-should-know-about-ux-design-84748e26f98b)
