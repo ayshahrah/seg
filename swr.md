@@ -22,8 +22,7 @@ Quality.
 
 ### How To
 
-- [How to become a business analyst](https://www.modis.com/en-us/resources/job-seekers/how-to-become-a-business-analyst-our-easy-to-follow-guide/)
-- [Business Analyst Career Road Map](https://www.iiba.org/professional-development/career-centre/business-analyst-career-road-map/)
+- [The Business Analyst Career Road Map](https://www.iiba.org/professional-development/knowledge-centre/articles/roles-ba-career-road-map/)
 - [Become a Systems Analyst: Step-by-Step Career Guide](https://study.com/articles/Become_a_Systems_Analyst_Step-by-Step_Career_Guide.html)
 
 ### Professional Certifications
@@ -36,7 +35,6 @@ Quality.
 ### Online Communities
 
 - [Modernanalyst.com](http://www.modernanalyst.com/Home.aspx)
-- [LinkedIn - IIBA (International Institute of Business Analysis)](https://www.linkedin.com/groups/92583/profile)
 
 ### Blogs
 
@@ -47,6 +45,7 @@ Quality.
 
 - [A List of Free Business Analyst Training Online](https://businessanalystlearnings.com/blog/2013/1/20/a-list-of-free-business-analyst-training-online)
 - [Free courses for business analysts](https://businessanalystlearnings.com/free-courses-for-business-analysts/)
+- [A List of Free Ebooks & White Papers For Business Analysts](https://businessanalystlearnings.com/blog/2014/12/5/a-list-of-free-ebooks-white-papers-for-business-analysts)
 
 ## Learning Resources
 
@@ -63,7 +62,7 @@ Quality.
 - [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 - **[Soft Skills](ss.md)**
 
-#### Webinars
+#### Videos
 
 - [The Business Analyst Catalyst: The Role of the BA in Today's Business World](https://www.youtube.com/watch?v=n_39RcB9UyY)
 - [From Waterfall to Agile - A Business Analyst's Survival Guide](https://www.youtube.com/watch?v=UVqmbpIQXkw)
@@ -71,9 +70,7 @@ Quality.
 
 #### Others
 
-- [What is Business Analysis?](https://www.iiba.org/professional-development/career-centre/what-is-business-analysis/)
 - [Difference Between Systems Analyst and Business Analyst](http://www.modernanalyst.com/Resources/Articles/tabid/115/ID/185/Difference-Between-Systems-Analyst-and-Business-Analyst.aspx)
-- [Business Analysis Vs Requirements Engineering: Is It the Same Thing?](https://requirementstechniques.wordpress.com/welcome/business-analysis-vs-requirements-engineering-is-it-the-same-thing/)
 
 ### Beginner
 
@@ -81,24 +78,16 @@ Quality.
 
 - [Client Needs and Software Requirementst](https://www.coursera.org/learn/client-needs-and-software-requirements)
 
-#### Webinars
+#### Videos
 
 - [How to Write Good Requirements](http://www.jamasoftware.com/resource/webinar-write-good-requirements/)
 - [Requirements Management Best Practices](https://www.youtube.com/watch?v=7vx6RDydAPo)
-- [5 Best Practices to Define, Approve and Manage Requirements Throughout the Lifecycle](http://content.intland.com/webinar/5-best-practices-to-define-approve-and-manage-requirements-throughout-the-lifecycle)
-- [Software Requirements: 7 Critical Success Factors](http://www.modernanalyst.com/Webinars/tabid/207/articleType/ArticleView/articleId/2525/Software-Requirements-7-Critical-Success-Factors.aspx)
-- [Software Requirements: 10 Traps to Avoid](https://www.youtube.com/watch?v=MtOcFwWUEPc)
 - [IIBA's BABOK Guide and PMI's Business Analysis for Practitioners Guide](https://www.youtube.com/watch?v=45Bqb9rhdiY)
-- [A List of Free Business Analysis Webinars](https://businessanalystlearnings.com/blog/2015/11/28/a-list-of-free-business-analysis-webinars)
 
 #### Others
 
 - [SWEBOK V3 - Chapter 1: Software Requirements](https://www.computer.org/web/swebok/v3)
-- [Requirements Definition and Management for Dummies](http://www.blueprintsys.com/content/ebook-requirements-definition-and-management-for-dummies/)
-- [A List of Free Ebooks & White Papers For Business Analysts](https://businessanalystlearnings.com/blog/2014/12/5/a-list-of-free-ebooks-white-papers-for-business-analysts)
-- [Requirements Management Guide](https://intland.com/guides-brochures/guides/requirements-management-guide-2/)
-- [Managing Your Requirements](https://www.ibm.com/developerworks/community/blogs/requirementsmanagement/entry/why-requirements-management?lang=en)
-- [Converging 360](https://rmcls.com/360/)
+- [10 Success Factors of Future-proof Requirements Management](https://content.intland.com/requirements-management/10-success-factors-of-future-proof-requirements-management)
 
 ### Intermediate
 
@@ -106,21 +95,13 @@ Quality.
 
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
-- [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 
-#### Webinars
+#### Videos
 
-- [Agile Development Basics](http://info.versionone.com/Agile-Development-Basics-Webinar.html)
-- [Better, Faster, and Easier: Agile Application Development for Your Business](http://www.appian.com/resources/better-faster-and-easier-agile-application-development-for-your-business/)
-- [Watch the Do Agile Right webinar](http://blogs.atlassian.com/2014/02/watch-agile-right-webinar-lessons-learned-atlassian-software-engineer/)
 - [It’s an Agile World: Requirements at the Speed of Thought](http://www.modernanalyst.com/Webinars/tabid/207/ID/3650/Its-an-Agile-World-Requirements-at-the-Speed-of-Thought.aspx)
-- [Agile Requirements Not an Oxymoron](https://www.youtube.com/watch?v=VYQ88YG8osw&feature=youtu.be)
 - [Agile Requirements Management Best Practices](https://www.youtube.com/watch?v=HQizMS04A7s)
-- [Agile Requirements - Visual Modeling Techniques](https://www.youtube.com/watch?v=Y_-f2CZELrw)
 - [Use Cases and User Stories for Agile Requirements](https://www.youtube.com/watch?v=NB2ZB6DOrlM)
-- [Being Agile with Atlassian 2 of 5: Agile Requirements Management](https://www.youtube.com/watch?v=VYQ88YG8osw&feature=youtu.be)
-- [BA Agile Webinars](https://www.batimes.com/agile/webinars.html)
 
 #### Others
 
