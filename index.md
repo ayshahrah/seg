@@ -1,6 +1,6 @@
 ## Welcome to Software Engineering Guide
 
-**Software Engineering Guide (SEG)** is a self-learning roadmap for practitioners in software engineering. It is role-based and includes a curated list of free-of-cost learning resources. For each role, there are four levels: foundation, beginner, intermediate, and advanced. The learning resources are being collected from highly-respected and well-trusted sources.
+**Software Engineering Guide (SEG)** is a self-learning roadmap for practitioners in software engineering. It is a role-based guide and includes a curated list of free-of-cost learning resources. For each role, there are four levels: foundation, beginner, intermediate, and advanced. The learning resources are being collected from highly-respected and well-trusted sources.
 
 ### Motivation
 
@@ -16,7 +16,7 @@ Software engineering is a broad field that encompasses many sub-fields. It also 
 
 ### Principles
 
-There are some important principles to guide yourself in your self-learning journey. The principles are purpose, ambition, passion, focus, self-motivation, self-learning, seriousness, and patience. These principles can help you to get into a mastery level of software engineering.
+There are some important principles to guide yourself in your self-learning journey. These principles include: purpose, ambition, passion, focus, self-motivation, self-learning, seriousness, and patience. Such principles are really helpfull to get into a mastery level of software engineering.
 
 ![](Slide5.JPG "Principles") 
 
@@ -28,13 +28,13 @@ A framework of three components inspires the scope of the SEG. The first compone
 
 ### Knowledge Areas
 
-The SEG covers the main knowledge areas described in the Software Engineering Body of Knowledge ([SWEBOK V3](https://www.computer.org/web/swebok/v3)). It attempts to map each knowledge area to a set of career paths. It also includes other emerging career paths, like data scientists and artificial intelligence engineers.
+The SEG covers the main knowledge areas described in the Software Engineering Body of Knowledge ([SWEBOK V3](https://www.computer.org/web/swebok/v3)). It attempts to map each knowledge area to a set of career paths. It also includes other emerging career paths, like data scientist and artificial intelligence engineer.
 
 ![](Slide8.JPG "Knowledge Areas") 
 
 ### Learning Paths
 
-The SEG currently includes 12 role-based learning paths. It provides guiding information and up-to-date learning resources for each learning path. You can identify your potential career by using the [IBM IT Assessment](https://www.coursera.org/learn/ibm-it-assessment).
+The SEG currently includes 12 role-based learning paths. It provides guiding information and up-to-date learning resources for each learning path. If you still don't have a career path in your mind, you can identify your potential career by using the [IBM IT Assessment](https://www.coursera.org/learn/ibm-it-assessment).
 
 **Traditional Roles:**
 
@@ -56,24 +56,24 @@ The SEG currently includes 12 role-based learning paths. It provides guiding inf
 
 ### Interpersonal Skills
 
-Technical skills are not enough to be a professional in software engineering! Soft skills are imperative and not less important than technical skills. Moreover,  entrepreneurship skills are crucial when thinking about establishing a new business.
+Technical skills are not enough to be a professional in software engineering! Soft skills are imperative and not less important than technical skills. Moreover,  entrepreneurship skills are crucial when you would like to establish your own technology business.
 
 - [Soft Skills](ss.md)
 - [Entrepreneurship Skills](es.md)
 
 ### Learning Process
 
-The SEG recommends a set of activities to guide the self-learners. The first activity is to select a specialized role. Then, begin other activities: learning, practicing, networking, and teaching. These activities are overlapping, iterative, and should be a life-long journey.
+The SEG recommends a set of activities to guide the self-learners. The first activity is to select a specialized role. Then, begin the following activities: learning, practicing, networking, and teaching. These activities are overlapping, iterative, and should be a life-long journey.
 
 ![](Slide9.JPG "Methodology") 
 
 - **Learning**: take and study the provided resources. It is not necessary to take all the provided materials if you know the subject or there is a duplication in topics.
 
-- **Practicing**: Put your hands on the topics you have learned. Use the free tools or open-source software. You can also use a free trial of some commercial tools.
+- **Practicing**: put your hands on the topics you have learned. Use the free tools or open-source software. You can also use a free trial of some commercial tools.
 
 - **Networking**: join and connect with professional and specialized communities. This provides a medium for knowledge sharing and question answering. 
 
-- **Teaching**: give back to the community by sharing what you have learned. This activity encourages deep understanding and helps in gaining soft skills.
+- **Teaching**: give back to the community by sharing what you have learned. This activity encourages deep understanding and helps in improving soft skills.
 
 ### Learning Outcomes
 
@@ -86,7 +86,7 @@ The SEG recommends a set of activities to guide the self-learners. The first act
 
 ### Performance Measurement
 
-It is very important to measure your learning progress towards the intended objectives. From a practical perspective, you can achieve that by different means  (achievement-based). For example, deliver a technical presentation or show a developed application. You can also get professional certification.
+It is very important to measure your learning progress towards the intended objectives. From a practical perspective, you can achieve that by different means  (achievement-based). For example, deliver a technical presentation or show a developed application. You can also get a professional certification in your domain.
 
 ![alt text](Slide12.JPG "Performance Measurement") 
 
