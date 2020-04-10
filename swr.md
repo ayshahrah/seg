@@ -60,7 +60,7 @@ Quality.
 - [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
 - [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 
-#### Videos
+#### Webinars
 
 - [The Business Analyst Catalyst: The Role of the BA in Today's Business World](https://www.youtube.com/watch?v=n_39RcB9UyY)
 - [From Waterfall to Agile - A Business Analyst's Survival Guide](https://www.youtube.com/watch?v=UVqmbpIQXkw)
@@ -76,7 +76,7 @@ Quality.
 
 - [Client Needs and Software Requirementst](https://www.coursera.org/learn/client-needs-and-software-requirements)
 
-#### Videos
+#### Webinars
 
 - [How to Write Good Requirements](http://www.jamasoftware.com/resource/webinar-write-good-requirements/)
 - [Requirements Management Best Practices](https://www.youtube.com/watch?v=7vx6RDydAPo)
@@ -95,77 +95,36 @@ Quality.
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 
-#### Videos
+#### Webinars
 
-- [It’s an Agile World: Requirements at the Speed of Thought](http://www.modernanalyst.com/Webinars/tabid/207/ID/3650/Its-an-Agile-World-Requirements-at-the-Speed-of-Thought.aspx)
+- [Agile Business Analysis](https://youtu.be/xFC0ODFHvzA)
 - [Agile Requirements Management Best Practices](https://www.youtube.com/watch?v=HQizMS04A7s)
 - [Use Cases and User Stories for Agile Requirements](https://www.youtube.com/watch?v=NB2ZB6DOrlM)
 
 #### Others
 
 - [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
-- [Agile Skills Learning Circle Wiki](https://www.ibm.com/developerworks/community/wikis/home/wiki/W61b873bae705_4dcd_aa9b_fe8380d4d7fb?lang=en)
-- [Agile Methodology](https://www.cigital.com/knowledge-database/agile-methodology/)
-- [Agile Alliance](https://www.agilealliance.org/)
 - [The Agile Coach](https://www.atlassian.com/agile)
-- [Getting Started or Simply Scaling Agile?](https://www.versionone.com/resources/)
-- [A Practical Guide: Product Management & Agile Development](http://web.accompa.com/white-paper-product-management-agile-development/)
-- [Enterprise Agile Requirements For Dummies](http://www.blueprintsys.com/content/ebook-enterprise-agile-requirements-for-dummies/)
-- [A Practical Guide: Business Analysts & Agile Development](http://web.accompa.com/white-paper-business-analysis-agile-development/)
-- [Creating a lean, mean product requirements machine](https://www.atlassian.com/agile/requirements)
-- [Breakout Vendors: Agile Requirements Management](http://www.blueprintsys.com/content/forrester-breakout-vendors-agile-requirements)
-- [The role of the Business Analyst in Agile Projects](https://blog.valbonne-consulting.com/2015/10/31/the-role-of-the-business-analyst-in-agile-projects/)
-- [Role of Business Analysis in Agile](https://www.infoq.com/news/2016/03/business-analysis-agile)
-- [Forrester: Modern Software Requirements](https://software.microfocus.com/en-us/assets/application-delivery-management/forrester-modern-software-requirements)
-- [The Top Three Application Lifecycle Management Tools For SMBs](http://www.softwareadvice.com/resources/application-lifecycle-management-tools/)
-- [Market Guide for Requirements Management Solutions](https://www.blueprintsys.com/content/market-guide-software-requirements-management-solutions/)
-- [AgileConnection.com](https://www.agileconnection.com/)
 - [Scrum Guide](http://www.scrumguides.org/)
-- [CMCrossroads.com](https://www.cmcrossroads.com/)
+- [A Practical Guide: Business Analysts & Agile Development](http://web.accompa.com/white-paper-business-analysis-agile-development/)
 - [ALM Body of Knowledge](http://www.almbok.com/start)
-- [Application lifecycle management tools: A buyer's guide to ALM software](http://searchsoftwarequality.techtarget.com/buyersguide/Application-lifecycle-management-tools-A-buyers-guide-to-ALM-software)
-- [Software Development Trends and Benchmarks](https://www.atlassian.com/whitepapers/software-trends-2016)
 
 ### Advanced
 
 #### MOOCs
 
-- [Industry 4.0: How to Revolutionize your Business](https://www.edx.org/course/industry-4-0-how-revolutionize-business-hkpolyux-i4-0x)
-- [Emerging Technologies: From Smartphones to IoT to Big Data Specialization](https://www.coursera.org/specializations/emerging-technologies)
 - [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
-- [Internet of Things](https://www.coursera.org/specializations/internet-of-things)
-- [The Internet of Things](https://www.futurelearn.com/courses/internet-of-things)
-- [Unpacking the Internet of Things (IoT)](https://www.udemy.com/unpacking-the-internet-of-things/)
-- [A Simple Framework for Designing IoT Products](https://www.udemy.com/a-simple-framework-for-designing-iot-products/)
-- [New Business Markets in the Internet of Things (IoT)](https://www.udemy.com/new-business-markets-in-iot/)
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [Introduction to DevOps: Transforming and Improving Operations](https://www.edx.org/course/introduction-to-devops-transforming-and-improving-operations)
-- [Microsoft Professional Program for DevOps](https://academy.microsoft.com/en-us/professional-program/tracks/devops/)
-- **[Entrepreneurship Skills](es.md)**
 
 #### Webinars
 
-- [Introducing the Next Generation of ALM](https://www.brighttalk.com/webcast/8653/197515)
-- [Modern Application Development Life Cycle Management](https://www.gartner.com/webinar/2998618)
-- [Demand – Requirement – DevOps: From Idea to Implementation](https://intland.com/webinar-recording/demand-requirement-devops-from-idea-to-implementation/)
-- [SAFe & Requirements Management: Oxymoron or Practical Reality?](https://www.youtube.com/watch?v=uaLNRiT0I9c)
-- [VersionOne Webinars](https://www.versionone.com/resources/webinars/)
+- [Modern Requirements Management: Managing Development Complexities in an Evolving World](https://www.blueprintsys.com/content/modern-requirements-management-webinar)
 
 #### Others
 
-- [Agile Requirements Frameworks](http://makingofsoftware.com/2014/agile-requirements-frameworks)
-- [DevOps For Dummies](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
 - [The Ultimate DevOps Toolkit](https://www.appdynamics.com/lp/devops-toolkit/)
-- [DevOps.com](https://devops.com/)
-- [Roles and Responsibilities for DevOps and Agile Teams](https://medium.com/@cote/roles-and-responsibilities-for-devops-and-agile-teams-fdacbffb4cb4#.9de94n71e)
-- [The Relationship Between DevOps and Requirements](https://www.blueprintsys.com/blog/the-relationship-between-devops-and-requirements/)
-- [How Continuous Requirements Are Key to Gartner’s DevOps Toolchain](http://www.blueprintsys.com/blueprint-devops/)
-- [Requirements Management in IoT-enabled Systems Development](https://intland.com/blog/requirements/requirements-management-in-iot-enabled-systems-development/)
-- [When DevOps and requirements gathering techniques collide](http://searchsoftwarequality.techtarget.com/tip/When-DevOps-and-requirements-gathering-techniques-collide)
-- [Continuous Delivery Cannot Succeed Without Business Analysts](https://www.thoughtworks.com/insights/blog/continuous-delivery-cannot-succeed-without-business-analysts)
-- [XebiaLabs Resource Library](https://xebialabs.com/resources/)
 - [Scaled Agile Framework (SAFe®) in a nutshell](https://intland.com/blog/agile/safe/scaled-agile-framework-safe-in-a-nutshell/)
 - [Doing Scrum with Multiple Teams: Comparing Scaling Frameworks](https://www.infoq.com/articles/scrum-multiple-teams-frameworks)
-- [TechBeacon](https://techbeacon.com/)
-- [TradePub.com](https://sf.tradepub.com/)
+
