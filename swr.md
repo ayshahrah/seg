@@ -30,7 +30,6 @@ Quality.
 - [Certified Professional for Requirements Engineering (CPRE)](https://www.ireb.org/en/cpre/)
 - [International Institute of Business Analysis (IIBA) Certifications](http://www.iiba.org/Certification-Recognition.aspx)
 - [PMI Professional in Business Analysis (PMI-PBA)](https://www.pmi.org/certifications/types/business-analysis-pba)
-- [British Computer Society (BCS) Certifications](http://certifications.bcs.org/category/15680)
 
 ### Online Communities
 
@@ -60,7 +59,6 @@ Quality.
 - [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
 - [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
 - [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
-- **[Soft Skills](ss.md)**
 
 #### Videos
 
