@@ -91,8 +91,8 @@ Quality.
 #### MOOCs
 
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
-- [Agile Development](https://www.coursera.org/specializations/agile-development)
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
+- [Agile Development](https://www.coursera.org/specializations/agile-development)
 
 #### Webinars
 
