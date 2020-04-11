@@ -95,34 +95,30 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 ##### UI & UX
 
-- [Product Design](https://sa.udacity.com/course/product-design--ud509)
-- [Interaction Design](https://www.coursera.org/specializations/interaction-design)
 - [UI / UX Design](https://www.coursera.org/specializations/ui-ux-design)
 - [User Experience Research and Design](https://www.coursera.org/specializations/michiganux)
+- [Interaction Design](https://www.coursera.org/specializations/interaction-design)
+- [Product Design](https://sa.udacity.com/course/product-design--ud509)
 - [Design Thinking: UX and Advanced Topics](https://www.edx.org/course/design-thinking-advanced-topics)
 - [Graphic Design](https://www.coursera.org/specializations/graphic-design)
 
 #### Webinars
 
-- [Software Architecture Fundamentals: Technical, Business, and Social Influences](http://www.sei.cmu.edu/webinars/view_webinar.cfm?webinarid=21916&gaWebinar=SoftwareArchitectureFundamentals:Technical,Business,andSocialInfluences)
-- [Software Architecture versus Software design - definition and differentiation](https://www.techgig.com/webinar/Software-Architecture-versus-Software-design-definition-and-differentiation-210)
-- [Software Architecture as Code](https://blog.jetbrains.com/idea/2015/02/webinar-recording-software-architecture-as-code/)
-- [DesignTalks by InVision](https://www.invisionapp.com/webinars)
+- [Becoming a Better Software Architect](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=638198)
+- [New Analysis About the State of Design](https://www.invisionapp.com/talks/stateofdesign)
 
 #### Others
 
+##### Software Architecure
+
 - [SWEBOK V3 - Chapter 2: Software Design](https://www.computer.org/web/swebok/v3)
-- [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
-- [O’Reilly Software Architecture Free Ebooks](http://www.oreilly.com/programming/free/)
-- [O’Reilly Expertise in UX design](http://www.oreilly.com/design/free/)
-- [Software Architecture](https://sf.tradepub.com/free-offer/software-architecture/w_free08)
-- [SourceMaking](https://sourcemaking.com/)
 - [Software Architecture Guide](https://martinfowler.com/architecture/)
-- [softwarearchitectures.com](http://www.softwarearchitectures.com/index.html)
-- [InfoQ - Architecture & Design Content](https://www.infoq.com/architecture-design/)
-- [SEI - Software Architecture](http://www.sei.cmu.edu/architecture/)
-- [Microsoft Application Architecture Guide, 2nd Edition](https://msdn.microsoft.com/en-us/library/ff650706.aspx)
-- [The ‘UI and UX Design’ Pocket Guide ](https://medium.com/sketch-app-sources/the-ui-and-ux-design-pocket-guide-volume-one-dfb3675ea828)
+- [Software Architecture](https://sf.tradepub.com/free-offer/software-architecture/w_free08)
+- [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
+- [SourceMaking](https://sourcemaking.com/)
+
+##### UI & UX
+
 - [Google Design](https://design.google/)
 - [DesignBetter.Co](https://www.designbetter.co/)
 - [Laws of UX](https://lawsofux.com/)
@@ -132,75 +128,37 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 #### MOOCs
 
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
-- [Agile Development](https://www.coursera.org/specializations/agile-development)
-- [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
+- [Agile Development](https://www.coursera.org/specializations/agile-development)
 
 #### Webinars
 
-- [Agile Development Basics](http://info.versionone.com/Agile-Development-Basics-Webinar.html)
 - [Better, Faster, and Easier: Agile Application Development for Your Business](http://www.appian.com/resources/better-faster-and-easier-agile-application-development-for-your-business/)
-- [Watch the Do Agile Right webinar](http://blogs.atlassian.com/2014/02/watch-agile-right-webinar-lessons-learned-atlassian-software-engineer/)
-- [Agile Development & Software Architecture - Crossing the Great Divide](http://www.sei.cmu.edu/webinars/view_webinar.cfm?webinarid=18708&gaWebinar=AgileDevelopment&SoftwareArchitecture-CrossingtheGreatDivide)
-- [Architecting in a Complex World](http://www.sei.cmu.edu/webinars/view_webinar.cfm?webinarid=48701)
-- [Web application architecture: The whole stack](https://www.youtube.com/watch?v=SgEFNRf67Cw)
+- [Teamwork in the enterprise: past, present and future](https://www.atlassian.com/webinars/business/teamwork-in-the-enterprise-past-present-and-future)
 
 #### Others
 
 - [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
-- [Agile Skills Learning Circle Wiki](https://www.ibm.com/developerworks/community/wikis/home/wiki/W61b873bae705_4dcd_aa9b_fe8380d4d7fb?lang=en)
-- [Agile Methodology](https://www.cigital.com/knowledge-database/agile-methodology/)
-- [Agile Alliance](https://www.agilealliance.org/)
 - [The Agile Coach](https://www.atlassian.com/agile)
-- [Getting Started or Simply Scaling Agile?](https://www.versionone.com/resources/)
-- [A Practical Guide: Product Management & Agile Development](http://web.accompa.com/white-paper-product-management-agile-development/)
-- [Agile Architect](http://www.agilearchitect.org/agile/index.asp)
-- [SEI Agile Architecting Library](http://www.sei.cmu.edu/architecture/research/agile-architecting/agile_architecting_library.cfm)
-- [Towards an Agile Software Architecture](https://www.infoq.com/articles/towards-agile-software-architecture)
-- [Agile Modeling (AM)](http://agilemodeling.com/)
-- [Software architecture in an agile world](http://www.codingthearchitecture.com/presentations/bouvet2011-software-architecture-in-an-agile-world)
-- [AgileConnection.com](https://www.agileconnection.com/)
 - [Scrum Guide](http://www.scrumguides.org/)
-- [CMCrossroads.com](https://www.cmcrossroads.com/)
 - [ALM Body of Knowledge](http://www.almbok.com/start)
-- [Application lifecycle management tools: A buyer's guide to ALM software](http://searchsoftwarequality.techtarget.com/buyersguide/Application-lifecycle-management-tools-A-buyers-guide-to-ALM-software)
-- [Software Development Trends and Benchmarks](https://www.atlassian.com/whitepapers/software-trends-2016)
+- [Agile Modeling (AM)](http://agilemodeling.com/)
 
 ### Advanced
 
 #### MOOCs
 
-- [Microservices - Fundamentals](https://www.coursera.org/learn/intro-ibm-microservices)
-- [Industry 4.0: How to Revolutionize your Business](https://www.edx.org/course/industry-4-0-how-revolutionize-business-hkpolyux-i4-0x)
-- [Emerging Technologies: From Smartphones to IoT to Big Data Specialization](https://www.coursera.org/specializations/emerging-technologies)
 - [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
-- [Internet of Things](https://www.coursera.org/specializations/internet-of-things)
-- [The Internet of Things](https://www.futurelearn.com/courses/internet-of-things)
-- [Unpacking the Internet of Things (IoT)](https://www.udemy.com/unpacking-the-internet-of-things/)
 - [A Simple Framework for Designing IoT Products](https://www.udemy.com/a-simple-framework-for-designing-iot-products/)
-- [New Business Markets in the Internet of Things (IoT)](https://www.udemy.com/new-business-markets-in-iot/)
 - [Software Architecture for the Internet of Things](https://www.coursera.org/learn/iot-software-architecture)
-- [Introduction to Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-devices)
-- [Architecting Smart IoT Devices](https://www.coursera.org/learn/iot-architecture)
-- [IoT System Architecture: Design and Evaluation](https://www.edx.org/course/iot-system-architecture-design-and-evaluation)
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
-- [Introduction to DevOps: Transforming and Improving Operations](https://www.edx.org/course/introduction-to-devops-transforming-and-improving-operations)
-- [Microsoft Professional Program for DevOps](https://academy.microsoft.com/en-us/professional-program/tracks/devops/)
-- **[Entrepreneurship Skills](es.md)**
 
 #### Webinars
 
-- [SEI Software Architecture](https://www.sei.cmu.edu/webinars/webinar_categories.cfm?getCat=14&gaCategory=SoftwareArchitecture)
-- [Software-Defined Architecture: Application Design for Digital Business](https://www.gartner.com/webinar/2698619)
-- [The MIT SDM Systems Thinking Webinar Series](https://sdm.mit.edu/news-and-events/webinars/)
-- [Evolutionary Software Architectures](https://www.youtube.com/watch?v=SzSZpZI02Jg)
-- [12 Core Principles of Application Architecture for Digital Business and IoT](https://www.gartner.com/webinar/3517019)
-- [GOTO Conferences](https://www.youtube.com/user/GotoConferences)
-- [VersionOne Webinars](https://www.versionone.com/resources/webinars/)
-- [Internet of Things Webinar Series](https://www.mongodb.com/lp/webinar-series/internet-of-things)
-- [Introducing the Next Generation of ALM](https://www.brighttalk.com/webcast/8653/197515)
-- [Modern Application Development Life Cycle Management](https://www.gartner.com/webinar/2998618)
+- [GOTO Software Architecture](https://www.youtube.com/playlist?list=PLEx5khR4g7PJELLTYwXZHcimWAwTUaWGA)
+- [Top Application Architecture Trends That Enable Digital Business Transformation](https://www.gartner.com/en/webinars/3898484/top-application-architecture-trends-that-enable-digital-business)
+- [Future of Applications](https://www.gartner.com/en/webinars/26461/future-of-applications)
 
 #### Others
 
@@ -209,20 +167,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Microservices Reference Architecture](https://www.nginx.com/resources/library/microservices-reference-architecture/)
 - [Designing and Deploying Microservices](https://www.nginx.com/resources/library/designing-deploying-microservices/)
 - [microservices.io](http://microservices.io)
-- [API Academy Resources](https://www.apiacademy.co/resources)
-- [High Scalability](http://highscalability.com/)
-- [All Things Distributed](http://www.allthingsdistributed.com/)
-- [DevOps For Dummies](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
-- [The Ultimate DevOps Toolkit](https://www.appdynamics.com/lp/devops-toolkit/)
-- [DevOps.com](https://devops.com/)
-- [Roles and Responsibilities for DevOps and Agile Teams](https://medium.com/@cote/roles-and-responsibilities-for-devops-and-agile-teams-fdacbffb4cb4#.9de94n71e)
+- [API Academy](https://apiacademy.co/)
 - [DevOps Essentials for Software Architects](http://resources.sei.cmu.edu/library/asset-view.cfm?assetid=436383)
-- [Software Architecture in DevOps](http://swreflections.blogspot.com/2015/06/software-architecture-in-devops.html)
-- [“DevOps: A Software Architect's Perspective” Book Review and Interview](https://www.infoq.com/articles/devops-software-architect-perspective)
 - [How the DevOps revolution informs software architecture](https://www.oreilly.com/ideas/how-the-devops-revolution-informs-software-architecture)
-- [What Software Architects Need to Know About DevOps](http://www.informit.com/articles/article.aspx?p=2424801)
-- [XebiaLabs Resource Library](https://xebialabs.com/resources/)
-- [Scaled Agile Framework (SAFe®) in a nutshell](https://intland.com/blog/agile/safe/scaled-agile-framework-safe-in-a-nutshell/)
 - [Doing Scrum with Multiple Teams: Comparing Scaling Frameworks](https://www.infoq.com/articles/scrum-multiple-teams-frameworks)
-- [TechBeacon](https://techbeacon.com/)
-- [TradePub.com](https://sf.tradepub.com/)
