@@ -38,7 +38,6 @@ Quality.
 ### Blogs
 
 - [Top Business Analyst Websites and Blogs to Follow](https://businessanalystlearnings.com/blog/2013/1/12/top-6-business-analyst-websites-and-blogs-to-follow)
-- [19 must-read business analysis blogs and websites](http://www.businessanalyststoolkit.com/business-analysis-blogs/)
 
 ### Resources Collections
 
