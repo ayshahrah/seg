@@ -109,7 +109,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 #### Others
 
-##### Software Architecure
+##### Software Architecture
 
 - [SWEBOK V3 - Chapter 2: Software Design](https://www.computer.org/web/swebok/v3)
 - [Software Architecture Guide](https://martinfowler.com/architecture/)
