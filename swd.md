@@ -55,6 +55,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Checklist Design](https://www.checklist.design/)
 - [Freebies ByPeople](https://freebies.bypeople.com/)
 - [Awesome Design Tools](https://flawlessapp.io/designtools)
+- [Bite sized learning](https://www.booklets.io/)
 
 ## Learning Resources
 
@@ -69,40 +70,37 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
 - [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
 - [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
-- **[Soft Skills](ss.md)**
 
 #### Webinars
 
 - [What Makes a Good Software Architect (2019 Edition)?](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=543614)
-- [Top 10 Success Secrets for Software Architects](https://www.youtube.com/watch?v=tvZ-Jyt5Em4&cm_mc_uid=60078406098014834207087&cm_mc_sid_50200000=1485168639)
-- [UI Design Tools That Every Designer Should Know About](https://www.youtube.com/watch?v=RaZ-qcfZVXQ)
 - [Why You're Over-Thinking Your UI/UX](https://www.youtube.com/watch?v=Is2O666qDPs)
+- [UI Design Tools That Every Designer Should Know About](https://www.youtube.com/watch?v=RaZ-qcfZVXQ)
 
 #### Others
 
-- [Bite sized learning](https://www.booklets.io/)
 - [Should Designers Code?](https://medium.com/@MrAlanCooper/should-designers-code-f7b745b8cd03)
 - [7 Rules for Creating Gorgeous UI](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
-- [5 Things You Should Know About UX Design](https://medium.theuxblog.com/5-things-you-should-know-about-ux-design-84748e26f98b)
 - [The Difference Between UX and UI Design - A Layman’s Guide](https://careerfoundry.com/en/blog/ux-design/the-difference-between-ux-and-ui-design-a-laymans-guide/)
 
 ### Beginner
 
 #### MOOCs
 
+##### Software Architecure
+
 - [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
 - [Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture)
 - [Secure Software Design](https://www.coursera.org/specializations/secure-software-design)
-- [The Software Architect Code: Building the Digital World](https://www.edx.org/course/software-architect-code-building-digital-uc3mx-inf-1x)
+
+##### UI & UX
+
 - [Product Design](https://sa.udacity.com/course/product-design--ud509)
 - [Interaction Design](https://www.coursera.org/specializations/interaction-design)
 - [UI / UX Design](https://www.coursera.org/specializations/ui-ux-design)
-- [User Interface (UI) Personalization](https://www.edx.org/course/user-interface-ui-personalization-mitx-hdm1-2ax)
 - [User Experience Research and Design](https://www.coursera.org/specializations/michiganux)
 - [Design Thinking: UX and Advanced Topics](https://www.edx.org/course/design-thinking-advanced-topics)
-- [Fundamentals of Graphic Design](https://www.coursera.org/learn/fundamentals-of-graphic-design)
-- [Introduction to Typography](https://www.coursera.org/learn/typography)
-- [Mobile Interaction Design: How to Design Usable Mobile Products and Service](https://www.coursera.org/learn/mobile-interaction-design)
+- [Graphic Design](https://www.coursera.org/specializations/graphic-design)
 
 #### Webinars
 
