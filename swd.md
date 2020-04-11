@@ -87,7 +87,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 #### MOOCs
 
-##### Software Architecure
+##### Software Architecture
 
 - [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
 - [Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture)
