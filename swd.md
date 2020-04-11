@@ -13,14 +13,15 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 ### Knowledge and Skills
 
-- [Web Designer Job Description](https://www.toptal.com/web/job-description)
 - [User Interface (UI) Designer Job Description](https://www.toptal.com/designers/ui/job-description)
 - [User-Experience (UX) Job Description](https://www.toptal.com/designers/ux/job-description)
+- [Web Designer Job Description](https://www.toptal.com/designers/web/job-description)
+- [Mobile Application Designer Job Description](https://www.toptal.com/designers/mobile/job-description)
 
 ### Possible Roles
 
-- [Software Designer](https://www.softwareengineerinsider.com/careers/software-designer.html)
 - [Software Architect](https://www.softwareengineerinsider.com/careers/software-architect.html)
+- [Software Designer](https://www.softwareengineerinsider.com/careers/software-designer.html)
 - [Web Designer](https://www.sokanu.com/careers/web-designer/)
 - [User Interface (UI) Designer](https://www.econsultancy.com/blog/68842-a-day-in-the-life-of-a-user-interface-designer)
 - [User Experience (UX) Designer](https://www.sokanu.com/careers/ux-designer/)
@@ -28,57 +29,32 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 ### How To
 
 - [The Path to Becoming a Software Architect](https://medium.com/@nvashanin/the-path-to-becoming-a-software-architect-de53f1cb310a)
-- [Duties, Skills, & Knowledge of a Software Architect](https://www.sei.cmu.edu/architecture/research/previousresearch/duties.cfm)
-- [Software Architect's Career Roadmap](http://www.softwarearchitectures.com/career.html)
-- [4 essential skills software architects need to have but often don’t](https://www.oreilly.com/ideas/4-essential-skills-software-architects-need-to-have-but-often-dont)
-- [38 Actions and Insights to Become a Better Software Architect](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
 - [How to Become a UI Designer](https://careerfoundry.com/en/blog/ui-design/how-to-become-a-ui-designer/)
-- [How To Get Started In User Interface (UI) Design](http://trydesignlab.com/blog/how-to-get-started-user-interface-ui-design/)
-- [7 steps to become a UI/UX designer](https://blog.nicolesaidy.com/7-steps-to-become-a-ui-ux-designer-8beed7639a95)
-- [How to Get Started In UX/UI Design](https://medium.theuxblog.com/how-to-get-into-ux-ui-design-6e07c876088d)
-- [How to Change Your Career from Graphic Design to UX Design](https://www.interaction-design.org/literature/article/how-to-change-your-career-from-graphic-design-to-ux-design)
+- [How to Become a UX Designer](https://blog.udacity.com/2019/12/how-to-become-a-ux-designer.html)
 
 ### Professional Certifications
 
-- [Certificates in Software Architecture](https://medium.com/@nvashanin/certificates-in-software-architecture-6b18e0102fe7)
 - [International Association of Software Architects (IASA) Certifications](http://iasaglobal.org/certifications/)
-- [The Software Engineering Institute (SEI) Software Architecture Certificates](https://www.sei.cmu.edu/training/certificates/architecture/)
 - [International Software Architecture Qualification Board (iSAQB) Certifications](http://www.isaqb.org/certifications/)
+- [The Software Engineering Institute (SEI) Software Architecture Certificates](https://www.sei.cmu.edu/training/certificates/architecture/)
 
 ### Online Communities
 
 - [International Association of Software Architects (IASA)](http://iasaglobal.org/)
 - [Top 12 Design Communities for UX/UI Designers and Developers](https://blog.prototypr.io/top-12-design-communities-for-ux-ui-designers-and-developers-8fce239d8ed7)
-- [LinkedIn - Software Architects and Enterprise Architects Group](https://www.linkedin.com/groups/1465727/profile)
 
 ### Blogs
 
-- [O’Reilly - Software Architecture](https://www.oreilly.com/topics/software-architecture)
-- [Martin Fowler](https://martinfowler.com/design.html)
-- [Hitchhiker's Guide to Software Architecture and Everything Else](http://stal.blogspot.com/)
-- [Coding the architecture](http://highscalability.com/)
-- [Medium - Digital Design](https://medium.com/topic/digital-design)
-- [Top 29 UI/UX Design Blogs to Follow](https://www.figmints.com/blog/ui-ux-design-blogs/)
-- [Top 50 Web Design Blogs and Websites for Web Designers](https://blog.feedspot.com/web_design_blogs/)
-- [HH Design](https://medium.com/hh-design)
-- [Toptal Design Blog](https://www.toptal.com/designers/blog)
+- [O’Reilly - Next Architecture](https://www.oreilly.com/radar/topics/next-architecture/)
+- [Medium - Design](https://medium.com/topic/design)
+- [Top Web Design Blogs and Websites](https://blog.feedspot.com/web_design_blogs/)
 
 ### Resources Collections
 
 - [Undesign](https://undesign.learn.uno/)
 - [Checklist Design](https://www.checklist.design/)
-- [noShit](https://noshit.xyz/)
 - [Freebies ByPeople](https://freebies.bypeople.com/)
-- [$0 Design Tools](https://www.producthunt.com/e/0-design-tools)
 - [Awesome Design Tools](https://flawlessapp.io/designtools)
-- [Awesome Design Plugins](https://flawlessapp.io/designplugins)
-- [Awesome Web Design Resources](https://github.com/nicolesaidy/awesome-web-design)
-- [Open Design: Freeware tools for Designers](https://uxplanet.org/open-design-freeware-tools-for-designers-f7bdde99f2e0)
-- [The Best UX/UI Designer Tools, Resources, Blogs & Books Collection](https://uxplanet.org/the-best-ux-ui-designer-tools-resources-blogs-books-collection-2d045592d7d7)
-- [Design Style Guides to Learn From in 2018](https://medium.com/@punitweb/design-style-guides-to-learn-from-in-2018-1ae43a5c8191)
-- [8 of the Best UI Design Websites For Inspiration in 2017](https://www.mockplus.com/blog/post/best-ui-design-websites-for-inspiration-in-2017)
-- [Froala Design Blocks](https://www.froala.com/design-blocks)
-- [The UX Designer’s Ultimate Compendium of Free Typography Resources](https://uxplanet.org/the-ux-designers-ultimate-compendium-of-free-typography-resources-4e8796679f50)
 
 ## Learning Resources
 
@@ -143,6 +119,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [O’Reilly Expertise in UX design](http://www.oreilly.com/design/free/)
 - [Software Architecture](https://sf.tradepub.com/free-offer/software-architecture/w_free08)
 - [SourceMaking](https://sourcemaking.com/)
+- [Software Architecture Guide](https://martinfowler.com/architecture/)
 - [softwarearchitectures.com](http://www.softwarearchitectures.com/index.html)
 - [InfoQ - Architecture & Design Content](https://www.infoq.com/architecture-design/)
 - [SEI - Software Architecture](http://www.sei.cmu.edu/architecture/)
