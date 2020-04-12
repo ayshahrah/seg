@@ -133,6 +133,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 #### Webinars
 
+- [Ask an Agile Expert](https://resources.collab.net/webinars/ask-an-agile-expert)
 - [Better, Faster, and Easier: Agile Application Development for Your Business](http://www.appian.com/resources/better-faster-and-easier-agile-application-development-for-your-business/)
 - [Teamwork in the enterprise: past, present and future](https://www.atlassian.com/webinars/business/teamwork-in-the-enterprise-past-present-and-future)
 
