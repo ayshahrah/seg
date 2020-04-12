@@ -129,7 +129,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [iOS Networking with Swift](https://www.udacity.com/course/ios-networking-with-swift--ud421)
 - [Data Structures & Algorithms in Swift](https://www.udacity.com/course/data-structures-and-algorithms-in-swift--ud1011)
 
-##### Database
+##### Databases
 
 - [Intro to Relational Databases](https://sa.udacity.com/course/intro-to-relational-databases--ud197)
 - [Introduction to Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
