@@ -15,8 +15,9 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 - [Front-End Web Developer Job Description](https://www.toptal.com/front-end/job-description)
 - [Back-End Web Developer Job Description](https://www.toptal.com/back-end/job-description)
-- [iOS Developer Job Description](https://www.toptal.com/ios/job-description)
+- [Full-stack Developer Job Description](https://www.toptal.com/full-stack/job-description)
 - [Android Developer Job Description](https://www.toptal.com/android/job-description)
+- [iOS Developer Job Description](https://www.toptal.com/ios/job-description)
 
 ### Possible Roles
 
@@ -27,48 +28,31 @@ Since software construction requires knowledge of algorithms and of coding pract
 ### How To
 
 - [Warning: Your programming career](https://medium.com/sololearn/warning-your-programming-career-b9579b3a878b)
-- [Want to become a Software Developer?](https://hackernoon.com/want-to-become-a-software-developer-heres-how-to-get-there-55f393aa443c)
+- [Roadmaps for Developers](https://roadmap.sh/)
 - [How to Become a Web Developer](https://sf.tradepub.com/free-offer/how-to-become-a-web-developer/w_webd08)
 - [How to Become a Mobile App Developer](https://buildfire.com/become-mobile-app-developer/)
-- [Roadmaps for Developers](https://roadmap.sh/)
-- [Beginner’s Web Development Guide](https://www.devtrails.io/web-development)
-- [Become a Web Developer in 180 Days](https://medium.com/better-programming/become-a-web-developer-in-180-days-without-cs-degree-e869395972e1)
-- [Teaching Yourself to Code to Become an Employable Programmer](http://javascriptissexy.com/teaching-yourself-to-code-to-become-an-employable-programmer-what-to-learn-where-to-learn-and-more/)
 
 ### Professional Certifications
 
-- [CompTIA Career Roadmap](https://certification.comptia.org/why-certify/roadmap)
-- [14 developer certifications that will give you an edge](https://www.pluralsight.com/blog/software-development/best-developer-certifications)
-- [Best Computer Programming Certifications For 2017](http://www.tomsitpro.com/articles/programming-certifications,2-274.html)
-- [Programming and Developer Certifications](http://certification.about.com/cs/beginner/a/progcerts.htm)
+- [CompTIA Career Roadmap](https://www.comptia.org/content/it-careers-path-roadmap/software-and-web-developers)
 
 ### Online Communities
 
-- [Top 10 Sites to Ask All Your Programming Questions](http://www.hongkiat.com/blog/programming-questions-websites/)
-- [14 Programming Communities for Developers, Hackers](http://codecondo.com/programming-communities/)
+- [Top Programming Communities for Developers & Hackers](https://codecondo.com/programming-communities/)
 - [Awesome Community](https://github.com/php-earth/awesome-community)
-- [LinkedIn - Software Developer](https://www.linkedin.com/groups/1074487/profile)
  
 ### Blogs
 
 - [Medium - Programming](https://medium.com/topic/programming)
 - [O'Reilly - Web Programming](https://www.oreilly.com/topics/web-programming)
 - [TechBeacon - App Dev](https://techbeacon.com/app-dev)
-- [Techbeacon - Mobile](https://techbeacon.com/mobile)
-- [opensource.com](https://opensource.com/)
-- [Top 50 Software Development Blogs & Websites For Software Developers](http://blog.feedspot.com/software_development_blogs/)
-- [Top 50 Programming Blogs & Websites Every Programmer Must Follow](http://blog.feedspot.com/programming_blogs/)
-- [Best Web Development & Programming Blogs for 2017](https://www.codementor.io/codementorteam/best-programming-blogs-web-development-blogs-2017-quclkir3s)
+- [Top Programming Blogs and Websites For Programmers](https://blog.feedspot.com/programming_blogs/)
+- [Top Software Development Blogs, Websites & Influencers](https://blog.feedspot.com/software_development_blogs/)
 
 ### Resources Collections
 
-- [22 Places to Learn to Code for Free in 2017](https://makeawebsitehub.com/learn-to-code-for-free/)
-- [45 of The Best Places to Learn to Code For Free](http://learntocodewith.me/posts/code-for-free/)
-- [The Top 66 Developer Resources From 2017](https://hackernoon.com/the-top-66-developer-resources-from-2017-e82531365e6d)
-- [67 useful tools, libraries and resources for saving your time as a web developer](https://hackernoon.com/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-7d3fb8667030)
-- [100+ Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 - [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/blob/master/README.md)
-- [Resources to find, interview, and hire freelance developers](https://www.toptal.com/resources)
+- [Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 
 ## Learning Resources
 
@@ -83,15 +67,12 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
 - [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
 - [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
-- **[Soft Skills](ss.md)**
 
 #### Webinars
 
-- [Seven Secrets to Starting a Successful Programming Career](https://www.youtube.com/watch?v=dhb1n9zua2I)
 - [Future and Career Opportunities For A Full Stack Developer](https://www.youtube.com/watch?v=KD0M9azH6dE)
 - [Rethinking the Developer Career Path](https://www.youtube.com/watch?v=yIPbE7BssOs)
 - [How to Become a Full Stack Web Developer](https://www.youtube.com/watch?v=X-HevVfZ2dw)
-- [Web Development in 2018](https://www.youtube.com/watch?v=Zftx68K-1D4)
 
 #### Others
 
@@ -100,11 +81,12 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [TIOBE Index](https://www.tiobe.com/tiobe-index/)
 - [IEEE: The Top Programming Languages](https://spectrum.ieee.org/static/interactive-the-top-programming-languages-2019)
 - [HackerRank Developer Skills Report](https://research.hackerrank.com/)
-- [Developer Economics](https://www.developereconomics.com/reports)
 
 ### Beginner
 
 #### MOOCs
+
+##### General
 
 - [Programming and Development - Udacity](https://sa.udacity.com/courses/school-of-development)
 - [Computer Science - coursera](https://www.coursera.org/browse/computer-science?languages=en)
