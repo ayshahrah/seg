@@ -35,6 +35,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 ### Professional Certifications
 
 - [CompTIA Career Roadmap](https://www.comptia.org/content/it-careers-path-roadmap/software-and-web-developers)
+- [W3C Professional Certificate in Front-End Web Developer](https://www.edx.org/professional-certificate/w3cx-front-end-web-developer)
 
 ### Online Communities
 
@@ -88,53 +89,54 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ##### General
 
-- [Programming and Development - Udacity](https://sa.udacity.com/courses/school-of-development)
-- [Computer Science - coursera](https://www.coursera.org/browse/computer-science?languages=en)
-- [Computer Science - edx](https://www.edx.org/course/subject/computer-science)
-- [Computer programming - khan academy](https://www.khanacademy.org/computing/computer-programming)
-- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+- [What is Programming?](https://www.udacity.com/course/what-is-programming--ud994)
+- [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
+- [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
+- [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
+- [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+
+##### Web
+
+- [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001)
+- [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
+- [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+- [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+- [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)
+- [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
+- [Introduction to ReactJS](https://www.edx.org/course/introduction-to-reactjs)
+- [Angular Fundamentals](https://www.edx.org/course/angular-fundamentals)
+
+##### Mobile (Android)
+
+- [How to Install Android Studio](https://www.udacity.com/course/how-to-install-android-studio--ud808)
+- [Android Basics](https://www.udacity.com/course/android-basics-user-interface--ud834)
+- [Add Google Sign-In to your Android Apps](https://www.udacity.com/course/add-google-sign-in-to-your-android-apps--ud876-5)
+- [UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
+- [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862)
+- [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
+- [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
+- [Advanced Android with Kotlin](https://www.udacity.com/course/advanced-android-with-kotlin--ud940)
+- [Android Performance](https://www.udacity.com/course/android-performance--ud825)
+- [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
+
+##### Mobile (iOS)
+
+- [Swift for Beginners](https://www.udacity.com/course/swift-for-beginners--ud1022)
+- [Swift for Developers](https://www.udacity.com/course/swift-for-developers--ud1025)
+- [Learn Swift Programming Syntax](https://www.udacity.com/course/learn-swift-programming-syntax--ud902)
+- [UIKit Fundamentals](https://www.udacity.com/course/uikit-fundamentals--ud788)
+- [Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
+- [iOS Networking with Swift](https://www.udacity.com/course/ios-networking-with-swift--ud421)
+- [Data Structures & Algorithms in Swift](https://www.udacity.com/course/data-structures-and-algorithms-in-swift--ud1011)
+
+##### Database
+
 - [Intro to Relational Databases](https://sa.udacity.com/course/intro-to-relational-databases--ud197)
 - [Introduction to Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 - [Database Systems Concepts & Design](https://sa.udacity.com/course/database-systems-concepts-design--ud150)
 
-#### Webinars
+##### Data Structures and Algorithms
 
-- [How to Program](https://www.youtube.com/watch?v=KNjiKbSSlCM)
-- [Mobile Application Development - The Full Lifecycle](http://www.disys.com/webinar-mobile-application-development/)
-- [Mobile Application Development—Demystified](http://www.telerik.com/webinars/appbuilder/mobile-application-development-demystified)
-- [Programming Webinars](http://www.webagesolutions.com/webinars/categories/programming.html)
-
-#### Others
-
-- [SWEBOK V3 - Chapter 3: Software Construction ](https://www.computer.org/web/swebok/v3)
-- [O’Reilly Free Programming Ebooks](http://www.oreilly.com/programming/free/)
-- [O’Reilly Free Web Development & Performance Ebooks](http://www.oreilly.com/web-platform/free/)
-- [O’Reilly Free Hardware and IoT Ebooks](http://www.oreilly.com/iot/free/)
-- [O’Reilly Free Free Web Ops & DevOps Ebooks](http://www.oreilly.com/webops/free/)
-- [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
-- [Getting Started with Open Source development](https://bigdatauniversity.com/resources/getting-started-with-open-source-development/)
-- [The Freelancer’s Journey](https://university.webflow.com/freelancer)
-- [Beginner’s Guide to Web Development](https://www.codeschool.com/beginners-guide-to-web-development)
-- [Learn How to Develop the Next Generation of Applications for the Web](https://developers.google.com/web/)
-- [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
-- [Make A Website Hub](https://makeawebsitehub.com)
-- [The Software Engineer's Online Handbook](https://www.toptal.com/handbook#online-tools)
-- [free-programming-books](https://github.com/vhf/free-programming-books)
-- [Toptal's List of Top Free Programming Books](https://www.toptal.com/software/toptal-s-list-of-top-free-programming-books)
-- [9 Free Programming Books That Will Make You A Pro](http://www.makeuseof.com/tag/9-free-programming-books-will-make-pro/)
-- [100 Best Free Programming Books](http://devzum.com/2015/02/100-best-free-programming-books/)
-
-### Intermediate
-
-#### MOOCs
-
-- [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
-- [Agile Development](https://www.coursera.org/specializations/agile-development)
-- [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
-- [Software Product Management](https://www.coursera.org/specializations/product-management)
-- [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
-- [Open Source Software Development, Linux and Git](https://www.coursera.org/specializations/oss-development-linux-git)
-- [Easy to Advanced Data Structures](https://www.udemy.com/course/introduction-to-data-structures/)
 - [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms)
 - [Algorithms](https://www.coursera.org/specializations/algorithms)
 - [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
@@ -142,26 +144,40 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 #### Webinars
 
-- [Agile Development Basics](http://info.versionone.com/Agile-Development-Basics-Webinar.html)
+- [How to Program](https://www.youtube.com/watch?v=KNjiKbSSlCM)
+- [Mobile Application Development - The Full Lifecycle](http://www.disys.com/webinar-mobile-application-development/)
+- [Mobile Application Development—Demystified](http://www.telerik.com/webinars/appbuilder/mobile-application-development-demystified)
+
+#### Others
+
+- [SWEBOK V3 - Chapter 3: Software Construction ](https://www.computer.org/web/swebok/v3)
+- [Google Resources for Developers](https://developers.google.com/)
+- [Apple Resources for Developers](https://developer.apple.com/)
+- [Microsoft Resources for Developers](https://developer.microsoft.com/)
+- [Oracle Resources for Developers](https://developer.oracle.com/)
+- [Mozilla Resources for Developers](https://developer.mozilla.org/)
+- [Toptal's List of Top Free Programming Books](https://www.toptal.com/software/toptal-s-list-of-top-free-programming-books)
+- [free-programming-books](https://ebookfoundation.github.io/free-programming-books/)
+
+### Intermediate
+
+#### MOOCs
+
+- [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
+- [Software Product Management](https://www.coursera.org/specializations/product-management)
+- [Agile Development](https://www.coursera.org/specializations/agile-development)
+
+#### Webinars
+
 - [Better, Faster, and Easier: Agile Application Development for Your Business](http://www.appian.com/resources/better-faster-and-easier-agile-application-development-for-your-business/)
-- [Watch the Do Agile Right webinar](http://blogs.atlassian.com/2014/02/watch-agile-right-webinar-lessons-learned-atlassian-software-engineer/)
+- [Teamwork in the enterprise: past, present and future](https://www.atlassian.com/webinars/business/teamwork-in-the-enterprise-past-present-and-future)
 
 #### Others
 
 - [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
-- [Agile Skills Learning Circle Wiki](https://www.ibm.com/developerworks/community/wikis/home/wiki/W61b873bae705_4dcd_aa9b_fe8380d4d7fb?lang=en)
-- [Agile Methodology](https://www.cigital.com/knowledge-database/agile-methodology/)
-- [Agile Alliance](https://www.agilealliance.org/)
 - [The Agile Coach](https://www.atlassian.com/agile)
-- [Getting Started or Simply Scaling Agile?](https://www.versionone.com/resources/)
-- [A Practical Guide: Product Management & Agile Development](http://web.accompa.com/white-paper-product-management-agile-development/)
-- [Agile Android Software Development](https://www.agiledroid.com/)
-- [AgileConnection.com](https://www.agileconnection.com/)
 - [Scrum Guide](http://www.scrumguides.org/)
-- [CMCrossroads.com](https://www.cmcrossroads.com/)
 - [ALM Body of Knowledge](http://www.almbok.com/start)
-- [Application lifecycle management tools: A buyer's guide to ALM software](http://searchsoftwarequality.techtarget.com/buyersguide/Application-lifecycle-management-tools-A-buyers-guide-to-ALM-software)
-- [Software Development Trends and Benchmarks](https://www.atlassian.com/whitepapers/software-trends-2016)
 
 ### Advanced
 
