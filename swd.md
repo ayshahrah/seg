@@ -164,10 +164,5 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 - [SOA Source Book](http://www.opengroup.org/soa/source-book/intro/index.htm)
 - [Microservices vs. Service-Oriented Architecture](https://www.nginx.com/resources/library/microservices-vs-soa/)
-- [Microservices Reference Architecture](https://www.nginx.com/resources/library/microservices-reference-architecture/)
 - [Designing and Deploying Microservices](https://www.nginx.com/resources/library/designing-deploying-microservices/)
 - [microservices.io](http://microservices.io)
-- [API Academy](https://apiacademy.co/)
-- [DevOps Essentials for Software Architects](http://resources.sei.cmu.edu/library/asset-view.cfm?assetid=436383)
-- [How the DevOps revolution informs software architecture](https://www.oreilly.com/ideas/how-the-devops-revolution-informs-software-architecture)
-- [Doing Scrum with Multiple Teams: Comparing Scaling Frameworks](https://www.infoq.com/articles/scrum-multiple-teams-frameworks)
