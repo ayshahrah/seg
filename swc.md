@@ -159,7 +159,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Microsoft Resources for Developers](https://developer.microsoft.com/)
 - [Oracle Resources for Developers](https://developer.oracle.com/)
 - [Mozilla Resources for Developers](https://developer.mozilla.org/)
-- [Toptal's List of Top Free Programming Books](https://www.toptal.com/software/toptal-s-list-of-top-free-programming-books)
 - [free-programming-books](https://ebookfoundation.github.io/free-programming-books/)
 
 ### Intermediate
