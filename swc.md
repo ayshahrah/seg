@@ -105,6 +105,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
 - [Introduction to ReactJS](https://www.edx.org/course/introduction-to-reactjs)
 - [Angular Fundamentals](https://www.edx.org/course/angular-fundamentals)
+- [Introduction to NodeJS](https://www.edx.org/course/introduction-to-nodejs)
 
 ##### Mobile (Android)
 
@@ -118,6 +119,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Advanced Android with Kotlin](https://www.udacity.com/course/advanced-android-with-kotlin--ud940)
 - [Android Performance](https://www.udacity.com/course/android-performance--ud825)
 - [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
+- [Firebase in a Weekend: Android](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
 
 ##### Mobile (iOS)
 
@@ -128,12 +130,13 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
 - [iOS Networking with Swift](https://www.udacity.com/course/ios-networking-with-swift--ud421)
 - [Data Structures & Algorithms in Swift](https://www.udacity.com/course/data-structures-and-algorithms-in-swift--ud1011)
+- [Firebase in a Weekend: iOS](https://www.udacity.com/course/firebase-in-a-weekend-by-google-ios--ud0351)
 
 ##### Databases
 
-- [Intro to Relational Databases](https://sa.udacity.com/course/intro-to-relational-databases--ud197)
-- [Introduction to Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
-- [Database Systems Concepts & Design](https://sa.udacity.com/course/database-systems-concepts-design--ud150)
+- [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
+- [Developing SQL Databases](https://www.edx.org/course/developing-sql-databases)
+- [Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
 
 ##### Data Structures and Algorithms
 
@@ -169,6 +172,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 #### Webinars
 
+- [Ask an Agile Expert](https://resources.collab.net/webinars/ask-an-agile-expert)
 - [Better, Faster, and Easier: Agile Application Development for Your Business](http://www.appian.com/resources/better-faster-and-easier-agile-application-development-for-your-business/)
 - [Teamwork in the enterprise: past, present and future](https://www.atlassian.com/webinars/business/teamwork-in-the-enterprise-past-present-and-future)
 
@@ -183,54 +187,20 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 #### MOOCs
 
-- [Microservices - Fundamentals](https://www.coursera.org/learn/intro-ibm-microservices)
-- [Industry 4.0: How to Revolutionize your Business](https://www.edx.org/course/industry-4-0-how-revolutionize-business-hkpolyux-i4-0x)
-- [Emerging Technologies: From Smartphones to IoT to Big Data Specialization](https://www.coursera.org/specializations/emerging-technologies)
 - [Internet of Things (IoT)](https://www.edx.org/micromasters/curtinx-internet-of-things-iot)
-- [Internet of Things](https://www.coursera.org/specializations/internet-of-things)
-- [The Internet of Things](https://www.futurelearn.com/courses/internet-of-things)
 - [An Introduction to Programming the Internet of Things (IOT)](https://www.coursera.org/specializations/iot)
-- [A developer's guide to the Internet of Things (IoT)](https://www.coursera.org/learn/developer-iot)
-- [Unpacking the Internet of Things (IoT)](https://www.udemy.com/unpacking-the-internet-of-things/)
-- [A Simple Framework for Designing IoT Products](https://www.udemy.com/a-simple-framework-for-designing-iot-products/)
-- [New Business Markets in the Internet of Things (IoT)](https://www.udemy.com/new-business-markets-in-iot/)
-- [Microsoft Professional Program for Internet of Things (IoT)](https://academy.microsoft.com/en-us/professional-program/tracks/internet-of-things/)
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
-- [Introduction to DevOps: Transforming and Improving Operations](https://www.edx.org/course/introduction-to-devops-transforming-and-improving-operations)
-- [Microsoft Professional Program for DevOps](https://academy.microsoft.com/en-us/professional-program/tracks/devops/)
-- **[Entrepreneurship Skills](es.md)**
 
 #### Webinars
 
-- [Modern Application Development Life Cycle Management](https://www.gartner.com/webinar/2998618)
-- [Introducing the Next Generation of ALM](https://www.brighttalk.com/webcast/8653/197515)
-- [Skytap On-Demand Webinars](https://www.skytap.com/research-center/on-demand-webinars/)
-- [GOTO Conferences](https://www.youtube.com/user/GotoConferences)
-- [VersionOne Webinars](https://www.versionone.com/resources/webinars/)
+- [GOTO Microservices](https://www.youtube.com/watch?v=kR2sm1zelI4&list=PLEx5khR4g7PIEfXSB9bDS4lB-J9stOynD)
+- [Ask a DevOps Guru](https://resources.collab.net/webinars/ask-a-devops-guru)
 - [Internet of Things Webinar Series](https://www.mongodb.com/lp/webinar-series/internet-of-things)
-- [Ayla Webinars](https://www.aylanetworks.com/newsroom/events)
 
 #### Others
 
-- [Internet of Things: A Developer's Mandate](https://www.appdevelopersalliance.org/internet-of-things/)
-- [Industrial Internet App Development](http://go.digital.ge.com/Evans-Data-Survey-Results.html)
-- [7 Best Developer Tools to Build your Next Internet of Things Application](https://www.losant.com/blog/7-best-developer-tools-to-build-your-next-internet-of-things-application)
 - [67 open source tools and resources for IoT](https://techbeacon.com/67-open-source-tools-resources-iot)
 - [Red Hat Developer](https://developers.redhat.com/)
-- [SOA Source Book](http://www.opengroup.org/soa/source-book/intro/index.htm)
-- [Microservices vs. Service-Oriented Architecture](https://www.nginx.com/resources/library/microservices-vs-soa/)
-- [Microservices Reference Architecture](https://www.nginx.com/resources/library/microservices-reference-architecture/)
-- [Designing and Deploying Microservices](https://www.nginx.com/resources/library/designing-deploying-microservices/)
 - [microservices.io](http://microservices.io)
-- [APIs for Dummies](https://www-01.ibm.com/marketing/iwm/iwm/web/signup.do?source=sw-app&S_PKG=ov29766&dynform=13182)
 - [API University](https://www.programmableweb.com/api-university)
-- [DevOps For Dummies](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
-- [The Ultimate DevOps Toolkit](https://www.appdynamics.com/lp/devops-toolkit/)
-- [DevOps.com](https://devops.com/)
-- [Roles and Responsibilities for DevOps and Agile Teams](https://medium.com/@cote/roles-and-responsibilities-for-devops-and-agile-teams-fdacbffb4cb4#.9de94n71e)
-- [XebiaLabs Resource Library](https://xebialabs.com/resources/)
-- [Scaled Agile Framework (SAFe®) in a nutshell](https://intland.com/blog/agile/safe/scaled-agile-framework-safe-in-a-nutshell/)
-- [Doing Scrum with Multiple Teams: Comparing Scaling Frameworks](https://www.infoq.com/articles/scrum-multiple-teams-frameworks)
-- [TechBeacon](https://techbeacon.com/)
-- [TradePub.com](https://sf.tradepub.com/)
