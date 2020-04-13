@@ -35,7 +35,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 ### Professional Certifications
 
 - [CompTIA Career Roadmap](https://www.comptia.org/content/it-careers-path-roadmap/software-and-web-developers)
-- [W3C Professional Certificate in Front-End Web Developer](https://www.edx.org/professional-certificate/w3cx-front-end-web-developer)
 
 ### Online Communities
 
