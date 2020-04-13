@@ -11,64 +11,58 @@ Software maintenance is defined as the totality of activities required to provid
 
 ### Knowledge and Skills
 
-- [DevOps Engineer Job Description Template](https://www.toptal.com/devops/job-description)
-- [Roles and Responsibilities for DevOps and Agile Teams](https://medium.com/@cote/roles-and-responsibilities-for-devops-and-agile-teams-fdacbffb4cb4#.9de94n71e)
-- [Cloud Engineer : Roles Responsibilities And All You Need To Know](https://www.edureka.co/blog/cloud-engineer-roles-and-responsibilities/)
+- [Cloud Engineer Job Description](https://insights.dice.com/employer-resource-center/descriptions-cloud-engineer/)
 - [Cloud Architect Job Description](https://www.betterteam.com/cloud-architect-job-description)
+- [DevOps Engineer Job Description](https://www.toptal.com/devops/job-description)
 - [Site Reliability Engineer (SRE) Roles and Responsibilities](https://victorops.com/blog/site-reliability-engineer-sre-roles-and-responsibilities)
-- [Sample Systems Administrator Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/systems-administrator)
-- [Sample Systems Engineer Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/systems-engineer)
+- [Systems Administrator Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/systems-administrator)
+- [Systems Engineer Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/systems-engineer)
 
 ### Possible Roles
 
-- [DevOps Engineer](https://www.edureka.co/blog/devops-engineer-role)
-- [Cloud Engineer](https://www.edureka.co/blog/how-to-become-a-cloud-engineer/)
-- [Cloud Architect](https://cloudacademy.com/blog/what-exactly-is-a-cloud-architect-and-how-do-you-become-one/)
+- [Cloud Engineer](https://searchcloudcomputing.techtarget.com/definition/cloud-engineer)
+- [Cloud Architect](https://searchcloudcomputing.techtarget.com/definition/cloud-architect)
+- [DevOps Engineer](https://searchitoperations.techtarget.com/definition/DevOps-engineer)
 - [Site Reliability Engineer](https://opensource.com/article/18/10/what-site-reliability-engineer)
 - [Computer Systems Administrator](https://www.sokanu.com/careers/computer-systems-administrator/)
 - [Technical Support Specialist](https://www.sokanu.com/careers/technical-support-specialist/)
 
 ### How To
 
-- [The 2019 DevOps RoadMap](https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb)
-- [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
-- [The case for making the transition from sysadmin to DevOps engineer](https://opensource.com/article/19/7/devops-vs-sysadmin)
-- [How To Become A Cloud Engineer?](https://www.edureka.co/blog/how-to-become-a-cloud-engineer/)
+- [The Proven Way to Become a Cloud Engineer](https://dev.to/bashirk/the-proven-way-to-become-a-cloud-engineer-in-2020-3ic3)
 - [What Exactly Is a Cloud Architect and How Do You Become One?](https://cloudacademy.com/blog/what-exactly-is-a-cloud-architect-and-how-do-you-become-one/)
+- [DevOps Roadmap](https://roadmap.sh/devops)
+- [So you want to be an SRE?](https://hackernoon.com/so-you-want-to-be-an-sre-34e832357a8c)
+- [The case for making the transition from sysadmin to DevOps engineer](https://opensource.com/article/19/7/devops-vs-sysadmin)
 - [The Essential Guide to Becoming a Systems Administrator](https://www.paysa.com/blog/2016/12/05/the-essential-guide-to-becoming-a-systems-administrator/)
-- [Want to Become a Systems Engineer?](https://www.roberthalf.com/blog/salaries-and-skills/want-to-become-a-systems-engineer-here-are-the-skills-required)
 
 ### Professional Certifications
 
-- [CompTIA Career Roadmap](https://certification.comptia.org/why-certify/roadmap#.WEbilLmJITw.linkedin)
-- [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
-- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
+- [CompTIA Career Roadmap](https://www.comptia.org/content/it-careers-path-roadmap/it-support-specialist)
 - [Cloud Architecture with GCP Professional Certificate](https://www.coursera.org/professional-certificates/gcp-cloud-architect)
 - [Cloud Engineering with GCP Professional Certificate](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
+- [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
+- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
 
 ### Online Communities
 
+- [CloudTweaks](https://cloudtweaks.com/)
 - [DevOps.com](https://devops.com/)
 - [League of Professional System Administrators (LOPSA)](https://lopsa.org/)
-- [LinkedIn - System Administrator](https://www.linkedin.com/groups/51443/)
 
 ### Blogs
 
-- [O'Reilly - Operations](https://www.oreilly.com/topics/operations)
-- [TechBeacon - DevOps](https://techbeacon.com/devops)
 - [opensource.com](https://opensource.com/)
-- [Flexera Software Blogs](http://blogs.flexerasoftware.com/)
-- [The Agile Admin](https://theagileadmin.com/)
-- [Top 20 DevOps Blogs and Websites To Follow in 2019](https://blog.feedspot.com/devops_blogs/)
-- [Top 30 Cloud Computing Blogs For Latest Cloud Technology News](http://blog.feedspot.com/cloud_computing_blogs/)
-- [Best Blogs Every Linux SysAdmin Must Follow](https://itsfoss.com/best-sysadmin-blogs/)
+- [TechBeacon - DevOps](https://techbeacon.com/devops)
+- [Top DevOps Blogs, Websites & Influencers](https://blog.feedspot.com/devops_blogs/)
+- [Top Cloud Computing Blogs, Websites & Influencers](http://blog.feedspot.com/cloud_computing_blogs/)
+- [Top Sysadmin Blogs & Websites for System Administrators](https://blog.feedspot.com/sysadmin_blogs/)
 
 ### Resources Collections
 
-- [DevopsWiki](https://github.com/Leo-G/DevopsWiki)
-- [Top 10 resources for System Administrators](https://www.getfilecloud.com/blog/top-10-resources-for-system-administrators/)
-- [10 Free Online Resources for Learning Linux](https://beebom.com/free-online-resources-learning-linux/)
-- [12 Resources to Learn Linux Administration](https://medium.com/@abhi.eduonix/12-resources-to-learn-linux-administration-c432e024af73)
+- [Awesome Cloud Native](https://jimmysong.io/awesome-cloud-native/)
+- [Awesome DevOps](http://awesome-devops.xyz/)
+- [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin)
 
 ## Learning Resources
 
@@ -83,84 +77,66 @@ Software maintenance is defined as the totality of activities required to provid
 - [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
 - [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
 - [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
-- **[Soft Skills](ss.md)**
 
 #### Webinars
 
-- [A day in the Life of a Linux Administrator](https://www.youtube.com/watch?v=zvoBWbQ6a7U)
-- [The System Administrator Role in the Cloud Era: Better Than Ever](https://www.youtube.com/watch?v=1LRSS29SH44)
+- [A Day in the Life of a Cloud Engineer](https://youtu.be/K0Uuz_qPjPc?list=ULK0Uuz_qPjPc)
+- [Everyone is talking about DevOps](https://nl.devoteam.com/en/devops-webinar/)
 
 #### Others
 
-- [Site Reliability Engineering](https://landing.google.com/sre/)
-- [System administration](https://en.wikiversity.org/wiki/System_administration)
+- [Top 9 sysadmin career stories from 2019](https://www.redhat.com/sysadmin/career-2019)
+- [A Brief Guide to Starting Your IT Career as a Linux Sysadmin](https://training.linuxfoundation.org/resources/publications-2/a-brief-guide-to-starting-your-it-career-as-a-linux-sysadmin/)
 
 ### Beginner
 
 #### MOOCs
 
 - [Computer Security and Systems Management](https://www.coursera.org/specializations/computer-security-systems-management)
-- [Introduction to Data Storage and Management Technologies](https://www.edx.org/course/introduction-data-storage-management-ieeex-storage101x-0)
 - [Systems Administration Courses](https://www.cybrary.it/systems-administration/)
-- [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 - [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
+- [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
+- [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 - [Unix Tools: Data, Software and Production Engineering](https://www.edx.org/course/unix-tools-data-software-and-production-engineering)
 - [Fundamentals of Red Hat Enterprise Linux](https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x)
-- [Google IT Support](https://www.coursera.org/specializations/google-it-support)
-- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
 #### Webinars
 
-- [Linux Training Webinars](https://training.linuxfoundation.org/free-linux-training/linux-training-videos#webinar)
-- [Understanding the Windows Server Administration Fundamentals](https://www.youtube.com/watch?v=937fFFLC8pk)
+- [How to Install Linux](https://training.linuxfoundation.org/resources/webinars/how-to-install-linux/)
+- [Migrating From Unix to Linux](https://training.linuxfoundation.org/resources/webinars/webinar-migrating-from-unix-to-linux/)
+- [Windows Server Administration for Beginners](https://youtu.be/hZ2QiiHyTnU)
 
 #### Others
 
 - [SWEBOK V3 - Chapter 5: Software Maintenance](https://www.computer.org/web/swebok/v3)
 - [Introduction to Linux - A Hands on Guide](http://sf.tradepub.com/free/w_mach01/)
-- [Linux Tutorials For System Administrators](https://training.linuxfoundation.org/free-linux-training/linux-training-videos#sysadmin)
-- [Linux System Administration Tutorials and Courses](https://hackr.io/tutorials/learn-system-administration)
-- [Free Linux Training Online](https://training.linuxfoundation.org/free-linux-training)
-- [10 Useful Free Linux eBooks for Newbies and Administrators](http://www.tecmint.com/10-useful-free-linux-ebooks-for-newbies-and-administrators/)
-- [Free eBooks from Microsoft Press](https://mva.microsoft.com/ebooks)
-- [Free eBooks for Windows administrators](https://4sysops.com/archives/free-e-books-for-windows-administrators/)
 
 ### Intermediate
 
 #### MOOCs
 
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
-- [Agile Development](https://www.coursera.org/specializations/agile-development)
-- [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
+- [Agile Development](https://www.coursera.org/specializations/agile-development)
 
 #### Webinars
 
-- [Agile Development Basics](http://info.versionone.com/Agile-Development-Basics-Webinar.html)
+- [Ask an Agile Expert](https://resources.collab.net/webinars/ask-an-agile-expert)
 - [Better, Faster, and Easier: Agile Application Development for Your Business](http://www.appian.com/resources/better-faster-and-easier-agile-application-development-for-your-business/)
-- [Watch the Do Agile Right webinar](http://blogs.atlassian.com/2014/02/watch-agile-right-webinar-lessons-learned-atlassian-software-engineer/)
+- [Teamwork in the enterprise: past, present and future](https://www.atlassian.com/webinars/business/teamwork-in-the-enterprise-past-present-and-future)
 
 #### Others
 
 - [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
-- [Agile Skills Learning Circle Wiki](https://www.ibm.com/developerworks/community/wikis/home/wiki/W61b873bae705_4dcd_aa9b_fe8380d4d7fb?lang=en)
-- [Agile Methodology](https://www.cigital.com/knowledge-database/agile-methodology/)
-- [Agile Alliance](https://www.agilealliance.org/)
 - [The Agile Coach](https://www.atlassian.com/agile)
-- [Getting Started or Simply Scaling Agile?](https://www.versionone.com/resources/)
-- [A Practical Guide: Product Management & Agile Development](http://web.accompa.com/white-paper-product-management-agile-development/)
-- [Agile processes for the maintenance cycle](http://www.ibm.com/developerworks/rational/library/agile-processes-maintenance-cycle.html)
-- [AgileConnection.com](https://www.agileconnection.com/)
 - [Scrum Guide](http://www.scrumguides.org/)
-- [CMCrossroads.com](https://www.cmcrossroads.com/)
 - [ALM Body of Knowledge](http://www.almbok.com/start)
-- [Application lifecycle management tools: A buyer's guide to ALM software](http://searchsoftwarequality.techtarget.com/buyersguide/Application-lifecycle-management-tools-A-buyers-guide-to-ALM-software)
-- [Software Development Trends and Benchmarks](https://www.atlassian.com/whitepapers/software-trends-2016)
 
 ### Advanced
 
 #### MOOCs
 
+- [Introduction to Site Reliability Engineering and DevOps](https://www.edx.org/course/introduction-to-site-reliability-engineering-and-devops)
 - [Cloud Computing - coursera](https://www.coursera.org/specializations/cloud-computing)
 - [Cloud Computing - edx](https://www.edx.org/micromasters/cloud-computing)
 - [Introduction to Cloud Infrastructure Technologies](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x#!)
@@ -204,3 +180,5 @@ Software maintenance is defined as the totality of activities required to provid
 - [Doing Scrum with Multiple Teams: Comparing Scaling Frameworks](https://www.infoq.com/articles/scrum-multiple-teams-frameworks)
 - [TechBeacon](https://techbeacon.com/)
 - [TradePub.com](https://sf.tradepub.com/)
+- [Site Reliability Engineering](https://landing.google.com/sre/)
+
