@@ -96,7 +96,7 @@ For many organizations, the approach to software quality is one of prevention: i
 - [Software Testing Tutorial: Free Course](https://www.guru99.com/software-testing.html)
 - [Mobile Testing](https://learn.techbeacon.com/tracks/mobile-testing)
 - [Huddle Ebooks](https://huddle.eurostarsoftwaretesting.com/tag/ebook/)
-- [Cigniti e-books/](http://www.cigniti.com/e-books/)
+- [Cigniti e-books](http://www.cigniti.com/e-books/)
 
 ### Intermediate
 
