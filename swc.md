@@ -118,6 +118,8 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
 - [Intro to Progressive Web Apps](https://www.udacity.com/course/intro-to-progressive-web-apps--ud811)
 - [Google Maps APIs](https://www.udacity.com/course/google-maps-apis--ud864)
+- [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
+- [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 
 ##### Mobile (Android)
 
