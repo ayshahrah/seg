@@ -154,11 +154,11 @@ Since software construction requires knowledge of algorithms and of coding pract
 #### Others
 
 - [SWEBOK V3 - Chapter 3: Software Construction ](https://www.computer.org/web/swebok/v3)
-- [Google Resources for Developers](https://developers.google.com/)
-- [Apple Resources for Developers](https://developer.apple.com/)
-- [Microsoft Resources for Developers](https://developer.microsoft.com/)
-- [Oracle Resources for Developers](https://developer.oracle.com/)
-- [Mozilla Resources for Developers](https://developer.mozilla.org/)
+- [Google Developer](https://developers.google.com/)
+- [Apple Developer](https://developer.apple.com/)
+- [Microsoft Developer](https://developer.microsoft.com/)
+- [Oracle Developer](https://developer.oracle.com/)
+- [Mozilla Developer](https://developer.mozilla.org/)
 - [free-programming-books](https://ebookfoundation.github.io/free-programming-books/)
 
 ### Intermediate
