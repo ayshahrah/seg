@@ -29,10 +29,10 @@ Software maintenance is defined as the totality of activities required to provid
 
 ### How To
 
-- [The case for making the transition from sysadmin to DevOps engineer](https://opensource.com/article/19/7/devops-vs-sysadmin)
 - [The Essential Guide to Becoming a Systems Administrator](https://www.paysa.com/blog/2016/12/05/the-essential-guide-to-becoming-a-systems-administrator/)
 - [The Proven Way to Become a Cloud Engineer](https://dev.to/bashirk/the-proven-way-to-become-a-cloud-engineer-in-2020-3ic3)
 - [What Exactly Is a Cloud Architect and How Do You Become One?](https://cloudacademy.com/blog/what-exactly-is-a-cloud-architect-and-how-do-you-become-one/)
+- [The case for making the transition from sysadmin to DevOps engineer](https://opensource.com/article/19/7/devops-vs-sysadmin)
 - [DevOps Roadmap](https://roadmap.sh/devops)
 - [So you want to be an SRE?](https://hackernoon.com/so-you-want-to-be-an-sre-34e832357a8c)
 
