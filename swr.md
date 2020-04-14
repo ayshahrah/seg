@@ -16,14 +16,14 @@ Quality.
 
 ### Possible Roles
 
-- [Software Requirements Engineer](https://en.wikipedia.org/wiki/Requirements_engineering)
 - [Business Analyst](https://www.iiba.org/professional-development/career-centre/what-is-business-analysis/)
 - [Computer Systems Analyst](https://www.fieldengineer.com/skills/computer-systems-analyst)
+- [Software Requirements Engineer](https://en.wikipedia.org/wiki/Requirements_engineering)
 
 ### How To
 
 - [The Business Analyst Career Road Map](https://www.iiba.org/professional-development/knowledge-centre/articles/roles-ba-career-road-map/)
-- [Become a Systems Analyst: Step-by-Step Career Guide](https://study.com/articles/Become_a_Systems_Analyst_Step-by-Step_Career_Guide.html)
+- [Become A Business Analyst](https://www.thebaguide.com/path-to-ba)
 
 ### Professional Certifications
 
@@ -33,7 +33,8 @@ Quality.
 
 ### Online Communities
 
-- [Modernanalyst.com](http://www.modernanalyst.com/Home.aspx)
+- [Modern Analyst](http://www.modernanalyst.com/Home.aspx)
+- [BA Times](https://www.batimes.com/)
 
 ### Blogs
 
@@ -41,9 +42,7 @@ Quality.
 
 ### Resources Collections
 
-- [A List of Free Business Analyst Training Online](https://businessanalystlearnings.com/blog/2013/1/20/a-list-of-free-business-analyst-training-online)
-- [Free courses for business analysts](https://businessanalystlearnings.com/free-courses-for-business-analysts/)
-- [A List of Free Ebooks & White Papers For Business Analysts](https://businessanalystlearnings.com/blog/2014/12/5/a-list-of-free-ebooks-white-papers-for-business-analysts)
+- [Business Analyst Learnings](https://businessanalystlearnings.com/)
 
 ## Learning Resources
 
@@ -59,13 +58,7 @@ Quality.
 - [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
 - [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 
-#### Webinars
-
-- [The Business Analyst Catalyst: The Role of the BA in Today's Business World](https://www.youtube.com/watch?v=n_39RcB9UyY)
-- [From Waterfall to Agile - A Business Analyst's Survival Guide](https://www.youtube.com/watch?v=UVqmbpIQXkw)
-- [Myth Busting the role of the Business Analyst](https://www.youtube.com/watch?v=VmYdtWYwZDY)
-
-#### Others
+#### Ebooks & Websites
 
 - [Difference Between Systems Analyst and Business Analyst](http://www.modernanalyst.com/Resources/Articles/tabid/115/ID/185/Difference-Between-Systems-Analyst-and-Business-Analyst.aspx)
 
@@ -75,16 +68,10 @@ Quality.
 
 - [Client Needs and Software Requirementst](https://www.coursera.org/learn/client-needs-and-software-requirements)
 
-#### Webinars
-
-- [How to Write Good Requirements](http://www.jamasoftware.com/resource/webinar-write-good-requirements/)
-- [Requirements Management Best Practices](https://www.youtube.com/watch?v=7vx6RDydAPo)
-- [IIBA's BABOK Guide and PMI's Business Analysis for Practitioners Guide](https://www.youtube.com/watch?v=45Bqb9rhdiY)
-
-#### Others
+#### Ebooks & Websites
 
 - [SWEBOK V3 - Chapter 1: Software Requirements](https://www.computer.org/web/swebok/v3)
-- [10 Success Factors of Future-proof Requirements Management](https://content.intland.com/requirements-management/10-success-factors-of-future-proof-requirements-management)
+- [Business Analyst Training Tutorial for Beginners](https://www.guru99.com/business-analyst-tutorial-course.html)
 
 ### Intermediate
 
@@ -94,13 +81,7 @@ Quality.
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 
-#### Webinars
-
-- [Agile Business Analysis](https://youtu.be/xFC0ODFHvzA)
-- [Agile Requirements Management Best Practices](https://www.youtube.com/watch?v=HQizMS04A7s)
-- [Use Cases and User Stories for Agile Requirements](https://www.youtube.com/watch?v=NB2ZB6DOrlM)
-
-#### Others
+#### Ebooks & Websites
 
 - [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
 - [The Agile Coach](https://www.atlassian.com/agile)
@@ -117,13 +98,8 @@ Quality.
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [Introduction to DevOps: Transforming and Improving Operations](https://www.edx.org/course/introduction-to-devops-transforming-and-improving-operations)
 
-#### Webinars
-
-- [Modern Requirements Management: Managing Development Complexities in an Evolving World](https://www.blueprintsys.com/content/modern-requirements-management-webinar)
-
-#### Others
+#### Ebooks & Websites
 
 - [The Ultimate DevOps Toolkit](https://www.appdynamics.com/lp/devops-toolkit/)
-- [Scaled Agile Framework (SAFe®) in a nutshell](https://intland.com/blog/agile/safe/scaled-agile-framework-safe-in-a-nutshell/)
 - [Doing Scrum with Multiple Teams: Comparing Scaling Frameworks](https://www.infoq.com/articles/scrum-multiple-teams-frameworks)
 
