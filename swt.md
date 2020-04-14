@@ -64,12 +64,7 @@ For many organizations, the approach to software quality is one of prevention: i
 - [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
 - [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 
-#### Webinars
-
-- [Roles and Responsibilities of an Agile Tester](https://www.youtube.com/watch?v=pn0gWp7brEs)
-- [Talking about Talking about Testing](https://huddle.eurostarsoftwaretesting.com/resources/people-skills/talking-talking-testing/)
-
-#### Others
+#### Ebooks & Websites
 
 - [Navigating A Career Path In Software Testing](https://www.ministryoftesting.com/dojo/lessons/navigating-a-career-path-in-software-testing)
 - [11 Reasons Why Software Testing Has a Better Future Than Development](https://hackernoon.com/11-reasons-why-testing-has-a-better-future-than-development-vu3aj31k6)
@@ -85,12 +80,7 @@ For many organizations, the approach to software quality is one of prevention: i
 - [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
 - [Software Analysis & Testing](https://www.udacity.com/course/software-analysis-testing--ud333)
 
-#### Webinars
-
-- [Testing as a Second Language Back to the Basics](https://youtu.be/tDdgviRgU0k)
-- [Trying to Teach Testing Skills and Judgment](https://huddle.eurostarsoftwaretesting.com/resources/people-skills/trying-to-teach-testing-skills-and-judgement/)
-
-#### Others
+#### Ebooks & Websites
 
 - [SWEBOK V3 - Chapter 4: Software Testing](https://www.computer.org/web/swebok/v3)
 - [Software Testing Tutorial: Free Course](https://www.guru99.com/software-testing.html)
@@ -106,19 +96,13 @@ For many organizations, the approach to software quality is one of prevention: i
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 
-#### Webinars
-
-- [The Role of a Tester in Agile Enterprise](https://huddle.eurostarsoftwaretesting.com/resources/agile-testing/the-role-of-the-tester-in-the-agile-enterprise/)
-- [Agile Testing – Maintaining Quality with Agility](https://huddle.eurostarsoftwaretesting.com/resources/agile-testing/maintaining-quality-agility/)
-- [Being a Tester in SCRUM](https://huddle.eurostarsoftwaretesting.com/resources/agile-testing/being-a-tester-in-scrum/)
-
-#### Others
+#### Ebooks & Websites
 
 - [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
 - [The Agile Coach](https://www.atlassian.com/agile)
 - [Scrum Guide](http://www.scrumguides.org/)
-- [ALM Body of Knowledge](http://www.almbok.com/start)
 - [Perspectives on Agile Software Testing](https://info.thoughtworks.com/ebook-agile-software-testing)
+- [ALM Body of Knowledge](http://www.almbok.com/)
 
 ### Advanced
 
@@ -129,13 +113,7 @@ For many organizations, the approach to software quality is one of prevention: i
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 
-#### Webinars
-
-- [The New Testing Battlefields: Mobile, IoT and Beyond](http://www.telerik.com/campaigns/teststudio/the-new-testing-battlefields-mobile-iot-and-beyond)
-- [Test Strategies and Risk Mitigation for IoT and Embedded Systems](https://polarion.plm.automation.siemens.com/webinar-on-demand/testing-strategies-and-risk-mitigation-for-iot-and-embedded-systems)
-- [Adopting Continuous Test Automation in Agile & DevOps Way](http://www.cygnet-infotech.com/adopting-continuous-test-automation-in-agile-devops-way)
-
-#### Others
+#### Ebooks & Websites
 
 - [Techbeacon - Continuous Testing](https://learn.techbeacon.com/tracks/continuous-testing)
 - [Test Automation](https://devqa.io/)
