@@ -78,12 +78,7 @@ Software maintenance is defined as the totality of activities required to provid
 - [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
 - [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 
-#### Webinars
-
-- [A Day in the Life of a Cloud Engineer](https://youtu.be/K0Uuz_qPjPc?list=ULK0Uuz_qPjPc)
-- [Everyone is talking about DevOps](https://nl.devoteam.com/en/devops-webinar/)
-
-#### Others
+#### Ebooks & Websites
 
 - [Top 9 sysadmin career stories from 2019](https://www.redhat.com/sysadmin/career-2019)
 - [A Brief Guide to Starting Your IT Career as a Linux Sysadmin](https://training.linuxfoundation.org/resources/publications-2/a-brief-guide-to-starting-your-it-career-as-a-linux-sysadmin/)
@@ -100,13 +95,7 @@ Software maintenance is defined as the totality of activities required to provid
 - [Unix Tools: Data, Software and Production Engineering](https://www.edx.org/course/unix-tools-data-software-and-production-engineering)
 - [Fundamentals of Red Hat Enterprise Linux](https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x)
 
-#### Webinars
-
-- [How to Install Linux](https://training.linuxfoundation.org/resources/webinars/how-to-install-linux/)
-- [Migrating From Unix to Linux](https://training.linuxfoundation.org/resources/webinars/webinar-migrating-from-unix-to-linux/)
-- [Windows Server Administration for Beginners](https://youtu.be/hZ2QiiHyTnU)
-
-#### Others
+#### Ebooks & Websites
 
 - [SWEBOK V3 - Chapter 5: Software Maintenance](https://www.computer.org/web/swebok/v3)
 - [Introduction to Linux - A Hands on Guide](http://sf.tradepub.com/free/w_mach01/)
@@ -119,18 +108,12 @@ Software maintenance is defined as the totality of activities required to provid
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 
-#### Webinars
-
-- [Ask an Agile Expert](https://resources.collab.net/webinars/ask-an-agile-expert)
-- [Better, Faster, and Easier: Agile Application Development for Your Business](http://www.appian.com/resources/better-faster-and-easier-agile-application-development-for-your-business/)
-- [Teamwork in the enterprise: past, present and future](https://www.atlassian.com/webinars/business/teamwork-in-the-enterprise-past-present-and-future)
-
-#### Others
+#### Ebooks & Websites
 
 - [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
 - [The Agile Coach](https://www.atlassian.com/agile)
 - [Scrum Guide](http://www.scrumguides.org/)
-- [ALM Body of Knowledge](http://www.almbok.com/start)
+- [ALM Body of Knowledge](http://www.almbok.com/)
 
 ### Advanced
 
@@ -143,12 +126,7 @@ Software maintenance is defined as the totality of activities required to provid
 - [Introduction to Site Reliability Engineering and DevOps](https://www.edx.org/course/introduction-to-site-reliability-engineering-and-devops)
 - [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
 
-#### Webinars
-
-- [What Does the Future Hold for Cloud Computing?](https://youtu.be/3eqT1__CU9I)
-- [Recipe For DevOps Success](https://youtu.be/AwCtajOYKc4)
-
-#### Others
+#### Ebooks & Websites
 
 - [Cloud Native DevOps With Kubernetes](https://www.nginx.com/resources/library/cloud-native-devops-with-kubernetes/)
 - [Application Migration to Cloud Best Practices Guide](https://techbeacon.com/resources/application-migration-cloud-best-practices-guide)
