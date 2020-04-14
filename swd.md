@@ -124,8 +124,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
 - [The Agile Coach](https://www.atlassian.com/agile)
 - [Scrum Guide](http://www.scrumguides.org/)
-- [Agile Modeling (AM)](http://agilemodeling.com/)
-- [ALM Body of Knowledge](http://www.almbok.com/start)
+- [ALM Body of Knowledge](http://www.almbok.com/)
 
 ### Advanced
 
