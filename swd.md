@@ -13,7 +13,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 ### Knowledge and Skills
 
-- [Software Architect](https://www.indeed.com/hire/job-description/software-architect)
+- [Software Architect Job Description](https://www.indeed.com/hire/job-description/software-architect)
 - [Web Designer Job Description](https://www.toptal.com/designers/web/job-description)
 - [Mobile Application Designer Job Description](https://www.toptal.com/designers/mobile/job-description)
 - [User Interface (UI) Designer Job Description](https://www.toptal.com/designers/ui/job-description)
