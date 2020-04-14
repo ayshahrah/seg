@@ -87,7 +87,7 @@ Quality.
 - [The Agile Coach](https://www.atlassian.com/agile)
 - [Scrum Guide](http://www.scrumguides.org/)
 - [A Practical Guide: Business Analysts & Agile Development](http://web.accompa.com/white-paper-business-analysis-agile-development/)
-- [ALM Body of Knowledge](http://www.almbok.com/start)
+- [ALM Body of Knowledge](http://www.almbok.com/)
 
 ### Advanced
 
