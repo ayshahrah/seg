@@ -28,7 +28,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 ### How To
 
 - [Warning: Your programming career](https://medium.com/sololearn/warning-your-programming-career-b9579b3a878b)
-- [Roadmaps for Developers](https://roadmap.sh/)
+- [Developer Roadmaps](https://roadmap.sh/)
 - [How to Become a Web Developer](https://sf.tradepub.com/free-offer/how-to-become-a-web-developer/w_webd08)
 - [How to Become a Mobile App Developer](https://buildfire.com/become-mobile-app-developer/)
 
@@ -68,13 +68,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
 - [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 
-#### Webinars
-
-- [Future and Career Opportunities For A Full Stack Developer](https://www.youtube.com/watch?v=KD0M9azH6dE)
-- [Rethinking the Developer Career Path](https://www.youtube.com/watch?v=yIPbE7BssOs)
-- [How to Become a Full Stack Web Developer](https://www.youtube.com/watch?v=X-HevVfZ2dw)
-
-#### Others
+#### Ebooks & Websites
 
 - [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey/)
 - [GitHub: The State of the Octoverse](https://octoverse.github.com/)
@@ -169,13 +163,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
 - [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 
-#### Webinars
-
-- [How to Program](https://www.youtube.com/watch?v=KNjiKbSSlCM)
-- [Mobile Application Development - The Full Lifecycle](http://www.disys.com/webinar-mobile-application-development/)
-- [Mobile Application Development—Demystified](http://www.telerik.com/webinars/appbuilder/mobile-application-development-demystified)
-
-#### Others
+#### Ebooks & Websites
 
 - [SWEBOK V3 - Chapter 3: Software Construction ](https://www.computer.org/web/swebok/v3)
 - [Google Developer](https://developers.google.com/)
@@ -193,18 +181,12 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 
-#### Webinars
-
-- [Ask an Agile Expert](https://resources.collab.net/webinars/ask-an-agile-expert)
-- [Better, Faster, and Easier: Agile Application Development for Your Business](http://www.appian.com/resources/better-faster-and-easier-agile-application-development-for-your-business/)
-- [Teamwork in the enterprise: past, present and future](https://www.atlassian.com/webinars/business/teamwork-in-the-enterprise-past-present-and-future)
-
-#### Others
+#### Ebooks & Websites
 
 - [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
 - [The Agile Coach](https://www.atlassian.com/agile)
 - [Scrum Guide](http://www.scrumguides.org/)
-- [ALM Body of Knowledge](http://www.almbok.com/start)
+- [ALM Body of Knowledge](http://www.almbok.com/)
 
 ### Advanced
 
@@ -215,13 +197,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 
-#### Webinars
-
-- [GOTO Microservices](https://www.youtube.com/watch?v=kR2sm1zelI4&list=PLEx5khR4g7PIEfXSB9bDS4lB-J9stOynD)
-- [Ask a DevOps Guru](https://resources.collab.net/webinars/ask-a-devops-guru)
-- [Internet of Things Webinar Series](https://www.mongodb.com/lp/webinar-series/internet-of-things)
-
-#### Others
+#### Ebooks & Websites
 
 - [67 open source tools and resources for IoT](https://techbeacon.com/67-open-source-tools-resources-iot)
 - [Red Hat Developer](https://developers.redhat.com/)
