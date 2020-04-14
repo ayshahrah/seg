@@ -27,9 +27,9 @@ Quality.
 
 ### Professional Certifications
 
-- [Certified Professional for Requirements Engineering (CPRE)](https://www.ireb.org/en/cpre/)
 - [International Institute of Business Analysis (IIBA) Certifications](http://www.iiba.org/Certification-Recognition.aspx)
 - [PMI Professional in Business Analysis (PMI-PBA)](https://www.pmi.org/certifications/types/business-analysis-pba)
+- [Certified Professional for Requirements Engineering (CPRE)](https://www.ireb.org/en/cpre/)
 
 ### Online Communities
 
