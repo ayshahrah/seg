@@ -13,10 +13,11 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 ### Knowledge and Skills
 
-- [User Interface (UI) Designer Job Description](https://www.toptal.com/designers/ui/job-description)
-- [User-Experience (UX) Job Description](https://www.toptal.com/designers/ux/job-description)
+- [Software Architect](https://www.indeed.com/hire/job-description/software-architect)
 - [Web Designer Job Description](https://www.toptal.com/designers/web/job-description)
 - [Mobile Application Designer Job Description](https://www.toptal.com/designers/mobile/job-description)
+- [User Interface (UI) Designer Job Description](https://www.toptal.com/designers/ui/job-description)
+- [User-Experience (UX) Job Description](https://www.toptal.com/designers/ux/job-description)
 
 ### Possible Roles
 
@@ -40,7 +41,6 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 ### Online Communities
 
-- [International Association of Software Architects (IASA)](http://iasaglobal.org/)
 - [Top 12 Design Communities for UX/UI Designers and Developers](https://blog.prototypr.io/top-12-design-communities-for-ux-ui-designers-and-developers-8fce239d8ed7)
 
 ### Blogs
@@ -71,16 +71,9 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
 - [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 
-#### Webinars
+#### Ebooks & Websites
 
-- [What Makes a Good Software Architect (2019 Edition)?](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=543614)
-- [Why You're Over-Thinking Your UI/UX](https://www.youtube.com/watch?v=Is2O666qDPs)
-- [UI Design Tools That Every Designer Should Know About](https://www.youtube.com/watch?v=RaZ-qcfZVXQ)
-
-#### Others
-
-- [Should Designers Code?](https://medium.com/@MrAlanCooper/should-designers-code-f7b745b8cd03)
-- [7 Rules for Creating Gorgeous UI](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
+- [What is a Software Architect, Anyway?](https://medium.com/hitachisolutions-braintrust/what-is-a-software-architect-anyway-b935ecb64c4d)
 - [The Difference Between UX and UI Design - A Layman’s Guide](https://careerfoundry.com/en/blog/ux-design/the-difference-between-ux-and-ui-design-a-laymans-guide/)
 
 ### Beginner
@@ -102,18 +95,12 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Design Thinking: UX and Advanced Topics](https://www.edx.org/course/design-thinking-advanced-topics)
 - [Graphic Design](https://www.coursera.org/specializations/graphic-design)
 
-#### Webinars
-
-- [Becoming a Better Software Architect](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=638198)
-- [New Analysis About the State of Design](https://www.invisionapp.com/talks/stateofdesign)
-
-#### Others
+#### Ebooks & Websites
 
 ##### Software Architecture
 
 - [SWEBOK V3 - Chapter 2: Software Design](https://www.computer.org/web/swebok/v3)
 - [Software Architecture Guide](https://martinfowler.com/architecture/)
-- [Software Architecture](https://sf.tradepub.com/free-offer/software-architecture/w_free08)
 - [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 - [SourceMaking](https://sourcemaking.com/)
 
@@ -131,19 +118,13 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 
-#### Webinars
-
-- [Ask an Agile Expert](https://resources.collab.net/webinars/ask-an-agile-expert)
-- [Better, Faster, and Easier: Agile Application Development for Your Business](http://www.appian.com/resources/better-faster-and-easier-agile-application-development-for-your-business/)
-- [Teamwork in the enterprise: past, present and future](https://www.atlassian.com/webinars/business/teamwork-in-the-enterprise-past-present-and-future)
-
-#### Others
+#### Ebooks & Websites
 
 - [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
 - [The Agile Coach](https://www.atlassian.com/agile)
 - [Scrum Guide](http://www.scrumguides.org/)
-- [ALM Body of Knowledge](http://www.almbok.com/start)
 - [Agile Modeling (AM)](http://agilemodeling.com/)
+- [ALM Body of Knowledge](http://www.almbok.com/start)
 
 ### Advanced
 
@@ -155,13 +136,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 
-#### Webinars
-
-- [GOTO Software Architecture](https://www.youtube.com/playlist?list=PLEx5khR4g7PJELLTYwXZHcimWAwTUaWGA)
-- [Top Application Architecture Trends That Enable Digital Business Transformation](https://www.gartner.com/en/webinars/3898484/top-application-architecture-trends-that-enable-digital-business)
-- [Future of Applications](https://www.gartner.com/en/webinars/26461/future-of-applications)
-
-#### Others
+#### Ebooks & Websites
 
 - [SOA Source Book](http://www.opengroup.org/soa/source-book/intro/index.htm)
 - [Microservices vs. Service-Oriented Architecture](https://www.nginx.com/resources/library/microservices-vs-soa/)
