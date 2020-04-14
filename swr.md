@@ -16,9 +16,9 @@ Quality.
 
 ### Possible Roles
 
+- [Software Requirements Engineer](https://modernanalyst.com/TheProfession/Roles/RequirementsEngineer.aspx)
 - [Business Analyst](https://www.iiba.org/professional-development/career-centre/what-is-business-analysis/)
 - [Computer Systems Analyst](https://www.fieldengineer.com/skills/computer-systems-analyst)
-- [Software Requirements Engineer](https://en.wikipedia.org/wiki/Requirements_engineering)
 
 ### How To
 
@@ -27,9 +27,9 @@ Quality.
 
 ### Professional Certifications
 
+- [Certified Professional for Requirements Engineering (CPRE)](https://www.ireb.org/en/cpre/)
 - [International Institute of Business Analysis (IIBA) Certifications](http://www.iiba.org/Certification-Recognition.aspx)
 - [PMI Professional in Business Analysis (PMI-PBA)](https://www.pmi.org/certifications/types/business-analysis-pba)
-- [Certified Professional for Requirements Engineering (CPRE)](https://www.ireb.org/en/cpre/)
 
 ### Online Communities
 
@@ -96,7 +96,6 @@ Quality.
 - [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
-- [Introduction to DevOps: Transforming and Improving Operations](https://www.edx.org/course/introduction-to-devops-transforming-and-improving-operations)
 
 #### Ebooks & Websites
 
