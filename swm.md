@@ -20,8 +20,8 @@ Software maintenance is defined as the totality of activities required to provid
 
 ### Possible Roles
 
-- [Computer Systems Administrator](https://www.sokanu.com/careers/computer-systems-administrator/)
-- [Technical Support Specialist](https://www.sokanu.com/careers/technical-support-specialist/)
+- [Computer Systems Administrator](https://www.careerexplorer.com/careers/computer-systems-administrator/)
+- [Technical Support Specialist](https://www.careerexplorer.com/careers/technical-support-specialist/)
 - [Cloud Engineer](https://searchcloudcomputing.techtarget.com/definition/cloud-engineer)
 - [Cloud Architect](https://searchcloudcomputing.techtarget.com/definition/cloud-architect)
 - [DevOps Engineer](https://searchitoperations.techtarget.com/definition/DevOps-engineer)
