@@ -86,8 +86,8 @@ For many organizations, the approach to software quality is one of prevention: i
 - [SWEBOK V3 - Chapter 4: Software Testing](https://www.computer.org/web/swebok/v3)
 - [Software Testing Tutorial: Free Course](https://www.guru99.com/software-testing.html)
 - [Mobile Testing](https://learn.techbeacon.com/tracks/mobile-testing)
-- [Huddle Ebooks](https://huddle.eurostarsoftwaretesting.com/tag/ebook/)
-- [Cigniti e-books](http://www.cigniti.com/e-books/)
+- [Huddle EBooks](https://huddle.eurostarsoftwaretesting.com/tag/ebook/)
+- [SmartBear EBooks](https://smartbear.com/resources/?Type=eBooks)
 
 ### Intermediate
 
