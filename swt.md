@@ -48,7 +48,7 @@ For many organizations, the approach to software quality is one of prevention: i
 
 ### Resources Collections
 
-- [List of Free Software Testing Resources](http://ligurio.github.io/awesome-software-quality/)
+- [Awesome Software Quality](http://ligurio.github.io/awesome-software-quality/)
 - [Awesome Testing](https://github.com/TheJambo/awesome-testing)
 
 ## Learning Resources
