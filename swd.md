@@ -23,9 +23,9 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 - [Software Architect](https://www.softwareengineerinsider.com/careers/software-architect.html)
 - [Software Designer](https://www.softwareengineerinsider.com/careers/software-designer.html)
-- [Web Designer](https://www.sokanu.com/careers/web-designer/)
+- [Web Designer](https://www.careerexplorer.com/careers/web-designer/)
 - [User Interface (UI) Designer](https://www.econsultancy.com/blog/68842-a-day-in-the-life-of-a-user-interface-designer)
-- [User Experience (UX) Designer](https://www.sokanu.com/careers/ux-designer/)
+- [User Experience (UX) Designer](https://www.careerexplorer.com/careers/ux-designer/)
 
 ### How To
 
@@ -91,7 +91,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [UI / UX Design](https://www.coursera.org/specializations/ui-ux-design)
 - [User Experience Research and Design](https://www.coursera.org/specializations/michiganux)
 - [Interaction Design](https://www.coursera.org/specializations/interaction-design)
-- [Product Design](https://sa.udacity.com/course/product-design--ud509)
+- [Product Design](https://www.udacity.com/course/product-design--ud509)
 - [Design Thinking: UX and Advanced Topics](https://www.edx.org/course/design-thinking-advanced-topics)
 - [Graphic Design](https://www.coursera.org/specializations/graphic-design)
 
