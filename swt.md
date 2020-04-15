@@ -65,7 +65,7 @@ For many organizations, the approach to software quality is one of prevention: i
 - [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
 - [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 
-#### Ebooks & Websites
+#### EBooks & Websites
 
 - [Navigating A Career Path In Software Testing](https://www.ministryoftesting.com/dojo/lessons/navigating-a-career-path-in-software-testing)
 - [11 Reasons Why Software Testing Has a Better Future Than Development](https://hackernoon.com/11-reasons-why-testing-has-a-better-future-than-development-vu3aj31k6)
@@ -81,7 +81,7 @@ For many organizations, the approach to software quality is one of prevention: i
 - [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
 - [Software Analysis & Testing](https://www.udacity.com/course/software-analysis-testing--ud333)
 
-#### Ebooks & Websites
+#### EBooks & Websites
 
 - [SWEBOK V3 - Chapter 4: Software Testing](https://www.computer.org/web/swebok/v3)
 - [Software Testing Tutorial: Free Course](https://www.guru99.com/software-testing.html)
@@ -97,7 +97,7 @@ For many organizations, the approach to software quality is one of prevention: i
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 
-#### Ebooks & Websites
+#### EBooks & Websites
 
 - [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
 - [The Agile Coach](https://www.atlassian.com/agile)
@@ -114,7 +114,7 @@ For many organizations, the approach to software quality is one of prevention: i
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 
-#### Ebooks & Websites
+#### EBooks & Websites
 
 - [Techbeacon - Continuous Testing](https://learn.techbeacon.com/tracks/continuous-testing)
 - [Test Automation](https://devqa.io/)
