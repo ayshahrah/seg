@@ -20,7 +20,7 @@ For many organizations, the approach to software quality is one of prevention: i
 - [Software Test Engineer](https://www.altexsoft.com/blog/engineering/qa-engineering-roles-skills-tools-and-responsibilities-within-a-testing-team/)
 - [Software Tester](http://www.test-institute.org/Software_Testing_Roles_And_Responsibilities.php)
 - [Software Quality Assurance (QA) Tester](https://testinggenez.com/qa-software-tester-qualities/)
-- [Quality Assurance (QA) Analyst](https://www.sokanu.com/careers/quality-assurance-analyst/)
+- [Quality Assurance (QA) Analyst](https://www.careerexplorer.com/careers/quality-assurance-analyst/)
 
 ### How To
 
