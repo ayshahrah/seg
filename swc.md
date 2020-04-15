@@ -21,15 +21,15 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ### Possible Roles
 
-- [Computer Programmer](https://www.sokanu.com/careers/computer-programmer/)
-- [Web Developer](https://www.sokanu.com/careers/web-developer/)
-- [Mobile Apps Developer](https://www.sokanu.com/careers/app-developer/)
+- [Computer Programmer](https://www.careerexplorer.com/careers/computer-programmer/)
+- [Web Developer](https://www.careerexplorer.com/careers/web-developer/)
+- [Mobile Apps Developer](https://www.careerexplorer.com/careers/app-developer/)
 
 ### How To
 
 - [Warning: Your programming career](https://medium.com/sololearn/warning-your-programming-career-b9579b3a878b)
 - [Developer Roadmaps](https://roadmap.sh/)
-- [How to Become a Web Developer](https://sf.tradepub.com/free-offer/how-to-become-a-web-developer/w_webd08)
+- [How to Become a Web Developer](https://careerfoundry.com/en/blog/web-development/what-does-it-take-to-become-a-web-developer-everything-you-need-to-know-before-getting-started/)
 - [How to Become a Mobile App Developer](https://buildfire.com/become-mobile-app-developer/)
 
 ### Professional Certifications
