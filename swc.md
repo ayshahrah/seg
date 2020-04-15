@@ -87,7 +87,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
 - [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
 - [Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
-- [Build Native Mobile Apps with Flutter](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
 - [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
 - [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 
@@ -98,6 +97,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud711)
 - [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 - [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
+- [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 - [Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
 - [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 - [Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
@@ -123,7 +123,12 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 - [Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
 
-##### Mobile (Android)
+##### Mobile
+
+- [Build Native Mobile Apps with Flutter](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
+- [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
+
+###### Android
 
 - [How to Install Android Studio](https://www.udacity.com/course/how-to-install-android-studio--ud808)
 - [Android Basics](https://www.udacity.com/course/android-basics-user-interface--ud834)
@@ -144,7 +149,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Firebase in a Weekend: Android](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
 - [Firebase Analytics: Android](https://www.udacity.com/course/firebase-analytics-android--ud354)
 
-##### Mobile (iOS)
+###### iOS
 
 - [Swift for Beginners](https://www.udacity.com/course/swift-for-beginners--ud1022)
 - [Swift for Developers](https://www.udacity.com/course/swift-for-developers--ud1025)
