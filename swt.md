@@ -43,6 +43,7 @@ For many organizations, the approach to software quality is one of prevention: i
 
 ### Blogs
 
+- [TechBeacon - App Dev & Testing](https://techbeacon.com/app-dev-testing)
 - [Top Software Testing Blogs and Websites To Follow](http://blog.feedspot.com/software_testing_blogs/)
 
 ### Resources Collections
