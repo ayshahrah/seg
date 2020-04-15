@@ -71,7 +71,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
 - [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 
-#### Ebooks & Websites
+#### EBooks & Websites
 
 - [What is a Software Architect, Anyway?](https://medium.com/hitachisolutions-braintrust/what-is-a-software-architect-anyway-b935ecb64c4d)
 - [The Difference Between UX and UI Design - A Layman’s Guide](https://careerfoundry.com/en/blog/ux-design/the-difference-between-ux-and-ui-design-a-laymans-guide/)
@@ -95,7 +95,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Design Thinking: UX and Advanced Topics](https://www.edx.org/course/design-thinking-advanced-topics)
 - [Graphic Design](https://www.coursera.org/specializations/graphic-design)
 
-#### Ebooks & Websites
+#### EBooks & Websites
 
 ##### Software Architecture
 
@@ -119,7 +119,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 
-#### Ebooks & Websites
+#### EBooks & Websites
 
 - [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
 - [The Agile Coach](https://www.atlassian.com/agile)
@@ -136,7 +136,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 
-#### Ebooks & Websites
+#### EBooks & Websites
 
 - [SOA Source Book](http://www.opengroup.org/soa/source-book/intro/index.htm)
 - [Microservices vs. Service-Oriented Architecture](https://www.nginx.com/resources/library/microservices-vs-soa/)
