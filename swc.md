@@ -53,7 +53,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 - [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/blob/master/README.md)
 - [Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-- [Awesome Open Source](https://awesomeopensource.com/)
 
 ## Learning Resources
 
