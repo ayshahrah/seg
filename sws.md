@@ -9,57 +9,41 @@ A generally accepted view concerning software security is that it is much better
 
 ### Knowledge and Skills
 
-- [Software Security Engineer Responsibilities](https://resources.workable.com/software-security-engineer-job-description)
-- [Software Security Engineer job description template](https://www.talentlyft.com/en/resources/software-security-engineer-job-description)
+- [Software Security Engineer job description](https://resources.workable.com/software-security-engineer-job-description)
 
 ### Possible Roles
 
-- [Application Security Engineer](https://techbeacon.com/best-path-how-become-application-security-engineer)
-- [Security Software Developer](https://www.sokanu.com/careers/security-software-developer/)
-- [Source Code Auditor](https://cybersecurityportal.com/jobs/source-code-auditor/)
+- [Application Security Engineer](https://trailhead.salesforce.com/en/content/learn/modules/application-security-basics/learn-application-security-engineer-skills)
+- [Security Software Developer](https://www.careerexplorer.com/careers/security-software-developer/)
+- [Source Code Auditor](https://cybersecurityguide.org/careers/security-code-auditor/)
 
 ### How To
 
-- [The best path: How to become an application security engineer](https://techbeacon.com/best-path-how-become-application-security-engineer)
+- [How to become an application security engineer](https://learn.techbeacon.com/units/how-become-application-security-engineer)
 - [Become a Security Software Developer](http://www.cyberdegrees.org/jobs/security-software-developer/)
 - [Become a Source Code Auditor](http://www.cyberdegrees.org/jobs/source-code-auditor/)
 
 ### Professional Certifications
 
 - [Certified Secure Software Lifecycle Professional (CSSLP)](https://www.isc2.org/csslp/default.aspx)
-- [GIAC Software Security](http://www.giac.org/certifications/software-security)
-- [8 most in-demand IT security certifications](http://www.cio.com/article/2951115/certifications/8-most-in-demand-it-security-certifications.html#slide1)
+- [GIAC Certifications: Developer](http://www.giac.org/certifications/software-security)
 
 ### Online Communities
 
 - [OWASP](http://www.modernanalyst.com/Home.aspx)
 - [CWE](https://cwe.mitre.org/index.html)
-- [SEI CERT Coding Standards](https://www.securecoding.cert.org/confluence/display/seccode/SEI+CERT+Coding+Standards)
-- [SANS Software Security Community](http://software-security.sans.org/resources)
-- [TCS's Cyber Security Community](https://securitycommunity.tcs.com/infosecsoapbox/)
-- [Web Application Security Consortium](http://www.webappsec.org/)
-- [ISIS Laboratory](http://www.isis.poly.edu/)
-- [Security StackExchange](https://security.stackexchange.com/)
-- [reddit.com/r/netsec](https://www.reddit.com/r/netsec/)
-- [LinkedIn - The Web Application Security Consortium](https://www.linkedin.com/groups/83336/profile)
-- [LinkedIn - Software Security Group](https://www.linkedin.com/groups/3027331/profile)
+- [SEI CERT Coding Standards](https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards)
+- [MITRE ATT&CK](https://attack.mitre.org/)
 
 ### Blogs
 
 - [TechBeacon - Security](https://techbeacon.com/security)
-- [O’Reilly - Security](https://www.oreilly.com/topics/security)
-- [Top 50 Cyber Security Blogs For IT Security Pros](http://blog.feedspot.com/cyber_security_blogs/)
-- [Application Security](http://resources.infosecinstitute.com/category/application-security-2/)
-- [Veracode Blog](https://www.veracode.com/blog)
-- [Cigital Software Security Blog](https://www.cigital.com/blog/)
+- [Top Cyber Security Blogs and Websites](https://blog.feedspot.com/cyber_security_blogs/)
 
 ### Resources Collections
 
-- [Developer's security guide: 50 online resources to shift left](https://techbeacon.com/developer-secure-code-starter-kit-resources)
-- [21 Application Security Resources No Developer Should Be Without](https://www.checkmarx.com/2015/12/11/21-application-security-resources-no-developer-should-be-without/)
-- [Awesome AppSec](https://github.com/paragonie/awesome-appsec)
-- [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security)
-- [Bugcrowd University](https://github.com/bugcrowd/bugcrowd_university)
+- [Awesome Web Security](https://awesomelists.top/#/repos/qazbnm456/awesome-web-security)
+- [Awesome Mobile Security](https://github.com/vaib25vicky/awesome-mobile-security)
 
 ## Learning Resources
 
@@ -74,16 +58,9 @@ A generally accepted view concerning software security is that it is much better
 - [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
 - [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
 - [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
-- **[Soft Skills](ss.md)**
 
-#### Webinars
+#### EBooks & Websites
 
-- [Application Security for Software Engineers](https://www.youtube.com/watch?v=YobT_vxuB54)
-- [Application Security 101: Full Workshop](https://www.youtube.com/watch?v=wcpWSSorxuk)
-
-#### Others
-
-- [A Developer’s Guide to the OWASP Top 10 2017](https://www.microfocus.com/en-us/assets/security/developers-guide-to-the-owasp-top-10-2017)
 - [InfoSec Career Paths vs Programming Skills — The Basics](https://hackernoon.com/infosec-career-paths-vs-programming-skills-the-basics-bf841187165f)
 
 ### Beginner
@@ -116,6 +93,8 @@ A generally accepted view concerning software security is that it is much better
 
 - [SWEBOK V3 - Chapter 13: Computing Foundations - Section 17. Secure Software Development and Maintenance](https://www.computer.org/web/swebok/v3)
 - [The Cyber Security Body of Knowledge](https://www.cybok.org/)
+- [Developer's security guide: 50 online resources to shift left](https://techbeacon.com/developer-secure-code-starter-kit-resources)
+- [Bugcrowd University](https://www.bugcrowd.com/hackers/bugcrowd-university/)
 - [O’Reilly - Free Security Ebooks](https://www.oreilly.com/security/free/)
 - [TechBeacon - Application Security](https://learn.techbeacon.com/tracks/application-security)
 - [Open security training](http://opensecuritytraining.info/)
