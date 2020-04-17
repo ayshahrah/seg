@@ -82,7 +82,6 @@ A generally accepted view concerning software security is that it is much better
 - [The Cyber Security Body of Knowledge](https://www.cybok.org/)
 - [Application Security](https://learn.techbeacon.com/tracks/application-security)
 - [Web Application Security for Dummies](https://www.qualys.com/forms/ebook/web-application-security-for-dummies/)
-- [Securing Web Applications](https://pages.dyn.com/Securing-Web-Apps.html)
 - [Open security training](http://opensecuritytraining.info/)
 - [Security Development Lifecycle](https://www.microsoft.com/en-us/SDL)
 - [Secure Coding](https://developers.redhat.com/topics/secure-coding/)
@@ -113,11 +112,9 @@ A generally accepted view concerning software security is that it is much better
 #### EBooks & Websites
 
 - [Secure DevOps](https://learn.techbeacon.com/tracks/secure-devops)
-- [The DevOps Roadmap for Security](http://info.signalsciences.com/book)
-- [Application and Database Security](https://www.sans.org/reading-room/whitepapers/application)
+- [SANS Application and Database Security](https://www.sans.org/reading-room/whitepapers/application)
 - [Veracode Resources](https://www.veracode.com/resources)
 - [Snyk Security Resources](https://snyk.io/security-resources/)
 - [Checkmarx resources](https://www.checkmarx.com/resources/)
-- [AppSec Classroom](https://codedx.com/resources/appsec-classroom/)
 - [Bugcrowd University](https://www.bugcrowd.com/hackers/bugcrowd-university/)
 
