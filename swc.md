@@ -84,7 +84,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 - [What is Programming?](https://www.udacity.com/course/what-is-programming--ud994)
 - [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
-- [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
 - [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
 - [Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
 - [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
