@@ -79,7 +79,7 @@ A generally accepted view concerning software security is that it is much better
 
 - [SWEBOK V3 - Chapter 13: Computing Foundations - Section 17. Secure Software Development and Maintenance](https://www.computer.org/web/swebok/v3)
 - [The Cyber Security Body of Knowledge](https://www.cybok.org/)
-- [TechBeacon - Application Security](https://learn.techbeacon.com/tracks/application-security)
+- [Application Security](https://learn.techbeacon.com/tracks/application-security)
 - [Web Application Security for Dummies](https://www.qualys.com/forms/ebook/web-application-security-for-dummies/)
 - [Securing Web Applications](https://pages.dyn.com/Securing-Web-Apps.html)
 - [Developer's security guide: 50 online resources to shift left](https://techbeacon.com/developer-secure-code-starter-kit-resources)
