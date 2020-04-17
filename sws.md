@@ -42,6 +42,7 @@ A generally accepted view concerning software security is that it is much better
 
 ### Resources Collections
 
+- [Developer's security guide: 50 online resources to shift left](https://techbeacon.com/developer-secure-code-starter-kit-resources)
 - [Awesome Web Security](https://awesomelists.top/#/repos/qazbnm456/awesome-web-security)
 - [Awesome Mobile Security](https://github.com/vaib25vicky/awesome-mobile-security)
 
@@ -82,8 +83,6 @@ A generally accepted view concerning software security is that it is much better
 - [Application Security](https://learn.techbeacon.com/tracks/application-security)
 - [Web Application Security for Dummies](https://www.qualys.com/forms/ebook/web-application-security-for-dummies/)
 - [Securing Web Applications](https://pages.dyn.com/Securing-Web-Apps.html)
-- [Developer's security guide: 50 online resources to shift left](https://techbeacon.com/developer-secure-code-starter-kit-resources)
-- [Bugcrowd University](https://www.bugcrowd.com/hackers/bugcrowd-university/)
 - [Open security training](http://opensecuritytraining.info/)
 - [Security Development Lifecycle](https://www.microsoft.com/en-us/SDL)
 - [Secure Coding](https://developers.redhat.com/topics/secure-coding/)
@@ -120,3 +119,5 @@ A generally accepted view concerning software security is that it is much better
 - [Snyk Security Resources](https://snyk.io/security-resources/)
 - [Checkmarx resources](https://www.checkmarx.com/resources/)
 - [AppSec Classroom](https://codedx.com/resources/appsec-classroom/)
+- [Bugcrowd University](https://www.bugcrowd.com/hackers/bugcrowd-university/)
+
