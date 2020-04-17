@@ -115,6 +115,6 @@ A generally accepted view concerning software security is that it is much better
 - [SANS Application and Database Security](https://www.sans.org/reading-room/whitepapers/application)
 - [Veracode Resources](https://www.veracode.com/resources)
 - [Snyk Security Resources](https://snyk.io/security-resources/)
-- [Checkmarx resources](https://www.checkmarx.com/resources/)
+- [Checkmarx Resources](https://www.checkmarx.com/resources/)
 - [Bugcrowd University](https://www.bugcrowd.com/hackers/bugcrowd-university/)
 
