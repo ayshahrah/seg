@@ -12,7 +12,7 @@ These definitions also illustrate another reason for the prevalence of software 
 ### Knowledge and Skills
 
 - [Quality Engineer Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/quality-engineer)
-- [Quality Assurance Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/quality-assurance)
+- [QA Engineer Job Description](https://www.toptal.com/qa/job-description)
 
 ### Possible Roles
 
