@@ -1,71 +1,54 @@
 [Home](index.md)
 ## Welcome to Artificial Intelligence
 
-Artificial Intelligence or AI (pronounced AYE-EYE) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning (the acquisition of information and rules for using the information), reasoning (using the rules to reach approximate or definite conclusions), and self-correction. Particular applications of AI include expert systems, speech recognition and machine vision.
+Artificial intelligence (AI) is the ability of a machine or computer system to copy human intelligence processes, learn from experiences, adapt to new information and perform human-like activities. Specific applications of AI include expert systems, natural language processing (NLP), speech recognition and machine vision.
 
-AI was coined by John McCarthy, an American computer scientist, in 1956 at The Dartmouth Conference where the discipline was born. Today, it is an umbrella term that encompasses everything from robotic process automation to actual robotics. It has gained prominence recently due, in part, to big data, or the increase in speed, size and variety of data businesses are now collecting. AI can perform tasks such as identifying patterns in the data more efficiently than humans, enabling businesses to gain more insight out of their data.
+AI is a wide field of study -- incorporating various technologies, methods and theories -- that focuses on combining large amounts of data with defined rules and fast, repetitive processing. This enables the software to advance and improve its ability to complete tasks by recognizing patterns and features in the data sets.
 
-*Source: [TechTarget](http://searchcio.techtarget.com/definition/AI)*
+Self-driving cars and computers that play chess are two examples of machines with artificial intelligence. In addition, a variety of industries have begun using AI to improve their work processes -- such as healthcare, manufacturing, banking and retail. In addition, AI is finding multiple beneficial uses in cybersecurity.
+
+*Source: [TechTarget](https://searchenterpriseai.techtarget.com/definition/AI-Artificial-Intelligence)*
 
 ### Knowledge and Skills
 
+- [Career Insights: What does an AI Engineer do?](https://www.freelancermap.com/blog/what-does-ai-engineer-do/)
 - [5 Skills You Need to Become a Machine Learning Engineer](https://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html)
-- [Transitioning from Software Engineering to Artificial Intelligence](https://blog.insightdatascience.com/preparing-for-the-transition-to-applied-ai-d41e48403447)
 - [Machine Learning Engineer Job Description](https://www.toptal.com/machine-learning/job-description)
 
 ### Possible Roles
 
-- [Artificial Intelligence Engineer](https://www.paysa.com/salaries/artificial-intelligence-engineer--t)
-- [Machine Learning Engineer](https://www.oreilly.com/ideas/what-are-machine-learning-engineers)
-- [Robotics Engineer](https://www.sokanu.com/careers/robotics-engineer/)
+- [Artificial Intelligence Engineer](https://www.datarobot.com/wiki/ai-engineer/)
+- [Machine Learning Engineer](https://www.oreilly.com/radar/what-are-machine-learning-engineers/)
+- [Robotics Engineer](https://www.careerexplorer.com/careers/robotics-engineer/)
 
 ### How To
 
-- [How to Become an Artificial Intelligence Engineer](http://blog.liveedu.tv/become-artificial-intelligence-engineer/)
-- [A Roadmap to Becoming an AI Engineer](https://www.paysa.com/blog/2017/05/17/a-roadmap-to-becoming-an-ai-engineer/)
-- [AI Career Pathways: Put Yourself on the Right Track](https://workera.ai/candidates/report/)
-- [The Blueprint for Developers to Get Started with Machine Learning](https://thenewstack.io/blueprint-developers-get-started-machine-learning/)
-- [Becoming a machine learning engineer](https://www.oreilly.com/ideas/becoming-a-machine-learning-engineer)
-- [How to Become a Machine Learning Engineer: A Comprehensive Guide](https://www.springboard.com/blog/how-to-become-a-machine-learning-engineer/)
-- [How To Become A Machine Learning Engineer: Learning Path](https://medium.com/machine-learning-world/learning-path-for-machine-learning-engineer-a7d5dc9de4a4)
-- [How to learn Deep Learning in 6 months](https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48)
-- [How to become a Robotics Engineer](https://www.sokanu.com/careers/robotics-engineer/how-to-become/)
+- [How to Become an AI Engineer](https://www.simplilearn.com/how-to-become-an-ai-engineer-article)
+- [How to Become a Machine Learning Engineer?](https://www.simplilearn.com/how-to-become-a-machine-learning-engineer-article)
+- [How to become a Robotics Engineer](https://www.careerexplorer.com/careers/robotics-engineer/how-to-become/)
 
 ### Professional Certifications
 
 - [ARTiBA Artificial Intelligence Engineer](https://www.artiba.org/certification/artificial-intelligence-certification)
-- [Professional Certificate in Computer Science for Artificial Intelligence](https://www.edx.org/professional-certificate/harvardx-computer-science-for-artifical-intelligence)
-- [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer)
-- [IBM Applied AI Professional Certificate](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)
-- [Micorsoft Professional Certificate in Artificial Intelligence (AI)](https://www.edx.org/professional-certificate/microsoft-artificial-intelligence)
-- [MCSA: Machine Learning](https://www.microsoft.com/en-us/learning/mcsa-machine-learning.aspx)
+- [Top Machine Learning Certificates](https://www.springboard.com/blog/machine-learning-certificates/)
 
 ### Online Communities
 
-- [Google+ - Artificial Intelligence](https://plus.google.com/communities/116461000134682563789)
-- [Google+ - Machine Learning](https://plus.google.com/communities/107785538899595981479)
-- [Reddit - Artificial Intelligence](https://www.reddit.com/r/artificial/)
-- [Reddit - Machine Learning](https://www.reddit.com/r/MachineLearning/)
-- [LinkedIn - Artificial Intelligence](https://www.linkedin.com/groups/3746827/profile)
-- [Artificial Intelligence Stack Exchange](https://ai.stackexchange.com/)
+- [TOPBOTS](https://www.topbots.com/)
+- [Welcome AI](https://www.welcome.ai/)
 
 ### Blogs
 
 - [Medium - Artificial intelligence](https://medium.com/topic/artificial-intelligence)
-- [O'Reilly - AI](https://www.oreilly.com/topics/ai)
-- [Top 50 Artificial Intelligence Websites And Blogs for AI Enthusiast](https://blog.feedspot.com/ai_blogs/)
-- [Top 20 Machine Learning Blogs & Websites on the Web](https://blog.feedspot.com/machine_learning_blogs/)
+- [O'Reilly - AI](https://www.oreilly.com/radar/topics/ai-ml/)
+- [Top Artificial Intelligence Websites And Blogs For AI Enthusiast](https://blog.feedspot.com/ai_blogs/)
+- [Top Machine Learning Blogs, Websites & Influencers](https://blog.feedspot.com/machine_learning_blogs/)
 
 ### Resources Collections
 
-- [HowDo Artificial Intelligence](https://howdo.com/growth-primers/artificial-intelligence/)
-- [The Best Machine Learning Resources](https://medium.com/machine-learning-for-humans/how-to-learn-machine-learning-24d53bb64aa1)
 - [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence)
-- [Awesome machine learning operations](https://github.com/EthicalML/awesome-machine-learning-operations)
+- [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
-- [AI Valley](https://ai-valley.com/)
-- [Curated List of AI and Machine Learning Resources](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
-- [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 - [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning)
 
 ## Learning Resources
@@ -81,113 +64,62 @@ AI was coined by John McCarthy, an American computer scientist, in 1956 at The D
 - [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
 - [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
 - [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
-- **[Soft Skills](ss.md)**
 
-#### Webinars
-
-- [Build a Career in AI and Machine Learning](https://www.youtube.com/watch?v=LrGA9nAt4XA)
-- [Machine Learning vs Deep Learning vs Artificial Intelligence](https://www.youtube.com/watch?v=9dFhZFUkzuQ)
-- [The Rise of Machine Learning and Artificial Intelligence](https://www.youtube.com/watch?v=kyo5_KG5bVE)
-
-#### Others
+#### EBooks & Websites
 
 - [What is Artificial Intelligence and Why Gain a Certification in This Domain](https://www.simplilearn.com/what-is-artificial-intelligence-and-why-ai-certification-article)
-- [Artificial Intelligence Career Path](https://findcareerinfo.com/artificial-intelligence-career-path/)
+- [AI Career Pathways: Put Yourself on the Right Track](https://workera.ai/resource_downloads/ai_career_pathways/)
 
 ### Beginner
 
 #### MOOCs
 
 - [Elements of AI](https://www.elementsofai.com/)
-- [Intro to Artificial Intelligence - udacity](https://sa.udacity.com/course/intro-to-artificial-intelligence--cs271)
-- [Introduction to Artificial Intelligence (AI) - coursera](https://www.coursera.org/learn/introduction-to-ai)
-- [Introduction to Artificial Intelligence (AI) - edx](https://www.edx.org/course/introduction-artificial-intelligence-ai-microsoft-dat263x-0)
+- [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 - [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
-- [Artificial Intelligence - udacity](https://sa.udacity.com/course/artificial-intelligence--ud954)
-- [Artificial Intelligence - edx](https://www.edx.org/micromasters/columbiax-artificial-intelligence)
-- [Microsoft AI School](https://aischool.microsoft.com/learning-paths)
-- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
-- [Artificial Intelligence for Robotics](https://sa.udacity.com/course/artificial-intelligence-for-robotics--cs373)
 - [Robotics](https://www.coursera.org/specializations/robotics)
+- [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
+- [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
+- [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
 
-
-#### Webinars
-
-- [AI Trends Webinars](https://aitrends.com/webinars/)
-
-#### Others
+#### EBooks & Websites
 
 - [AI Playbook](http://aiplaybook.a16z.com/)
-- [O’Reilly Free AI Ebooks](http://www.oreilly.com/data/free/)
-- [A beginner’s guide to artificial intelligence, machine learning, and cognitive computing](https://developer.ibm.com/articles/cc-beginner-guide-machine-learning-ai-cognitive/)
-- [Artificial Intelligence and Machine Learning in Industry](http://www.oreilly.com/data/free/ai-machine-learning-in-industry.csp?cmp=tw-data-free-article-lgen_tw_free_ebook_as)
-- [Open AI Resources](http://airesources.org/)
-- [OpenAI](https://www.openai.com/)
-- [AI Index](http://aiindex.org/)
+- [Microsoft AI School](https://aischool.microsoft.com/en-us/home)
+- [AI Index](https://hai.stanford.edu/ai-index)
 
 ### Intermediate
 
 #### MOOCs
 
-- [Machine Learning - udacity](https://sa.udacity.com/course/machine-learning--ud262)
-- [Machine Learning - coursera specialization](https://www.coursera.org/specializations/machine-learning)
-- [Machine Learning - coursera](https://www.coursera.org/learn/machine-learning)
-- [Machine Learning - edx](https://www.edx.org/course/machine-learning-gtx-cs7641x-1)
-- [Machine Learning - AWS](https://aws.amazon.com/training/learning-paths/machine-learning/)
-- [Machine Learning for All](https://www.coursera.org/learn/uol-machine-learning-for-all)
-- [Principles of Machine Learning](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-6)
-- [Introduction to Machine Learning for Coders](http://course.fast.ai/ml.html)
-- [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
-- [Applied Machine Learning](https://www.edx.org/course/applied-machine-learning-microsoft-dat203-3x-4)
-- [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python/)
-- [Machine learning with Apache SystemML](https://cognitiveclass.ai/courses/machine-learning-apache-systemml/)
-- [Machine Learning: Unsupervised Learning](https://sa.udacity.com/course/machine-learning-unsupervised-learning--ud741)
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+- [Machine Learning - udacity](https://www.udacity.com/course/machine-learning--ud262)
+- [Machine Learning - coursera](https://www.coursera.org/learn/machine-learning)
+- [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
+- [Machine Learning: Unsupervised Learning](https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741)
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
-- [Agile Development](https://www.coursera.org/specializations/agile-development)
-- [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
+- [Agile Development](https://www.coursera.org/specializations/agile-development)
 
-#### Webinars
-
-- [Agile Development Basics](http://info.versionone.com/Agile-Development-Basics-Webinar.html)
-- [Better, Faster, and Easier: Agile Application Development for Your Business](http://www.appian.com/resources/better-faster-and-easier-agile-application-development-for-your-business/)
-- [Watch the Do Agile Right webinar – Lessons learned from an Atlassian software engineer](http://blogs.atlassian.com/2014/02/watch-agile-right-webinar-lessons-learned-atlassian-software-engineer/)
-
-#### Others
+#### EBooks & Websites
 
 - [Machine Learning for Dummies](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=IMM14209USEN)
-- [Machine Learning for Humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
-- [Machine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/edit#slide=id.g168a3288f7_0_58)
 - [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
-- [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
-- [Machine Learning Yearning](http://www.mlyearning.org/)
+- [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/)
 - [Open Machine Learning Course](https://mlcourse.ai/)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [ML Workspace](https://github.com/ml-tooling/ml-workspace/blob/develop/README.md)
 - [scikit-learn](https://scikit-learn.org/stable/index.html)
-- [Seedbank - Collection of Interactive Machine Learning Examples](http://tools.google.com/seedbank/)
-- [100 Days of Machine Learning Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+- [AI Hub](https://aihub.cloud.google.com/u/0/)
 - [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
-- [Agile Skills Learning Circle Wiki](https://www.ibm.com/developerworks/community/wikis/home/wiki/W61b873bae705_4dcd_aa9b_fe8380d4d7fb?lang=en)
-- [Agile Methodology](https://www.cigital.com/knowledge-database/agile-methodology/)
-- [Agile Alliance](https://www.agilealliance.org/)
 - [The Agile Coach](https://www.atlassian.com/agile)
-- [Getting Started or Simply Scaling Agile?](https://www.versionone.com/resources/)
-- [A Practical Guide: Product Management & Agile Development](http://web.accompa.com/white-paper-product-management-agile-development/)
-- [Agile Android Software Development](https://www.agiledroid.com/)
-- [AgileConnection.com](https://www.agileconnection.com/)
 - [Scrum Guide](http://www.scrumguides.org/)
-- [CMCrossroads.com](https://www.cmcrossroads.com/)
 - [ALM Body of Knowledge](http://www.almbok.com/start)
-- [Application lifecycle management tools: A buyer's guide to ALM software](http://searchsoftwarequality.techtarget.com/buyersguide/Application-lifecycle-management-tools-A-buyers-guide-to-ALM-software)
-- [Software Development Trends and Benchmarks](https://www.atlassian.com/whitepapers/software-trends-2016)
 
 ### Advanced
 
 #### MOOCs
 
-- [Deep Learning - udacity](https://sa.udacity.com/course/deep-learning--ud730)
 - [Deep Learning - coursera](https://www.coursera.org/specializations/deep-learning)
 - [Deep Learning - edx](https://www.edx.org/professional-certificate/ibm-deep-learning)
 - [Deep Learning - cognitiveclass](https://cognitiveclass.ai/learn/deep-learning/)
