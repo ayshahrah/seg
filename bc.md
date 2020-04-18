@@ -35,7 +35,7 @@ Banks and financial institutions across the globe are exploring how they can use
 
 ### Blogs
 
-- [Blockchain - Medium](https://medium.com/topic/blockchain)
+- [Medium - Blockchain](https://medium.com/topic/blockchain)
 - [Top Blockchain Blogs and Websites on Blockchain Technology](https://blog.feedspot.com/blockchain_blogs/)
 
 ### Resources Collections
