@@ -9,61 +9,42 @@ The data science field employs mathematics, statistics and computer science disc
 
 ### Knowledge and Skills
 
-- [The Most In Demand Tech Skills for Data Scientists](https://towardsdatascience.com/the-most-in-demand-tech-skills-for-data-scientists-d716d10c191d)
-- [8 Skills You Need to Be a Data Scientist](http://blog.udacity.com/2014/11/data-science-job-skills.html)
-- [Data Science Career Paths: Different Roles in the Industry](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/)
-- [Software development skills for data scientists](http://treycausey.com/software_dev_skills.html)
 - [Data Scientist Job Description](https://www.toptal.com/data-science/job-description)
-- [Sample Data Scientist Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/data-scientist)
-- [Sample Data Analyst Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/data-analyst)
+- [Data Analyst Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/data-analyst)
 
 ### Possible Roles
 
-- [Data Scientist](https://www.sokanu.com/careers/data-scientist/)
-- [Data Analyst](https://www.sokanu.com/careers/data-analyst/)
-- [Data Engineer](http://www.mastersindatascience.org/careers/data-engineer/)
+- [Data Scientist](https://www.careerexplorer.com/careers/data-scientist/)
+- [Data Analyst](https://www.careerexplorer.com/careers/data-analyst/)
+- [Data Engineer](https://dataengi.com/2019/09/10/who-is-a-data-engineer/)
 
 ### How To
 
-- [How to Become a Data Scientist - zeolearn](https://www.zeolearn.com/magazine/how-to-become-a-data-scientist)
-- [How to Become a Data Scientist - towardsdatascience](https://towardsdatascience.com/how-to-become-a-data-scientist-2a02ed565336)
-- [Who Is a Data Engineer & How to Become a Data Engineer?](https://towardsdatascience.com/who-is-a-data-engineer-how-to-become-a-data-engineer-1167ddc12811)
-- [Data engineers vs. data scientists](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
-- [How to get your first job in Data Science?](https://medium.com/the-mission/how-to-break-into-the-data-science-market-f0e0b79b42f7)
-- [Learn How to Get Your First Data Science Job](https://www.springboard.com/resources/guide-to-data-science-jobs/)
-- [3 common data science career transitions, and how to make them happen](https://towardsdatascience.com/3-common-data-science-career-transitions-and-how-to-make-them-happen-588c3618942f)
-- [If you’re a developer transitioning into data science, here are your best resources](https://medium.freecodecamp.org/if-youre-a-developer-transitioning-into-data-science-here-are-your-best-resources-c31928b53cd1)
+- [How to Become a Data Scientist](https://towardsdatascience.com/how-to-become-a-data-scientist-2a02ed565336)
+- [3 Paths to Your First Data Analyst Job](https://blog.udacity.com/2014/12/3-paths-first-data-analyst-job.html)
+- [The Path to Becoming a Data Engineer](datacamp.com/community/blog/the-path-to-becoming-a-data-engineer)
 
 ### Professional Certifications
 
-- [The Top Data Science Certifications Employers Look For](https://www.datasciencegraduateprograms.com/certification/)
-- [IBM Data Science Professional Certificate](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
-- [Microsoft Professional Certificate in Data Science Fundamentals](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
-- [Data Engineering with GCP Professional Certificate](https://www.coursera.org/professional-certificates/gcp-data-engineering)
+- [Best Data Science Certifications Program](https://hackr.io/blog/data-science-certification)
+- [Best Data Analytics Certifications](https://hackr.io/blog/best-data-analytics-certification)
+- [Top 14 data engineer and data architect certifications](https://www.cio.com/article/3395879/top-14-data-engineer-and-data-architect-certifications.html)
 
 ### Online Communities
 
-- [Data Science Communities](https://www.ngdata.com/top-data-science-resources/#Communities)
-- [LinkedIn - Data Science Central](https://www.linkedin.com/groups/35222/profile)
+- [Kaggle](https://www.kaggle.com
+- [KDnuggets](https://www.kdnuggets.com/)
 
 ### Blogs
 
 - [Medium - Data Science](https://medium.com/topic/data-science)
-- [O'Reilly - Data](https://www.oreilly.com/topics/data)
-- [Top 30 Big Data Blogs For Latest Big Data News](http://blog.feedspot.com/big_data_blogs/)
-- [Top 75 Data Science Blogs And Websites For Data Scientists](http://blog.feedspot.com/data_science_blogs/)
-- [Best Data Science Blogs](https://www.ngdata.com/top-data-science-resources/#Blogs)
-- [The 16 best data scientists to follow on Twitter](http://www.computerworlduk.com/galleries/careers/best-data-scientists-follow-on-twitter-3644862/)
+- [Top Data Science Blogs, Websites & Influencers](https://blog.feedspot.com/data_science_blogs/)
+- [Top Big Data Blogs, Websites & Influencers](https://blog.feedspot.com/big_data_blogs/)
 
 ### Resources Collections
 
-- [24 Data Science Resources to Keep Your Finger on the Pulse](http://blog.udacity.com/2014/12/24-data-science-resources-keep-finger-pulse.html)
-- [Learn data science: 44 essential resources for developers](https://techbeacon.com/learn-data-science-44-essential-resources-developers)
-- [Top 50 Data Science Resources](https://www.ngdata.com/top-data-science-resources/)
 - [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
-- [Open Source Society University](https://github.com/ossu/data-science)
-- [How To Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo)
-- [dataviz.tools](http://dataviz.tools/)
+- [Data Engineer Resources](https://github.com/adilkhash/Data-Engineering-HowTo)
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
 ## Learning Resources
@@ -79,24 +60,12 @@ The data science field employs mathematics, statistics and computer science disc
 - [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
 - [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
 - [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
-- **[Soft Skills](ss.md)**
 
-#### Webinars
-
-- [How to Become a Data Scientist in 2017?](https://youtu.be/ccCblUZFM0w)
-- [Career Lunch & Learn: Getting Started in Data Science](https://www.youtube.com/watch?v=mpinLxJVZpA)
-
-#### Others
+#### EBooks & Websites
 
 - [Data Science Academy](https://www.coursera.org/academy/data-science)
 - [Data Scientist: The Numbers Game Deciphered](https://www.simplilearn.com/the-numbers-game-deciphered-guide-pdf)
-- [Data Science Interview Guide](https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778)
-- [Data Engineering vs. Data Science Infographic](https://www.datacamp.com/community/blog/data-engineering-vs-data-science-infographic)
-- [Data engineers vs. data scientists](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
 - [Top Programming Languages for a Data Scientist](https://www.simplilearn.com/top-programming-languages-for-data-scientist-guide-pdf)
-- [Which Languages Should You Learn For Data Science?](https://medium.freecodecamp.org/which-languages-should-you-learn-for-data-science-e806ba55a81f)
-- [Essential Math for Data Science — ‘Why’ and ‘How’](https://towardsdatascience.com/essential-math-for-data-science-why-and-how-e88271367fbd)
-- [Quick Intro to Statistics — Power Your Stories with Data](https://hackernoon.com/quick-intro-to-statistics-power-your-stories-with-data-a3a35785692b)
 
 ### Beginner
 
@@ -124,6 +93,7 @@ The data science field employs mathematics, statistics and computer science disc
 #### Others
 
 - [O’Reilly Free Data Ebooks](http://www.oreilly.com/data/free/)
+- [Open Source Society University](https://github.com/ossu/data-science)
 - [Kaggle Micro-Courses](https://www.kaggle.com/learn/overview)
 - [Executive Data Science](https://leanpub.com/eds)
 - [Simplilearn's Resources](https://www.simplilearn.com/resources/big-data-and-analytics)
