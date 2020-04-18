@@ -3,46 +3,44 @@
 
 Blockchain is a type of distributed ledger for maintaining a permanent and tamper-proof record of transactional data. A blockchain functions as a decentralized database that is managed by computers belonging to a peer-to-peer (P2P) network. Each of the computers in the distributed network maintains a copy of the ledger to prevent a single point of failure (SPOF) and all copies are updated and validated simultaneously.
 
-In the past, blockchains were commonly associated with digital currencies, and Bitcoin in particular. Today, blockchain applications are being explored in many industries as a secure and cost-effective way to create and manage a distributed database and maintain records for digital transactions of all types.
+In the past, blockchains were commonly associated with digital currencies such as Bitcoin, or alternate versions of Bitcoin like Bitcoin Cash. Today, blockchain applications are being explored in many industries as a secure and cost-effective way to create and manage a distributed database and maintain records for digital transactions of all types.
+
+Banks and financial institutions across the globe are exploring how they can use blockchain to improve security.  Other industries, including healthcare, government and technology, are investigating how they can use blockchain to enable the secure exchange of data such as personal health information, digital assets like downloaded entertainment and real estate deeds. However, adoption of blockchain is slowing. In 2018, 1% of CIOs adopted blockchains, and around 8% of CIOs were looking into and planning towards the use of blockchain. Manufacturing and other similar businesses also see some potential to leverage blockchain to manage smart contracts as well as track materials as they move through their supply chains.
 
 *Source: [Techtarget](https://searchcio.techtarget.com/definition/blockchain)*
 
 ### Knowledge and Skills
 
-- [Don’t Get Disrupted: Blockchain Skills Your Business Needs for Success](https://business.udemy.com/blog/dont-get-disrupted-blockchain-skills-your-business-needs-for-success/)
+- [5 Skill Sets a Blockchain Developer Must Have](https://www.blockchain-council.org/blockchain/5-skill-sets-a-blockchain-developer-must-have/)
+- [What Skills Do You Need to Be a Blockchain Engineer?](https://hackernoon.com/what-skills-do-you-need-to-be-a-blockchain-engineer-c4e77e9de22b)
+- [Blockchain Developer Job Description](https://www.toptal.com/blockchain/job-description)
 
 ### Possible Roles
 
-- [Blockchain Developer](https://www.toptal.com/blockchain/job-description)
+- [Blockchain Developer](https://opensource.com/article/19/4/blockchain-career-developer)
 - [Blockchain Engineer](https://study.com/articles/blockchain_engineer_job_description_salary.html)
 
 ### How To
 
-- [How to Become a Blockchain Developer](https://x-team.com/become-blockchain-developer/)
-- [How To Become A Blockchain Developer: Cram Session](https://blockgeeks.com/guides/blockchain-developer/)
-- [What Skills Do You Need to Become a Blockchain Engineer?](https://datafloq.com/read/skills-need-become-blockchain-engineer/6456)
+- [How Do You Become a Blockchain Developer?](https://www.simplilearn.com/how-do-you-become-a-blockchain-developer-article)
+- [How to Become a Blockchain Engineer](http://modernenginering.com/2019/10/02/how-to-become-a-blockchain-engineer/)
 
 ### Professional Certifications
 
-- [CBCA Certified Blockchain Engineer](https://www.cbcamerica.org/blockchain-certifications/certified-blockchain-engineer)
-- [8 Blockchain Certifications and Courses for Professionals](https://news.coinify.com/8-professional-blockchain-certifications/)
+- [5 Top Blockchain Certification](https://blocksdecoded.com/blockchain-certification-training-courses/)
 
 ### Online Communities
 
-- [blockchain - DEV Community](https://dev.to/t/blockchain)
-- [The Topcoder Blockchain Community](https://blockchain.topcoder.com/)
-- [LinkedIn - Blockchain](https://www.linkedin.com/groups/1922105/)
+- [The Complete List of Blockchain Developer Communities](https://medium.com/@rejolut/the-complete-list-of-blockchain-developer-communities-5924a024ee17)
 
 ### Blogs
 
-- [Blockchain - Medium](https://blog.feedspot.com/blockchain_blogs/)
-- [Top 25 Blockchain Blogs and Websites on Blockchain Technology](https://blog.feedspot.com/blockchain_blogs/)
+- [Blockchain - Medium](https://medium.com/topic/blockchain)
+- [Top Blockchain Blogs and Websites on Blockchain Technology](https://blog.feedspot.com/blockchain_blogs/)
 
 ### Resources Collections
 
-- [HowDo Blockchain](https://howdo.com/growth-primers/blockchain/blockchain-primer/)
-- [Awesome Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme)
-- [Blockchain Resources](https://github.com/blockchainedindia/resources)
+- [Awesome Blockchain](https://github.com/yjjnls/awesome-blockchain)
 
 ## Learning Resources
 
@@ -57,102 +55,51 @@ In the past, blockchains were commonly associated with digital currencies, and B
 - [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
 - [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
 - [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
-- **[Soft Skills](ss.md)**
 
-#### Webinars
-
-- [Blockchain Technology Explained](https://www.youtube.com/watch?v=qOVAbKKSH10)
-
-#### Others
+#### EBooks & Websites
 
 - [The authoritative guide to blockchain development](https://medium.freecodecamp.org/the-authoritative-guide-to-blockchain-development-855ab65b58bc)
-- [A free guide for non-coders to learn blockchain tech in 6 months or less](https://medium.com/coinmonks/free-resources-to-get-a-blockchain-job-in-6-months-or-less-for-non-coders-5ddee72fbc7b)
+- [How to Become a Blockchain Developer](https://x-team.com/become-blockchain-developer/)
 
 ### Beginner
 
 #### MOOCs
 
-- [Blockchain](https://www.coursera.org/specializations/blockchain)
 - [Blockchain Fundamentals](https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals)
 - [Blockchain: Foundations and Use Cases](https://www.coursera.org/learn/blockchain-foundations-and-use-cases)
-- [Blockchain Essentials](https://cognitiveclass.ai/courses/blockchain-course/)
 - [Blockchain Technology](https://www.edx.org/course/blockchain-advancing-decentralized-technology)
-- [Blockchain 360: A State of the Art for Professionals](https://www.coursera.org/learn/blockchain-professionals)
-- [Blockchain Revolution for the Enterprise](https://www.coursera.org/specializations/blockchain-revolution-enterprise)
 
-#### Webinars
-
-- [Blockchain: How Real Is The Market?](https://www.gartner.com/webinar/3607520)
-- [Blockchain Special Report: What to Expect in 2018](https://www.gartner.com/webinar/3858509)
-
-#### Others
+#### EBooks & Websites
 
 - [Blockchain for Dummies](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XIM12354USEN)
-- [What is a blockchain?](https://www.oreilly.com/ideas/what-is-a-blockchain)
-- [Blockchain applications](https://www.oreilly.com/ideas/blockchain-applications)
-- [Hyperledger](https://www.hyperledger.org/)
-- [blockchain.mit.edu](http://blockchain.mit.edu/)
-- [Blockchain at Berkeley](https://blockchain.berkeley.edu/)
+- [Blockchain Learning Hub](https://www.unicef.org/innovation/blockchain-learning-hub)
 
 ### Intermediate
 
 #### MOOCs
 
-- [IBM Blockchain Foundation for Developers](https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers)
 - [Hyperledger Sawtooth for Application Developers](https://www.edx.org/course/hyperledger-sawtooth-for-application-developers)
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
-- [Agile Development](https://www.coursera.org/specializations/agile-development)
-- [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
+- [Agile Development](https://www.coursera.org/specializations/agile-development)
 
-#### Webinars
-
-- [Agile Development Basics](http://info.versionone.com/Agile-Development-Basics-Webinar.html)
-- [Better, Faster, and Easier: Agile Application Development for Your Business](http://www.appian.com/resources/better-faster-and-easier-agile-application-development-for-your-business/)
-- [Watch the Do Agile Right webinar – Lessons learned from an Atlassian software engineer](http://blogs.atlassian.com/2014/02/watch-agile-right-webinar-lessons-learned-atlassian-software-engineer/)
-
-#### Others
+#### EBooks & Websites
 
 - [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
-- [Agile Skills Learning Circle Wiki](https://www.ibm.com/developerworks/community/wikis/home/wiki/W61b873bae705_4dcd_aa9b_fe8380d4d7fb?lang=en)
-- [Agile Methodology](https://www.cigital.com/knowledge-database/agile-methodology/)
-- [Agile Alliance](https://www.agilealliance.org/)
 - [The Agile Coach](https://www.atlassian.com/agile)
-- [Getting Started or Simply Scaling Agile?](https://www.versionone.com/resources/)
-- [A Practical Guide: Product Management & Agile Development](http://web.accompa.com/white-paper-product-management-agile-development/)
-- [Agile Android Software Development](https://www.agiledroid.com/)
-- [AgileConnection.com](https://www.agileconnection.com/)
 - [Scrum Guide](http://www.scrumguides.org/)
-- [CMCrossroads.com](https://www.cmcrossroads.com/)
 - [ALM Body of Knowledge](http://www.almbok.com/start)
-- [Application lifecycle management tools: A buyer's guide to ALM software](http://searchsoftwarequality.techtarget.com/buyersguide/Application-lifecycle-management-tools-A-buyers-guide-to-ALM-software)
-- [Software Development Trends and Benchmarks](https://www.atlassian.com/whitepapers/software-trends-2016)
 
 ### Advanced
 
 #### MOOCs
 
-- [Industry 4.0: How to Revolutionize your Business](https://www.edx.org/course/industry-4-0-how-revolutionize-business-hkpolyux-i4-0x)
-- [Emerging Technologies: From Smartphones to IoT to Big Data Specialization](https://www.coursera.org/specializations/emerging-technologies)
 - [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
-- [Internet of Things](https://www.coursera.org/specializations/internet-of-things)
-- [The Internet of Things](https://www.futurelearn.com/courses/internet-of-things)
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
-- [Introduction to DevOps: Transforming and Improving Operations](https://www.edx.org/course/introduction-to-devops-transforming-and-improving-operations)
-- [Microsoft Professional Program for DevOps](https://academy.microsoft.com/en-us/professional-program/tracks/devops/)
-- **[Entrepreneurship Skills](es.md)**
 
-#### Webinars
+#### EBooks & Websites
 
-- [IBM Blockchain webinars](https://www.ibm.com/blockchain/news-and-events/webinars)
-- [Blockchain Council webinars](https://www.blockchain-council.org/webinars/)
-- [BrightTALK webinars](https://www.brighttalk.com/search?q=blockchain)
+- [Codementor Blockchain Learning Center](https://www.codementor.io/learn/blockchain)
+- [Hyperledger](https://www.hyperledger.org/)
 
-#### Others
-
-- [DevOps For Dummies](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
-- [The Ultimate DevOps Toolkit](https://www.appdynamics.com/lp/devops-toolkit/)
-- [DevOps.com](https://devops.com/)
-- [TechBeacon](https://techbeacon.com/)
-- [TradePub.com](https://sf.tradepub.com/)
