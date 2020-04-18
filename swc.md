@@ -88,6 +88,8 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
 - [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
 - [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+- [App Monetization](https://www.udacity.com/course/app-monetization--ud518)
+- [App Marketing](https://www.udacity.com/course/app-marketing--ud719)
 
 ##### Web
 
