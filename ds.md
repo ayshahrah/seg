@@ -73,11 +73,9 @@ The data science field employs mathematics, statistics and computer science disc
 
 - [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359)
 - [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
-- [Introduction to Data Science](https://www.coursera.org/specializations/introduction-data-science)
 - [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 - [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 - [Data Science Readiness Assessment](https://www.edx.org/course/data-science-readiness-assessment-notredamex-ds101x#!)
-
 
 #### EBooks & Websites
 
