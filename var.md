@@ -71,6 +71,8 @@ Augmented reality apps are written in special 3D programs that allow the develop
 - [Introduction to Virtual Reality](https://www.udacity.com/course/introduction-to-virtual-reality--ud1012)
 - [VR Scenes and Objects](https://www.udacity.com/course/vr-scenes-and-objects--ud1013)
 - [VR Software Development](https://www.udacity.com/course/vr-software-development--ud1014)
+- [VR and 360 Video Production](https://www.coursera.org/learn/360-vr-video-production)
+- [Introduction to Augmented Reality and ARCore](https://www.coursera.org/learn/ar)
 - [Unity XR: How to Build AR and VR Apps](https://www.coursera.org/specializations/unity-xr)
 - [Getting started with Augmented Reality](https://www.coursera.org/learn/augmented-reality)
 
@@ -90,6 +92,7 @@ Augmented reality apps are written in special 3D programs that allow the develop
 - [Learn ARKit using Unity](https://www.udacity.com/course/learn-arkit-using-unity--ud114)
 - [Learn ARKit using Swift](https://www.udacity.com/course/learn-arkit-using-swift--ud116)
 - [Unity Certified Programmer Exam Preparation](https://www.coursera.org/specializations/unity-certified-programmer)
+- [Unity Certified 3D Artist](https://www.coursera.org/specializations/unity-3d-artist)
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
