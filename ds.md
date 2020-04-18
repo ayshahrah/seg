@@ -72,133 +72,51 @@ The data science field employs mathematics, statistics and computer science disc
 #### MOOCs
 
 - [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359)
-- [What is Data Science?](https://www.coursera.org/learn/what-is-datascience)
-- [Data Science Essentials](https://www.edx.org/course/data-science-essentials-microsoft-dat203-1x-4)
-- [Data Science Fundamentals](https://bigdatauniversity.com/learn/data-science/)
-- [Foundations of Data Science](https://www.edx.org/professional-certificate/berkeleyx-foundations-of-data-science)
-- [Introduction to Data Science](https://www.coursera.org/specializations/introduction-applied-data-science)
-- [Getting Started with Data Science](https://open.sap.com/courses/ds1)
+- [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
+- [Introduction to Data Science](https://www.coursera.org/specializations/introduction-data-science)
+- [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+- [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 - [Data Science Readiness Assessment](https://www.edx.org/course/data-science-readiness-assessment-notredamex-ds101x#!)
-- [Executive Data Science](https://www.coursera.org/specializations/executive-data-science)
-- [Open Source tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science)
-- [Data Science Math Skills](https://www.coursera.org/learn/datasciencemathskills)
-- [Statistics and Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
-- [Data Science Ethics](https://www.edx.org/course/data-science-ethics-michiganx-ds101x-1#!)
-- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
-#### Webinars
 
-- [Data Science Webinars](https://www.ngdata.com/top-data-science-resources/#Webinars)
+#### EBooks & Websites
 
-#### Others
-
-- [O’Reilly Free Data Ebooks](http://www.oreilly.com/data/free/)
+- [BigDataUniversity.com](https://cognitiveclass.ai/)
 - [Open Source Society University](https://github.com/ossu/data-science)
 - [Kaggle Micro-Courses](https://www.kaggle.com/learn/overview)
-- [Executive Data Science](https://leanpub.com/eds)
 - [Simplilearn's Resources](https://www.simplilearn.com/resources/big-data-and-analytics)
-- [Data Science Tutorials](https://www.codementor.io/data-science/tutorial)
-- [The Open Source Data Science Masters](http://datasciencemasters.org/)
-- [23 Free Data Science Books](http://www.wzchen.com/data-science-books/)
 
 ### Intermediate
 
 #### MOOCs
 
-- [Data Science - coursera](https://www.coursera.org/specializations/jhu-data-science)
-- [Data Science - edx](https://www.edx.org/professional-certificate/harvardx-data-science#courses)
-- [Applied Data Science](https://www.coursera.org/specializations/applied-data-science)
 - [Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)
-- [Data Science with Python](https://www.edx.org/professional-certificate/data-science-with-python)
-- [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)
-- [Data Analysis: Absolute Beginners](https://www.edx.org/professional-certificate/data-analysis-absolute-beginners)
-- [Data Analysis and Presentation Skills](https://www.coursera.org/specializations/pwc-analytics)
-- [Business Analytics - coursera](https://www.coursera.org/specializations/business-analytics)
-- [Business Analytics - edx](https://www.edx.org/micromasters/business-analytics)
-- [Analytics: Essential Tools and Methods](https://www.edx.org/micromasters/analytics-essential-tools-methods)
-- [Advanced Business Analytics](https://www.coursera.org/specializations/data-analytics-business)
-- [Social Media Data Analytics](https://www.coursera.org/learn/social-media-data-analytics)
-- [Information Visualization](https://www.coursera.org/specializations/information-visualization)
-- [Data Visualization](https://www.coursera.org/specializations/datavisualization)
+- [Data Analysis and Visualization](https://www.udacity.com/course/data-analysis-and-visualization--ud404)
+- [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
-- [Agile Development](https://www.coursera.org/specializations/agile-development)
-- [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
+- [Agile Development](https://www.coursera.org/specializations/agile-development)
 
-#### Webinars
+#### EBooks & Websites
 
-- [Gartner Data & Analytics Webinars](http://www.gartner.com/technology/webinars/business-intelligence-big-data.jsp)
-- [TDWI Webinars](https://tdwi.org/webcasts/list/all-webinars.aspx)
-- [Agile Development Basics](http://info.versionone.com/Agile-Development-Basics-Webinar.html)
-- [Better, Faster, and Easier: Agile Application Development for Your Business](http://www.appian.com/resources/better-faster-and-easier-agile-application-development-for-your-business/)
-- [Watch the Do Agile Right webinar – Lessons learned from an Atlassian software engineer](http://blogs.atlassian.com/2014/02/watch-agile-right-webinar-lessons-learned-atlassian-software-engineer/)
-
-#### Others
-
-- [The Data Analytics Handbook](https://www.teamleada.com/handbook)
-- [Data Analytics & R](https://advanceddataanalytics.net/ebooks/)
 - [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
-- [Agile Skills Learning Circle Wiki](https://www.ibm.com/developerworks/community/wikis/home/wiki/W61b873bae705_4dcd_aa9b_fe8380d4d7fb?lang=en)
-- [Agile Methodology](https://www.cigital.com/knowledge-database/agile-methodology/)
-- [Agile Alliance](https://www.agilealliance.org/)
 - [The Agile Coach](https://www.atlassian.com/agile)
-- [Getting Started or Simply Scaling Agile?](https://www.versionone.com/resources/)
-- [A Practical Guide: Product Management & Agile Development](http://web.accompa.com/white-paper-product-management-agile-development/)
-- [Agile Android Software Development](https://www.agiledroid.com/)
-- [AgileConnection.com](https://www.agileconnection.com/)
 - [Scrum Guide](http://www.scrumguides.org/)
-- [CMCrossroads.com](https://www.cmcrossroads.com/)
 - [ALM Body of Knowledge](http://www.almbok.com/start)
-- [Application lifecycle management tools: A buyer's guide to ALM software](http://searchsoftwarequality.techtarget.com/buyersguide/Application-lifecycle-management-tools-A-buyers-guide-to-ALM-software)
-- [Software Development Trends and Benchmarks](https://www.atlassian.com/whitepapers/software-trends-2016)
 
 ### Advanced
 
 #### MOOCs
 
-- [Data Science at Scale](https://www.coursera.org/specializations/data-science)
-- [Advanced Data Science with IBM](https://www.coursera.org/specializations/advanced-data-science-ibm)
-- [Big Data: Data Visualisation](https://www.futurelearn.com/courses/big-data-visualisation)
-- [Big Data: Mathematical Modelling](https://www.futurelearn.com/courses/big-data-mathematical-modelling)
+- [Introduction to Big Data](https://www.edx.org/course/introduction-to-big-data-2)
 - [Modern Big Data Analysis with SQL](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql)
-- [Microsoft Professional Program for Big Data](https://academy.microsoft.com/en-us/professional-program/tracks/big-data/)
-- [Knowledge Management and Big Data in Business](https://www.edx.org/course/knowledge-management-big-data-business-hkpolyux-ise101x-2)
-- [Enabling Technologies for Data Science and Analytics: The Internet of Things](https://www.edx.org/course/enabling-technologies-data-science-columbiax-ds103x-0#!)
-- [Industry 4.0: How to Revolutionize your Business](https://www.edx.org/course/industry-4-0-how-revolutionize-business-hkpolyux-i4-0x)
-- [Emerging Technologies: From Smartphones to IoT to Big Data Specialization](https://www.coursera.org/specializations/emerging-technologies)
-- [A developer's guide to Exploring and Visualizing IoT Data](https://www.coursera.org/learn/exploring-visualizing-iot-data)
-- [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining)
-- [Data Science - Udacity](https://www.udacity.com/courses/data-science)
-- [Data Science - Coursera](https://www.coursera.org/browse/data-science?languages=en)
-- [Data Analysis & Statistics Courses - edx](https://www.edx.org/course/subject/data-analysis-statistics)
-- [BigDataUniversity.com](http://bigdatauniversity.com/)
+- [Advanced Data Science with IBM](https://www.coursera.org/specializations/advanced-data-science-ibm)
+- [Intro to Hadoop and MapReduce](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
-- [Introduction to DevOps: Transforming and Improving Operations](https://www.edx.org/course/introduction-to-devops-transforming-and-improving-operations)
-- [Microsoft Professional Program for DevOps](https://academy.microsoft.com/en-us/professional-program/tracks/devops/)
-- **[Entrepreneurship Skills](es.md)**
 
-#### Webinars
+#### EBooks & Websites
 
-- [Winning with Big Data Analytics](https://www.youtube.com/watch?v=lzv_YrEUYgw&feature=youtu.be)
-- [Emerging Trends in Big Data Software Spark, MLlib and Beyond](http://info.splicemachine.com/Mike-Franklin-Trends-Webinar.html)
-- [Data Science Central Webinars](http://www.datasciencecentral.com/video/video/listFeatured)
-- [Teradata Webinars](https://www.thinkbiganalytics.com/webinar/)
-- [SAS Webinars](http://www.sas.com/en_us/offers/14q1/big-data-matters-webinars/overview.html)
-- [Modern Application Development Life Cycle Management](https://www.gartner.com/webinar/2998618)
-- [Introducing the Next Generation of ALM](https://www.brighttalk.com/webcast/8653/197515)
-
-#### Others
-
-- [Big Data and Analytics for Dummies](https://www.cisco.com/c/m/en_us/offers/dc05/big-data-for-dummies/index.html#)
-- [Big Data Analytics eBook](http://events.pentaho.com/Big-Data-Analytics-eBook.html)
-- [Understanding Big Data](https://www-01.ibm.com/marketing/iwm/iwm/web/signup.do?source=sw-infomgt&S_PKG=500016891&S_CPM=is_bdebook1_biginsightsfp)
-- [Big Data, Analytics, and the Cloud: Strategies for Success](https://tdwi.org/research/2016/10/ebook-big-data-analytics-and-the-cloud.aspx)
-- [Scaling Data Science for the Industrial Internet of Things](http://www.oreilly.com/iot/free/scaling-data-science-for-the-industrial-internet-of-things.csp)
-- [McKinsey Analytics](http://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights)
-- [Big Data Guides and eBooks](http://data-informed.com/big-data-guides-and-ebooks/)
-- [DevOps For Dummies](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
-- [The Ultimate DevOps Toolkit](https://www.appdynamics.com/lp/devops-toolkit/)
-- [DevOps.com](https://devops.com/)
-- [TechBeacon](https://techbeacon.com/)
-- [TradePub.com](https://sf.tradepub.com/)
+- [SAS Big Data](https://www.sas.com/en_sa/insights/big-data/what-is-big-data.html)
+- [Use This Framework to Predict the Success of Your Big Data Project](https://techbeacon.com/)
+- [DATAVERSITY](https://www.dataversity.net/category/data-topics/)
