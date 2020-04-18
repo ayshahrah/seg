@@ -90,7 +90,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 - [Intro to the Design of Everyday Things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
 - [UI / UX Design](https://www.coursera.org/specializations/ui-ux-design)
-- [User Experience Research and Design](https://www.coursera.org/specializations/michiganux)
+- [Introduction to User Experience Design](https://www.coursera.org/learn/user-experience-design)
 - [Interaction Design](https://www.coursera.org/specializations/interaction-design)
 - [Product Design](https://www.udacity.com/course/product-design--ud509)
 - [Rapid Prototyping](https://www.udacity.com/course/rapid-prototyping--ud723)
