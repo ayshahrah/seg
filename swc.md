@@ -156,6 +156,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Swift for Developers](https://www.udacity.com/course/swift-for-developers--ud1025)
 - [Learn Swift Programming Syntax](https://www.udacity.com/course/learn-swift-programming-syntax--ud902)
 - [UIKit Fundamentals](https://www.udacity.com/course/uikit-fundamentals--ud788)
+- [Building iOS Interfaces](https://www.udacity.com/course/building-ios-interfaces--ud1027)
 - [AutoLayout](https://www.udacity.com/course/auto-layout--ud1026)
 - [Mobile Design and Usability for iOS](https://www.udacity.com/course/mobile-design-and-usability-for-ios--ud1034)
 - [Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
