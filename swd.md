@@ -93,6 +93,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [User Experience Research and Design](https://www.coursera.org/specializations/michiganux)
 - [Interaction Design](https://www.coursera.org/specializations/interaction-design)
 - [Product Design](https://www.udacity.com/course/product-design--ud509)
+- [Rapid Prototyping](https://www.udacity.com/course/rapid-prototyping--ud723)
 - [Design Thinking: UX and Advanced Topics](https://www.edx.org/course/design-thinking-advanced-topics)
 - [Graphic Design](https://www.coursera.org/specializations/graphic-design)
 
