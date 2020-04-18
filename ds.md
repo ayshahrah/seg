@@ -32,7 +32,7 @@ The data science field employs mathematics, statistics and computer science disc
 
 ### Online Communities
 
-- [Kaggle](https://www.kaggle.com
+- [Kaggle](https://www.kaggle.com)
 - [KDnuggets](https://www.kdnuggets.com/)
 
 ### Blogs
