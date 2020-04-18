@@ -88,6 +88,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 ##### UI & UX
 
+- [Intro to the Design of Everyday Things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
 - [UI / UX Design](https://www.coursera.org/specializations/ui-ux-design)
 - [User Experience Research and Design](https://www.coursera.org/specializations/michiganux)
 - [Interaction Design](https://www.coursera.org/specializations/interaction-design)
