@@ -112,9 +112,6 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/)
 - [Open Machine Learning Course](https://mlcourse.ai/)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
-- [ML Workspace](https://github.com/ml-tooling/ml-workspace/blob/develop/README.md)
-- [scikit-learn](https://scikit-learn.org/stable/index.html)
-- [AI Hub](https://aihub.cloud.google.com/u/0/)
 - [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
 - [The Agile Coach](https://www.atlassian.com/agile)
 - [Scrum Guide](http://www.scrumguides.org/)
@@ -144,3 +141,5 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [deeplearning.ai](https://www.deeplearning.ai/)
 - [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
 - [Fast.ai](http://www.fast.ai/)
+- [AI Hub](https://aihub.cloud.google.com/u/0/)
+
