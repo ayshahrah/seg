@@ -82,7 +82,6 @@ The data science field employs mathematics, statistics and computer science disc
 - [BigDataUniversity.com](https://cognitiveclass.ai/)
 - [Open Source Society University](https://github.com/ossu/data-science)
 - [Kaggle Micro-Courses](https://www.kaggle.com/learn/overview)
-- [Simplilearn's Resources](https://www.simplilearn.com/resources/big-data-and-analytics)
 
 ### Intermediate
 
@@ -116,5 +115,5 @@ The data science field employs mathematics, statistics and computer science disc
 #### EBooks & Websites
 
 - [SAS Big Data](https://www.sas.com/en_sa/insights/big-data/what-is-big-data.html)
-- [Use This Framework to Predict the Success of Your Big Data Project](https://techbeacon.com/)
+- [Simplilearn's Resources](https://www.simplilearn.com/resources/big-data-and-analytics)
 - [DATAVERSITY](https://www.dataversity.net/category/data-topics/)
