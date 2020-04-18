@@ -78,9 +78,10 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 - [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
 - [Robotics](https://www.coursera.org/specializations/robotics)
-- [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
 - [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
+- [Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
+- [Eigenvectors and Eigenvalues](https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104)
 
 #### EBooks & Websites
 
@@ -93,10 +94,13 @@ Self-driving cars and computers that play chess are two examples of machines wit
 #### MOOCs
 
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+- [Introduction to Machine Learning Course](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 - [Machine Learning - udacity](https://www.udacity.com/course/machine-learning--ud262)
 - [Machine Learning - coursera](https://www.coursera.org/learn/machine-learning)
 - [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
 - [Machine Learning: Unsupervised Learning](https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741)
+- [Model Building and Validation](https://www.udacity.com/course/model-building-and-validation--ud919)
+- [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
@@ -120,44 +124,23 @@ Self-driving cars and computers that play chess are two examples of machines wit
 
 #### MOOCs
 
-- [Deep Learning - coursera](https://www.coursera.org/specializations/deep-learning)
-- [Deep Learning - edx](https://www.edx.org/professional-certificate/ibm-deep-learning)
-- [Deep Learning - cognitiveclass](https://cognitiveclass.ai/learn/deep-learning/)
-- [Deep Learning for Business](https://www.coursera.org/learn/deep-learning-business)
-- [Introduction to Deep Learning](http://introtodeeplearning.com/index.html)
-- [IBM AI Enterprise Workflow](https://www.coursera.org/specializations/ibm-ai-workflow)
-- [Advanced Machine Learning](https://www.coursera.org/specializations/aml)
-- [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning)
+- [Deep Learning](https://www.coursera.org/specializations/deep-learning)
+- [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 - [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 - [TensorFlow in Practice](https://www.coursera.org/specializations/tensorflow-in-practice)
 - [TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
-- [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
-- [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
-- [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
+- [Introduction to TensorFlow Lite](https://www.udacity.com/course/intro-to-tensorflow-lite--ud190)
 - [Practical Deep Learning For Coders](http://course.fast.ai/)
-- [Industry 4.0: How to Revolutionize your Business](https://www.edx.org/course/industry-4-0-how-revolutionize-business-hkpolyux-i4-0x)
-- [Emerging Technologies: From Smartphones to IoT to Big Data Specialization](https://www.coursera.org/specializations/emerging-technologies)
+- [Secure and Private AI](https://www.udacity.com/course/secure-and-private-ai--ud185)
+- [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
+- [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 - [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
-- [Internet of Things](https://www.coursera.org/specializations/internet-of-things)
-- [The Internet of Things](https://www.futurelearn.com/courses/internet-of-things)
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
-- [Introduction to DevOps: Transforming and Improving Operations](https://www.edx.org/course/introduction-to-devops-transforming-and-improving-operations)
-- [Microsoft Professional Program for DevOps](https://academy.microsoft.com/en-us/professional-program/tracks/devops/)
-- **[Entrepreneurship Skills](es.md)**
 
-#### Webinars
-
-- [Deep Learning With TensorFlow](https://www.youtube.com/playlist?list=PL9ooVrP1hQOEX8BKDplfG86ky8s7Oxbzg)
-
-#### Others
+#### EBooks & Websites
 
 - [MIT Deep Learning](https://deeplearning.mit.edu/)
-- [Deep Learning - MIT Press](http://www.deeplearningbook.org/)
-- [Fast.ai](http://www.fast.ai/)
 - [deeplearning.ai](https://www.deeplearning.ai/)
-- [DevOps For Dummies](http://www.ibm.com/ibm/devops/us/en/resources/dummiesbooks/)
-- [The Ultimate DevOps Toolkit](https://www.appdynamics.com/lp/devops-toolkit/)
-- [DevOps.com](https://devops.com/)
-- [TechBeacon](https://techbeacon.com/)
-- [TradePub.com](https://sf.tradepub.com/)
+- [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
+- [Fast.ai](http://www.fast.ai/)
