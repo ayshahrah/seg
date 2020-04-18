@@ -94,6 +94,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001)
 - [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
 - [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud711)
+- [JavaScript and the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
 - [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 - [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
 - [Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
