@@ -164,6 +164,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Data Structures & Algorithms in Swift](https://www.udacity.com/course/data-structures-and-algorithms-in-swift--ud1011)
 - [Firebase in a Weekend: iOS](https://www.udacity.com/course/firebase-in-a-weekend-by-google-ios--ud0351)
 - [Firebase Analytics: iOS](https://www.udacity.com/course/firebase-analytics-ios--ud353)
+- [Core ML: Machine Learning for iOS](https://www.udacity.com/course/core-ml--ud1038)
 
 ##### Databases
 
