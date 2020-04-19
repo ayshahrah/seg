@@ -75,6 +75,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [TIOBE Index](https://www.tiobe.com/tiobe-index/)
 - [IEEE: The Top Programming Languages](https://spectrum.ieee.org/static/interactive-the-top-programming-languages-2019)
 - [HackerRank Developer Skills Report](https://research.hackerrank.com/)
+- [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar)
 
 ### Beginner
 
