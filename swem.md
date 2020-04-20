@@ -59,10 +59,8 @@ In one sense, it should be possible to manage a software engineering project in 
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [Mindshift](https://www.coursera.org/learn/mindshift)
 - [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
-- [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
-- [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 
-#### EBooks & Websites
+#### Websites
 
 - [Becoming a Project Manager](https://www.paymoapp.com/blog/the-complete-project-manager-guide/)
 
@@ -73,7 +71,6 @@ In one sense, it should be possible to manage a software engineering project in 
 - [IT Project Management](https://www.edx.org/professional-certificate/uwashingtonx-it-project-management)
 - [Leading People and Teams](https://www.coursera.org/specializations/leading-teams)
 - [Managing Projects with Microsoft Project](https://www.edx.org/course/managing-projects-microsoft-project-microsoft-cld213x-0)
-- [Introduction to Project Management Professional (PMP) Exam](https://www.udemy.com/project-management-professional-pmp-intro/)
 
 #### EBooks & Websites
 
@@ -90,9 +87,8 @@ In one sense, it should be possible to manage a software engineering project in 
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 
-#### EBooks & Websites
+#### Websites
 
-- [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
 - [The Agile Coach](https://www.atlassian.com/agile)
 - [Scrum Guide](http://www.scrumguides.org/)
 - [ALM Body of Knowledge](http://www.almbok.com/start)
@@ -105,7 +101,7 @@ In one sense, it should be possible to manage a software engineering project in 
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 
-#### EBooks & Websites
+#### Websites
 
 - [A Gentle Introduction to DevOps – Project Manager Edition](https://www.agilealliance.org/resources/sessions/a-gentle-introduction-to-devops-project-manager-edition/)
 - [DevOps tutorial—an introduction](https://azure.microsoft.com/en-us/overview/devops-tutorial/)
