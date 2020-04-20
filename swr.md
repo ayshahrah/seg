@@ -65,6 +65,8 @@ Quality.
 #### MOOCs
 
 - [Client Needs and Software Requirementst](https://www.coursera.org/learn/client-needs-and-software-requirements)
+- [Requirements Engineering: Secure Software Specifications](https://www.coursera.org/specializations/requirements-engineering-secure-software)
+- [Requirements Writing](https://www.coursera.org/learn/requirements-writing)
 
 #### Websites
 
