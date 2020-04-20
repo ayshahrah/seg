@@ -62,10 +62,8 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [Mindshift](https://www.coursera.org/learn/mindshift)
 - [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
-- [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
-- [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 
-#### EBooks & Websites
+#### Websites
 
 - [What is Artificial Intelligence and Why Gain a Certification in This Domain](https://www.simplilearn.com/what-is-artificial-intelligence-and-why-ai-certification-article)
 - [AI Career Pathways: Put Yourself on the Right Track](https://workera.ai/resource_downloads/ai_career_pathways/)
@@ -80,10 +78,9 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [Robotics](https://www.coursera.org/specializations/robotics)
 - [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
-- [Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
 - [Eigenvectors and Eigenvalues](https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104)
 
-#### EBooks & Websites
+#### Websites
 
 - [AI Playbook](http://aiplaybook.a16z.com/)
 - [Microsoft AI School](https://aischool.microsoft.com/en-us/home)
@@ -93,6 +90,7 @@ Self-driving cars and computers that play chess are two examples of machines wit
 
 #### MOOCs
 
+- [Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 - [Introduction to Machine Learning Course](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 - [Machine Learning - udacity](https://www.udacity.com/course/machine-learning--ud262)
@@ -105,14 +103,12 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 
-#### EBooks & Websites
+#### Websites
 
-- [Machine Learning for Dummies](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=IMM14209USEN)
 - [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
 - [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/)
 - [Open Machine Learning Course](https://mlcourse.ai/)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
-- [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
 - [The Agile Coach](https://www.atlassian.com/agile)
 - [Scrum Guide](http://www.scrumguides.org/)
 - [ALM Body of Knowledge](http://www.almbok.com/start)
@@ -128,18 +124,17 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [Introduction to TensorFlow Lite](https://www.udacity.com/course/intro-to-tensorflow-lite--ud190)
 - [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 - [Practical Deep Learning For Coders](http://course.fast.ai/)
+- [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 - [Secure and Private AI](https://www.udacity.com/course/secure-and-private-ai--ud185)
 - [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
-- [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 - [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 
-#### EBooks & Websites
+#### Websites
 
 - [MIT Deep Learning](https://deeplearning.mit.edu/)
 - [deeplearning.ai](https://www.deeplearning.ai/)
-- [Learn TensorFlow and deep learning, without a Ph.D.](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
 - [Fast.ai](http://www.fast.ai/)
 - [AI Hub](https://aihub.cloud.google.com/u/0/)
 
