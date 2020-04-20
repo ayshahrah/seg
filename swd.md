@@ -68,10 +68,8 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [Mindshift](https://www.coursera.org/learn/mindshift)
 - [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
-- [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
-- [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 
-#### EBooks & Websites
+#### Websites
 
 - [What is a Software Architect, Anyway?](https://medium.com/hitachisolutions-braintrust/what-is-a-software-architect-anyway-b935ecb64c4d)
 - [The Difference Between UX and UI Design - A Layman’s Guide](https://careerfoundry.com/en/blog/ux-design/the-difference-between-ux-and-ui-design-a-laymans-guide/)
@@ -91,13 +89,9 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Intro to the Design of Everyday Things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
 - [UI / UX Design](https://www.coursera.org/specializations/ui-ux-design)
 - [Introduction to User Experience Design](https://www.coursera.org/learn/user-experience-design)
-- [Interaction Design](https://www.coursera.org/specializations/interaction-design)
-- [Product Design](https://www.udacity.com/course/product-design--ud509)
-- [Rapid Prototyping](https://www.udacity.com/course/rapid-prototyping--ud723)
-- [Design Thinking: UX and Advanced Topics](https://www.edx.org/course/design-thinking-advanced-topics)
 - [Graphic Design](https://www.coursera.org/specializations/graphic-design)
 
-#### EBooks & Websites
+#### Websites
 
 ##### Software Architecture
 
@@ -108,22 +102,25 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 ##### UI & UX
 
-- [Google Design](https://design.google/)
-- [Apple Design](https://developer.apple.com/design/)
 - [DesignBetter.Co](https://www.designbetter.co/)
 - [Laws of UX](https://lawsofux.com/)
+- [Google Design](https://design.google/)
+- [Apple Design](https://developer.apple.com/design/)
 
 ### Intermediate
 
 #### MOOCs
 
+- [Interaction Design](https://www.coursera.org/specializations/interaction-design)
+- [Product Design](https://www.udacity.com/course/product-design--ud509)
+- [Rapid Prototyping](https://www.udacity.com/course/rapid-prototyping--ud723)
+- [Design Thinking: UX and Advanced Topics](https://www.edx.org/course/design-thinking-advanced-topics)
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 
-#### EBooks & Websites
+#### Websites
 
-- [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
 - [The Agile Coach](https://www.atlassian.com/agile)
 - [Scrum Guide](http://www.scrumguides.org/)
 - [ALM Body of Knowledge](http://www.almbok.com/)
@@ -138,9 +135,8 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 
-#### EBooks & Websites
+#### Websites
 
 - [SOA Source Book](http://www.opengroup.org/soa/source-book/intro/index.htm)
-- [Microservices vs. Service-Oriented Architecture](https://www.nginx.com/resources/library/microservices-vs-soa/)
-- [Designing and Deploying Microservices](https://www.nginx.com/resources/library/designing-deploying-microservices/)
 - [microservices.io](http://microservices.io)
+- [NGINX Resources](https://www.nginx.com/resources/library/)
