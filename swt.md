@@ -106,7 +106,7 @@ For many organizations, the approach to software quality is one of prevention: i
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 
-#### EBooks & Websites
+#### Websites
 
 - [Techbeacon - Continuous Testing](https://learn.techbeacon.com/tracks/continuous-testing)
 - [Test Automation](https://devqa.io/)
