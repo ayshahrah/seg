@@ -53,10 +53,8 @@ Banks and financial institutions across the globe are exploring how they can use
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [Mindshift](https://www.coursera.org/learn/mindshift)
 - [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
-- [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
-- [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 
-#### EBooks & Websites
+#### Websites
 
 - [The authoritative guide to blockchain development](https://medium.freecodecamp.org/the-authoritative-guide-to-blockchain-development-855ab65b58bc)
 - [How to Become a Blockchain Developer](https://x-team.com/become-blockchain-developer/)
@@ -67,25 +65,23 @@ Banks and financial institutions across the globe are exploring how they can use
 
 - [Blockchain Fundamentals](https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals)
 - [Blockchain: Foundations and Use Cases](https://www.coursera.org/learn/blockchain-foundations-and-use-cases)
-- [Blockchain Technology](https://www.edx.org/course/blockchain-advancing-decentralized-technology)
 
-#### EBooks & Websites
+#### Websites
 
-- [Blockchain for Dummies](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XIM12354USEN)
 - [Blockchain Learning Hub](https://www.unicef.org/innovation/blockchain-learning-hub)
 
 ### Intermediate
 
 #### MOOCs
 
+- [Blockchain Technology](https://www.edx.org/course/blockchain-advancing-decentralized-technology)
 - [Hyperledger Sawtooth for Application Developers](https://www.edx.org/course/hyperledger-sawtooth-for-application-developers)
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 
-#### EBooks & Websites
+#### Websites
 
-- [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
 - [The Agile Coach](https://www.atlassian.com/agile)
 - [Scrum Guide](http://www.scrumguides.org/)
 - [ALM Body of Knowledge](http://www.almbok.com/start)
@@ -98,7 +94,7 @@ Banks and financial institutions across the globe are exploring how they can use
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 
-#### EBooks & Websites
+#### Websites
 
 - [Codementor Blockchain Learning Center](https://www.codementor.io/learn/blockchain)
 - [Hyperledger](https://www.hyperledger.org/)
