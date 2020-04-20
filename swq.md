@@ -54,10 +54,8 @@ These definitions also illustrate another reason for the prevalence of software 
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [Mindshift](https://www.coursera.org/learn/mindshift)
 - [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
-- [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
-- [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 
-#### EBooks & Websites
+#### Websites
 
 - [What is Quality Assurance(QA)? Process, Methods, Examples](https://www.guru99.com/all-about-quality-assurance.html)
 
@@ -68,9 +66,10 @@ These definitions also illustrate another reason for the prevalence of software 
 - [Software Testing](https://www.udacity.com/course/software-testing--cs258)
 - [Software Testing and Verification](https://www.edx.org/micromasters/software-testing-verification)
 
-#### EBooks & Websites
+#### Websites
 
 - [SWEBOK V3 - Chapter 10: Software Quality](https://www.computer.org/web/swebok/v3)
+- [Software Quality without Testing](https://www.nagarro.com/en/blog/software-testing-without-quality-part1)
 
 ### Intermediate
 
@@ -80,9 +79,8 @@ These definitions also illustrate another reason for the prevalence of software 
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 
-#### EBooks & Websites
+#### Websites
 
-- [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
 - [The Agile Coach](https://www.atlassian.com/agile)
 - [Scrum Guide](http://www.scrumguides.org/)
 - [ALM Body of Knowledge](http://www.almbok.com/start)
@@ -95,7 +93,7 @@ These definitions also illustrate another reason for the prevalence of software 
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 
-#### EBooks & Websites
+#### Websites
 
-- [XebiaLabs Resource Library](https://xebialabs.com/resources/)
-- [Doing Scrum with Multiple Teams: Comparing Scaling Frameworks](https://www.infoq.com/articles/scrum-multiple-teams-frameworks)
+- [XebiaLabs Resources](https://xebialabs.com/resources/)
+- [QA Platforms](https://qa-platforms.com/)
