@@ -75,10 +75,8 @@ Software maintenance is defined as the totality of activities required to provid
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [Mindshift](https://www.coursera.org/learn/mindshift)
 - [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
-- [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
-- [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 
-#### EBooks & Websites
+#### Websites
 
 - [Top 9 sysadmin career stories from 2019](https://www.redhat.com/sysadmin/career-2019)
 - [A Brief Guide to Starting Your IT Career as a Linux Sysadmin](https://training.linuxfoundation.org/resources/publications-2/a-brief-guide-to-starting-your-it-career-as-a-linux-sysadmin/)
@@ -91,11 +89,9 @@ Software maintenance is defined as the totality of activities required to provid
 - [Systems Administration Courses](https://www.cybrary.it/systems-administration/)
 - [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
 - [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
-- [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
-- [Unix Tools: Data, Software and Production Engineering](https://www.edx.org/course/unix-tools-data-software-and-production-engineering)
 - [Fundamentals of Red Hat Enterprise Linux](https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x)
 
-#### EBooks & Websites
+#### Websites
 
 - [SWEBOK V3 - Chapter 5: Software Maintenance](https://www.computer.org/web/swebok/v3)
 - [Introduction to Linux - A Hands on Guide](http://sf.tradepub.com/free/w_mach01/)
@@ -104,13 +100,13 @@ Software maintenance is defined as the totality of activities required to provid
 
 #### MOOCs
 
+- [Unix Tools: Data, Software and Production Engineering](https://www.edx.org/course/unix-tools-data-software-and-production-engineering)
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 
-#### EBooks & Websites
+#### Websites
 
-- [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
 - [The Agile Coach](https://www.atlassian.com/agile)
 - [Scrum Guide](http://www.scrumguides.org/)
 - [ALM Body of Knowledge](http://www.almbok.com/)
@@ -119,6 +115,7 @@ Software maintenance is defined as the totality of activities required to provid
 
 #### MOOCs
 
+- [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 - [Introduction to Cloud Infrastructure Technologies](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x#!)
 - [Introduction to Cloud Foundry and Cloud Native Software Architecture](https://www.edx.org/course/introduction-cloud-foundry-cloud-native-linuxfoundationx-lfs132x)
 - [Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes)
@@ -126,10 +123,9 @@ Software maintenance is defined as the totality of activities required to provid
 - [Introduction to Site Reliability Engineering and DevOps](https://www.edx.org/course/introduction-to-site-reliability-engineering-and-devops)
 - [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
 
-#### EBooks & Websites
+#### Websites
 
-- [Cloud Native DevOps With Kubernetes](https://www.nginx.com/resources/library/cloud-native-devops-with-kubernetes/)
-- [Application Migration to Cloud Best Practices Guide](https://techbeacon.com/resources/application-migration-cloud-best-practices-guide)
+- [NGINX Resources](https://www.nginx.com/resources/)
 - [Red Hat Developer](https://developers.redhat.com/)
 - [Site Reliability Engineering](https://landing.google.com/sre/)
 
