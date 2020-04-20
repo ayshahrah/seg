@@ -55,10 +55,8 @@ Quality.
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [Mindshift](https://www.coursera.org/learn/mindshift)
 - [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
-- [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
-- [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 
-#### EBooks & Websites
+#### Websites
 
 - [Difference Between Systems Analyst and Business Analyst](http://www.modernanalyst.com/Resources/Articles/tabid/115/ID/185/Difference-Between-Systems-Analyst-and-Business-Analyst.aspx)
 
@@ -68,7 +66,7 @@ Quality.
 
 - [Client Needs and Software Requirementst](https://www.coursera.org/learn/client-needs-and-software-requirements)
 
-#### EBooks & Websites
+#### Websites
 
 - [SWEBOK V3 - Chapter 1: Software Requirements](https://www.computer.org/web/swebok/v3)
 - [Business Analyst Training Tutorial for Beginners](https://www.guru99.com/business-analyst-tutorial-course.html)
@@ -81,12 +79,10 @@ Quality.
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 
-#### EBooks & Websites
+#### Websites
 
-- [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
 - [The Agile Coach](https://www.atlassian.com/agile)
 - [Scrum Guide](http://www.scrumguides.org/)
-- [A Practical Guide: Business Analysts & Agile Development](http://web.accompa.com/white-paper-business-analysis-agile-development/)
 - [ALM Body of Knowledge](http://www.almbok.com/)
 
 ### Advanced
@@ -97,8 +93,7 @@ Quality.
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 
-#### EBooks & Websites
+#### Websites
 
-- [The Ultimate DevOps Toolkit](https://www.appdynamics.com/lp/devops-toolkit/)
-- [Doing Scrum with Multiple Teams: Comparing Scaling Frameworks](https://www.infoq.com/articles/scrum-multiple-teams-frameworks)
+- [DevOps.com](https://devops.com/)
 
