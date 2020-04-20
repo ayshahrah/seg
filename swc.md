@@ -131,6 +131,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 - [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud711)
 - [JavaScript and the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
+- [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
 - [Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
 - [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 - [Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
