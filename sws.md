@@ -57,10 +57,8 @@ A generally accepted view concerning software security is that it is much better
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [Mindshift](https://www.coursera.org/learn/mindshift)
 - [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
-- [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
-- [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 
-#### EBooks & Websites
+#### Websites
 
 - [InfoSec Career Paths vs Programming Skills — The Basics](https://hackernoon.com/infosec-career-paths-vs-programming-skills-the-basics-bf841187165f)
 
@@ -70,33 +68,31 @@ A generally accepted view concerning software security is that it is much better
 
 - [Cybersecurity and Its Ten Domains](https://www.coursera.org/learn/cyber-security-domain/)
 - [Software Security](https://www.coursera.org/learn/software-security?specialization=cyber-security)
-- [Software Development Security](https://www.cybrary.it/skill-certification-course/software-development-security-certification-training-course)
-- [Cyber Security in the Software Development Life Cycle](https://www.futurelearn.com/courses/cyber-security-in-the-software-development-life-cycle)
-- [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals-kuleuvenx-websecx)
-- [Secure Coding Practices](https://www.coursera.org/specializations/secure-coding-practices)
-- [Hacker101](https://www.hacker101.com/)
 
-#### EBooks & Websites
+#### Websites
 
 - [SWEBOK V3 - Chapter 13: Computing Foundations - Section 17. Secure Software Development and Maintenance](https://www.computer.org/web/swebok/v3)
 - [The Cyber Security Body of Knowledge](https://www.cybok.org/)
 - [Application Security](https://learn.techbeacon.com/tracks/application-security)
-- [Web Application Security for Dummies](https://www.qualys.com/forms/ebook/web-application-security-for-dummies/)
 - [Open security training](http://opensecuritytraining.info/)
-- [Security Development Lifecycle](https://www.microsoft.com/en-us/SDL)
-- [Secure Coding](https://developers.redhat.com/topics/secure-coding/)
 
 ### Intermediate
 
 #### MOOCs
 
+- [Software Development Security](https://www.cybrary.it/skill-certification-course/software-development-security-certification-training-course)
+- [Cyber Security in the Software Development Life Cycle](https://www.futurelearn.com/courses/cyber-security-in-the-software-development-life-cycle)
+- [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals-kuleuvenx-websecx)
+- [Secure Coding Practices](https://www.coursera.org/specializations/secure-coding-practices)
+- [Hacker101](https://www.hacker101.com/)
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 
-#### EBooks & Websites
+#### Websites
 
-- [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
+- [Security Development Lifecycle](https://www.microsoft.com/en-us/SDL)
+- [Secure Coding](https://developers.redhat.com/topics/secure-coding/)
 - [The Agile Coach](https://www.atlassian.com/agile)
 - [Scrum Guide](http://www.scrumguides.org/)
 - [ALM Body of Knowledge](http://www.almbok.com/start)
@@ -109,7 +105,7 @@ A generally accepted view concerning software security is that it is much better
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 
-#### EBooks & Websites
+#### Websites
 
 - [Secure DevOps](https://learn.techbeacon.com/tracks/secure-devops)
 - [SANS Application and Database Security](https://www.sans.org/reading-room/whitepapers/application)
