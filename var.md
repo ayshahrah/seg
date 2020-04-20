@@ -109,7 +109,7 @@ Augmented reality apps are written in special 3D programs that allow the develop
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 
-#### Others
+#### Websites
 
 - [Microsoft MR](https://developer.microsoft.com/en-us/mixed-reality/)
 - [Unity Doc](https://docs.unity3d.com/Manual/index.html)
