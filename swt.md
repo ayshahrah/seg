@@ -62,10 +62,8 @@ For many organizations, the approach to software quality is one of prevention: i
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [Mindshift](https://www.coursera.org/learn/mindshift)
 - [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
-- [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
-- [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 
-#### EBooks & Websites
+#### Websites
 
 - [Navigating A Career Path In Software Testing](https://www.ministryoftesting.com/dojo/lessons/navigating-a-career-path-in-software-testing)
 - [11 Reasons Why Software Testing Has a Better Future Than Development](https://hackernoon.com/11-reasons-why-testing-has-a-better-future-than-development-vu3aj31k6)
@@ -75,19 +73,15 @@ For many organizations, the approach to software quality is one of prevention: i
 #### MOOCs
 
 - [Software Testing](https://www.udacity.com/course/software-testing--cs258)
-- [Software Testing and Verification](https://www.edx.org/micromasters/software-testing-verification)
 - [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 - [A/B Testing](https://www.udacity.com/course/ab-testing--ud257)
-- [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
 - [Software Analysis & Testing](https://www.udacity.com/course/software-analysis-testing--ud333)
 
-#### EBooks & Websites
+#### Websites
 
 - [SWEBOK V3 - Chapter 4: Software Testing](https://www.computer.org/web/swebok/v3)
 - [Software Testing Tutorial: Free Course](https://www.guru99.com/software-testing.html)
 - [Mobile Testing](https://learn.techbeacon.com/tracks/mobile-testing)
-- [Huddle EBooks](https://huddle.eurostarsoftwaretesting.com/tag/ebook/)
-- [SmartBear EBooks](https://smartbear.com/resources/?Type=eBooks)
 
 ### Intermediate
 
@@ -97,19 +91,17 @@ For many organizations, the approach to software quality is one of prevention: i
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 
-#### EBooks & Websites
+#### Websites
 
-- [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
 - [The Agile Coach](https://www.atlassian.com/agile)
 - [Scrum Guide](http://www.scrumguides.org/)
-- [Perspectives on Agile Software Testing](https://info.thoughtworks.com/ebook-agile-software-testing)
 - [ALM Body of Knowledge](http://www.almbok.com/)
 
 ### Advanced
 
 #### MOOCs
 
-- [Automated Software Testing in Java](https://www.edx.org/professional-certificate/delftx-automated-software-testing-in-java)
+- [Automated Software Testing](https://www.edx.org/professional-certificate/delftx-automated-software-testing)
 - [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
@@ -118,4 +110,5 @@ For many organizations, the approach to software quality is one of prevention: i
 
 - [Techbeacon - Continuous Testing](https://learn.techbeacon.com/tracks/continuous-testing)
 - [Test Automation](https://devqa.io/)
-- [Testing in DevOps: A Practical Guide To Testing in DevOps](https://apphawks.com/blog/testing-in-devops-a-practical-guide-to-testing-in-devops/)
+- [Huddle Resources](https://huddle.eurostarsoftwaretesting.com/resources/)
+- [SmartBear Resources](https://smartbear.com/resources/)
