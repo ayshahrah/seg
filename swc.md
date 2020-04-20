@@ -124,6 +124,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 ##### General
 
 - [Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
+- [Writing Professional Code](https://www.edx.org/course/writing-professional-code)
 - [App Monetization](https://www.udacity.com/course/app-monetization--ud518)
 - [App Marketing](https://www.udacity.com/course/app-marketing--ud719)
 
