@@ -125,7 +125,7 @@ Software maintenance is defined as the totality of activities required to provid
 
 #### Websites
 
-- [NGINX Resources](https://www.nginx.com/resources/)
+- [DevOps.com](https://devops.com/)
 - [Red Hat Developer](https://developers.redhat.com/)
 - [Site Reliability Engineering](https://landing.google.com/sre/)
 
