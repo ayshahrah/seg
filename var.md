@@ -56,10 +56,8 @@ Augmented reality apps are written in special 3D programs that allow the develop
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [Mindshift](https://www.coursera.org/learn/mindshift)
 - [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
-- [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials-tumx-seecx-0)
-- [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 
-#### EBooks & Websites
+#### Websites
 
 - [Learn VR Development: Tips, tricks, and guides to develop VR and AR applications](https://circuitstream.com/blog/programming-development-guides/)
 - [The business guide to AR and VR: Everything you need to know](https://www.zdnet.com/article/the-business-guide-to-ar-and-vr-everything-you-need-to-know/)
@@ -74,9 +72,8 @@ Augmented reality apps are written in special 3D programs that allow the develop
 - [VR and 360 Video Production](https://www.coursera.org/learn/360-vr-video-production)
 - [Introduction to Augmented Reality and ARCore](https://www.coursera.org/learn/ar)
 - [Unity XR: How to Build AR and VR Apps](https://www.coursera.org/specializations/unity-xr)
-- [Getting started with Augmented Reality](https://www.coursera.org/learn/augmented-reality)
 
-#### EBooks & Websites
+#### Websites
 
 - [What is AR, VR, MR, XR, 360?](https://unity3d.com/what-is-xr-glossary)
 - [Designing for VR: A Beginners Guide](https://blog.marvelapp.com/designing-vr-beginners-guide/)
@@ -88,6 +85,7 @@ Augmented reality apps are written in special 3D programs that allow the develop
 
 #### MOOCs
 
+- [Getting started with Augmented Reality](https://www.coursera.org/learn/augmented-reality)
 - [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
 - [Learn ARKit using Unity](https://www.udacity.com/course/learn-arkit-using-unity--ud114)
 - [Learn ARKit using Swift](https://www.udacity.com/course/learn-arkit-using-swift--ud116)
@@ -97,9 +95,8 @@ Augmented reality apps are written in special 3D programs that allow the develop
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 
-#### EBooks & Websites
+#### Websites
 
-- [Agile for Dummies](https://www-01.ibm.com/marketing/iwm/dre/signup?source=mrs-form-334&S_PKG=ov3282)
 - [The Agile Coach](https://www.atlassian.com/agile)
 - [Scrum Guide](http://www.scrumguides.org/)
 - [ALM Body of Knowledge](http://www.almbok.com/start)
