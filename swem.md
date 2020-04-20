@@ -72,7 +72,7 @@ In one sense, it should be possible to manage a software engineering project in 
 - [Leading People and Teams](https://www.coursera.org/specializations/leading-teams)
 - [Managing Projects with Microsoft Project](https://www.edx.org/course/managing-projects-microsoft-project-microsoft-cld213x-0)
 
-#### EBooks & Websites
+#### Websites
 
 - [SWEBOK V3 - Chapter 7: Software Engineering Management](https://www.computer.org/web/swebok/v3)
 - [Thought Leadership](https://www.pmi.org/learning/thought-leadership)
