@@ -86,7 +86,7 @@ The SEG recommends a set of activities to guide the self-learners. The first act
 
 ### Performance Measurement
 
-It is very important to measure your learning progress towards the intended objectives. From a practical perspective, you can achieve that by different means  (achievement-based). For example, deliver a technical presentation or demonstrate a developed application. You can also get a professional certification in your domain.
+It is very important to measure your learning progress toward the intended objectives. From a practical perspective, you can achieve that by different means  (achievement-based). For example, deliver a technical presentation or demonstrate a developed application. You can also get a professional certification in your domain.
 
 ![alt text](Slide12.JPG "Performance Measurement") 
 
