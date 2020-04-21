@@ -72,7 +72,6 @@ Self-driving cars and computers that play chess are two examples of machines wit
 
 #### MOOCs
 
-- [Elements of AI](https://www.elementsofai.com/)
 - [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 - [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
 - [Robotics](https://www.coursera.org/specializations/robotics)
@@ -82,6 +81,7 @@ Self-driving cars and computers that play chess are two examples of machines wit
 
 #### Websites
 
+- [Elements of AI](https://www.elementsofai.com/)
 - [AI Playbook](http://aiplaybook.a16z.com/)
 - [Microsoft AI School](https://aischool.microsoft.com/en-us/home)
 - [AI Index](https://hai.stanford.edu/ai-index)
