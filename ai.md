@@ -84,7 +84,6 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [Elements of AI](https://www.elementsofai.com/)
 - [AI Playbook](http://aiplaybook.a16z.com/)
 - [Microsoft AI School](https://aischool.microsoft.com/en-us/home)
-- [AI Index](https://hai.stanford.edu/ai-index)
 
 ### Intermediate
 
