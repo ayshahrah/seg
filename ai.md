@@ -133,6 +133,7 @@ Self-driving cars and computers that play chess are two examples of machines wit
 #### Websites
 
 - [Dive into Deep Learning](https://d2l.ai/)
+- [AI Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum#introduction-to-deep-learning)
 - [MIT Deep Learning](https://deeplearning.mit.edu/)
 - [deeplearning.ai](https://www.deeplearning.ai/)
 - [Fast.ai](http://www.fast.ai/)
