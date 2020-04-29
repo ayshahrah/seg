@@ -111,10 +111,15 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 #### MOOCs
 
+##### UI & UX
+
 - [Interaction Design](https://www.coursera.org/specializations/interaction-design)
 - [Product Design](https://www.udacity.com/course/product-design--ud509)
 - [Rapid Prototyping](https://www.udacity.com/course/rapid-prototyping--ud723)
 - [Design Thinking: UX and Advanced Topics](https://www.edx.org/course/design-thinking-advanced-topics)
+
+##### Others
+
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
@@ -129,9 +134,14 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 #### MOOCs
 
-- [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
+##### Software Architecture
+
 - [A Simple Framework for Designing IoT Products](https://www.udemy.com/a-simple-framework-for-designing-iot-products/)
 - [Software Architecture for the Internet of Things](https://www.coursera.org/learn/iot-software-architecture)
+
+##### Others
+
+- [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 
