@@ -118,7 +118,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Rapid Prototyping](https://www.udacity.com/course/rapid-prototyping--ud723)
 - [Design Thinking: UX and Advanced Topics](https://www.edx.org/course/design-thinking-advanced-topics)
 
-##### Others
+##### Software Development Management
 
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
