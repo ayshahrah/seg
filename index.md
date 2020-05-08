@@ -81,8 +81,8 @@ The SEG recommends a set of activities to guide the self-learners. The first act
 | ------------- |:-------------| :-----|
 | **Foundation**     | How to learn and what is software engineering | Understanding the learning process and the basics of software engineering|
 | **Beginner**     | The basic knowledge and skills for the selected learning path | Understanding the fundamentals of the selected learning path |
-| **Intermediate** | Agile methods and application life-cycle management software (ALM) | The ability to develop applications using an agile approach and ALM software |
-| **Advanced** | Next-generation technologies (e.g. cloud computing) and approaches (e.g. DevOps)      |    The ability to develop next-generation applications using cloud computing and DevOps approach |
+| **Intermediate** | Intermediate topics, gile methods, and application life-cycle management software (ALM) | Understanding the intermediate topics, and the ability to develop applications using an agile approach and ALM software |
+| **Advanced** | Advanced topics, next-generation technologies (e.g. cloud computing), and modern approaches (e.g. DevOps)      |     Understanding the advanced topics, and the ability to develop next-generation applications using cloud computing and DevOps approach |
 
 ### Performance Measurement
 
