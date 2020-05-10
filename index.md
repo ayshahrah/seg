@@ -80,7 +80,7 @@ The SEG recommends a set of activities to guide the self-learners. The first act
 | Level        | Description           | Outcome  |
 | ------------- |:-------------| :-----|
 | **Foundation**     | How to learn and an introduction to software development process | Understanding the techniques of effective learning  and the basics of software development process|
-| **Beginner**     | Basic topics for the selected learning path | Understanding the basic topics of the selected learning path |
+| **Beginner**     | Basic topics and concepts of the selected learning path | Understanding the fundemantals of the selected learning path |
 | **Intermediate** | Intermediate topics, agile methods, and application life-cycle management (ALM) software | Understanding the intermediate topics, and the ability to develop applications using an agile approach and ALM software |
 | **Advanced** | Advanced topics, next-generation technologies (e.g. cloud computing), and modern approaches (e.g. DevOps)      |     Understanding the advanced topics, and the ability to develop next-generation applications using cloud computing and DevOps approach |
 
