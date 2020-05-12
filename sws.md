@@ -73,6 +73,7 @@ A generally accepted view concerning software security is that it is much better
 
 - [SWEBOK V3 - Chapter 13: Computing Foundations - Section 17. Secure Software Development and Maintenance](https://www.computer.org/web/swebok/v3)
 - [The Cyber Security Body of Knowledge](https://www.cybok.org/)
+- [Secure Software Development Framework (SSDF)](https://csrc.nist.gov/publications/detail/white-paper/2020/04/23/mitigating-risk-of-software-vulnerabilities-with-ssdf/final)
 - [Application Security](https://learn.techbeacon.com/tracks/application-security)
 - [Open security training](http://opensecuritytraining.info/)
 
