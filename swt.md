@@ -87,6 +87,7 @@ For many organizations, the approach to software quality is one of prevention: i
 
 #### MOOCs
 
+- [Software Testing and Automation](https://www.coursera.org/specializations/software-testing-automation)
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
