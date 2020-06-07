@@ -88,6 +88,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ##### Web
 
+- [Front-End Development](https://auth.udacity.com/sign-in?next=https://1mac.udacity.com/enroll/arabcoders?nd_key=nd001-1mac-v2)
 - [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001)
 - [HTML5 Canvas](https://www.udacity.com/course/html5-canvas--ud292)
 - [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
@@ -98,8 +99,9 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ###### Android
 
+- [Android Basics 1](https://auth.udacity.com/sign-in?next=https://1mac.udacity.com/enroll/arabcoders?nd_key=nd803-1mac-v2)
+- [Android Basics 2](https://www.udacity.com/course/android-basics-user-interface--ud834)
 - [How to Install Android Studio](https://www.udacity.com/course/how-to-install-android-studio--ud808)
-- [Android Basics](https://www.udacity.com/course/android-basics-user-interface--ud834)
 - [UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
 
 ###### iOS
@@ -130,6 +132,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ##### Web
 
+- [Full-Stack Web Development](https://auth.udacity.com/sign-in?next=https://1mac.udacity.com/enroll/arabcoders?nd_key=nd004-1mac-v2)
 - [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud711)
 - [JavaScript and the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
 - [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
