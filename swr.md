@@ -54,7 +54,7 @@ Quality.
 
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [Mindshift](https://www.coursera.org/learn/mindshift)
-- [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
+- [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials)
 
 #### Websites
 
@@ -65,7 +65,6 @@ Quality.
 #### MOOCs
 
 - [Client Needs and Software Requirementst](https://www.coursera.org/learn/client-needs-and-software-requirements)
-- [Requirements Engineering: Secure Software Specifications](https://www.coursera.org/specializations/requirements-engineering-secure-software)
 - [Requirements Writing](https://www.coursera.org/learn/requirements-writing)
 
 #### Websites
