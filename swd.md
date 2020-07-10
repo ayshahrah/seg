@@ -67,7 +67,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [Mindshift](https://www.coursera.org/learn/mindshift)
-- [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
+- [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials)
 
 #### Websites
 
@@ -86,7 +86,6 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 ##### UI & UX
 
-- [Intro to the Design of Everyday Things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
 - [UI / UX Design](https://www.coursera.org/specializations/ui-ux-design)
 - [Introduction to User Experience Design](https://www.coursera.org/learn/user-experience-design)
 - [Graphic Design](https://www.coursera.org/specializations/graphic-design)
