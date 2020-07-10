@@ -56,7 +56,7 @@ A generally accepted view concerning software security is that it is much better
 
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [Mindshift](https://www.coursera.org/learn/mindshift)
-- [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
+- [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials)
 
 #### Websites
 
@@ -81,7 +81,6 @@ A generally accepted view concerning software security is that it is much better
 
 #### MOOCs
 
-- [Software Development Security](https://www.cybrary.it/skill-certification-course/software-development-security-certification-training-course)
 - [Cyber Security in the Software Development Life Cycle](https://www.futurelearn.com/courses/cyber-security-in-the-software-development-life-cycle)
 - [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals-kuleuvenx-websecx)
 - [Secure Coding Practices](https://www.coursera.org/specializations/secure-coding-practices)
