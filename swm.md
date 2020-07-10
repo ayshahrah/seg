@@ -74,7 +74,7 @@ Software maintenance is defined as the totality of activities required to provid
 
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [Mindshift](https://www.coursera.org/learn/mindshift)
-- [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
+- [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials)
 
 #### Websites
 
@@ -86,7 +86,6 @@ Software maintenance is defined as the totality of activities required to provid
 #### MOOCs
 
 - [Computer Security and Systems Management](https://www.coursera.org/specializations/computer-security-systems-management)
-- [Systems Administration Courses](https://www.cybrary.it/systems-administration/)
 - [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
 - [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
 - [Fundamentals of Red Hat Enterprise Linux](https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x)
