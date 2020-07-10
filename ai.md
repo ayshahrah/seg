@@ -62,7 +62,7 @@ Self-driving cars and computers that play chess are two examples of machines wit
 
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [Mindshift](https://www.coursera.org/learn/mindshift)
-- [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
+- [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials)
 
 #### Websites
 
@@ -78,7 +78,6 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [Robotics](https://www.coursera.org/specializations/robotics)
 - [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
-- [Eigenvectors and Eigenvalues](https://www.udacity.com/course/eigenvectors-and-eigenvalues--ud104)
 
 #### Websites
 
@@ -92,11 +91,8 @@ Self-driving cars and computers that play chess are two examples of machines wit
 
 - [Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
-- [Introduction to Machine Learning Course](https://www.udacity.com/course/intro-to-machine-learning--ud120)
-- [Machine Learning - udacity](https://www.udacity.com/course/machine-learning--ud262)
-- [Machine Learning - coursera](https://www.coursera.org/learn/machine-learning)
+- [Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
-- [Machine Learning: Unsupervised Learning](https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741)
 - [Model Building and Validation](https://www.udacity.com/course/model-building-and-validation--ud919)
 - [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
@@ -118,11 +114,8 @@ Self-driving cars and computers that play chess are two examples of machines wit
 #### MOOCs
 
 - [Deep Learning](https://www.coursera.org/specializations/deep-learning)
-- [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 - [TensorFlow in Practice](https://www.coursera.org/specializations/tensorflow-in-practice)
 - [TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
-- [Introduction to TensorFlow Lite](https://www.udacity.com/course/intro-to-tensorflow-lite--ud190)
-- [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 - [Practical Deep Learning For Coders](http://course.fast.ai/)
 - [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 - [A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
