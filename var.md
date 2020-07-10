@@ -55,7 +55,7 @@ Augmented reality apps are written in special 3D programs that allow the develop
 
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [Mindshift](https://www.coursera.org/learn/mindshift)
-- [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
+- [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials)
 
 #### Websites
 
@@ -86,11 +86,9 @@ Augmented reality apps are written in special 3D programs that allow the develop
 #### MOOCs
 
 - [Getting started with Augmented Reality](https://www.coursera.org/learn/augmented-reality)
-- [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
 - [Learn ARKit using Unity](https://www.udacity.com/course/learn-arkit-using-unity--ud114)
 - [Learn ARKit using Swift](https://www.udacity.com/course/learn-arkit-using-swift--ud116)
 - [Unity Certified Programmer Exam Preparation](https://www.coursera.org/specializations/unity-certified-programmer)
-- [Unity Certified 3D Artist](https://www.coursera.org/specializations/unity-3d-artist)
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
