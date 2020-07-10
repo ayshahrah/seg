@@ -52,7 +52,7 @@ Banks and financial institutions across the globe are exploring how they can use
 
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [Mindshift](https://www.coursera.org/learn/mindshift)
-- [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
+- [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials)
 
 #### Websites
 
@@ -63,7 +63,8 @@ Banks and financial institutions across the globe are exploring how they can use
 
 #### MOOCs
 
-- [Blockchain Fundamentals](https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals)
+- [Blockchain](https://www.coursera.org/specializations/uci-blockchain)
+- [Blockchain Revolution](https://www.coursera.org/specializations/blockchain-revolution-enterprise)
 - [Blockchain: Foundations and Use Cases](https://www.coursera.org/learn/blockchain-foundations-and-use-cases)
 
 #### Websites
