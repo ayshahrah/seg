@@ -64,7 +64,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [Mindshift](https://www.coursera.org/learn/mindshift)
-- [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
+- [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials)
 
 #### Websites
 
@@ -82,16 +82,14 @@ Since software construction requires knowledge of algorithms and of coding pract
 ##### General
 
 - [What is Programming?](https://www.udacity.com/course/what-is-programming--ud994)
-- [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
-- [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
+- [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
+- [Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming)
 - [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 
 ##### Web
 
 - [Front-End Development](https://auth.udacity.com/sign-in?next=https://1mac.udacity.com/enroll/arabcoders?nd_key=nd001-1mac-v2)
 - [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001)
-- [HTML5 Canvas](https://www.udacity.com/course/html5-canvas--ud292)
-- [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
 - [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 - [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
 
@@ -99,15 +97,13 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ###### Android
 
-- [Android Basics 1](https://auth.udacity.com/sign-in?next=https://1mac.udacity.com/enroll/arabcoders?nd_key=nd803-1mac-v2)
-- [Android Basics 2](https://www.udacity.com/course/android-basics-user-interface--ud834)
-- [How to Install Android Studio](https://www.udacity.com/course/how-to-install-android-studio--ud808)
-- [UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
+- [Android Basics](https://auth.udacity.com/sign-in?next=https://1mac.udacity.com/enroll/arabcoders?nd_key=nd803-1mac-v2)
+- [Build Your First Android App (Project-Centered Course)](https://www.coursera.org/learn/android-app)
 
 ###### iOS
 
 - [Swift for Beginners](https://www.udacity.com/course/swift-for-beginners--ud1022)
-- [Swift for Developers](https://www.udacity.com/course/swift-for-developers--ud1025)
+- [iOS App Development with Swift](https://www.coursera.org/specializations/app-development)
 
 #### Websites
 
@@ -127,8 +123,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 - [Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
 - [Writing Professional Code](https://www.edx.org/course/writing-professional-code)
-- [App Monetization](https://www.udacity.com/course/app-monetization--ud518)
-- [App Marketing](https://www.udacity.com/course/app-marketing--ud719)
 
 ##### Web
 
@@ -150,7 +144,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
 - [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
 - [Intro to Progressive Web Apps](https://www.udacity.com/course/intro-to-progressive-web-apps--ud811)
-- [Google Maps APIs](https://www.udacity.com/course/google-maps-apis--ud864)
 - [Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
 
 ##### Mobile
@@ -160,46 +153,27 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ###### Android
 
-- [Add Google Sign-In to your Android Apps](https://www.udacity.com/course/add-google-sign-in-to-your-android-apps--ud876-5)
 - [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862)
 - [AutoLayout](https://www.udacity.com/course/auto-layout--ud1026)
-- [Mobile Design and Usability for Android](https://www.udacity.com/course/mobile-design-and-usability-for-android--ud358)
-- [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
-- [Passwordless Login Solutions for Android](https://www.udacity.com/course/passwordless-login-solutions-for-android--ud357)
 - [Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
-- [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
-- [Firebase in a Weekend: Android](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
-- [Firebase Analytics: Android](https://www.udacity.com/course/firebase-analytics-android--ud354)
 
 ###### iOS
 
-- [Learn Swift Programming Syntax](https://www.udacity.com/course/learn-swift-programming-syntax--ud902)
-- [UIKit Fundamentals](https://www.udacity.com/course/uikit-fundamentals--ud788)
-- [Building iOS Interfaces](https://www.udacity.com/course/building-ios-interfaces--ud1027)
 - [AutoLayout](https://www.udacity.com/course/auto-layout--ud1026)
-- [Mobile Design and Usability for iOS](https://www.udacity.com/course/mobile-design-and-usability-for-ios--ud1034)
 - [Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
-- [Passwordless Login Solutions for iOS](https://www.udacity.com/course/passwordless-login-solutions-for-ios--ud1028)
 - [Server-Side Swift](https://www.udacity.com/course/server-side-swift--ud1031)
-- [Data Structures & Algorithms in Swift](https://www.udacity.com/course/data-structures-and-algorithms-in-swift--ud1011)
-- [Firebase in a Weekend: iOS](https://www.udacity.com/course/firebase-in-a-weekend-by-google-ios--ud0351)
-- [Firebase Analytics: iOS](https://www.udacity.com/course/firebase-analytics-ios--ud353)
-- [Core ML: Machine Learning for iOS](https://www.udacity.com/course/core-ml--ud1038)
-
 
 ##### Databases
 
 - [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 - [Developing SQL Databases](https://www.edx.org/course/developing-sql-databases)
-- [Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
+- [Database Systems Concepts & Design](https://omscs.gatech.edu/cs-6400-database-systems-concepts-and-design-course-videos)
 
 ##### Data Structures and Algorithms
 
 - [Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
 - [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms)
 - [Algorithms](https://www.coursera.org/specializations/algorithms)
-- [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
-- [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 
 ##### Software Development Management
 
@@ -225,7 +199,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 - [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 - [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
-- [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
 - [Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
 - [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 - [Front End Frameworks](https://www.udacity.com/course/front-end-frameworks--ud894)
@@ -236,22 +209,17 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ###### Android
 
-- [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
 - [Kotlin for Android Developers](https://www.udacity.com/course/kotlin-for-android-developers--ud888)
-- [Advanced Android with Kotlin](https://www.udacity.com/course/advanced-android-with-kotlin--ud940)
 - [Android Performance](https://www.udacity.com/course/android-performance--ud825)
 - [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
 
 ###### iOS
 
 - [iOS Networking with Swift](https://www.udacity.com/course/ios-networking-with-swift--ud421)
-- [iOS Persistence and Core Data](https://www.udacity.com/course/ios-persistence-and-core-data--ud325)
-- [How to Make an iOS App](https://www.udacity.com/course/how-to-make-an-ios-app--ud607)
 
 ##### Others
 
-- [Internet of Things (IoT)](https://www.edx.org/micromasters/curtinx-internet-of-things-iot)
-- [An Introduction to Programming the Internet of Things (IOT)](https://www.coursera.org/specializations/iot)
+- [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot)
 - [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 
