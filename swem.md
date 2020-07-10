@@ -58,7 +58,7 @@ In one sense, it should be possible to manage a software engineering project in 
 
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [Mindshift](https://www.coursera.org/learn/mindshift)
-- [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
+- [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials)
 
 #### Websites
 
@@ -68,7 +68,7 @@ In one sense, it should be possible to manage a software engineering project in 
 
 #### MOOCs
 
-- [IT Project Management](https://www.edx.org/professional-certificate/uwashingtonx-it-project-management)
+- [Engineering Project Management](https://www.coursera.org/specializations/engineering-project-management)
 - [Leading People and Teams](https://www.coursera.org/specializations/leading-teams)
 - [Managing Projects with Microsoft Project](https://www.edx.org/course/managing-projects-microsoft-project-microsoft-cld213x-0)
 
