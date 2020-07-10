@@ -61,7 +61,7 @@ For many organizations, the approach to software quality is one of prevention: i
 
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [Mindshift](https://www.coursera.org/learn/mindshift)
-- [Software Development Process](https://www.udacity.com/course/software-development-process--ud805)
+- [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials)
 
 #### Websites
 
@@ -74,7 +74,6 @@ For many organizations, the approach to software quality is one of prevention: i
 
 - [Software Testing](https://www.udacity.com/course/software-testing--cs258)
 - [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
-- [A/B Testing](https://www.udacity.com/course/ab-testing--ud257)
 - [Software Analysis & Testing](https://www.udacity.com/course/software-analysis-testing--ud333)
 
 #### Websites
