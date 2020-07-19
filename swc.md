@@ -53,6 +53,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 - [Awesome Resources](https://github.com/sindresorhus/awesome)
 - [Awesome Open Source](https://awesomeopensource.com/)
+- [Openbase](https://openbase.io/)
 
 ## Learning Resources
 
