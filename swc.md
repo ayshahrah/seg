@@ -164,8 +164,8 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ###### iOS
 
-- [AutoLayout](https://www.udacity.com/course/auto-layout--ud1026)
 - [Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
+- [AutoLayout](https://www.udacity.com/course/auto-layout--ud1026)
 - [Server-Side Swift](https://www.udacity.com/course/server-side-swift--ud1031)
 
 ##### Databases
@@ -222,6 +222,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ###### iOS
 
+- [CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
 - [iOS Networking with Swift](https://www.udacity.com/course/ios-networking-with-swift--ud421)
 
 ##### Others
