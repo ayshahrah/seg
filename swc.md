@@ -99,6 +99,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 ###### Android
 
 - [Android Basics](https://auth.udacity.com/sign-in?next=https://1mac.udacity.com/enroll/arabcoders?nd_key=nd803-1mac-v2)
+- [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 - [Build Your First Android App (Project-Centered Course)](https://www.coursera.org/learn/android-app)
 
 ###### iOS
@@ -154,9 +155,12 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ###### Android
 
+- [Android Kotlin Fundamentals](https://developer.android.com/courses/kotlin-android-fundamentals/overview)
+- [Android Developer Fundamentals (Java)](https://developer.android.com/courses/fundamentals-training/overview-v2)
+- [Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
+- [Kotlin Bootcamp for Programmers](https://developer.android.com/courses/kotlin-bootcamp/overview)
 - [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862)
 - [AutoLayout](https://www.udacity.com/course/auto-layout--ud1026)
-- [Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
 
 ###### iOS
 
@@ -211,6 +215,8 @@ Since software construction requires knowledge of algorithms and of coding pract
 ###### Android
 
 - [Kotlin for Android Developers](https://www.udacity.com/course/kotlin-for-android-developers--ud888)
+- [Advanced Android in Kotlin](https://developer.android.com/courses/kotlin-android-advanced/overview)
+- [Advanced Android Development (Java)](https://developer.android.com/courses/advanced-training/overview)
 - [Android Performance](https://www.udacity.com/course/android-performance--ud825)
 - [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
 
