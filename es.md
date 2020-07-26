@@ -14,7 +14,6 @@
 **Building a Startup:**
 
 - [How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245)
-- [Get Your Startup Started](https://www.udacity.com/course/get-your-startup-started--ud806)
 - [Startup Success: How to Launch a Technology Company in 6 Steps](https://www.edx.org/course/startup-success-how-to-launch-a-technology-company)
 - [Startup School](https://www.startupschool.org/)
 
