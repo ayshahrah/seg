@@ -101,7 +101,6 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 ##### UI & UX
 
-- [DesignBetter.Co](https://www.designbetter.co/)
 - [Laws of UX](https://lawsofux.com/)
 - [Google Design](https://design.google/)
 - [Apple Design](https://developer.apple.com/design/)
@@ -125,6 +124,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 #### Websites
 
+- [DesignBetter.Co](https://www.designbetter.co/)
 - [The Agile Coach](https://www.atlassian.com/agile)
 - [Scrum Guide](http://www.scrumguides.org/)
 - [ALM Body of Knowledge](http://www.almbok.com/)
