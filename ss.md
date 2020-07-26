@@ -18,15 +18,19 @@
 - [Communication Strategies for a Virtual Age](https://www.coursera.org/learn/communication-strategies-virtual-age)
 
 **Career:**
+
+- [Designing Your Career](https://www.edx.org/course/designing-your-career)
 - [Career Development: Skills for Success](https://www.edx.org/xseries/career-development-skills-success)
 - [Digital Skills: Grow Your Career](https://www.futurelearn.com/courses/digital-skills-grow-your-career)
-- [The Future of Work: Preparing for Disruption](https://www.edx.org/course/the-future-of-work-preparing-for-disruption-2)
 
-**Creative Thinking:**
+**Critical Thinking:**
+
 - [Creative Thinking: Techniques and Tools for Success](https://www.edx.org/course/creative-thinking-techniques-0)
-- [Critical Thinking & Problem-Solving](https://www.edx.org/course/critical-thinking-problem-solving-ritx-skills103x)
+- [Critical Thinking & Problem Solving](https://www.edx.org/course/critical-thinking-problem-solving-3)
+- [Logical and Critical Thinking]https://www.futurelearn.com/courses/logical-and-critical-thinking)
 
 **Design Thinking:**
+
 - [A Virtual Crash Course in Design Thinking](https://dschool.stanford.edu/resources/a-virtual-crash-course-in-design-thinking)
 - [Design Thinking for Innovation](https://www.coursera.org/learn/uva-darden-design-thinking-innovation)
 - [Design Thinking](https://www.edx.org/micromasters/design-thinking)
