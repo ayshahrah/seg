@@ -27,7 +27,7 @@
 
 - [Creative Thinking: Techniques and Tools for Success](https://www.edx.org/course/creative-thinking-techniques-0)
 - [Critical Thinking & Problem Solving](https://www.edx.org/course/critical-thinking-problem-solving-3)
-- [Logical and Critical Thinking]https://www.futurelearn.com/courses/logical-and-critical-thinking)
+- [Logical and Critical Thinking](https://www.futurelearn.com/courses/logical-and-critical-thinking)
 
 **Design Thinking:**
 
