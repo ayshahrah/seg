@@ -104,6 +104,7 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
 - [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/)
 - [Open Machine Learning Course](https://mlcourse.ai/)
+- [Machine Learning Operations](https://ml-ops.org/)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [The Agile Coach](https://www.atlassian.com/agile)
 - [Scrum Guide](http://www.scrumguides.org/)
