@@ -52,6 +52,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/blob/master/README.md)
 - [Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 - [Awesome Resources](https://github.com/sindresorhus/awesome)
+- [free-programming-books](https://ebookfoundation.github.io/free-programming-books/)
 - [Awesome Open Source](https://awesomeopensource.com/)
 - [Openbase](https://openbase.io/)
 
@@ -116,7 +117,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Microsoft Developer](https://developer.microsoft.com/)
 - [Oracle Developer](https://developer.oracle.com/)
 - [Mozilla Developer](https://developer.mozilla.org/)
-- [free-programming-books](https://ebookfoundation.github.io/free-programming-books/)
 
 ### Intermediate
 
