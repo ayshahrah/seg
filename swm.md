@@ -43,6 +43,7 @@ Software maintenance is defined as the totality of activities required to provid
 - [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
 - [Cloud Engineering with GCP Professional Certificate](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
 - [Cloud Architecture with GCP Professional Certificate](https://www.coursera.org/professional-certificates/gcp-cloud-architect)
+- [Prepare for the CompTIA A+ Certification](https://www.linkedin.com/learning/paths/prepare-for-the-comptia-a-plus-certification-220-1001-and-220-1002)
 
 ### Online Communities
 
@@ -89,7 +90,6 @@ Software maintenance is defined as the totality of activities required to provid
 - [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
 - [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
 - [Fundamentals of Red Hat Enterprise Linux](https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x)
-- [Prepare for the CompTIA A+ Certification](https://www.linkedin.com/learning/paths/prepare-for-the-comptia-a-plus-certification-220-1001-and-220-1002)
 
 #### Websites
 
