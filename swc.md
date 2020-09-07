@@ -138,7 +138,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
 - [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)
 - [Introduction to ReactJS](https://www.edx.org/course/introduction-to-reactjs)
-- [Angular Fundamentals](https://www.edx.org/course/angular-fundamentals)
 - [Building High Conversion Web Forms](https://www.udacity.com/course/building-high-conversion-web-forms--ud890)
 - [Intro to Backend](https://www.udacity.com/course/intro-to-backend--ud171)
 - [Introduction to NodeJS](https://www.edx.org/course/introduction-to-nodejs)
