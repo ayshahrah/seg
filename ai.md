@@ -31,6 +31,8 @@ Self-driving cars and computers that play chess are two examples of machines wit
 
 - [ARTiBA Artificial Intelligence Engineer](https://www.artiba.org/certification/artificial-intelligence-certification)
 - [Top Machine Learning Certificates](https://www.springboard.com/blog/machine-learning-certificates/)
+- [IBM Applied AI Professional Certificate](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)
+- [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer)
 
 ### Online Communities
 
@@ -74,6 +76,7 @@ Self-driving cars and computers that play chess are two examples of machines wit
 #### MOOCs
 
 - [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+- [Introduction to Artificial Intelligence (AI)](https://www.coursera.org/learn/introduction-to-ai)
 - [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
 - [Robotics](https://www.coursera.org/specializations/robotics)
 - [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
