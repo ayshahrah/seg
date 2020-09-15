@@ -75,7 +75,6 @@ Self-driving cars and computers that play chess are two examples of machines wit
 
 #### MOOCs
 
-- [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 - [Introduction to Artificial Intelligence (AI)](https://www.coursera.org/learn/introduction-to-ai)
 - [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
 - [Robotics](https://www.coursera.org/specializations/robotics)
@@ -92,6 +91,7 @@ Self-driving cars and computers that play chess are two examples of machines wit
 
 #### MOOCs
 
+- [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 - [Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 - [Machine Learning](https://www.coursera.org/learn/machine-learning)
