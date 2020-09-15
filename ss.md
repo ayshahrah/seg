@@ -7,26 +7,20 @@
 
 **Presentation:**
 
-- [Public Speaking](https://www.edx.org/course/public-speaking-ritx-skills105x-0)
+- [Public Speaking](https://www.edx.org/course/public-speaking-2)
 - [Dynamic Public Speaking](https://www.coursera.org/specializations/public-speaking)
 - [Presentation Skills: Speechwriting, Slides and Delivery](https://www.coursera.org/specializations/presentation-skills)
 
 **Communication:**
 
 - [Effective Communication: Writing, Design, and Presentation](https://www.coursera.org/specializations/effective-business-communication)
-- [Teamwork & Collaboration](https://www.edx.org/course/teamwork-collaboration-ritx-skills102x-0)
+- [Communication Skills and Teamwork](https://www.edx.org/course/communication-skills-and-teamwork-2)
 - [Communication Strategies for a Virtual Age](https://www.coursera.org/learn/communication-strategies-virtual-age)
-
-**Career:**
-
-- [Designing Your Career](https://www.edx.org/course/designing-your-career)
-- [Career Development: Skills for Success](https://www.edx.org/xseries/career-development-skills-success)
-- [Digital Skills: Grow Your Career](https://www.futurelearn.com/courses/digital-skills-grow-your-career)
 
 **Critical Thinking:**
 
 - [Creative Thinking: Techniques and Tools for Success](https://www.edx.org/course/creative-thinking-techniques-0)
-- [Critical Thinking & Problem Solving](https://www.edx.org/course/critical-thinking-problem-solving-3)
+- [Problem Solving and Critical Thinking Skills](https://www.edx.org/course/problem-solving-and-critical-thinking-skills-2)
 - [Logical and Critical Thinking](https://www.futurelearn.com/courses/logical-and-critical-thinking)
 
 **Design Thinking:**
@@ -41,5 +35,9 @@
 - [Leadership and Emotional Intelligence](https://www.coursera.org/learn/emotional-intelligence-in-leadership)
 - [Inspiring Leadership through Emotional Intelligence](https://www.coursera.org/learn/emotional-intelligence-leadership)
 
+**Career:**
 
+- [Designing Your Career](https://www.edx.org/course/designing-your-career)
+- [Career Development: Skills for Success](https://www.edx.org/xseries/career-development-skills-success)
+- [Digital Skills: Grow Your Career](https://www.futurelearn.com/courses/digital-skills-grow-your-career)
 
