@@ -157,8 +157,8 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 - [Android Kotlin Fundamentals](https://developer.android.com/courses/kotlin-android-fundamentals/overview)
 - [Android Developer Fundamentals (Java)](https://developer.android.com/courses/fundamentals-training/overview-v2)
-- [Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
-- [Kotlin Bootcamp for Programmers](https://developer.android.com/courses/kotlin-bootcamp/overview)
+- [Kotlin Bootcamp for Programmers - Udacity](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
+- [Kotlin Bootcamp for Programmers - Google](https://developer.android.com/courses/kotlin-bootcamp/overview)
 - [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862)
 - [AutoLayout](https://www.udacity.com/course/auto-layout--ud1026)
 
