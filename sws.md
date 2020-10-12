@@ -68,6 +68,7 @@ A generally accepted view concerning software security is that it is much better
 
 - [Cybersecurity and Its Ten Domains](https://www.coursera.org/learn/cyber-security-domain/)
 - [Software Security](https://www.coursera.org/learn/software-security?specialization=cyber-security)
+- [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals-kuleuvenx-websecx)
 
 #### Websites
 
@@ -82,7 +83,6 @@ A generally accepted view concerning software security is that it is much better
 #### MOOCs
 
 - [Cyber Security in the Software Development Life Cycle](https://www.futurelearn.com/courses/cyber-security-in-the-software-development-life-cycle)
-- [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals-kuleuvenx-websecx)
 - [Secure Coding Practices](https://www.coursera.org/specializations/secure-coding-practices)
 - [Hacker101](https://www.hacker101.com/)
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
