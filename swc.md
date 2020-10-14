@@ -150,8 +150,8 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ##### Mobile
 
-- [Build Native Mobile Apps with Flutter](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
 - [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
+- [Build Native Mobile Apps with Flutter](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
 
 ###### Android
 
