@@ -118,6 +118,7 @@ Software maintenance is defined as the totality of activities required to provid
 - [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 - [Introduction to Cloud Infrastructure Technologies](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x#!)
 - [Introduction to Cloud Foundry and Cloud Native Software Architecture](https://www.edx.org/course/introduction-cloud-foundry-cloud-native-linuxfoundationx-lfs132x)
+- [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift)
 - [Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [Introduction to Site Reliability Engineering and DevOps](https://www.edx.org/course/introduction-to-site-reliability-engineering-and-devops)
