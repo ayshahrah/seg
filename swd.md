@@ -53,7 +53,6 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 - [Undesign](https://undesign.learn.uno/)
 - [Freebies ByPeople](https://freebies.bypeople.com/)
-- [Awesome Design Tools](https://flawlessapp.io/designtools)
 - [Checklist Design](https://www.checklist.design/)
 - [Bite sized learning](https://www.booklets.io/)
 
