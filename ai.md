@@ -23,6 +23,7 @@ Self-driving cars and computers that play chess are two examples of machines wit
 
 ### How To
 
+- [AI Expert Roadmap](https://i.am.ai/roadmap)
 - [How to Become an AI Engineer](https://www.simplilearn.com/how-to-become-an-ai-engineer-article)
 - [How to Become a Machine Learning Engineer?](https://www.simplilearn.com/how-to-become-a-machine-learning-engineer-article)
 - [How to become a Robotics Engineer](https://www.careerexplorer.com/careers/robotics-engineer/how-to-become/)
