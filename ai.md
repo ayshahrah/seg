@@ -121,6 +121,7 @@ Self-driving cars and computers that play chess are two examples of machines wit
 #### MOOCs
 
 - [Deep Learning](https://www.coursera.org/specializations/deep-learning)
+- [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 - [Practical Deep Learning For Coders](http://course.fast.ai/)
 - [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
 - [TensorFlow in Practice](https://www.coursera.org/specializations/tensorflow-in-practice)
