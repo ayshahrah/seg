@@ -124,6 +124,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ##### General
 
+- [Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
 - [Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
 - [Writing Professional Code](https://www.edx.org/course/writing-professional-code)
 
@@ -160,12 +161,16 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Kotlin Bootcamp for Programmers - Udacity](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
 - [Kotlin Bootcamp for Programmers - Google](https://developer.android.com/courses/kotlin-bootcamp/overview)
 - [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862)
+- [Firebase in a Weekend: Android](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
+- [Firebase Analytics: Android](https://www.udacity.com/course/firebase-analytics-android--ud354)
 
 ###### iOS
 
 - [Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
 - [AutoLayout](https://www.udacity.com/course/auto-layout--ud1026)
 - [Server-Side Swift](https://www.udacity.com/course/server-side-swift--ud1031)
+- [Firebase in a Weekend: iOS](https://www.udacity.com/course/firebase-in-a-weekend-by-google-ios--ud0351)
+- [Firebase Analytics: iOS](https://www.udacity.com/course/firebase-analytics-ios--ud353)
 
 ##### Databases
 
