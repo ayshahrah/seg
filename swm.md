@@ -90,6 +90,7 @@ Software maintenance is defined as the totality of activities required to provid
 - [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
 - [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
 - [Fundamentals of Red Hat Enterprise Linux](https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x)
+- [Unix Tools: Data, Software and Production Engineering](https://www.edx.org/course/unix-tools-data-software-and-production-engineering)
 
 #### Websites
 
@@ -100,7 +101,10 @@ Software maintenance is defined as the totality of activities required to provid
 
 #### MOOCs
 
-- [Unix Tools: Data, Software and Production Engineering](https://www.edx.org/course/unix-tools-data-software-and-production-engineering)
+- [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080)
+- [Introduction to Cloud Infrastructure Technologies](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x#!)
+- [Introduction to Cloud Foundry and Cloud Native Software Architecture](https://www.edx.org/course/introduction-cloud-foundry-cloud-native-linuxfoundationx-lfs132x)
+- [Hybrid Cloud Fundamentals](https://www.udacity.com/course/hybrid-cloud-fundamentals--ud0321)
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
@@ -116,8 +120,6 @@ Software maintenance is defined as the totality of activities required to provid
 #### MOOCs
 
 - [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
-- [Introduction to Cloud Infrastructure Technologies](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x#!)
-- [Introduction to Cloud Foundry and Cloud Native Software Architecture](https://www.edx.org/course/introduction-cloud-foundry-cloud-native-linuxfoundationx-lfs132x)
 - [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift)
 - [Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
