@@ -143,6 +143,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Intro to Backend](https://www.udacity.com/course/intro-to-backend--ud171)
 - [Introduction to NodeJS](https://www.edx.org/course/introduction-to-nodejs)
 - [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
+- [Django for Everybody](https://www.futurelearn.com/programs/django)
 - [Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
 - [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
 - [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
