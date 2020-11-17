@@ -67,7 +67,8 @@ A generally accepted view concerning software security is that it is much better
 #### MOOCs
 
 - [Cybersecurity and Its Ten Domains](https://www.coursera.org/learn/cyber-security-domain/)
-- [Software Security](https://www.coursera.org/learn/software-security?specialization=cyber-security)
+- [Secure Software Development Fundamentals](https://www.edx.org/professional-certificate/linuxfoundationx-secure-software-development-fundamentals)
+- [Software Security](https://www.coursera.org/learn/software-security)
 - [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals-kuleuvenx-websecx)
 
 #### Websites
