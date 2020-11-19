@@ -1,6 +1,6 @@
 ## Welcome to Software Engineering Guide
 
-**Software Engineering Guide (SEG)** is a self-learning roadmap for practitioners in software engineering. It is a role-based guide and includes a curated list of free-of-cost learning resources. For each role, there are four levels: foundation, beginner, intermediate, and advanced. The learning resources are being collected from highly-respected and well-trusted sources.
+**Software Engineering Guide (SEG)** is a self-learning roadmap for practitioners in software engineering. It is a role-based guide and includes a curated list of free learning resources. For each role, there are four levels: foundation, beginner, intermediate, and advanced. The learning resources are being collected from highly-respected and well-trusted sources.
 
 ### Motivation
 
