@@ -52,9 +52,10 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Best Websites a Programmer Should Visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/blob/master/README.md)
 - [Packt Free Reading Lists](https://www.packtpub.com/free-learning)
 - [free-programming-books](https://ebookfoundation.github.io/free-programming-books/)
-- [Openbase](https://openbase.io/)
 - [Awesome Resources](https://github.com/sindresorhus/awesome)
 - [Awesome Open Source](https://awesomeopensource.com/)
+- [Open Source Stash](https://opensourcestash.com/)
+- [Openbase](https://openbase.io/)
 
 ## Learning Resources
 
