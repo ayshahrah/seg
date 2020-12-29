@@ -56,6 +56,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Awesome Open Source](https://awesomeopensource.com/)
 - [Open Source Stash](https://opensourcestash.com/)
 - [Openbase](https://openbase.io/)
+- [Public APIs](https://publicapis.sznm.dev/)
 
 ## Learning Resources
 
