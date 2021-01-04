@@ -59,6 +59,7 @@ The SEG currently includes 12 role-based learning paths. It provides guiding inf
 Technical skills are not enough to be a professional in software engineering! Soft skills are imperative and not less important than technical skills. Moreover,  entrepreneurship skills are crucial when you would like to establish your own technology business.
 
 - [Soft Skills](ss.md)
+- [Entrepreneurship Skills](es.md)
 
 ### Learning Process
 
