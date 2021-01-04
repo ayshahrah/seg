@@ -37,8 +37,8 @@
 
 **Career:**
 
+- [Career planning: resume/CV, cover letter, interview](https://www.coursera.org/learn/career-planning-tsu)
 - [Designing Your Career](https://www.edx.org/course/designing-your-career)
-- [Career Development: Skills for Success](https://www.edx.org/xseries/career-development-skills-success)
 - [Digital Skills: Grow Your Career](https://www.futurelearn.com/courses/digital-skills-grow-your-career)
 
 **Innovation:**
