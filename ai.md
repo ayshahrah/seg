@@ -129,6 +129,7 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
 - [TensorFlow: Advanced Techniques Specialization](https://www.coursera.org/specializations/tensorflow-advanced-techniques)
 - [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
+- [Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
 - [A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
 - [Secure and Private AI](https://www.udacity.com/course/secure-and-private-ai--ud185)
 - [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
