@@ -107,6 +107,7 @@ Self-driving cars and computers that play chess are two examples of machines wit
 
 #### Websites
 
+- [Machine Learning Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/)
 - [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
 - [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/)
 - [Open Machine Learning Course](https://mlcourse.ai/)
