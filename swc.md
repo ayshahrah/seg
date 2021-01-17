@@ -186,7 +186,8 @@ Since software construction requires knowledge of algorithms and of coding pract
 ##### Data Structures and Algorithms
 
 - [Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
-- [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms)
+- [Data Structures and Algorithms - coursera](https://www.coursera.org/specializations/data-structures-algorithms)
+- [Data Structures and Algorithms - edx](https://www.edx.org/professional-certificate/gtx-data-structures-and-algorithms)
 - [Algorithms](https://www.coursera.org/specializations/algorithms)
 
 ##### Software Development Management
