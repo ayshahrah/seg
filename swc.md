@@ -33,6 +33,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ### Professional Certifications
 
+- [IBM Full Stack Cloud Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
 - [CompTIA Career Roadmap](https://www.comptia.org/content/it-careers-path-roadmap/software-and-web-developers)
 
 ### Online Communities
