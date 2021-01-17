@@ -128,6 +128,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 ##### General
 
 - [Programming Languages](https://www.udacity.com/course/programming-languages--cs262)
+- [Introduction to Object-Oriented Programming with Java](https://www.edx.org/professional-certificate/gtx-introduction-to-object-oriented-programming-with-java)
 - [Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
 - [Writing Professional Code](https://www.edx.org/course/writing-professional-code)
 
