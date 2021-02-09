@@ -90,6 +90,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
 - [Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming)
 - [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+- [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
 
 ##### Web
 
