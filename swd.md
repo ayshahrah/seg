@@ -55,6 +55,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Freebies ByPeople](https://freebies.bypeople.com/)
 - [Checklist Design](https://www.checklist.design/)
 - [Bite sized learning](https://www.booklets.io/)
+- [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)
 
 ## Learning Resources
 
