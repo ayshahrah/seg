@@ -55,6 +55,7 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
 - [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 - [Papers With Code](https://paperswithcode.com/)
+- [Hugging Face](https://huggingface.co/)
 
 ## Learning Resources
 
