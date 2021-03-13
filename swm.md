@@ -86,6 +86,8 @@ Software maintenance is defined as the totality of activities required to provid
 
 #### MOOCs
 
+- [Google IT Support](https://www.coursera.org/professional-certificates/google-it-support)
+- [Google IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation)
 - [Computer Security and Systems Management](https://www.coursera.org/specializations/computer-security-systems-management)
 - [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
 - [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
