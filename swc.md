@@ -149,7 +149,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Introduction to ReactJS](https://www.edx.org/course/introduction-to-reactjs)
 - [Building High Conversion Web Forms](https://www.udacity.com/course/building-high-conversion-web-forms--ud890)
 - [Intro to Backend](https://www.udacity.com/course/intro-to-backend--ud171)
-- [Introduction to NodeJS](https://www.edx.org/course/introduction-to-nodejs)
+- [Introduction to Node.js](https://www.edx.org/course/introduction-to-nodejs-2)
 - [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
 - [Django for Everybody](https://www.futurelearn.com/programs/django)
 - [Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
@@ -216,6 +216,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ##### Web
 
+- [IBM Full Stack Cloud Developer](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
 - [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 - [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
 - [Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
