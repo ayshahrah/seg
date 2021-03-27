@@ -23,6 +23,7 @@ Quality.
 ### How To
 
 - [The Business Analyst Career Road Map](https://www.iiba.org/professional-development/knowledge-centre/articles/roles-ba-career-road-map/)
+- [Business Analysis Specialization](https://www.iiba.org/career-resources/business-analysis-specialization/)
 - [Become A Business Analyst](https://www.thebaguide.com/path-to-ba)
 
 ### Professional Certifications
