@@ -54,7 +54,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Packt Free Reading Lists](https://www.packtpub.com/free-learning)
 - [free-programming-books](https://ebookfoundation.github.io/free-programming-books/)
 - [Awesome Resources](https://github.com/sindresorhus/awesome)
-- [Analysis Tools](https://github.com/analysis-tools-dev)
+- [Analysis Tools](https://analysis-tools.dev/)
 - [Awesome Open Source](https://awesomeopensource.com/)
 - [Open Source Stash](https://opensourcestash.com/)
 - [Openbase](https://openbase.io/)
