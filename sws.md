@@ -85,6 +85,7 @@ A generally accepted view concerning software security is that it is much better
 #### MOOCs
 
 - [Secure Coding Practices](https://www.coursera.org/specializations/secure-coding-practices)
+- [Cyber Security Base](https://cybersecuritybase.mooc.fi/)
 - [Hacker101](https://www.hacker101.com/)
 - [Cyber Security in the Software Development Life Cycle](https://www.futurelearn.com/courses/cyber-security-in-the-software-development-life-cycle)
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
