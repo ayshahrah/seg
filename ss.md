@@ -47,14 +47,6 @@
 - [The Iterative Innovation Process](https://www.edx.org/course/the-iterative-innovation-process)
 - [Innovating in a Digital World](https://www.coursera.org/learn/innovating-digital-world)
 
-**Building a Startup:**
-
-- [Startup School](https://www.startupschool.org/)
-- [How to Build a Startup](https://www.udacity.com/course/how-to-build-a-startup--ep245)
-- [Startup Success: How to Launch a Technology Company in 6 Steps](https://www.edx.org/course/startup-success-how-to-launch-a-technology-company)
-- [Starting Up](https://starting-up.org/)
-
-
 ### Websites
 
 - [SkillsMatch](https://beta.skillsmatch.eu/)
