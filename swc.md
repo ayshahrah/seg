@@ -9,7 +9,7 @@ Software construction typically produces the highest number of configuration ite
 
 Since software construction requires knowledge of algorithms and of coding practices, it is closely related to the Computing Foundations, which is concerned with the computer science foundations that support the design and construction of software products. It is also related to project management, insofar as the management of construction can present considerable challenges.
 
-*Source: [SWEBOK V3](https://www.computer.org/web/swebok/v3)*
+*Source: [Software Engineering Body of Knowledge (SWEBOK V3)](https://www.computer.org/web/swebok/v3)*
 
 ### Knowledge and Skills
 
@@ -119,7 +119,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 #### Websites
 
-- [SWEBOK V3 - Chapter 3: Software Construction](https://www.computer.org/web/swebok/v3)
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [Google Developer](https://developers.google.com/)
 - [Apple Developer](https://developer.apple.com/)
