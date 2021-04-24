@@ -7,7 +7,7 @@ In recent years, the view of software testing has matured into a constructive on
 
 For many organizations, the approach to software quality is one of prevention: it is obviously much better to prevent problems than to correct them. Testing can be seen, then, as a means for providing information about the functionality and quality attributes of the software and also for identifying faults in those cases where error prevention has not been effective. It is perhaps obvious but worth recognizing that software can still contain faults, even after completion of an extensive testing activity. Software failures experienced after delivery are addressed by corrective maintenance.
 
-*Source: [SWEBOK V3](https://www.computer.org/web/swebok/v3)*
+*Source: [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)*
 
 ### Knowledge and Skills
 
@@ -78,7 +78,6 @@ For many organizations, the approach to software quality is one of prevention: i
 
 #### Websites
 
-- [SWEBOK V3 - Chapter 4: Software Testing](https://www.computer.org/web/swebok/v3)
 - [Software Testing Tutorial: Free Course](https://www.guru99.com/software-testing.html)
 - [Mobile Testing](https://learn.techbeacon.com/tracks/mobile-testing)
 
