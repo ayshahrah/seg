@@ -8,7 +8,7 @@ Software requirements express the needs and constraints placed on a software pro
 The Software Requirements are related closely to the Software Design, Software Testing, Software Maintenance, Software Configuration Management, Software Engineering Management, Software Engineering Process, Software Engineering Models and Methods, and Software
 Quality.
 
-*Source: [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/web/swebok/v3)*
+*Source: [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)*
 
 ### Knowledge and Skills
 
