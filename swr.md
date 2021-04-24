@@ -65,7 +65,7 @@ Quality.
 
 #### MOOCs
 
-- [Client Needs and Software Requirementst](https://www.coursera.org/learn/client-needs-and-software-requirements)
+- [Client Needs and Software Requirements](https://www.coursera.org/learn/client-needs-and-software-requirements)
 - [Requirements Writing](https://www.coursera.org/learn/requirements-writing)
 
 #### Websites
