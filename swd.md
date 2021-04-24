@@ -9,7 +9,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - *Software architectural design (sometimes called high-level design):* develops top-level structure and organization of the software and identifies the various components.
 - *Software detailed design:* specifies each component in sufficient detail to facilitate its construction.
 
-*Source: [Software Engineering Body of Knowledge (SWEBOK V3)](https://www.computer.org/web/swebok/v3)*
+*Source: [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/web/swebok/v3)*
 
 ### Knowledge and Skills
 
