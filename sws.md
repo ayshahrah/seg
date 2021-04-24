@@ -5,7 +5,7 @@ Due to increasing malicious activities targeted at computer systems, security ha
 
 A generally accepted view concerning software security is that it is much better to design security into software than to patch it in after software is developed. To design security into software, one must take into consideration every stage of the software development lifecycle. In particular, secure software development involves software requirements security, software design security, software construction security, and software testing security. In addition, security must also be taken into consideration when performing software maintenance as security faults and loopholes can be and often are introduced during maintenance.
 
-*Source: [SWEBOK V3](https://www.computer.org/web/swebok/v3)*
+*Source: [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)*
 
 ### Knowledge and Skills
 
@@ -75,7 +75,6 @@ A generally accepted view concerning software security is that it is much better
 
 #### Websites
 
-- [SWEBOK V3 - Chapter 13: Computing Foundations - Section 17. Secure Software Development and Maintenance](https://www.computer.org/web/swebok/v3)
 - [The Cyber Security Body of Knowledge](https://www.cybok.org/)
 - [Secure Software Development Framework (SSDF)](https://csrc.nist.gov/publications/detail/white-paper/2020/04/23/mitigating-risk-of-software-vulnerabilities-with-ssdf/final)
 - [Application Security](https://learn.techbeacon.com/tracks/application-security)
