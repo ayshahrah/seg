@@ -12,7 +12,7 @@ In one sense, it should be possible to manage a software engineering project in 
 - The degree of novelty and complexity is often high.
 - There is often a rapid rate of change in the underlying technology.
 
-*Source: [SWEBOK V3](https://www.computer.org/web/swebok/v3)*
+*Source: [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)*
 
 ### Knowledge and Skills
 
@@ -76,7 +76,6 @@ In one sense, it should be possible to manage a software engineering project in 
 
 #### Websites
 
-- [SWEBOK V3 - Chapter 7: Software Engineering Management](https://www.computer.org/web/swebok/v3)
 - [Thought Leadership](https://www.pmi.org/learning/thought-leadership)
 - [Simplilearn's Resources](https://www.simplilearn.com/resources/project-management)
 
