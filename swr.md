@@ -8,7 +8,7 @@ Software requirements express the needs and constraints placed on a software pro
 The Software Requirements are related closely to the Software Design, Software Testing, Software Maintenance, Software Configuration Management, Software Engineering Management, Software Engineering Process, Software Engineering Models and Methods, and Software
 Quality.
 
-*Source: [SWEBOK V3](https://www.computer.org/web/swebok/v3)*
+*Source: [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/web/swebok/v3)*
 
 ### Knowledge and Skills
 
@@ -70,7 +70,6 @@ Quality.
 
 #### Websites
 
-- [SWEBOK V3 - Chapter 1: Software Requirements](https://www.computer.org/web/swebok/v3)
 - [Business Analyst Training Tutorial for Beginners](https://www.guru99.com/business-analyst-tutorial-course.html)
 
 ### Intermediate
