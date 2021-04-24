@@ -7,7 +7,7 @@ Software maintenance is an integral part of a software life cycle. However, it h
 
 Software maintenance is defined as the totality of activities required to provide cost-effective support to software. Activities are performed during the predelivery stage as well as during the postdelivery stage. Predelivery activities include planning for postdelivery operations, maintainability, and logistics determination for transition activities. Postdelivery activities include software modification, training, and operating or interfacing to a help desk.
 
-*Source: [SWEBOK V3](https://www.computer.org/web/swebok/v3)*
+*Source: [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)*
 
 ### Knowledge and Skills
 
@@ -96,7 +96,6 @@ Software maintenance is defined as the totality of activities required to provid
 
 #### Websites
 
-- [SWEBOK V3 - Chapter 5: Software Maintenance](https://www.computer.org/web/swebok/v3)
 - [Introduction to Linux - A Hands on Guide](http://sf.tradepub.com/free/w_mach01/)
 
 ### Intermediate
