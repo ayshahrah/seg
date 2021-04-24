@@ -7,7 +7,7 @@ More recently, software quality is defined as the “capability of software prod
 
 These definitions also illustrate another reason for the prevalence of software quality: a frequent ambiguity of software quality versus software quality requirements (“the -ilities” is a common shorthand). Software quality requirements are actually attributes of (or constraints on) functional requirements (what the system does). Software requirements may also specify resource usage, a communication protocol, or many other characteristics.Software quality is achieved by conformance to all requirements regardless of what characteristic is specified or how requirements are grouped or named.
 
-*Source: [SWEBOK V3](https://www.computer.org/web/swebok/v3)*
+*Source: [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)*
 
 ### Knowledge and Skills
 
@@ -68,7 +68,6 @@ These definitions also illustrate another reason for the prevalence of software 
 
 #### Websites
 
-- [SWEBOK V3 - Chapter 10: Software Quality](https://www.computer.org/web/swebok/v3)
 - [Software Quality without Testing](https://www.nagarro.com/en/blog/software-testing-without-quality-part1)
 
 ### Intermediate
