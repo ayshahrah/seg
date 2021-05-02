@@ -141,6 +141,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 - [Full-Stack Web Development](https://auth.udacity.com/sign-in?next=https://1mac.udacity.com/enroll/arabcoders?nd_key=nd004-1mac-v2)
 - [Full Stack open](https://fullstackopen.com/)
+- [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 - [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud711)
 - [JavaScript and the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
 - [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
