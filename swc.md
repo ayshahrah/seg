@@ -162,6 +162,8 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
 - [Intro to Progressive Web Apps](https://www.udacity.com/course/intro-to-progressive-web-apps--ud811)
 - [Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
+- [Front-End Interview Prep](https://www.udacity.com/course/front-end-interview-prep--ud250)
+- [Full-Stack Interview Prep](https://www.udacity.com/course/full-stack-interview-prep--ud252)
 
 ##### Mobile
 
@@ -173,11 +175,13 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Android Kotlin Fundamentals](https://developer.android.com/courses/kotlin-android-fundamentals/overview)
 - [Kotlin Bootcamp for Programmers - Udacity](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
 - [Kotlin Bootcamp for Programmers - Google](https://developer.android.com/courses/kotlin-bootcamp/overview)
+- [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
 - [Android Developer Fundamentals (Java)](https://developer.android.com/courses/fundamentals-training/overview-v2)
 - [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862)
 - [Firebase in a Weekend: Android](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
 - [Firebase Analytics: Android](https://www.udacity.com/course/firebase-analytics-android--ud354)
+- [Android Interview Prep](https://www.udacity.com/course/android-interview-prep--ud241)
 
 ###### iOS
 
@@ -186,6 +190,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Server-Side Swift](https://www.udacity.com/course/server-side-swift--ud1031)
 - [Firebase in a Weekend: iOS](https://www.udacity.com/course/firebase-in-a-weekend-by-google-ios--ud0351)
 - [Firebase Analytics: iOS](https://www.udacity.com/course/firebase-analytics-ios--ud353)
+- [iOS Interview Prep](https://www.udacity.com/course/ios-interview-prep--ud240)
 
 ##### Databases
 
@@ -238,6 +243,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Kotlin for Android Developers](https://www.udacity.com/course/kotlin-for-android-developers--ud888)
 - [Advanced Android in Kotlin](https://developer.android.com/courses/kotlin-android-advanced/overview)
 - [Advanced Android with Kotlin](https://www.udacity.com/course/advanced-android-with-kotlin--ud940)
+- [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
 - [Advanced Android Development (Java)](https://developer.android.com/courses/advanced-training/overview)
 - [Android Performance](https://www.udacity.com/course/android-performance--ud825)
 - [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
@@ -246,12 +252,13 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 - [CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
 - [iOS Networking with Swift](https://www.udacity.com/course/ios-networking-with-swift--ud421)
+- [iOS Design Patterns](https://www.udacity.com/course/ios-design-patterns--ud1029)
 
 ##### Others
 
-- [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot)
-- [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
+- [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
+- [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot)
 
 #### Websites
 
