@@ -97,7 +97,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 ##### Web
 
 - [Introduction to Web Development](https://www.futurelearn.com/courses/introduction-to-web-development)
-- [Learn to Code for the Web](https://www.futurelearn.com/courses/learn-to-code-for-the-web)
 - [Front-End Development](https://auth.udacity.com/sign-in?next=https://1mac.udacity.com/enroll/arabcoders?nd_key=nd001-1mac-v2)
 - [Front-End Web Developer](https://www.edx.org/professional-certificate/w3cx-front-end-web-developer)
 - [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001)
