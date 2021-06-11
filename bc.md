@@ -91,9 +91,9 @@ Banks and financial institutions across the globe are exploring how they can use
 
 #### MOOCs
 
-- [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
-- [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
+- [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
+- [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
 
 #### Websites
 
