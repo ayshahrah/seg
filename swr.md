@@ -76,6 +76,7 @@ Quality.
 
 #### MOOCs
 
+- [A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
