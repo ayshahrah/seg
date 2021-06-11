@@ -100,10 +100,12 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 - [Machine Learning](https://www.coursera.org/learn/machine-learning)
+- [Machine Learning: Unsupervised Learning](https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741)
 - [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
 - [Tiny Machine Learning (TinyML)](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
 - [Model Building and Validation](https://www.udacity.com/course/model-building-and-validation--ud919)
 - [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
+- [Machine Learning Interview Preparation](https://www.udacity.com/course/machine-learning-interview-prep--ud1001)
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
@@ -139,9 +141,9 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
 - [Secure and Private AI](https://www.udacity.com/course/secure-and-private-ai--ud185)
 - [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
-- [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
-- [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
+- [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
+- [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
 
 #### Websites
 
