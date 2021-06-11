@@ -97,6 +97,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 ##### Web
 
 - [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001)
+- [HTML5 Canvas](https://www.udacity.com/course/html5-canvas--ud292)
 - [Introduction to Web Development](https://www.futurelearn.com/courses/introduction-to-web-development)
 - [Front-End Development](https://auth.udacity.com/sign-in?next=https://1mac.udacity.com/enroll/arabcoders?nd_key=nd001-1mac-v2)
 - [Front-End Web Developer](https://www.edx.org/professional-certificate/w3cx-front-end-web-developer)
@@ -141,8 +142,10 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 - [Full-Stack Web Development](https://auth.udacity.com/sign-in?next=https://1mac.udacity.com/enroll/arabcoders?nd_key=nd004-1mac-v2)
 - [Full Stack open](https://fullstackopen.com/)
+- [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
 - [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
 - [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud711)
+- [Intro to jQuery](https://www.udacity.com/course/intro-to-jquery--ud245)
 - [JavaScript and the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
 - [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
 - [Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
@@ -153,7 +156,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Building High Conversion Web Forms](https://www.udacity.com/course/building-high-conversion-web-forms--ud890)
 - [Intro to Backend](https://www.udacity.com/course/intro-to-backend--ud171)
 - [Introduction to Node.js](https://www.edx.org/course/introduction-to-nodejs-2)
-- [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
 - [Django for Everybody](https://www.futurelearn.com/programs/django)
 - [Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
 - [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
@@ -169,9 +171,10 @@ Since software construction requires knowledge of algorithms and of coding pract
 ###### Android
 
 - [Android Kotlin Fundamentals](https://developer.android.com/courses/kotlin-android-fundamentals/overview)
-- [Android Developer Fundamentals (Java)](https://developer.android.com/courses/fundamentals-training/overview-v2)
 - [Kotlin Bootcamp for Programmers - Udacity](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
 - [Kotlin Bootcamp for Programmers - Google](https://developer.android.com/courses/kotlin-bootcamp/overview)
+- [Android Developer Fundamentals (Java)](https://developer.android.com/courses/fundamentals-training/overview-v2)
+- [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862)
 - [Firebase in a Weekend: Android](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
 - [Firebase Analytics: Android](https://www.udacity.com/course/firebase-analytics-android--ud354)
@@ -219,14 +222,14 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ##### Web
 
-- [IBM Full Stack Cloud Developer](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
+- [ES6 - JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)
 - [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 - [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
 - [Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
 - [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
 - [Front End Frameworks](https://www.udacity.com/course/front-end-frameworks--ud894)
 - [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
-
+- [IBM Full Stack Cloud Developer](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
 
 ##### Mobile
 
@@ -234,6 +237,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 - [Kotlin for Android Developers](https://www.udacity.com/course/kotlin-for-android-developers--ud888)
 - [Advanced Android in Kotlin](https://developer.android.com/courses/kotlin-android-advanced/overview)
+- [Advanced Android with Kotlin](https://www.udacity.com/course/advanced-android-with-kotlin--ud940)
 - [Advanced Android Development (Java)](https://developer.android.com/courses/advanced-training/overview)
 - [Android Performance](https://www.udacity.com/course/android-performance--ud825)
 - [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
