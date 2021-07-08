@@ -121,6 +121,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 #### Websites
 
 - [freeCodeCamp](https://www.freecodecamp.org/)
+- [Practical Python Programming](https://dabeaz-course.github.io/practical-python/)
 - [Google Developer](https://developers.google.com/)
 - [Apple Developer](https://developer.apple.com/)
 - [Microsoft Developer](https://developer.microsoft.com/)
