@@ -99,7 +99,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001)
 - [HTML5 Canvas](https://www.udacity.com/course/html5-canvas--ud292)
 - [Introduction to Web Development](https://www.futurelearn.com/courses/introduction-to-web-development)
-- [Front-End Development](https://auth.udacity.com/sign-in?next=https://1mac.udacity.com/enroll/arabcoders?nd_key=nd001-1mac-v2)
 - [Front-End Web Developer](https://www.edx.org/professional-certificate/w3cx-front-end-web-developer)
 - [Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)
 - [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
@@ -109,7 +108,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ###### Android
 
-- [Android Basics](https://auth.udacity.com/sign-in?next=https://1mac.udacity.com/enroll/arabcoders?nd_key=nd803-1mac-v2)
 - [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 - [Build Your First Android App (Project-Centered Course)](https://www.coursera.org/learn/android-app)
 
@@ -141,7 +139,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ##### Web
 
-- [Full-Stack Web Development](https://auth.udacity.com/sign-in?next=https://1mac.udacity.com/enroll/arabcoders?nd_key=nd004-1mac-v2)
 - [Full Stack open](https://fullstackopen.com/)
 - [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
 - [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
