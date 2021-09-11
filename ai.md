@@ -113,6 +113,7 @@ Self-driving cars and computers that play chess are two examples of machines wit
 #### Websites
 
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
+- [Machine Learning - A First Course for Engineers and Scientists](http://smlbook.org/)
 - [Learn from ML experts at Google](https://ai.google/education/)
 - [Machine Learning Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/)
 - [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
