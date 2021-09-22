@@ -52,9 +52,10 @@ Self-driving cars and computers that play chess are two examples of machines wit
 
 - [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
-- [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning)
 - [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
 - [Awesome MLOps](https://github.com/visenger/awesome-mlops)
+- [Awesome Data Labeling](https://github.com/heartexlabs/awesome-data-labeling)
+- [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning)
 - [Papers With Code](https://paperswithcode.com/)
 - [Hugging Face](https://huggingface.co/)
 
