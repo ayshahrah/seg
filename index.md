@@ -34,7 +34,7 @@ The SEG covers the main knowledge areas described in the Software Engineering Bo
 
 ### Learning Paths
 
-The SEG currently includes 12 role-based learning paths. It provides guiding information and up-to-date learning resources for each learning path. If you still don't have a career path in your mind, you can try to identify your potential career by using the [IBM IT Assessment](https://www.coursera.org/learn/ibm-it-assessment).
+The SEG currently includes 12 role-based learning paths. It provides guiding information and up-to-date learning resources for each learning path. If you still don't have a career path in your mind, you can try to identify your potential career by using the [MyInnerGenius Career Fit Assessment](https://app.myinnergenius.com/accounts/signup/?next=%2Flaunch-assessment%2F4%2F).
 
 **Traditional Roles:**
 
