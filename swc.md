@@ -75,12 +75,12 @@ Since software construction requires knowledge of algorithms and of coding pract
 #### Websites
 
 - [What Programming Language Should I Learn First?](https://www.freecodecamp.org/news/what-programming-language-should-i-learn-first-19a33b0a467d/)
-- [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey/)
-- [GitHub: The State of the Octoverse](https://octoverse.github.com/)
 - [TIOBE Index](https://www.tiobe.com/tiobe-index/)
 - [IEEE Top Programming Languages](https://spectrum.ieee.org/top-programming-languages/)
-- [HackerRank Developer Skills Report](https://research.hackerrank.com/)
 - [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar)
+- [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey/)
+- [GitHub: The State of the Octoverse](https://octoverse.github.com/)
+- [HackerRank Developer Skills Report](https://research.hackerrank.com/)
 
 ### Beginner
 
