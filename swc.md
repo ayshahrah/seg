@@ -78,6 +78,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey/)
 - [GitHub: The State of the Octoverse](https://octoverse.github.com/)
 - [TIOBE Index](https://www.tiobe.com/tiobe-index/)
+- [Top Programming Languages](https://spectrum.ieee.org/top-programming-languages/)
 - [HackerRank Developer Skills Report](https://research.hackerrank.com/)
 - [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar)
 
