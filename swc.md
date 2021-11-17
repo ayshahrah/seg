@@ -90,6 +90,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 - [What is Programming?](https://www.udacity.com/course/what-is-programming--ud994)
 - [CS50's Introduction to Programming with Scratch](https://www.edx.org/course/cs50s-introduction-to-programming-with-scratch)
+- [CS50's Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)
 - [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
 - [Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming)
 - [Java Programming](https://java-programming.mooc.fi/)
