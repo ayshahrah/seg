@@ -79,6 +79,7 @@ Banks and financial institutions across the globe are exploring how they can use
 - [Hyperledger Sawtooth for Application Developers](https://www.edx.org/course/hyperledger-sawtooth-for-application-developers)
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
+- [Agile and Scrum Fundamentals](https://www.edx.org/course/agile-and-scrum-fundamentals)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 
 #### Websites
