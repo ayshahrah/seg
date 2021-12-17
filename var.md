@@ -93,6 +93,7 @@ Augmented reality apps are written in special 3D programs that allow the develop
 - [VR Interview Prep](https://www.udacity.com/course/vr-interview-prep--ud251)
 - [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
 - [Software Product Management](https://www.coursera.org/specializations/product-management)
+- [Agile and Scrum Fundamentals](https://www.edx.org/course/agile-and-scrum-fundamentals)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 
 #### Websites
