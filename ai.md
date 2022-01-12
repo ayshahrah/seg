@@ -125,6 +125,7 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [Open Machine Learning Course](https://mlcourse.ai/)
 - [Machine Learning Operations](https://ml-ops.org/)
 - [MLOps Course](https://madewithml.com/)
+- [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
 - [The Agile Coach](https://www.atlassian.com/agile)
 - [Scrum Guide](http://www.scrumguides.org/)
 - [ALM Body of Knowledge](http://www.almbok.com/start)
