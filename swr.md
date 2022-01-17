@@ -77,8 +77,6 @@ Quality.
 #### MOOCs
 
 - [A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
-- [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
-- [Software Product Management](https://www.coursera.org/specializations/product-management)
 - [Agile and Scrum Fundamentals](https://www.edx.org/course/agile-and-scrum-fundamentals)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
 
@@ -92,9 +90,8 @@ Quality.
 
 #### MOOCs
 
-- [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
-- [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
+- [Introduction to DevOps](https://www.coursera.org/learn/intro-to-devops)
 
 #### Websites
 
