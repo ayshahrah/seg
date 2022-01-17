@@ -91,6 +91,7 @@ Software maintenance is defined as the totality of activities required to provid
 - [Computer Security and Systems Management](https://www.coursera.org/specializations/computer-security-systems-management)
 - [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
 - [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
+- [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting)
 - [Fundamentals of Red Hat Enterprise Linux](https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x)
 - [Unix Tools: Data, Software and Production Engineering](https://www.edx.org/course/unix-tools-data-software-and-production-engineering)
 
@@ -103,19 +104,16 @@ Software maintenance is defined as the totality of activities required to provid
 #### MOOCs
 
 - [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080)
+- [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud)
 - [Introduction to Cloud Infrastructure Technologies](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x#!)
 - [Introduction to Cloud Foundry and Cloud Native Software Architecture](https://www.edx.org/course/introduction-cloud-foundry-cloud-native-linuxfoundationx-lfs132x)
 - [Hybrid Cloud Fundamentals](https://www.udacity.com/course/hybrid-cloud-fundamentals--ud0321)
-- [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
-- [Software Product Management](https://www.coursera.org/specializations/product-management)
-- [Agile and Scrum Fundamentals](https://www.edx.org/course/agile-and-scrum-fundamentals)
-- [Agile Development](https://www.coursera.org/specializations/agile-development)
 
 #### Websites
 
-- [The Agile Coach](https://www.atlassian.com/agile)
-- [Scrum Guide](http://www.scrumguides.org/)
-- [ALM Body of Knowledge](http://www.almbok.com/)
+- [AWS Digital Training](https://aws.amazon.com/training/digital/)
+- [Google Cloud training](https://cloud.google.com/training)
+- [Microsoft Azure](https://docs.microsoft.com/en-us/learn/azure/)
 
 ### Advanced
 
@@ -125,6 +123,8 @@ Software maintenance is defined as the totality of activities required to provid
 - [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift)
 - [Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
+- [Introduction to DevOps](https://www.coursera.org/learn/intro-to-devops)
+- [Continuous Integration and Continuous Delivery (CI/CD)](https://www.coursera.org/learn/continuous-integration-and-continuous-delivery-ci-cd)
 - [Introduction to Site Reliability Engineering and DevOps](https://www.edx.org/course/introduction-to-site-reliability-engineering-and-devops)
 - [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
 
