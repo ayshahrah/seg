@@ -117,19 +117,9 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [Product Design](https://www.udacity.com/course/product-design--ud509)
 - [Rapid Prototyping](https://www.udacity.com/course/rapid-prototyping--ud723)
 
-##### Software Development Management
-
-- [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
-- [Software Product Management](https://www.coursera.org/specializations/product-management)
-- [Agile and Scrum Fundamentals](https://www.edx.org/course/agile-and-scrum-fundamentals)
-- [Agile Development](https://www.coursera.org/specializations/agile-development)
-
 #### Websites
 
 - [DesignBetter.Co](https://www.designbetter.co/)
-- [The Agile Coach](https://www.atlassian.com/agile)
-- [Scrum Guide](http://www.scrumguides.org/)
-- [ALM Body of Knowledge](http://www.almbok.com/)
 
 ### Advanced
 
@@ -139,12 +129,6 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 - [A Simple Framework for Designing IoT Products](https://www.udemy.com/a-simple-framework-for-designing-iot-products/)
 - [Software Architecture for the Internet of Things](https://www.coursera.org/learn/iot-software-architecture)
-
-##### Others
-
-- [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080)
-- [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
-- [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
 
 #### Websites
 
