@@ -126,7 +126,6 @@ Software maintenance is defined as the totality of activities required to provid
 - [Introduction to DevOps](https://www.coursera.org/learn/intro-to-devops)
 - [Continuous Integration and Continuous Delivery (CI/CD)](https://www.coursera.org/learn/continuous-integration-and-continuous-delivery-ci-cd)
 - [Introduction to Site Reliability Engineering and DevOps](https://www.edx.org/course/introduction-to-site-reliability-engineering-and-devops)
-- [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
 
 #### Websites
 
