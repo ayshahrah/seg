@@ -150,7 +150,9 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [Secure and Private AI](https://www.udacity.com/course/secure-and-private-ai--ud185)
 - [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
 - [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080)
+- [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
+- [Introduction to DevOps](https://www.coursera.org/learn/intro-to-devops)
 - [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
 
 #### Websites
