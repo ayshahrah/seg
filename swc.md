@@ -231,6 +231,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 ##### General
 
 - [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
+- [Application Development using Microservices and Serverless](https://www.coursera.org/learn/applications-development-microservices-serverless-openshift)
 
 ##### Web
 
