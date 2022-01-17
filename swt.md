@@ -85,30 +85,23 @@ For many organizations, the approach to software quality is one of prevention: i
 
 #### MOOCs
 
+- [Test and Behavior Driven Development (TDD/BDD)](https://www.coursera.org/learn/test-and-behavior-driven-development-tdd-bdd)
 - [Software Testing and Automation](https://www.coursera.org/specializations/software-testing-automation)
-- [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
-- [Software Product Management](https://www.coursera.org/specializations/product-management)
-- [Agile and Scrum Fundamentals](https://www.edx.org/course/agile-and-scrum-fundamentals)
-- [Agile Development](https://www.coursera.org/specializations/agile-development)
 
 #### Websites
 
-- [The Agile Coach](https://www.atlassian.com/agile)
-- [Scrum Guide](http://www.scrumguides.org/)
-- [ALM Body of Knowledge](http://www.almbok.com/)
+- [Test Automation](https://devqa.io/)
 
 ### Advanced
 
 #### MOOCs
 
 - [Automated Software Testing](https://www.edx.org/professional-certificate/delftx-automated-software-testing)
-- [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
-- [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
+- [Introduction to DevOps](https://www.coursera.org/learn/intro-to-devops)
 
 #### Websites
 
 - [Techbeacon - Continuous Testing](https://learn.techbeacon.com/tracks/continuous-testing)
-- [Test Automation](https://devqa.io/)
 - [Huddle Resources](https://huddle.eurostarsoftwaretesting.com/resources/)
 - [SmartBear Resources](https://smartbear.com/resources/)
