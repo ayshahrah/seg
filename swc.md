@@ -97,6 +97,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Java Programming](https://java-programming.mooc.fi/)
 - [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 - [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
+- [Getting Started with Git and GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github)
 
 ##### Web
 
