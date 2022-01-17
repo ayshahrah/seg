@@ -85,9 +85,6 @@ In one sense, it should be possible to manage a software engineering project in 
 
 - [Agile Project Management](https://www.edx.org/professional-certificate/umd-usmx-agile-project-management)
 - [Agile and Scrum Fundamentals](https://www.edx.org/course/agile-and-scrum-fundamentals)
-- [Agile Development](https://www.coursera.org/specializations/agile-development)
-- [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
-- [Software Product Management](https://www.coursera.org/specializations/product-management)
 
 #### Websites
 
@@ -99,9 +96,8 @@ In one sense, it should be possible to manage a software engineering project in 
 
 #### MOOCs
 
-- [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
-- [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
+- [Introduction to DevOps](https://www.coursera.org/learn/intro-to-devops)
 
 #### Websites
 
