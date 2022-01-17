@@ -72,43 +72,37 @@ Augmented reality apps are written in special 3D programs that allow the develop
 - [VR and 360 Video Production](https://www.coursera.org/learn/360-vr-video-production)
 - [Introduction to Augmented Reality and ARCore](https://www.coursera.org/learn/ar)
 - [Unity XR: How to Build AR and VR Apps](https://www.coursera.org/specializations/unity-xr)
+- [Extended Reality for Everybody](https://www.coursera.org/specializations/extended-reality-for-everybody)
 
 #### Websites
 
 - [What is AR, VR, MR, XR, 360?](https://unity3d.com/what-is-xr-glossary)
 - [Designing for VR: A Beginners Guide](https://blog.marvelapp.com/designing-vr-beginners-guide/)
-- [Google VR](https://developers.google.com/vr/)
-- [Google AR](https://developers.google.com/ar/)
-- [Apple AR](https://developer.apple.com/augmented-reality/)
 
 ### Intermediate
 
 #### MOOCs
 
 - [Getting started with Augmented Reality](https://www.coursera.org/learn/augmented-reality)
+- [Creating Virtual Reality (VR) Apps](https://www.edx.org/course/creating-virtual-reality-vr-apps-2)
 - [Learn ARKit using Unity](https://www.udacity.com/course/learn-arkit-using-unity--ud114)
 - [Learn ARKit using Swift](https://www.udacity.com/course/learn-arkit-using-swift--ud116)
 - [Unity Certified Programmer Exam Preparation](https://www.coursera.org/specializations/unity-certified-programmer)
 - [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
 - [VR Interview Prep](https://www.udacity.com/course/vr-interview-prep--ud251)
-- [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
-- [Software Product Management](https://www.coursera.org/specializations/product-management)
-- [Agile and Scrum Fundamentals](https://www.edx.org/course/agile-and-scrum-fundamentals)
-- [Agile Development](https://www.coursera.org/specializations/agile-development)
 
 #### Websites
 
-- [The Agile Coach](https://www.atlassian.com/agile)
-- [Scrum Guide](http://www.scrumguides.org/)
-- [ALM Body of Knowledge](http://www.almbok.com/start)
+- [Google VR](https://developers.google.com/vr/)
+- [Google AR](https://developers.google.com/ar/)
+- [Apple AR](https://developer.apple.com/augmented-reality/)
+- [Unity VR](https://learn.unity.com/course/create-with-vr)
 
 ### Advanced
 
 #### MOOCs
 
-- [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080)
-- [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
-- [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
+- [Exploring the Mixed Reality Landscape](https://www.kadenze.com/courses/exploring-the-mixed-reality-landscape/info)
 
 #### Websites
 
