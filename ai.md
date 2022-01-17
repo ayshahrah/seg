@@ -109,10 +109,6 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [Model Building and Validation](https://www.udacity.com/course/model-building-and-validation--ud919)
 - [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
 - [Machine Learning Interview Preparation](https://www.udacity.com/course/machine-learning-interview-prep--ud1001)
-- [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
-- [Software Product Management](https://www.coursera.org/specializations/product-management)
-- [Agile and Scrum Fundamentals](https://www.edx.org/course/agile-and-scrum-fundamentals)
-- [Agile Development](https://www.coursera.org/specializations/agile-development)
 
 #### Websites
 
@@ -126,9 +122,6 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [Machine Learning Operations](https://ml-ops.org/)
 - [MLOps Course](https://madewithml.com/)
 - [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
-- [The Agile Coach](https://www.atlassian.com/agile)
-- [Scrum Guide](http://www.scrumguides.org/)
-- [ALM Body of Knowledge](http://www.almbok.com/start)
 
 ### Advanced
 
@@ -149,11 +142,6 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
 - [Secure and Private AI](https://www.udacity.com/course/secure-and-private-ai--ud185)
 - [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
-- [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080)
-- [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud)
-- [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
-- [Introduction to DevOps](https://www.coursera.org/learn/intro-to-devops)
-- [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
 
 #### Websites
 
