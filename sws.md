@@ -66,12 +66,12 @@ A generally accepted view concerning software security is that it is much better
 
 #### MOOCs
 
-- [Cybersecurity and Its Ten Domains](https://www.coursera.org/learn/cyber-security-domain/)
-- [IBM Cybersecurity Fundamentals](https://www.edx.org/professional-certificate/ibm-cybersecurity-fundamentals)
+- [Application Security and Monitoring](https://www.coursera.org/learn/application-security-and-monitoring)
 - [Secure Software Development Fundamentals](https://www.edx.org/professional-certificate/linuxfoundationx-secure-software-development-fundamentals)
 - [Software Security](https://www.coursera.org/learn/software-security)
 - [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals-kuleuvenx-websecx)
 - [Cyber Security Base](https://cybersecuritybase.mooc.fi/)
+- [Systems and Application Security](https://www.coursera.org/learn/systems-application-security-sscp)
 
 #### Websites
 
@@ -87,26 +87,20 @@ A generally accepted view concerning software security is that it is much better
 - [Secure Coding Practices](https://www.coursera.org/specializations/secure-coding-practices)
 - [Hacker101](https://www.hacker101.com/)
 - [Cyber Security in the Software Development Life Cycle](https://www.futurelearn.com/courses/cyber-security-in-the-software-development-life-cycle)
-- [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
-- [Software Product Management](https://www.coursera.org/specializations/product-management)
-- [Agile and Scrum Fundamentals](https://www.edx.org/course/agile-and-scrum-fundamentals)
-- [Agile Development](https://www.coursera.org/specializations/agile-development)
 
 #### Websites
 
 - [Security Development Lifecycle](https://www.microsoft.com/en-us/SDL)
 - [Secure Coding](https://developers.redhat.com/topics/secure-coding/)
-- [The Agile Coach](https://www.atlassian.com/agile)
-- [Scrum Guide](http://www.scrumguides.org/)
-- [ALM Body of Knowledge](http://www.almbok.com/start)
 
 ### Advanced
 
 #### MOOCs
 
-- [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080)
-- [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
-- [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
+- [JavaScript Security](https://www.coursera.org/specializations/javascript-security)
+- [Cloud Application Security](https://www.coursera.org/learn/cloud-application-security)
+- [Web Application Security Testing with OWASP ZAP](https://www.coursera.org/projects/web-application-security-testing-with-owsap-zap)
+- [DevSecOps: Continuous Application Security](https://www.linkedin.com/learning/devsecops-continuous-application-security)
 
 #### Websites
 
