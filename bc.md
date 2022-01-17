@@ -57,7 +57,7 @@ Banks and financial institutions across the globe are exploring how they can use
 #### Websites
 
 - [The authoritative guide to blockchain development](https://medium.freecodecamp.org/the-authoritative-guide-to-blockchain-development-855ab65b58bc)
-- [How to Become a Blockchain Developer](https://x-team.com/become-blockchain-developer/)
+- [A QUICK JUMP INTO BLOCKCHAIN & ERC20](https://x-team.com/blog/quick-blockchain-erc20/)
 
 ### Beginner
 
@@ -69,6 +69,7 @@ Banks and financial institutions across the globe are exploring how they can use
 
 #### Websites
 
+- [Blockchain Essentials](https://cognitiveclass.ai/courses/blockchain-course)
 - [Blockchain Learning Hub](https://www.unicef.org/innovation/blockchain-learning-hub)
 
 ### Intermediate
@@ -76,25 +77,17 @@ Banks and financial institutions across the globe are exploring how they can use
 #### MOOCs
 
 - [Blockchain Technology](https://www.edx.org/course/blockchain-advancing-decentralized-technology)
-- [Hyperledger Sawtooth for Application Developers](https://www.edx.org/course/hyperledger-sawtooth-for-application-developers)
-- [Software Development Lifecycle](https://www.coursera.org/specializations/software-development-lifecycle)
-- [Software Product Management](https://www.coursera.org/specializations/product-management)
-- [Agile and Scrum Fundamentals](https://www.edx.org/course/agile-and-scrum-fundamentals)
-- [Agile Development](https://www.coursera.org/specializations/agile-development)
+- [Blockchain Business Models](https://www.coursera.org/learn/blockchain-business-models)
 
 #### Websites
 
-- [The Agile Coach](https://www.atlassian.com/agile)
-- [Scrum Guide](http://www.scrumguides.org/)
-- [ALM Body of Knowledge](http://www.almbok.com/start)
+- [Blockchain for Developers](https://cognitiveclass.ai/learn/blockchain-for-developers)
 
 ### Advanced
 
 #### MOOCs
 
-- [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080)
-- [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
-- [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot-1)
+- [Hyperledger Sawtooth for Application Developers](https://www.edx.org/course/hyperledger-sawtooth-for-application-developers)
 
 #### Websites
 
