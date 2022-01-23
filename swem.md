@@ -96,6 +96,8 @@ In one sense, it should be possible to manage a software engineering project in 
 
 #### MOOCs
 
+- [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080)
+- [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [Introduction to DevOps](https://www.coursera.org/learn/intro-to-devops)
 
