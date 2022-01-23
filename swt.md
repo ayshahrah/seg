@@ -87,16 +87,23 @@ For many organizations, the approach to software quality is one of prevention: i
 
 - [Test and Behavior Driven Development (TDD/BDD)](https://www.coursera.org/learn/test-and-behavior-driven-development-tdd-bdd)
 - [Software Testing and Automation](https://www.coursera.org/specializations/software-testing-automation)
+- [Agile and Scrum Fundamentals](https://www.edx.org/course/agile-and-scrum-fundamentals)
+- [Agile Development](https://www.coursera.org/specializations/agile-development)
 
 #### Websites
 
 - [Test Automation](https://devqa.io/)
+- [The Agile Coach](https://www.atlassian.com/agile)
+- [Scrum Guide](http://www.scrumguides.org/)
+- [ALM Body of Knowledge](http://www.almbok.com/)
 
 ### Advanced
 
 #### MOOCs
 
 - [Automated Software Testing](https://www.edx.org/professional-certificate/delftx-automated-software-testing)
+- [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080)
+- [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud)
 - [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [Introduction to DevOps](https://www.coursera.org/learn/intro-to-devops)
 
