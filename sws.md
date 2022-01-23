@@ -87,19 +87,28 @@ A generally accepted view concerning software security is that it is much better
 - [Secure Coding Practices](https://www.coursera.org/specializations/secure-coding-practices)
 - [Hacker101](https://www.hacker101.com/)
 - [Cyber Security in the Software Development Life Cycle](https://www.futurelearn.com/courses/cyber-security-in-the-software-development-life-cycle)
+- [Agile and Scrum Fundamentals](https://www.edx.org/course/agile-and-scrum-fundamentals)
+- [Agile Development](https://www.coursera.org/specializations/agile-development)
 
 #### Websites
 
 - [Security Development Lifecycle](https://www.microsoft.com/en-us/SDL)
 - [Secure Coding](https://developers.redhat.com/topics/secure-coding/)
+- [The Agile Coach](https://www.atlassian.com/agile)
+- [Scrum Guide](http://www.scrumguides.org/)
+- [ALM Body of Knowledge](http://www.almbok.com/)
 
 ### Advanced
 
 #### MOOCs
 
 - [JavaScript Security](https://www.coursera.org/specializations/javascript-security)
-- [Cloud Application Security](https://www.coursera.org/learn/cloud-application-security)
 - [Web Application Security Testing with OWASP ZAP](https://www.coursera.org/projects/web-application-security-testing-with-owsap-zap)
+- [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080)
+- [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud)
+- [Cloud Application Security](https://www.coursera.org/learn/cloud-application-security)
+- [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
+- [Introduction to DevOps](https://www.coursera.org/learn/intro-to-devops)
 - [DevSecOps: Continuous Application Security](https://www.linkedin.com/learning/devsecops-continuous-application-security)
 
 #### Websites
