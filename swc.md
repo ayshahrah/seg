@@ -98,6 +98,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 - [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
 - [Getting Started with Git and GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github)
+- [Open Source Software Development, Linux and Git](https://www.edx.org/professional-certificate/linuxfoundationx-open-source-software-development-linux-and-git)
 
 ##### Web
 
