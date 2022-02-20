@@ -52,6 +52,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 ### Resources Collections
 
+- [Toools.design](https://www.toools.design/)
 - [Undesign](https://undesign.learn.uno/)
 - [Freebies ByPeople](https://freebies.bypeople.com/)
 - [Checklist Design](https://www.checklist.design/)
