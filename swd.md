@@ -103,6 +103,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 ##### UI & UX
 
+- [User Experience Database](https://www.uxdatabase.io/)
 - [Web Interface Handbook](https://imperavi.com/books/web-interface-handbook/)
 - [Laws of UX](https://lawsofux.com/)
 - [Google Design](https://design.google/)
