@@ -56,9 +56,9 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [free-programming-books](https://ebookfoundation.github.io/free-programming-books/)
 - [Awesome Resources](https://github.com/sindresorhus/awesome)
 - [Analysis Tools](https://analysis-tools.dev/)
-- [Awesome Open Source](https://awesomeopensource.com/)
-- [Open Source Stash](https://opensourcestash.com/)
+- [Open Source Advisor](https://snyk.io/advisor/)
 - [Openbase](https://openbase.io/)
+- [Awesome Open Source](https://awesomeopensource.com/)
 - [Public APIs](https://publicapis.sznm.dev/)
 
 ## Learning Resources
