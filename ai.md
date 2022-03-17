@@ -136,6 +136,7 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
 - [TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques)
 - [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+- [MLOps for Scaling TinyML](https://www.edx.org/course/mlops-for-scaling-tinyml)
 - [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 - [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing)
 - [Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
