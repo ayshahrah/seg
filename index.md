@@ -16,7 +16,7 @@ Software engineering is a broad field that encompasses many sub-fields. It also 
 
 ### Principles
 
-There are some important principles to guide yourself in your self-learning journey. These principles include: purpose, ambition, passion, focus, self-motivation, self-learning, seriousness, and patience. Such principles are really helpful to get into a mastery level of software engineering.
+There are some important principles to guide yourself in your self-learning journey. These principles include purpose, ambition, passion, focus, self-motivation, self-learning, seriousness, and patience. Such principles are really helpful to get into a mastery level of software engineering.
 
 ![](Slide5.JPG "Principles") 
 
