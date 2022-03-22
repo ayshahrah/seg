@@ -16,7 +16,7 @@ Software engineering is a broad field that encompasses many sub-fields. It also 
 
 ### Principles
 
-There are some important principles to guide yourself in your self-learning journey. These principles include: purpose, ambition, passion, focus, self-motivation, self-learning, seriousness, and patience. Such principles are really helpfull to get into a mastery level of software engineering.
+There are some important principles to guide yourself in your self-learning journey. These principles include: purpose, ambition, passion, focus, self-motivation, self-learning, seriousness, and patience. Such principles are really helpful to get into a mastery level of software engineering.
 
 ![](Slide5.JPG "Principles") 
 
@@ -79,8 +79,8 @@ The SEG recommends a set of activities to guide the self-learners. The first act
 
 | Level        | Description           | Outcome  |
 | ------------- |:-------------| :-----|
-| **Foundation**     | Learn how to learn and an introduction to software development process | Understanding the techniques of effective learning, and the basics of software development process|
-| **Beginner**     | Basic topics and concepts of the selected learning path | Understanding the fundemantal concepts of the selected learning path |
+| **Foundation**     | Learn how to learn and an introduction to the software development process | Understanding the techniques of effective learning, and the basics of the software development process|
+| **Beginner**     | Basic topics and concepts of the selected learning path | Understanding the fundamental concepts of the selected learning path |
 | **Intermediate** | Intermediate topics, agile methods, and application life-cycle management (ALM) software | Understanding the intermediate topics, and the ability to develop applications using an agile approach and ALM software |
 | **Advanced** | Advanced topics, next-generation technologies (e.g. cloud computing), and modern approaches (e.g. DevOps)      |     Understanding the advanced topics, and the ability to develop next-generation applications using cloud computing and DevOps |
 
