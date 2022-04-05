@@ -106,6 +106,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [HTML5 Canvas](https://www.udacity.com/course/html5-canvas--ud292)
 - [Introduction to Web Development](https://www.futurelearn.com/courses/introduction-to-web-development)
 - [Front-End Web Developer](https://www.edx.org/professional-certificate/w3cx-front-end-web-developer)
+- [JavaScript for Beginners](https://www.coursera.org/specializations/javascript-beginner)
 - [Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)
 - [Introduction to Web Authentication](https://www.edx.org/course/introduction-to-web-authentication)
 - [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
