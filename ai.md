@@ -141,6 +141,7 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing)
 - [Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
 - [A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
+- [Natural Language Processing (NLP) for Semantic Search](https://www.pinecone.io/learn/nlp/)
 - [Secure and Private AI](https://www.udacity.com/course/secure-and-private-ai--ud185)
 - [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
 
