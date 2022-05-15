@@ -34,7 +34,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 ### Professional Certifications
 
 - [IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
-- [IBM Full Stack Cloud Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
+- [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
 - [CompTIA Career Roadmap](https://www.comptia.org/content/it-careers-path-roadmap/software-and-web-developers)
 
 ### Online Communities
@@ -103,9 +103,10 @@ Since software construction requires knowledge of algorithms and of coding pract
 ##### Web
 
 - [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001)
+- [Introduction to Web Development](https://www.futurelearn.com/courses/introduction-to-web-development)
+- [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 - [HTML5 Canvas](https://www.udacity.com/course/html5-canvas--ud292)
 - [JavaScript for Beginners](https://www.coursera.org/specializations/javascript-beginner)
-- [Introduction to Web Development](https://www.futurelearn.com/courses/introduction-to-web-development)
 - [Front-End Web Developer](https://www.edx.org/professional-certificate/w3cx-front-end-web-developer)
 - [Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)
 - [Introduction to Web Authentication](https://www.edx.org/course/introduction-to-web-authentication)
