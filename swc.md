@@ -159,6 +159,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
 - [Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
 - [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+- [Responsive Website Development and Design](https://www.coursera.org/specializations/website-development)
 - [Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
 - [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)
 - [Introduction to ReactJS](https://www.edx.org/course/introduction-to-reactjs)
