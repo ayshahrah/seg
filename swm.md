@@ -40,6 +40,7 @@ Software maintenance is defined as the totality of activities required to provid
 
 - [CompTIA Career Roadmap](https://www.comptia.org/content/it-careers-path-roadmap/it-support-specialist)
 - [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
+- [IBM Technical Support Professional Certificate](https://www.coursera.org/professional-certificates/ibm-technical-support)
 - [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
 - [Cloud Engineering with GCP Professional Certificate](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
 - [Cloud Architecture with GCP Professional Certificate](https://www.coursera.org/professional-certificates/gcp-cloud-architect)
