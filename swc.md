@@ -33,6 +33,11 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ### Professional Certifications
 
+- [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+- [Meta Back-End Developer Professional Certificate](Meta Back-End Developer Professional Certificate)
+- [Meta Android Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-android-developer)
+- [Meta iOS Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-ios-developer)
+- [Meta Database Engineer Professional Certificate](https://www.coursera.org/professional-certificates/meta-database-engineer)
 - [IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
 - [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
 - [CompTIA Career Roadmap](https://www.comptia.org/content/it-careers-path-roadmap/software-and-web-developers)
