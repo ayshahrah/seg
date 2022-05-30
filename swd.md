@@ -92,6 +92,10 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [UI / UX Design](https://www.coursera.org/specializations/ui-ux-design)
 - [Introduction to User Experience Design](https://www.coursera.org/learn/user-experience-design)
 - [Graphic Design](https://www.coursera.org/specializations/graphic-design)
+- [Adobe XD for Beginners](https://www.classcentral.com/course/youtube-adobe-xd-for-beginners-free-course-89951/classroom)
+- [Figma Course - Web Design Tutorial for Beginners](https://www.classcentral.com/course/freecodecamp-figma-course-web-design-tutorial-for-beginners-57036/classroom)
+- [Figma Tutorials: The Ultimate Crash Course](https://www.classcentral.com/course/youtube-figma-tutorials-the-ultimate-crash-course-51794/classroom)
+- [Sketch for Beginners](https://www.classcentral.com/course/youtube-sketch-for-beginners-free-course-89473/classroom)
 
 #### Websites
 
