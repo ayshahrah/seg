@@ -123,6 +123,8 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ##### Mobile
 
+- [Meta React Native](https://www.coursera.org/specializations/meta-react-native)
+
 ###### Android
 
 - [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
