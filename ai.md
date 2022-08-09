@@ -91,6 +91,7 @@ Self-driving cars and computers that play chess are two examples of machines wit
 
 #### Websites
 
+- [Artificial Intelligence for Beginners](https://microsoft.github.io/AI-For-Beginners/)
 - [AI Playbook](http://aiplaybook.a16z.com/)
 - [Microsoft AI School](https://aischool.microsoft.com/en-us/home)
 - [Intel AI Courses](https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/courses.html)
