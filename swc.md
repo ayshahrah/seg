@@ -129,11 +129,13 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 - [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 - [Build Your First Android App (Project-Centered Course)](https://www.coursera.org/learn/android-app)
+- [Android Mobile Lifecycle and Software Development Approaches](https://www.coursera.org/learn/android-mobile-lifecycle-and-software-development-approaches)
 
 ###### iOS
 
 - [Swift for Beginners](https://www.udacity.com/course/swift-for-beginners--ud1022)
 - [iOS App Development with Swift](https://www.coursera.org/specializations/app-development)
+- [iOS Mobile Lifecycle and Software Development Approaches](https://www.coursera.org/learn/ios-mobile-lifecycle-and-software-development-approaches)
 
 #### Websites
 
