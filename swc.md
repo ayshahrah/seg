@@ -128,12 +128,15 @@ Since software construction requires knowledge of algorithms and of coding pract
 ###### Android
 
 - [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
+- [Kotlin Basics](https://hyperskill.org/tracks/18)
 - [Build Your First Android App (Project-Centered Course)](https://www.coursera.org/learn/android-app)
 - [Android Mobile Lifecycle and Software Development Approaches](https://www.coursera.org/learn/android-mobile-lifecycle-and-software-development-approaches)
 
 ###### iOS
 
 - [Swift for Beginners](https://www.udacity.com/course/swift-for-beginners--ud1022)
+- [Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
+- [Your First iOS & SwiftUI App: An App from Scratch](https://www.raywenderlich.com/28797163-your-first-ios-swiftui-app-an-app-from-scratch)
 - [iOS App Development with Swift](https://www.coursera.org/specializations/app-development)
 - [iOS Mobile Lifecycle and Software Development Approaches](https://www.coursera.org/learn/ios-mobile-lifecycle-and-software-development-approaches)
 
@@ -275,7 +278,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ###### iOS
 
-- [CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
 - [iOS Networking with Swift](https://www.udacity.com/course/ios-networking-with-swift--ud421)
 - [iOS Design Patterns](https://www.udacity.com/course/ios-design-patterns--ud1029)
 
