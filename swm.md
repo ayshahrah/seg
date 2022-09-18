@@ -110,6 +110,7 @@ Software maintenance is defined as the totality of activities required to provid
 - [Introduction to Cloud Infrastructure Technologies](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x#!)
 - [Introduction to Cloud Foundry and Cloud Native Software Architecture](https://www.edx.org/course/introduction-cloud-foundry-cloud-native-linuxfoundationx-lfs132x)
 - [Hybrid Cloud Fundamentals](https://www.udacity.com/course/hybrid-cloud-fundamentals--ud0321)
+- [Monitoring and Observability for Application Developers](https://www.edx.org/course/monitoring-and-observability-for-application-developers)
 
 #### Websites
 
