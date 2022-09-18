@@ -45,6 +45,7 @@ Software maintenance is defined as the totality of activities required to provid
 - [Cloud Engineering with GCP Professional Certificate](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
 - [Cloud Architecture with GCP Professional Certificate](https://www.coursera.org/professional-certificates/gcp-cloud-architect)
 - [Prepare for the CompTIA A+ Certification](https://www.linkedin.com/learning/paths/prepare-for-the-comptia-a-plus-certification-220-1001-and-220-1002)
+- [DevOps and Software Engineering Professional Certificate](https://www.edx.org/professional-certificate/ibm-devops-and-software-engineering)
 
 ### Online Communities
 
