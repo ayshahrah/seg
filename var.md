@@ -29,6 +29,7 @@ Augmented reality apps are written in special 3D programs that allow the develop
 ### Professional Certifications
 
 - [Unity Certification](https://certification.unity.com/)
+- [Professional Certificate in Spark AR for Beginners](https://www.edx.org/professional-certificate/meta-spark-ar-for-beginners)
 
 ### Online Communities
 
