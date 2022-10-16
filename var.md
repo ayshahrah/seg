@@ -74,6 +74,7 @@ Augmented reality apps are written in special 3D programs that allow the develop
 - [Introduction to Augmented Reality and ARCore](https://www.coursera.org/learn/ar)
 - [Unity XR: How to Build AR and VR Apps](https://www.coursera.org/specializations/unity-xr)
 - [Extended Reality for Everybody](https://www.coursera.org/specializations/extended-reality-for-everybody)
+- [What is the Metaverse?](https://www.coursera.org/learn/what-is-the-metaverse)
 
 #### Websites
 
