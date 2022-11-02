@@ -88,7 +88,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 ##### UI & UX
 
-- [Principles of UI/UX Design](https://www.coursera.org/learn/principles-of-ui-ux-design)
+- [Principles of UX/UI Design](https://www.coursera.org/learn/principles-of-ux-ui-design)
 - [Google UX Design](https://www.coursera.org/professional-certificates/google-ux-design)
 - [UI / UX Design](https://www.coursera.org/specializations/ui-ux-design)
 - [Introduction to User Experience Design](https://www.coursera.org/learn/user-experience-design)
