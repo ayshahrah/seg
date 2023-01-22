@@ -154,6 +154,7 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [The Roadmap of Mathematics for Deep Learning](https://towardsdatascience.com/the-roadmap-of-mathematics-for-deep-learning-357b3db8569b)
 - [Practical Deep Learning for Coders](https://fastai.github.io/fastbook2e/)
 - [Dive into Deep Learning](https://d2l.ai/)
+- [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)
 - [AI Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum#introduction-to-deep-learning)
 - [MIT Deep Learning](https://deeplearning.mit.edu/)
 - [DeepLearning.AI](https://www.deeplearning.ai/)
