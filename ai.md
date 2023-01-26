@@ -105,6 +105,8 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
 - [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 - [Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
+- [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
+- [Mathematics for Machine Learning and Data Science](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 - [Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [Machine Learning: Unsupervised Learning](https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741)
