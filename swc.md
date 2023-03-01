@@ -132,6 +132,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Kotlin Basics](https://hyperskill.org/tracks/18)
 - [Build Your First Android App (Project-Centered Course)](https://www.coursera.org/learn/android-app)
 - [Android Mobile Lifecycle and Software Development Approaches](https://www.coursera.org/learn/android-mobile-lifecycle-and-software-development-approaches)
+- [The Web and Databases in Android](https://www.coursera.org/learn/web-databases)
 
 ###### iOS
 
