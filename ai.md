@@ -87,6 +87,7 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [Introduction to Artificial Intelligence (AI)](https://www.coursera.org/learn/introduction-to-ai)
 - [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
 - [Elements of AI](https://www.elementsofai.com/)
+- [AI Product Management](https://www.coursera.org/specializations/ai-product-management-duke)
 - [Robotics](https://www.coursera.org/specializations/robotics)
 - [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
