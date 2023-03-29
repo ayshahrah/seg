@@ -35,6 +35,7 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [ARTiBA Artificial Intelligence Engineer](https://www.artiba.org/certification/artificial-intelligence-certification)
 - [IABAC Artificial Intelligence Certification](https://iabac.org/artificial-intelligence-certification/)
 - [Fundamentals of Google AI for Web Based Machine Learning](https://www.edx.org/professional-certificate/google-fundamentals-of-google-ai-for-web-based-machine-learning)
+- [IBM Foundations of AI Professional Certificate](https://www.edx.org/professional-certificate/foundations-of-ai)
 - [IBM Applied AI Professional Certificate](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)
 - [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer)
 - [IBM Machine Learning Professional Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning)
