@@ -133,6 +133,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Build Your First Android App (Project-Centered Course)](https://www.coursera.org/learn/android-app)
 - [Android Mobile Lifecycle and Software Development Approaches](https://www.coursera.org/learn/android-mobile-lifecycle-and-software-development-approaches)
 - [The Web and Databases in Android](https://www.coursera.org/learn/web-databases)
+- [UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
 
 ###### iOS
 
