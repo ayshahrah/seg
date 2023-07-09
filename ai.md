@@ -89,6 +89,7 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [Introduction to Artificial Intelligence (AI)](https://www.coursera.org/learn/introduction-to-ai)
 - [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
 - [Elements of AI](https://www.elementsofai.com/)
+- [Introduction to Generative AI](https://www.coursera.org/learn/introduction-to-generative-ai)
 - [AI Product Management](https://www.coursera.org/specializations/ai-product-management-duke)
 - [Robotics](https://www.coursera.org/specializations/robotics)
 - [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
@@ -107,6 +108,8 @@ Self-driving cars and computers that play chess are two examples of machines wit
 
 - [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
 - [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+- [Generative AI Short Courses](https://www.deeplearning.ai/short-courses/)
+- [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)
 - [Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
 - [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [Mathematics for Machine Learning and Data Science](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
