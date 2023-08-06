@@ -69,7 +69,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 - [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
 - [Mindshift](https://www.coursera.org/learn/mindshift)
-- [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials)
+- [Introduction to Software Engineering](https://www.coursera.org/learn/introduction-to-software-engineering)
 
 #### Websites
 
