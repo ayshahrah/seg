@@ -225,8 +225,8 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 - [Introduction to Databases with SQL](https://www.edx.org/course/cs50s-introduction-to-databases-with-sql)
 - [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
+- [Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
 - [Database Management Essentials](https://www.coursera.org/learn/database-management)
-- [Database Systems Concepts & Design](https://omscs.gatech.edu/cs-6400-database-systems-concepts-and-design-course-videos)
 - [NoSQL Database Basics](https://www.edx.org/course/nosql-basics)
 
 ##### Data Structures and Algorithms
