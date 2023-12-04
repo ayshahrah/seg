@@ -51,7 +51,3 @@
 - [The Iterative Innovation Process](https://www.edx.org/course/the-iterative-innovation-process)
 - [Innovating in a Digital World](https://www.coursera.org/learn/innovating-digital-world)
 
-### Websites
-
-- [SkillsMatch](https://beta.skillsmatch.eu/)
-
