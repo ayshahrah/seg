@@ -39,8 +39,8 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [Meta iOS Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-ios-developer)
 - [Meta Database Engineer Professional Certificate](https://www.coursera.org/professional-certificates/meta-database-engineer)
 - [IBM Full-Stack JavaScript Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-javascript-developer)
-- [IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
 - [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
+- [IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
 - [CompTIA Career Roadmap](https://www.comptia.org/content/it-careers-path-roadmap/software-and-web-developers)
 
 ### Online Communities
