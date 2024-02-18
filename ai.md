@@ -11,9 +11,9 @@ Self-driving cars and computers that play chess are two examples of machines wit
 
 ### Knowledge and Skills
 
-- [Career Insights: What does an AI Engineer do?](https://www.freelancermap.com/blog/what-does-ai-engineer-do/)
-- [5 Skills You Need to Become a Machine Learning Engineer](https://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html)
-- [Machine Learning Engineer Job Description](https://www.toptal.com/machine-learning/job-description)
+- [Artificial Intelligence Engineer Job Description](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/artificial-intelligence-engineer)
+- [Machine Learning Engineer Job Description](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/machine-learning-engineer)
+- [Robotics Engineer Job Description](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/robotics-engineer)
 
 ### Possible Roles
 
