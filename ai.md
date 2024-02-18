@@ -28,13 +28,12 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [How to Become an AI Engineer](https://www.simplilearn.com/how-to-become-an-ai-engineer-article)
 - [How to Become a Machine Learning Engineer?](https://www.simplilearn.com/how-to-become-a-machine-learning-engineer-article)
 - [How to become a Robotics Engineer](https://www.careerexplorer.com/careers/robotics-engineer/how-to-become/)
-- [Personalized Data-AI Skills Transformation](https://workera.ai/)
 
 ### Professional Certifications
 
 - [ARTiBA Artificial Intelligence Engineer](https://www.artiba.org/certification/artificial-intelligence-certification)
 - [IABAC Artificial Intelligence Certification](https://iabac.org/artificial-intelligence-certification/)
-- [Fundamentals of Google AI for Web Based Machine Learning](https://www.edx.org/professional-certificate/google-fundamentals-of-google-ai-for-web-based-machine-learning)
+- [Fundamentals of Google AI for Web Based Machine Learning Professional Certificate](https://www.edx.org/professional-certificate/google-fundamentals-of-google-ai-for-web-based-machine-learning)
 - [IBM Foundations of AI Professional Certificate](https://www.edx.org/professional-certificate/foundations-of-ai)
 - [IBM Applied AI Professional Certificate](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)
 - [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer)
@@ -55,14 +54,10 @@ Self-driving cars and computers that play chess are two examples of machines wit
 
 ### Resources Collections
 
-- [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence)
-- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+- [Hugging Face](https://huggingface.co/)
 - [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
 - [Awesome MLOps](https://github.com/visenger/awesome-mlops)
-- [Awesome Data Labeling](https://github.com/heartexlabs/awesome-data-labeling)
-- [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning)
 - [Papers With Code](https://paperswithcode.com/)
-- [Hugging Face](https://huggingface.co/)
 
 ## Learning Resources
 
@@ -85,22 +80,16 @@ Self-driving cars and computers that play chess are two examples of machines wit
 
 #### MOOCs
 
-- [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 - [Introduction to Artificial Intelligence (AI)](https://www.coursera.org/learn/introduction-to-ai)
 - [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
-- [Elements of AI](https://www.elementsofai.com/)
 - [Introduction to Generative AI](https://www.coursera.org/learn/introduction-to-generative-ai)
-- [AI Product Management](https://www.coursera.org/specializations/ai-product-management-duke)
 - [Robotics](https://www.coursera.org/specializations/robotics)
-- [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
-- [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
 
 #### Websites
 
 - [Artificial Intelligence for Beginners](https://microsoft.github.io/AI-For-Beginners/)
 - [AI Playbook](http://aiplaybook.a16z.com/)
 - [Microsoft AI School](https://aischool.microsoft.com/en-us/home)
-- [Intel AI Courses](https://www.intel.com/content/www/us/en/developer/topic-technology/artificial-intelligence/training/courses.html)
 
 ### Intermediate
 
@@ -108,64 +97,39 @@ Self-driving cars and computers that play chess are two examples of machines wit
 
 - [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
 - [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
-- [Generative AI Short Courses](https://www.deeplearning.ai/short-courses/)
-- [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)
-- [Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
-- [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
-- [Mathematics for Machine Learning and Data Science](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
-- [Machine Learning](https://www.coursera.org/learn/machine-learning)
-- [Machine Learning: Unsupervised Learning](https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741)
+- [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)
 - [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
+- [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)
+- [Generative AI Short Courses](https://www.deeplearning.ai/short-courses/)
 - [Tiny Machine Learning (TinyML)](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
-- [Model Building and Validation](https://www.udacity.com/course/model-building-and-validation--ud919)
 - [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
 - [Machine Learning Interview Preparation](https://www.udacity.com/course/machine-learning-interview-prep--ud1001)
 
 #### Websites
 
-- [Mathematics for Machine Learning](https://mml-book.github.io/)
-- [Machine Learning - A First Course for Engineers and Scientists](http://smlbook.org/)
-- [Learn from ML experts at Google](https://ai.google/education/)
-- [Machine Learning Cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/)
-- [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
-- [Machine Learning Yearning](https://www.deeplearning.ai/machine-learning-yearning/)
-- [Open Machine Learning Course](https://mlcourse.ai/)
+- [Google AI](https://ai.google/)
 - [Machine Learning Operations](https://ml-ops.org/)
-- [MLOps Course](https://madewithml.com/)
 - [Introduction to Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
 
 ### Advanced
 
 #### MOOCs
 
-- [Deep Learning - Coursera](https://www.coursera.org/specializations/deep-learning)
-- [Deep Learning - GitHub](https://atcold.github.io/pytorch-Deep-Learning/)
+- [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+- [Deep Learning](https://www.coursera.org/specializations/deep-learning)
 - [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 - [Practical Deep Learning For Coders](http://course.fast.ai/)
-- [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
 - [TensorFlow in Practice](https://www.coursera.org/specializations/tensorflow-in-practice)
 - [TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
 - [TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques)
-- [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
-- [MLOps for Scaling TinyML](https://www.edx.org/course/mlops-for-scaling-tinyml)
 - [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 - [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing)
-- [Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
 - [A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
 - [Natural Language Processing (NLP) for Semantic Search](https://www.pinecone.io/learn/nlp/)
-- [Secure and Private AI](https://www.udacity.com/course/secure-and-private-ai--ud185)
-- [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
 
 #### Websites
 
-- [The Roadmap of Mathematics for Deep Learning](https://towardsdatascience.com/the-roadmap-of-mathematics-for-deep-learning-357b3db8569b)
 - [Practical Deep Learning for Coders](https://fastai.github.io/fastbook2e/)
 - [Dive into Deep Learning](https://d2l.ai/)
 - [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)
-- [AI Curriculum](https://github.com/Machine-Learning-Tokyo/AI_Curriculum#introduction-to-deep-learning)
-- [MIT Deep Learning](https://deeplearning.mit.edu/)
-- [DeepLearning.AI](https://www.deeplearning.ai/)
-- [Fast.ai](http://www.fast.ai/)
-- [AI Hub](https://aihub.cloud.google.com/u/0/)
-
