@@ -30,6 +30,7 @@ In one sense, it should be possible to manage a software engineering project in 
 
 ### Professional Certifications
 
+- [IBM IT Project Manager Professional Certificate](https://www.coursera.org/professional-certificates/ibm-it-project-manager)
 - [Google Project Management Professional Certificate](https://www.coursera.org/professional-certificates/google-project-management)
 - [Certified Associate in Project Management (CAPM)](https://www.pmi.org/certifications/types/certified-associate-capm)
 - [Project Management Professional (PMP)](https://www.pmi.org/certifications/types/project-management-pmp)
@@ -69,8 +70,6 @@ In one sense, it should be possible to manage a software engineering project in 
 
 #### MOOCs
 
-- [Google Project Management](https://www.coursera.org/professional-certificates/google-project-management)
-- [Introduction to Project Management](https://www.coursera.org/learn/introduction-to-project-management)
 - [Engineering Project Management](https://www.coursera.org/specializations/engineering-project-management)
 - [Leading People and Teams](https://www.coursera.org/specializations/leading-teams)
 - [Managing Projects with Microsoft Project](https://www.edx.org/course/managing-projects-microsoft-project-microsoft-cld213x-0)
