@@ -11,9 +11,9 @@ Self-driving cars and computers that play chess are two examples of machines wit
 
 ### Knowledge and Skills
 
-- [Artificial Intelligence Engineer Job Description](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/artificial-intelligence-engineer)
-- [Machine Learning Engineer Job Description](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/machine-learning-engineer)
-- [Robotics Engineer Job Description](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/robotics-engineer)
+- [Artificial Intelligence Engineer Job Description](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/artificial-intelligence-engineer/job-description)
+- [Machine Learning Engineer Job Description](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/machine-learning-engineer/job-description)
+- [Robotics Engineer Job Description](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/robotics-engineer/job-description)
 
 ### Possible Roles
 
