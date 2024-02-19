@@ -64,8 +64,6 @@ Banks and financial institutions across the globe are exploring how they can use
 
 #### MOOCs
 
-- [Blockchain Essentials](https://www.edx.org/professional-certificate/ibm-blockchain-essentials)
-- [Blockchain](https://www.coursera.org/specializations/uci-blockchain)
 - [Blockchain Revolution](https://www.coursera.org/specializations/blockchain-revolution-enterprise)
 - [Blockchain: Foundations and Use Cases](https://www.coursera.org/learn/blockchain-foundations-and-use-cases)
 - [A Beginner’s Guide to Becoming a Blockchain Developer with Overledger](https://www.futurelearn.com/courses/become-a-blockchain-developer-foundations)
