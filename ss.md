@@ -9,17 +9,11 @@
 
 - [People and Soft Skills for Professional and Personal](https://www.coursera.org/specializations/people-and-soft-skills-for-professional-success)
 
-**Presentation**
-
-- [Public Speaking](https://www.edx.org/course/public-speaking-2)
-- [Dynamic Public Speaking](https://www.coursera.org/specializations/public-speaking)
-- [Presentation Skills: Speechwriting, Slides and Delivery](https://www.coursera.org/specializations/presentation-skills)
-
 **Communication**
 
 - [Effective Communication: Writing, Design, and Presentation](https://www.coursera.org/specializations/effective-business-communication)
 - [Communication Skills and Teamwork](https://www.edx.org/course/communication-skills-and-teamwork-2)
-- [Communication Strategies for a Virtual Age](https://www.coursera.org/learn/communication-strategies-virtual-age)
+- [Improving Communication Skills](https://www.coursera.org/learn/wharton-communication-skills)
 
 **Critical Thinking**
 
@@ -29,25 +23,13 @@
 
 **Design Thinking**
 
-- [A Virtual Crash Course in Design Thinking](https://dschool.stanford.edu/resources/a-virtual-crash-course-in-design-thinking)
-- [Design Thinking for Innovation](https://www.coursera.org/learn/uva-darden-design-thinking-innovation)
-- [Design Thinking](https://www.edx.org/micromasters/design-thinking)
+- [Try It: Intro to Design Thinking](https://www.edx.org/learn/design-thinking/edx-try-it-intro-to-design-thinking)
+- [Design Thinking - RIT](https://www.edx.org/masters/micromasters/ritx-design-thinking)
+- [Design Thinking - UVA](https://www.coursera.org/specializations/uva-darden-design-thinking)
 
 **Emotional Intelligence**
 
 - [Empathy and Emotional Intelligence at Work](https://www.edx.org/course/empathy-emotional-intelligence-work-uc-berkeleyx-gg203x)
 - [Leadership and Emotional Intelligence](https://www.coursera.org/learn/emotional-intelligence-in-leadership)
 - [Inspiring Leadership through Emotional Intelligence](https://www.coursera.org/learn/emotional-intelligence-leadership)
-
-**Career**
-
-- [Career planning: resume/CV, cover letter, interview](https://www.coursera.org/learn/career-planning-tsu)
-- [Designing Your Career](https://www.edx.org/course/designing-your-career)
-- [Digital Skills: Grow Your Career](https://www.futurelearn.com/courses/digital-skills-grow-your-career)
-
-**Innovation**
-
-- [Creativity, Innovation, and Change](https://www.coursera.org/learn/creativity-innovation)
-- [The Iterative Innovation Process](https://www.edx.org/course/the-iterative-innovation-process)
-- [Innovating in a Digital World](https://www.coursera.org/learn/innovating-digital-world)
 
