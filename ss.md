@@ -17,9 +17,9 @@
 
 **Critical Thinking**
 
+- [Introduction to Logic and Critical Thinking](https://www.coursera.org/specializations/logic-critical-thinking-duke)
 - [Creative Thinking: Techniques and Tools for Success](https://www.edx.org/course/creative-thinking-techniques-0)
-- [Problem Solving and Critical Thinking Skills](https://www.edx.org/course/problem-solving-and-critical-thinking-skills-2)
-- [Logical and Critical Thinking](https://www.futurelearn.com/courses/logical-and-critical-thinking)
+- [Critical Thinking & Problem Solving](https://www.edx.org/learn/critical-thinking-skills/rochester-institute-of-technology-critical-thinking-problem-solving)
 
 **Design Thinking**
 
@@ -30,6 +30,6 @@
 **Emotional Intelligence**
 
 - [Empathy and Emotional Intelligence at Work](https://www.edx.org/course/empathy-emotional-intelligence-work-uc-berkeleyx-gg203x)
-- [Leadership and Emotional Intelligence](https://www.coursera.org/learn/emotional-intelligence-in-leadership)
-- [Inspiring Leadership through Emotional Intelligence](https://www.coursera.org/learn/emotional-intelligence-leadership)
+- [Emotional and Social Intelligence](https://www.coursera.org/learn/emotional-and-social-intelligence)
+- [Managing Emotions in Times of Uncertainty & Stress](https://www.coursera.org/learn/managing-emotions-uncertainty-stress)
 
