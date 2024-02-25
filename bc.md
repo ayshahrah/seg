@@ -9,15 +9,9 @@ Banks and financial institutions across the globe are exploring how they can use
 
 *Source: [Techtarget](https://searchcio.techtarget.com/definition/blockchain)*
 
-### Knowledge and Skills
-
-- [5 Skill Sets a Blockchain Developer Must Have](https://www.blockchain-council.org/blockchain/5-skill-sets-a-blockchain-developer-must-have/)
-- [What Skills Do You Need to Be a Blockchain Engineer?](https://hackernoon.com/what-skills-do-you-need-to-be-a-blockchain-engineer-c4e77e9de22b)
-- [Blockchain Developer Job Description](https://www.toptal.com/blockchain/job-description)
-
 ### Possible Roles
 
-- [Blockchain Developer](https://opensource.com/article/19/4/blockchain-career-developer)
+- [Blockchain Developer](https://www.toptal.com/blockchain/job-description)
 - [Blockchain Engineer](https://study.com/articles/blockchain_engineer_job_description_salary.html)
 
 ### How To
