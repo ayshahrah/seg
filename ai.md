@@ -9,17 +9,11 @@ Self-driving cars and computers that play chess are two examples of machines wit
 
 *Source: [TechTarget](https://searchenterpriseai.techtarget.com/definition/AI-Artificial-Intelligence)*
 
-### Knowledge and Skills
+### Possible Roles
 
 - [Artificial Intelligence Engineer Job Description](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/artificial-intelligence-engineer/job-description)
 - [Machine Learning Engineer Job Description](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/machine-learning-engineer/job-description)
 - [Robotics Engineer Job Description](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/robotics-engineer/job-description)
-
-### Possible Roles
-
-- [Artificial Intelligence Engineer](https://www.datarobot.com/wiki/ai-engineer/)
-- [Machine Learning Engineer](https://www.oreilly.com/radar/what-are-machine-learning-engineers/)
-- [Robotics Engineer](https://www.careerexplorer.com/careers/robotics-engineer/)
 
 ### How To
 
