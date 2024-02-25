@@ -11,18 +11,13 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 *Source: [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)*
 
-### Knowledge and Skills
-
-- [Front-End Developer Job Description](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/front-end-developer/job-description)
-- [Back-End Developer Job Description](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/back-end-developer/job-description)
-- [Full-stack Developer Job Description](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/full-stack-developer/job-description)
-- [Android Developer Job Description](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/android-developer/job-description)
-- [iOS Developer Job Description](https://www.toptal.com/ios/job-description)
-
 ### Possible Roles
 
-- [Web Developer](https://www.careerexplorer.com/careers/web-developer/)
-- [Mobile Developer](https://www.careerexplorer.com/careers/app-developer/)
+- [Front-End Developer](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/front-end-developer/job-description)
+- [Back-End Developer](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/back-end-developer/job-description)
+- [Full-stack Developer](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/full-stack-developer/job-description)
+- [Android Developer](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/android-developer/job-description)
+- [iOS Developer](https://www.toptal.com/ios/job-description)
 
 ### How To
 
