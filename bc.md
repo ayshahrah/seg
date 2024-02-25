@@ -12,7 +12,7 @@ Banks and financial institutions across the globe are exploring how they can use
 ### Possible Roles
 
 - [Blockchain Developer](https://www.toptal.com/blockchain/job-description)
-- [Blockchain Engineer](https://study.com/articles/blockchain_engineer_job_description_salary.html)
+- [Blockchain Engineer](https://hiring.monster.com/resources/job-descriptions/computer/blockchain-engineer-job-description/)
 
 ### How To
 
