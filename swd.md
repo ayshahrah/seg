@@ -11,34 +11,23 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 *Source: [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)*
 
-### Knowledge and Skills
-
-- [Software Architect Job Description](https://www.indeed.com/hire/job-description/software-architect)
-- [Web Designer Job Description](https://www.toptal.com/designers/web/job-description)
-- [Mobile Application Designer Job Description](https://www.toptal.com/designers/mobile/job-description)
-- [User Interface (UI) Designer Job Description](https://www.toptal.com/designers/ui/job-description)
-- [User-Experience (UX) Job Description](https://www.toptal.com/designers/ux/job-description)
-
 ### Possible Roles
 
-- [Software Architect](https://www.softwareengineerinsider.com/careers/software-architect.html)
-- [Software Designer](https://www.softwareengineerinsider.com/careers/software-designer.html)
-- [Web Designer](https://www.careerexplorer.com/careers/web-designer/)
-- [User Interface (UI) Designer](https://www.econsultancy.com/blog/68842-a-day-in-the-life-of-a-user-interface-designer)
-- [User Experience (UX) Designer](https://www.careerexplorer.com/careers/ux-designer/)
+- [Software Architect](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/software-architect/job-description)
+- [UX Designer](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/ux-designer/job-description)
+- [UI Designer](https://www.toptal.com/designers/ui/job-description)
 
 ### How To
 
 - [The Path to Becoming a Software Architect](https://medium.com/@nvashanin/the-path-to-becoming-a-software-architect-de53f1cb310a)
-- [How to Become a UI Designer](https://careerfoundry.com/en/blog/ui-design/how-to-become-a-ui-designer/)
 - [How to Become a UX Designer](https://blog.udacity.com/2019/12/how-to-become-a-ux-designer.html)
+- [How to Become a UI Designer](https://careerfoundry.com/en/blog/ui-design/how-to-become-a-ui-designer/)
 
 ### Professional Certifications
 
-- [Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design)
-- [International Association of Software Architects (IASA) Certifications](http://iasaglobal.org/certifications/)
 - [International Software Architecture Qualification Board (iSAQB) Certifications](http://www.isaqb.org/certifications/)
 - [The Software Engineering Institute (SEI) Software Architecture Certificates](https://www.sei.cmu.edu/training/certificates/architecture/)
+- [Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design)
 
 ### Online Communities
 
@@ -54,9 +43,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 - [Toools.design](https://www.toools.design/)
 - [Undesign](https://undesign.learn.uno/)
-- [Freebies ByPeople](https://freebies.bypeople.com/)
 - [Checklist Design](https://www.checklist.design/)
-- [Bite sized learning](https://www.booklets.io/)
 - [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)
 
 ## Learning Resources
@@ -89,28 +76,20 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 ##### UI & UX
 
 - [Principles of UX/UI Design](https://www.coursera.org/learn/principles-of-ux-ui-design)
-- [Google UX Design](https://www.coursera.org/professional-certificates/google-ux-design)
 - [UI / UX Design](https://www.coursera.org/specializations/ui-ux-design)
 - [Introduction to User Experience Design](https://www.coursera.org/learn/user-experience-design)
 - [Graphic Design](https://www.coursera.org/specializations/graphic-design)
-- [Adobe XD for Beginners](https://www.classcentral.com/course/youtube-adobe-xd-for-beginners-free-course-89951/classroom)
-- [Figma Course - Web Design Tutorial for Beginners](https://www.classcentral.com/course/freecodecamp-figma-course-web-design-tutorial-for-beginners-57036/classroom)
-- [Figma Tutorials: The Ultimate Crash Course](https://www.classcentral.com/course/youtube-figma-tutorials-the-ultimate-crash-course-51794/classroom)
-- [Sketch for Beginners](https://www.classcentral.com/course/youtube-sketch-for-beginners-free-course-89473/classroom)
 
 #### Websites
 
 ##### Software Architecture
 
 - [Software Architecture Guide](https://martinfowler.com/architecture/)
-- [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 - [SourceMaking](https://sourcemaking.com/)
 
 ##### UI & UX
 
 - [User Experience Database](https://www.uxdatabase.io/)
-- [Web Interface Handbook](https://imperavi.com/books/web-interface-handbook/)
-- [Laws of UX](https://lawsofux.com/)
 - [Google Design](https://design.google/)
 - [Apple Design](https://developer.apple.com/design/)
 
@@ -131,7 +110,6 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 #### Websites
 
-- [DesignBetter.Co](https://www.designbetter.co/)
 - [The Agile Coach](https://www.atlassian.com/agile)
 - [Scrum Guide](http://www.scrumguides.org/)
 - [ALM Body of Knowledge](http://www.almbok.com/)
@@ -142,18 +120,14 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 ##### Software Architecture
 
-- [A Simple Framework for Designing IoT Products](https://www.udemy.com/a-simple-framework-for-designing-iot-products/)
 - [Software Architecture for the Internet of Things](https://www.coursera.org/learn/iot-software-architecture)
 
 ##### Others
 
-- [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080)
 - [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud)
-- [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [Introduction to DevOps](https://www.coursera.org/learn/intro-to-devops)
 
 #### Websites
 
-- [SOA Source Book](http://www.opengroup.org/soa/source-book/intro/index.htm)
 - [microservices.io](http://microservices.io)
 - [NGINX Resources](https://www.nginx.com/resources/library/)
