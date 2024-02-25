@@ -14,14 +14,10 @@ In one sense, it should be possible to manage a software engineering project in 
 
 *Source: [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)*
 
-### Knowledge and Skills
-
-- [Project Manager Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/project-manager#)
-
 ### Possible Roles
 
-- [IT Project Manager](https://www.wrike.com/project-management-guide/faq/what-is-an-it-project-manager/)
-- [Software Project Manager](https://project-management.com/project-manager-roles-responsibilities-software-projects/)
+- [Project Manager](https://business.linkedin.com/talent-solutions/job-descriptions/project-manager#)
+- [IT Project Manager](https://hiring.monster.com/resources/job-descriptions/computer/it-project-manager/)
 
 ### How To
 
@@ -30,12 +26,11 @@ In one sense, it should be possible to manage a software engineering project in 
 
 ### Professional Certifications
 
-- [IBM IT Project Manager Professional Certificate](https://www.coursera.org/professional-certificates/ibm-it-project-manager)
 - [Google Project Management Professional Certificate](https://www.coursera.org/professional-certificates/google-project-management)
+- [IBM IT Project Manager Professional Certificate](https://www.coursera.org/professional-certificates/ibm-it-project-manager)
 - [Certified Associate in Project Management (CAPM)](https://www.pmi.org/certifications/types/certified-associate-capm)
 - [Project Management Professional (PMP)](https://www.pmi.org/certifications/types/project-management-pmp)
 - [Agile Certified Practitioner (PMI-ACP)](https://www.pmi.org/certifications/types/agile-acp)
-- [Certified ScrumMaster (CSM)](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster)
 
 ### Online Communities
 
@@ -72,12 +67,10 @@ In one sense, it should be possible to manage a software engineering project in 
 
 - [Engineering Project Management](https://www.coursera.org/specializations/engineering-project-management)
 - [Leading People and Teams](https://www.coursera.org/specializations/leading-teams)
-- [Managing Projects with Microsoft Project](https://www.edx.org/course/managing-projects-microsoft-project-microsoft-cld213x-0)
 
 #### Websites
 
 - [Thought Leadership](https://www.pmi.org/learning/thought-leadership)
-- [Simplilearn's Resources](https://www.simplilearn.com/resources/project-management)
 
 ### Intermediate
 
@@ -96,12 +89,9 @@ In one sense, it should be possible to manage a software engineering project in 
 
 #### MOOCs
 
-- [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080)
 - [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud)
-- [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [Introduction to DevOps](https://www.coursera.org/learn/intro-to-devops)
 
 #### Websites
 
-- [A Gentle Introduction to DevOps – Project Manager Edition](https://www.agilealliance.org/resources/sessions/a-gentle-introduction-to-devops-project-manager-edition/)
 - [DevOps tutorial—an introduction](https://azure.microsoft.com/en-us/overview/devops-tutorial/)
