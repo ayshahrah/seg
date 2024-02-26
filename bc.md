@@ -50,7 +50,7 @@ Banks and financial institutions across the globe are exploring how they can use
 
 #### Websites
 
-- [The authoritative guide to blockchain development](https://medium.freecodecamp.org/the-authoritative-guide-to-blockchain-development-855ab65b58bc)
+- [What Is a Blockchain Developer](https://www.coursera.org/articles/blockchain-developer)
 
 ### Beginner
 
@@ -62,7 +62,6 @@ Banks and financial institutions across the globe are exploring how they can use
 
 #### Websites
 
-- [Blockchain Essentials](https://cognitiveclass.ai/courses/blockchain-course)
 - [Blockchain Learning Hub](https://www.unicef.org/innovation/blockchain-learning-hub)
 
 ### Intermediate
@@ -74,7 +73,7 @@ Banks and financial institutions across the globe are exploring how they can use
 
 #### Websites
 
-- [Blockchain for Developers](https://cognitiveclass.ai/learn/blockchain-for-developers)
+- [Blockchain Council](https://www.blockchain-council.org/)
 
 ### Advanced
 
@@ -84,6 +83,5 @@ Banks and financial institutions across the globe are exploring how they can use
 
 #### Websites
 
-- [Codementor Blockchain Learning Center](https://www.codementor.io/learn/blockchain)
 - [Hyperledger](https://www.hyperledger.org/)
 
