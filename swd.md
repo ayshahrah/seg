@@ -60,8 +60,8 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 #### Websites
 
-- [What is a Software Architect, Anyway?](https://medium.com/hitachisolutions-braintrust/what-is-a-software-architect-anyway-b935ecb64c4d)
-- [The Difference Between UX and UI Design - A Layman’s Guide](https://careerfoundry.com/en/blog/ux-design/the-difference-between-ux-and-ui-design-a-laymans-guide/)
+- [Software Architecture](https://www.sei.cmu.edu/our-work/software-architecture/)
+- [UI vs. UX Design: What’s the Difference?](https://www.coursera.org/articles/ui-vs-ux-design)
 
 ### Beginner
 
