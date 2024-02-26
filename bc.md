@@ -51,7 +51,6 @@ Banks and financial institutions across the globe are exploring how they can use
 #### Websites
 
 - [The authoritative guide to blockchain development](https://medium.freecodecamp.org/the-authoritative-guide-to-blockchain-development-855ab65b58bc)
-- [A QUICK JUMP INTO BLOCKCHAIN & ERC20](https://x-team.com/blog/quick-blockchain-erc20/)
 
 ### Beginner
 
