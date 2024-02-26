@@ -236,4 +236,3 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 - [Red Hat Developer](https://developers.redhat.com/)
 - [microservices.io](http://microservices.io)
-- [API University](https://www.programmableweb.com/api-university)
