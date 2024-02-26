@@ -20,8 +20,8 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 ### How To
 
 - [The Path to Becoming a Software Architect](https://medium.com/@nvashanin/the-path-to-becoming-a-software-architect-de53f1cb310a)
-- [How to Become a UX Designer](https://blog.udacity.com/2019/12/how-to-become-a-ux-designer.html)
-- [How to Become a UI Designer](https://careerfoundry.com/en/blog/ui-design/how-to-become-a-ui-designer/)
+- [What Degree Do I Need to Become a UX Designer?](https://www.coursera.org/articles/what-degree-do-i-need-to-become-a-ux-designer)
+- [What Is a User Interface (UI) Designer?](https://www.coursera.org/articles/what-is-a-user-interface-ui-designer-guide)
 
 ### Professional Certifications
 
