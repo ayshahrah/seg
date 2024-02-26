@@ -22,8 +22,8 @@ Since software construction requires knowledge of algorithms and of coding pract
 ### How To
 
 - [Developer Roadmaps](https://roadmap.sh/)
-- [How to Become a Web Developer](https://careerfoundry.com/en/blog/web-development/what-does-it-take-to-become-a-web-developer-everything-you-need-to-know-before-getting-started/)
-- [How to Become a Mobile App Developer](https://buildfire.com/become-mobile-app-developer/)
+- [What Does a Web Developer Do](https://www.coursera.org/articles/web-developer)
+- [Mobile App Development: Quick Start Guide](https://www.coursera.org/articles/mobile-app-development)
 
 ### Professional Certifications
 
