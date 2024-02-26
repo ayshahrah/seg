@@ -9,43 +9,32 @@ Software maintenance is defined as the totality of activities required to provid
 
 *Source: [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)*
 
-### Knowledge and Skills
-
-- [Systems Administrator Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/systems-administrator)
-- [Systems Engineer Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/systems-engineer)
-- [Cloud Engineer Job Description](https://insights.dice.com/employer-resource-center/descriptions-cloud-engineer/)
-- [Cloud Architect Job Description](https://www.betterteam.com/cloud-architect-job-description)
-- [DevOps Engineer Job Description](https://www.toptal.com/devops/job-description)
-- [Site Reliability Engineer (SRE) Roles and Responsibilities](https://victorops.com/blog/site-reliability-engineer-sre-roles-and-responsibilities)
-
 ### Possible Roles
 
-- [Computer Systems Administrator](https://www.careerexplorer.com/careers/computer-systems-administrator/)
-- [Technical Support Specialist](https://www.careerexplorer.com/careers/technical-support-specialist/)
-- [Cloud Engineer](https://searchcloudcomputing.techtarget.com/definition/cloud-engineer)
-- [Cloud Architect](https://searchcloudcomputing.techtarget.com/definition/cloud-architect)
-- [DevOps Engineer](https://searchitoperations.techtarget.com/definition/DevOps-engineer)
-- [Site Reliability Engineer](https://opensource.com/article/18/10/what-site-reliability-engineer)
+- [Systems Administrator](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/systems-administrator/job-description)
+- [Technical Support Engineer](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/technical-support-engineer/job-description)
+- [Cloud Engineer](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/cloud-engineer/job-description)
+- [Cloud Architect](https://hiring.monster.com/resources/job-descriptions/computer/cloud-architect-job-description-template/)
+- [DevOps Engineer](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/devops-engineer/job-description)
+- [Site Reliability Engineer](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/site-reliability-engineer/job-description)
 
 ### How To
 
-- [The Essential Guide to Becoming a Systems Administrator](https://www.paysa.com/blog/2016/12/05/the-essential-guide-to-becoming-a-systems-administrator/)
-- [The Proven Way to Become a Cloud Engineer](https://dev.to/bashirk/the-proven-way-to-become-a-cloud-engineer-in-2020-3ic3)
-- [What Exactly Is a Cloud Architect and How Do You Become One?](https://cloudacademy.com/blog/what-exactly-is-a-cloud-architect-and-how-do-you-become-one/)
-- [The case for making the transition from sysadmin to DevOps engineer](https://opensource.com/article/19/7/devops-vs-sysadmin)
+- [What Does a System Administrator Do?](https://www.coursera.org/articles/what-is-a-system-administrator-a-career-guide)
+- [What Is a Cloud Engineer?](https://www.coursera.org/articles/what-is-a-cloud-engineer)
+- [How to Become a Cloud Architect](https://www.coursera.org/articles/how-to-become-a-cloud-architect)
 - [DevOps Roadmap](https://roadmap.sh/devops)
-- [So you want to be an SRE?](https://hackernoon.com/so-you-want-to-be-an-sre-34e832357a8c)
+- [What Does a Site Reliability Engineer Do?](https://www.coursera.org/articles/site-reliability-engineer)
 
 ### Professional Certifications
 
-- [CompTIA Career Roadmap](https://www.comptia.org/content/it-careers-path-roadmap/it-support-specialist)
 - [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
 - [IBM Technical Support Professional Certificate](https://www.coursera.org/professional-certificates/ibm-technical-support)
 - [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
-- [Cloud Engineering with GCP Professional Certificate](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
-- [Cloud Architecture with GCP Professional Certificate](https://www.coursera.org/professional-certificates/gcp-cloud-architect)
-- [Prepare for the CompTIA A+ Certification](https://www.linkedin.com/learning/paths/prepare-for-the-comptia-a-plus-certification-220-1001-and-220-1002)
-- [DevOps and Software Engineering Professional Certificate](https://www.edx.org/professional-certificate/ibm-devops-and-software-engineering)
+- [Google Cloud Engineer Professional Certificate](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
+- [Google Cloud Architect Professional Certificate](https://www.coursera.org/professional-certificates/gcp-cloud-architect)
+- [Microsoft Azure Certifications](https://www.coursera.org/articles/azure-certification)
+- [AWS Certifications](https://www.coursera.org/articles/aws-certification)
 
 ### Online Communities
 
@@ -55,17 +44,15 @@ Software maintenance is defined as the totality of activities required to provid
 
 ### Blogs
 
-- [Sysadmin](https://opensource.com/tags/sysadmin)
 - [Top Sysadmin Blogs & Websites for System Administrators](https://blog.feedspot.com/sysadmin_blogs/)
-- [TechBeacon - DevOps](https://techbeacon.com/devops)
-- [Top DevOps Blogs, Websites & Influencers](https://blog.feedspot.com/devops_blogs/)
 - [Top Cloud Computing Blogs, Websites & Influencers](http://blog.feedspot.com/cloud_computing_blogs/)
+- [Top DevOps Blogs, Websites & Influencers](https://blog.feedspot.com/devops_blogs/)
 
 ### Resources Collections
 
 - [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin)
-- [Awesome Cloud Native](https://jimmysong.io/awesome-cloud-native/)
-- [Awesome DevOps](http://awesome-devops.xyz/)
+- [Awesome Cloud Native](https://github.com/rootsongjc/awesome-cloud-native)
+- [Awesome DevOps](https://github.com/wmariuss/awesome-devops)
 
 ## Learning Resources
 
