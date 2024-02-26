@@ -21,8 +21,7 @@ Banks and financial institutions across the globe are exploring how they can use
 
 ### Professional Certifications
 
-- [5 Top Blockchain Certification](https://blocksdecoded.com/blockchain-certification-training-courses/)
-- [Professional Certificate in Blockchain Essentials](https://www.edx.org/professional-certificate/ibm-blockchain-essentials)
+- [IBM Blockchain Essentials Professional Certificate](https://www.edx.org/professional-certificate/ibm-blockchain-essentials)
 
 ### Online Communities
 
