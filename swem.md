@@ -21,8 +21,8 @@ In one sense, it should be possible to manage a software engineering project in 
 
 ### How To
 
-- [How to become a project manager](https://www.teamwork.com/project-management-guide/how-to-become-a-project-manager/)
-- [How to Become an IT Project Manager](https://www.projectmanager.com/training/become-it-project-manager)
+- [How to Become a Project Manager](https://www.coursera.org/articles/how-to-become-a-project-manager)
+- [What Is an IT Project Manager?](https://www.coursera.org/articles/it-project-manager)
 
 ### Professional Certifications
 
@@ -59,7 +59,7 @@ In one sense, it should be possible to manage a software engineering project in 
 
 #### Websites
 
-- [Becoming a Project Manager](https://www.paymoapp.com/blog/the-complete-project-manager-guide/)
+- [How to Start a Career in Software Project Management](https://www.coursera.org/articles/software-project-management)
 
 ### Beginner
 
