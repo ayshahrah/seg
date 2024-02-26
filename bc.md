@@ -16,8 +16,8 @@ Banks and financial institutions across the globe are exploring how they can use
 
 ### How To
 
-- [How Do You Become a Blockchain Developer?](https://www.simplilearn.com/how-do-you-become-a-blockchain-developer-article)
-- [How to Become a Blockchain Engineer](http://modernenginering.com/2019/10/02/how-to-become-a-blockchain-engineer/)
+- [What Is a Blockchain Developer](https://www.coursera.org/articles/blockchain-developer)
+- [The Ultimate Guide to Blockchain Engineer](https://www.blockchain-council.org/blockchain/the-ultimate-guide-to-blockchain-engineer-job-description-and-salary/)
 
 ### Professional Certifications
 
