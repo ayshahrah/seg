@@ -9,24 +9,19 @@ These definitions also illustrate another reason for the prevalence of software 
 
 *Source: [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)*
 
-### Knowledge and Skills
-
-- [Quality Engineer Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/quality-engineer)
-- [QA Engineer Job Description](https://www.toptal.com/qa/job-description)
-
 ### Possible Roles
 
-- [Software Quality Engineer](https://www.softwareengineerinsider.com/careers/software-quality-engineering.html)
-- [Software Quality Assurance Engineer](https://www.careerexplorer.com/careers/software-quality-assurance-engineer/)
-- [Software Quality Analyst](https://en.wikipedia.org/wiki/Software_quality_analyst)
+- [Quality Engineer](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/quality-engineer/job-description)
+- [Quality Assurance Engineer](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/quality-assurance-specialist/job-description)
 
 ### How To
 
 - [QA Engineer Roadmap](https://github.com/anas-qa/Quality-Assurance-Road-Map)
+- [How To Become a QA Engineer](https://www.indeed.com/career-advice/finding-a-job/how-to-become-qa-engineer)
 
 ### Professional Certifications
 
-- [The International Software Certifications Board’s (ISCB) Certifications](http://www.softwarecertifications.org/process/software-certifications-overview/)
+- [Software Quality Assurance Certifications](https://gaqm.org/certification/software_quality_assurance)
 - [Software Quality Engineer Certification (CSQE)](https://asq.org/cert/software-quality-engineer)
 
 ### Online Communities
@@ -35,12 +30,10 @@ These definitions also illustrate another reason for the prevalence of software 
 
 ### Blogs
 
-- [TechBeacon - App Dev & Testing](https://techbeacon.com/quality)
 - [Top Software Testing Blogs and Websites To Follow](https://blog.feedspot.com/software_testing_blogs/)
 
 ### Resources Collections
 
-- [Awesome Software Quality](http://ligurio.github.io/awesome-software-quality/)
 - [Awesome Testing](https://github.com/TheJambo/awesome-testing)
 
 ## Learning Resources
@@ -63,12 +56,11 @@ These definitions also illustrate another reason for the prevalence of software 
 
 #### MOOCs
 
-- [Software Testing](https://www.udacity.com/course/software-testing--cs258)
-- [Software Testing and Verification](https://www.edx.org/micromasters/software-testing-verification)
+- [Foundations of Software Testing and Validation](https://www.coursera.org/learn/foundations-of-software-testing-and-validation)
 
 #### Websites
 
-- [Software Quality without Testing](https://www.nagarro.com/en/blog/software-testing-without-quality-part1)
+- [What is Software Quality?](https://www.computer.org/resources/what-is-software-quality)
 
 ### Intermediate
 
@@ -87,12 +79,9 @@ These definitions also illustrate another reason for the prevalence of software 
 
 #### MOOCs
 
-- [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080)
 - [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud)
-- [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [Introduction to DevOps](https://www.coursera.org/learn/intro-to-devops)
 
 #### Websites
 
-- [XebiaLabs Resources](https://xebialabs.com/resources/)
-- [QA Platforms](https://qa-platforms.com/)
+- [Quality Resources](https://asq.org/quality-resources)
