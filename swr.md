@@ -10,26 +10,22 @@ Quality.
 
 *Source: [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)*
 
-### Knowledge and Skills
-
-- [Sample Business Analyst Job Description](https://business.linkedin.com/talent-solutions/job-descriptions/business-analyst)
-
 ### Possible Roles
 
-- [Software Requirements Engineer](https://modernanalyst.com/TheProfession/Roles/RequirementsEngineer.aspx)
-- [Business Analyst](https://www.iiba.org/professional-development/career-centre/what-is-business-analysis/)
-- [Computer Systems Analyst](https://www.fieldengineer.com/skills/computer-systems-analyst)
+- [Business Analyst](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/business-analyst/job-description)
+- [Requirements Engineer](https://www.indeed.com/career-advice/finding-a-job/what-is-requirements-engineer)
+- [Systems Analyst](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/systems-analyst/job-description)
 
 ### How To
 
 - [The Business Analyst Career Road Map](https://www.iiba.org/professional-development/knowledge-centre/articles/roles-ba-career-road-map/)
-- [Business Analysis Specialization](https://www.iiba.org/career-resources/business-analysis-specialization/)
-- [Become A Business Analyst](https://www.thebaguide.com/path-to-ba)
+- [What Is a Business Analyst?](https://www.coursera.org/articles/what-does-a-business-analyst-do-and-how-to-become-one)
+- [Business Systems Analyst](https://www.coursera.org/articles/business-systems-analyst)
 
 ### Professional Certifications
 
-- [Certified Professional for Requirements Engineering (CPRE)](https://www.ireb.org/en/cpre/)
 - [International Institute of Business Analysis (IIBA) Certifications](https://www.iiba.org/business-analysis-certifications/iiba-certifications/)
+- [Certified Professional for Requirements Engineering (CPRE)](https://www.ireb.org/en/cpre/)
 - [PMI Professional in Business Analysis (PMI-PBA)](https://www.pmi.org/certifications/types/business-analysis-pba)
 
 ### Online Communities
@@ -90,9 +86,7 @@ Quality.
 
 #### MOOCs
 
-- [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080)
 - [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud)
-- [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [Introduction to DevOps](https://www.coursera.org/learn/intro-to-devops)
 
 #### Websites
