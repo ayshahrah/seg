@@ -42,7 +42,6 @@ Self-driving cars and computers that play chess are two examples of machines wit
 ### Blogs
 
 - [Medium - Artificial intelligence](https://medium.com/topic/artificial-intelligence)
-- [O'Reilly - AI](https://www.oreilly.com/radar/topics/ai-ml/)
 - [Top Artificial Intelligence Websites And Blogs For AI Enthusiast](https://blog.feedspot.com/ai_blogs/)
 - [Top Machine Learning Blogs, Websites & Influencers](https://blog.feedspot.com/machine_learning_blogs/)
 
