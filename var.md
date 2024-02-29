@@ -11,25 +11,22 @@ Augmented reality apps are written in special 3D programs that allow the develop
 
 *Source: [Techtarget](https://whatis.techtarget.com/definition/virtual-reality)*
 
-### Knowledge and Skills
-
-- [Skills Needed to Become A Virtual Reality Developer](https://www.globaltechcouncil.org/virtual-reality/skills-needed-to-become-a-virtual-reality-developer/)
-- [7 Essential Skills for AR Apps Developers](https://ourcodeworld.com/articles/read/1091/7-essential-skills-for-ar-apps-developers)
-
 ### Possible Roles
 
-- [Virtual Reality Developer](https://www.paysa.com/salaries/virtual-reality-developer--t)
-- [Augmented Reality Developer](https://www.paysa.com/salaries/augmented-reality-developer--t)
+- [Virtual Reality Developer](https://hired.com/job-roles/ar-vr-engineer)
+- [Augmented Reality Developer](https://hired.com/job-roles/ar-vr-engineer)
 
 ### How To
 
-- [How to Become a VR Developer](https://medium.com/@OmniVirt/how-to-become-a-vr-developer-8b160339abbd)
-- [How you can become an AR/VR developer](https://blog.pusher.com/how-you-can-become-an-ar-vr-developer/)
+- [How to Become a VR Developer](https://blog.udemy.com/how-to-become-a-vr-developer/)
+- [What is an Augmented Reality Developer?](https://aloa.co/blog/what-is-an-augmented-reality-developer)
 
 ### Professional Certifications
 
 - [Unity Certification](https://certification.unity.com/)
-- [Spark AR for Beginners Professional Certificate](https://www.edx.org/professional-certificate/meta-spark-ar-for-beginners)
+- [Meta AR Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-ar-developer)
+- [Meta Spark AR for Beginners Professional Certificate](https://www.edx.org/professional-certificate/meta-spark-ar-for-beginners)
+- [Meta Spark AR Pro Professional Certificate](https://www.edx.org/certificates/professional-certificate/meta-spark-ar-pro)
 
 ### Online Communities
 
@@ -44,7 +41,7 @@ Augmented reality apps are written in special 3D programs that allow the develop
 ### Resources Collections
 
 - [VR-Awesome](https://github.com/Vytek/VR-Awesome)
-- [Awesome Augmented Realit](https://github.com/Domeee/awesome-augmented-reality)
+- [awesome-AR](https://github.com/kidult00/awesome-AR)
 
 ## Learning Resources
 
@@ -60,37 +57,29 @@ Augmented reality apps are written in special 3D programs that allow the develop
 
 #### Websites
 
-- [Learn VR Development: Tips, tricks, and guides to develop VR and AR applications](https://circuitstream.com/blog/programming-development-guides/)
-- [The business guide to AR and VR: Everything you need to know](https://www.zdnet.com/article/the-business-guide-to-ar-and-vr-everything-you-need-to-know/)
+- [Augmented Reality (AR) vs Virtual Reality (VR)](https://www.guru99.com/difference-between-ar-vr.html)
+- [Augmented Reality vs. Virtual Reality vs. Mixed Reality](https://www.toptal.com/designers/ui/augmented-reality-vs-virtual-reality-vs-mixed-reality)
 
 ### Beginner
 
 #### MOOCs
 
 - [Introduction to Virtual Reality](https://www.udacity.com/course/introduction-to-virtual-reality--ud1012)
-- [VR Scenes and Objects](https://www.udacity.com/course/vr-scenes-and-objects--ud1013)
-- [VR Software Development](https://www.udacity.com/course/vr-software-development--ud1014)
+- [Virtual Reality](https://www.coursera.org/specializations/virtual-reality)
 - [VR and 360 Video Production](https://www.coursera.org/learn/360-vr-video-production)
 - [Introduction to Augmented Reality and ARCore](https://www.coursera.org/learn/ar)
-- [Unity XR: How to Build AR and VR Apps](https://www.coursera.org/specializations/unity-xr)
-- [Extended Reality for Everybody](https://www.coursera.org/specializations/extended-reality-for-everybody)
-- [What is the Metaverse?](https://www.coursera.org/learn/what-is-the-metaverse)
 
 #### Websites
 
-- [What is AR, VR, MR, XR, 360?](https://unity3d.com/what-is-xr-glossary)
-- [Designing for VR: A Beginners Guide](https://blog.marvelapp.com/designing-vr-beginners-guide/)
+- [VR/AR Association](https://www.thevrara.com/)
 
 ### Intermediate
 
 #### MOOCs
 
 - [Getting started with Augmented Reality](https://www.coursera.org/learn/augmented-reality)
-- [Creating Virtual Reality (VR) Apps](https://www.edx.org/course/creating-virtual-reality-vr-apps-2)
-- [Learn ARKit using Unity](https://www.udacity.com/course/learn-arkit-using-unity--ud114)
-- [Learn ARKit using Swift](https://www.udacity.com/course/learn-arkit-using-swift--ud116)
-- [Unity Certified Programmer Exam Preparation](https://www.coursera.org/specializations/unity-certified-programmer)
-- [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
+- [Virtual Reality (VR) App Development](https://www.edx.org/certificates/professional-certificate/ucsandiegox-virtual-reality-app-development)
+- [AR in marketing using Meta Spark](https://www.coursera.org/learn/ar-in-marketing-using-meta-spark-specialization)
 - [VR Interview Prep](https://www.udacity.com/course/vr-interview-prep--ud251)
 
 #### Websites
@@ -104,7 +93,8 @@ Augmented reality apps are written in special 3D programs that allow the develop
 
 #### MOOCs
 
-- [Exploring the Mixed Reality Landscape](https://www.kadenze.com/courses/exploring-the-mixed-reality-landscape/info)
+- [Extended Reality for Everybody](https://www.coursera.org/specializations/extended-reality-for-everybody)
+- [What is the Metaverse?](https://www.coursera.org/learn/what-is-the-metaverse)
 
 #### Websites
 
