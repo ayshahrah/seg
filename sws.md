@@ -30,7 +30,6 @@ A generally accepted view concerning software security is that it is much better
 
 ### Blogs
 
-- [TechBeacon - Security](https://techbeacon.com/security)
 - [Top Cyber Security Blogs and Websites](https://blog.feedspot.com/cyber_security_blogs/)
 
 ### Resources Collections
