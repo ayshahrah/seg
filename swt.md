@@ -9,46 +9,36 @@ For many organizations, the approach to software quality is one of prevention: i
 
 *Source: [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)*
 
-### Knowledge and Skills
-
-- [Software Testing as a Career Path (Skills, Salary, Growth)](https://www.guru99.com/software-testing-career-complete-guide.html)
-- [Test automation and QA career guide: Top roles and skills](https://techbeacon.com/app-dev-testing/test-automation-qa-career-guide-top-roles-skills)
-- [QA Tester Job Description](https://www.jobhero.com/qa-tester-job-description/)
-
 ### Possible Roles
 
-- [Software Test Engineer](https://www.altexsoft.com/blog/engineering/qa-engineering-roles-skills-tools-and-responsibilities-within-a-testing-team/)
-- [Software Tester](http://www.test-institute.org/Software_Testing_Roles_And_Responsibilities.php)
-- [Software Quality Assurance (QA) Tester](https://testinggenez.com/qa-software-tester-qualities/)
-- [Quality Assurance (QA) Analyst](https://www.careerexplorer.com/careers/quality-assurance-analyst/)
+- [Software Testing Engineer](https://hiring.monster.com/resources/job-descriptions/computer/software-test-engineer-job-description-template/)
+- [Software Tester](https://business.linkedin.com/en-in/talent-solutions/resources/talent-acquisition/job-descriptions/software-tester)
+- [Quality Assurance (QA) Tester](https://in.indeed.com/career-advice/finding-a-job/qa-tester-job-description)
 
 ### How To
 
-- [How to Become a Software Tester: A Complete Guide](http://www.asktester.com/how-to-become-a-software-tester/)
-- [How to Start and Navigate a Career in Software Testing](https://www.testim.io/blog/how-to-start-and-navigate-a-career-in-software-testing/)
+- [How To Become a Software Testing Engineer](https://www.indeed.com/career-advice/finding-a-job/software-testing-engineer)
+- [How To Become a Software Tester](https://www.indeed.com/career-advice/finding-a-job/how-to-become-software-tester)
+- [What Is a QA Tester?](https://www.coursera.org/articles/qa-tester)
 
 ### Professional Certifications
 
-- [International Software Testing Qualifications Board (ISTQB)](https://www.istqb.org/certification-path-root/why-istqb-certification.html)
-- [The International Software Certifications Board (ISCB)](http://www.softwarecertifications.org/process/software-certifications-overview/)
+- [International Software Testing Qualifications Board (ISTQB)](https://www.istqb.org/certifications/certification-list)
+- [Global Association for Quality Management (GAQM)](https://gaqm.org/certification_category)
 - [British Computer Society (BCS)](http://certifications.bcs.org/category/15568)
-- [International Institute of Software Testing (IIST)](http://testinginstitute.com/software-testing-certifications.php)
 
 ### Online Communities
 
 - [The Association for Software Testing](https://www.associationforsoftwaretesting.org/)
 - [The Ministry of Testing](http://www.ministryoftesting.com/)
-- [Software Test Professionals (STP)](http://www.softwaretestpro.com/)
 - [Huddle](https://huddle.eurostarsoftwaretesting.com/)
 
 ### Blogs
 
-- [TechBeacon - App Dev & Testing](https://techbeacon.com/app-dev-testing)
 - [Top Software Testing Blogs and Websites To Follow](http://blog.feedspot.com/software_testing_blogs/)
 
 ### Resources Collections
 
-- [Awesome Software Quality](http://ligurio.github.io/awesome-software-quality/)
 - [Awesome Testing](https://github.com/TheJambo/awesome-testing)
 
 ## Learning Resources
@@ -65,15 +55,13 @@ For many organizations, the approach to software quality is one of prevention: i
 
 #### Websites
 
-- [Navigating A Career Path In Software Testing](https://www.ministryoftesting.com/dojo/lessons/navigating-a-career-path-in-software-testing)
-- [11 Reasons Why Software Testing Has a Better Future Than Development](https://hackernoon.com/11-reasons-why-testing-has-a-better-future-than-development-vu3aj31k6)
+- [What is software testing?](https://www.ibm.com/topics/software-testing)
 
 ### Beginner
 
 #### MOOCs
 
-- [Software Testing](https://www.udacity.com/course/software-testing--cs258)
-- [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
+- [Foundations of Software Testing and Validation](https://www.coursera.org/learn/foundations-of-software-testing-and-validation)
 - [Software Analysis & Testing](https://www.udacity.com/course/software-analysis-testing--ud333)
 
 #### Websites
@@ -92,7 +80,6 @@ For many organizations, the approach to software quality is one of prevention: i
 
 #### Websites
 
-- [Test Automation](https://devqa.io/)
 - [The Agile Coach](https://www.atlassian.com/agile)
 - [Scrum Guide](http://www.scrumguides.org/)
 - [ALM Body of Knowledge](http://www.almbok.com/)
@@ -102,13 +89,10 @@ For many organizations, the approach to software quality is one of prevention: i
 #### MOOCs
 
 - [Automated Software Testing](https://www.edx.org/professional-certificate/delftx-automated-software-testing)
-- [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080)
 - [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud)
-- [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [Introduction to DevOps](https://www.coursera.org/learn/intro-to-devops)
 
 #### Websites
 
-- [Techbeacon - Continuous Testing](https://learn.techbeacon.com/tracks/continuous-testing)
+- [Continuous Testing](https://learn.techbeacon.com/tracks/continuous-testing)
 - [Huddle Resources](https://huddle.eurostarsoftwaretesting.com/resources/)
-- [SmartBear Resources](https://smartbear.com/resources/)
