@@ -7,32 +7,25 @@ A generally accepted view concerning software security is that it is much better
 
 *Source: [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)*
 
-### Knowledge and Skills
-
-- [Software Security Engineer job description](https://resources.workable.com/software-security-engineer-job-description)
-
 ### Possible Roles
 
-- [Application Security Engineer](https://trailhead.salesforce.com/en/content/learn/modules/application-security-basics/learn-application-security-engineer-skills)
-- [Security Software Developer](https://www.careerexplorer.com/careers/security-software-developer/)
+- [Application Security Engineer](https://www.hackerone.com/knowledge-center/application-security-engineer)
 - [Source Code Auditor](https://cybersecurityguide.org/careers/security-code-auditor/)
 
 ### How To
 
 - [How to become an application security engineer](https://learn.techbeacon.com/units/how-become-application-security-engineer)
-- [Become a Security Software Developer](http://www.cyberdegrees.org/jobs/security-software-developer/)
 - [Become a Source Code Auditor](http://www.cyberdegrees.org/jobs/source-code-auditor/)
 
 ### Professional Certifications
 
-- [Certified Secure Software Lifecycle Professional (CSSLP)](https://www.isc2.org/csslp/default.aspx)
-- [GIAC Certifications: Developer](http://www.giac.org/certifications/software-security)
+- [Certified Secure Software Lifecycle Professional (CSSLP)](https://www.isc2.org/certifications/csslp)
+- [Certified Application Security Engineer (CASE)](https://cert.eccouncil.org/ec-certified-application-security-engineer.html)
 
 ### Online Communities
 
-- [OWASP](http://www.modernanalyst.com/Home.aspx)
+- [OWASP](https://owasp.org/)
 - [CWE](https://cwe.mitre.org/index.html)
-- [SEI CERT Coding Standards](https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards)
 - [MITRE ATT&CK](https://attack.mitre.org/)
 
 ### Blogs
@@ -42,9 +35,8 @@ A generally accepted view concerning software security is that it is much better
 
 ### Resources Collections
 
-- [Developer's security guide: 50 online resources to shift left](https://techbeacon.com/developer-secure-code-starter-kit-resources)
-- [Awesome Web Security](https://awesomelists.top/#/repos/qazbnm456/awesome-web-security)
-- [Awesome Mobile Security](https://github.com/vaib25vicky/awesome-mobile-security)
+- [Developer's security guide](https://techbeacon.com/developer-secure-code-starter-kit-resources)
+- [Awesome Security](https://github.com/sbilly/awesome-security)
 
 ## Learning Resources
 
@@ -60,25 +52,21 @@ A generally accepted view concerning software security is that it is much better
 
 #### Websites
 
-- [InfoSec Career Paths vs Programming Skills — The Basics](https://hackernoon.com/infosec-career-paths-vs-programming-skills-the-basics-bf841187165f)
+- [The GitLab Handbook: Application Security Engineer](https://handbook.gitlab.com/job-families/security/application-security/)
 
 ### Beginner
 
 #### MOOCs
 
-- [Application Security and Monitoring](https://www.coursera.org/learn/application-security-and-monitoring)
 - [Secure Software Development Fundamentals](https://www.edx.org/professional-certificate/linuxfoundationx-secure-software-development-fundamentals)
-- [Software Security](https://www.coursera.org/learn/software-security)
 - [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals-kuleuvenx-websecx)
-- [Cyber Security Base](https://cybersecuritybase.mooc.fi/)
 - [Systems and Application Security](https://www.coursera.org/learn/systems-application-security-sscp)
 
 #### Websites
 
 - [The Cyber Security Body of Knowledge](https://www.cybok.org/)
-- [Secure Software Development Framework (SSDF)](https://csrc.nist.gov/publications/detail/white-paper/2020/04/23/mitigating-risk-of-software-vulnerabilities-with-ssdf/final)
+- [Secure Software Development Framework (SSDF)](https://csrc.nist.rip/Projects/ssdf/publications)
 - [Application Security](https://learn.techbeacon.com/tracks/application-security)
-- [Open security training](http://opensecuritytraining.info/)
 
 ### Intermediate
 
@@ -86,7 +74,6 @@ A generally accepted view concerning software security is that it is much better
 
 - [Application Security for Developers](https://www.edx.org/course/application-security-for-developers)
 - [Secure Coding Practices](https://www.coursera.org/specializations/secure-coding-practices)
-- [Hacker101](https://www.hacker101.com/)
 - [Cyber Security in the Software Development Life Cycle](https://www.futurelearn.com/courses/cyber-security-in-the-software-development-life-cycle)
 - [Agile and Scrum Fundamentals](https://www.edx.org/course/agile-and-scrum-fundamentals)
 - [Agile Development](https://www.coursera.org/specializations/agile-development)
@@ -105,19 +92,14 @@ A generally accepted view concerning software security is that it is much better
 
 - [JavaScript Security](https://www.coursera.org/specializations/javascript-security)
 - [Web Application Security Testing with OWASP ZAP](https://www.coursera.org/projects/web-application-security-testing-with-owsap-zap)
-- [Intro to Cloud Computing](https://www.udacity.com/course/intro-to-cloud-computing--ud080)
 - [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud)
 - [Cloud Application Security](https://www.coursera.org/learn/cloud-application-security)
-- [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611)
 - [Introduction to DevOps](https://www.coursera.org/learn/intro-to-devops)
-- [DevSecOps: Continuous Application Security](https://www.linkedin.com/learning/devsecops-continuous-application-security)
+- [Introduction to DevSecOps](https://www.coursera.org/learn/introduction-to-devsecops)
 
 #### Websites
 
 - [Secure DevOps](https://learn.techbeacon.com/tracks/secure-devops)
-- [SANS Application and Database Security](https://www.sans.org/reading-room/whitepapers/application)
 - [Veracode Resources](https://www.veracode.com/resources)
 - [Snyk Security Resources](https://snyk.io/security-resources/)
 - [Checkmarx Resources](https://www.checkmarx.com/resources/)
-- [Bugcrowd University](https://www.bugcrowd.com/hackers/bugcrowd-university/)
-
