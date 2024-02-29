@@ -35,7 +35,6 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 ### Blogs
 
-- [O’Reilly - Next Architecture](https://www.oreilly.com/radar/topics/next-architecture/)
 - [Medium - Design](https://medium.com/topic/design)
 - [Top Web Design Blogs and Websites](https://blog.feedspot.com/web_design_blogs/)
 
