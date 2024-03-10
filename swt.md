@@ -23,9 +23,9 @@ For many organizations, the approach to software quality is one of prevention: i
 
 ### Professional Certifications
 
-- [International Software Testing Qualifications Board (ISTQB)](https://www.istqb.org/certifications/certification-list)
-- [Global Association for Quality Management (GAQM)](https://gaqm.org/certification_category)
-- [British Computer Society (BCS)](http://certifications.bcs.org/category/15568)
+- [International Software Testing Qualifications Board (ISTQB) Certifications](https://www.istqb.org/certifications/certification-list)
+- [Global Association for Quality Management (GAQM) Certifications](https://gaqm.org/certification_category)
+- [British Computer Society (BCS) Certifications](http://certifications.bcs.org/category/15568)
 
 ### Online Communities
 
