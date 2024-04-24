@@ -28,6 +28,7 @@ A generally accepted view concerning software security is that it is much better
 - [OWASP](https://owasp.org/)
 - [CWE](https://cwe.mitre.org/index.html)
 - [MITRE ATT&CK](https://attack.mitre.org/)
+- [OpenSSF](https://openssf.org/)
 
 ### Blogs
 
