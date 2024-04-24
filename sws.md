@@ -21,6 +21,7 @@ A generally accepted view concerning software security is that it is much better
 
 - [Certified Secure Software Lifecycle Professional (CSSLP)](https://www.isc2.org/certifications/csslp)
 - [Certified Application Security Engineer (CASE)](https://cert.eccouncil.org/ec-certified-application-security-engineer.html)
+- [Secure Software Development Fundamentals Professional Certificate](https://cert.eccouncil.org/ec-certified-application-security-engineer.html)
 
 ### Online Communities
 
