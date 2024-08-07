@@ -36,23 +36,23 @@ The SEG covers the main knowledge areas described in the Software Engineering Bo
 
 The SEG currently includes 12 role-based learning paths. It provides guiding information and up-to-date learning resources for each learning path. If you still don't have a career path in your mind, you can try to identify your potential career by using the [MyInnerGenius Career Fit Assessment](https://app.myinnergenius.com/accounts/signup/?next=%2Flaunch-assessment%2F4%2F).
 
-**Traditional Roles:**
+**Traditional Areas:**
 
-- [Software Requirements Engineer](swr.md)
-- [Software Designer](swd.md)
-- [Software Programmer](swc.md)
-- [Software Tester](swt.md)
-- [Software Administrator](swm.md)
-- [Software Quality Engineer](swq.md)
-- [Software Security Engineer](sws.md)
-- [Software Project Manager](swem.md)
+- [Software Requirements](swr.md)
+- [Software Design](swd.md)
+- [Software Construction](swc.md)
+- [Software Testing](swt.md)
+- [Software Maintenance](swm.md)
+- [Software Quality](swq.md)
+- [Software Security](sws.md)
+- [Software Project Management](swem.md)
 
-**Emerging Roles:**
+**Emerging Areas:**
 
-- [Data Scientist](ds.md)
-- [Artificial Intelligence Engineer](ai.md)
-- [Blockchain Developer](bc.md)
-- [Virtual and Augmented Reality Developer](var.md)
+- [Data Science](ds.md)
+- [Artificial Intelligence](ai.md)
+- [Blockchain](bc.md)
+- [Virtual and Augmented Reality](var.md)
 
 ### Interpersonal Skills
 
