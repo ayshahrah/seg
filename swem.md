@@ -26,8 +26,9 @@ In one sense, it should be possible to manage a software engineering project in 
 
 ### Professional Certifications
 
-- [Google Project Management Professional Certificate](https://www.coursera.org/professional-certificates/google-project-management)
 - [IBM IT Project Manager Professional Certificate](https://www.coursera.org/professional-certificates/ibm-it-project-manager)
+- [Google Project Management Professional Certificate](https://www.coursera.org/professional-certificates/google-project-management)
+- [Microsoft Project Management Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-project-management)
 - [Certified Associate in Project Management (CAPM)](https://www.pmi.org/certifications/types/certified-associate-capm)
 - [Project Management Professional (PMP)](https://www.pmi.org/certifications/types/project-management-pmp)
 - [Agile Certified Practitioner (PMI-ACP)](https://www.pmi.org/certifications/types/agile-acp)
