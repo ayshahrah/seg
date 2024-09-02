@@ -32,6 +32,8 @@ In one sense, it should be possible to manage a software engineering project in 
 - [Certified Associate in Project Management (CAPM)](https://www.pmi.org/certifications/types/certified-associate-capm)
 - [Project Management Professional (PMP)](https://www.pmi.org/certifications/types/project-management-pmp)
 - [Agile Certified Practitioner (PMI-ACP)](https://www.pmi.org/certifications/types/agile-acp)
+- [Scrum Alliance Certifications](https://www.scrumalliance.org/get-certified)
+- [Professional Scrum Certifications](https://www.scrum.org/professional-scrum-certifications)
 
 ### Online Communities
 
