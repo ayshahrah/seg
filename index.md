@@ -28,7 +28,7 @@ A framework of three components inspires the scope of the SEG. The first compone
 
 ### Knowledge Areas
 
-The SEG covers the main knowledge areas described in the Software Engineering Body of Knowledge ([SWEBOK V3](https://www.computer.org/web/swebok/v3)). It attempts to map each knowledge area to a set of career paths. It also includes other emerging career paths, like data science and artificial intelligence.
+The SEG covers the main knowledge areas described in the Software Engineering Body of Knowledge ([SWEBOK V4](https://www.computer.org/web/swebok/v3)). It attempts to map each knowledge area to a set of career paths. It also includes other emerging career paths, like data science and artificial intelligence.
 
 ![](Slide8.JPG "Knowledge Areas") 
 
