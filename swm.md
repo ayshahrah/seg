@@ -68,7 +68,6 @@ Software maintenance is defined as the totality of activities required to provid
 
 #### Websites
 
-- [Top 9 sysadmin career stories from 2019](https://www.redhat.com/sysadmin/career-2019)
 - [A Brief Guide to Starting Your IT Career as a Linux Sysadmin](https://training.linuxfoundation.org/resources/publications-2/a-brief-guide-to-starting-your-it-career-as-a-linux-sysadmin/)
 
 ### Beginner
