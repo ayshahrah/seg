@@ -93,6 +93,7 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 - [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)
 - [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
+- [Generative AI Engineering with LLMs](https://www.coursera.org/specializations/generative-ai-engineering-with-llms)
 - [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)
 - [Tiny Machine Learning (TinyML)](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
 - [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
