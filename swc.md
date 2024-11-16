@@ -27,6 +27,9 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ### Professional Certifications
 
+- [Microsoft Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-front-end-developer)
+- [Microsoft Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-back-end-developer)
+- [Microsoft Full-Stack Developer Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-full-stack-developer)
 - [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 - [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer)
 - [Meta Android Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-android-developer)
