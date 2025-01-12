@@ -18,11 +18,13 @@ In one sense, it should be possible to manage a software engineering project in 
 
 - [Project Manager](https://business.linkedin.com/talent-solutions/job-descriptions/project-manager#)
 - [IT Project Manager](https://hiring.monster.com/resources/job-descriptions/computer/it-project-manager/)
+- [Product Manager](https://business.linkedin.com/talent-solutions/resources/how-to-hire-guides/product-manager/job-description)
 
 ### How To
 
 - [How to Become a Project Manager](https://www.coursera.org/articles/how-to-become-a-project-manager)
 - [What Is an IT Project Manager?](https://www.coursera.org/articles/it-project-manager)
+- [What Does a Product Manager Do? And How to Become One](https://www.coursera.org/articles/what-does-a-product-manager-do)
 
 ### Professional Certifications
 
