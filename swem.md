@@ -27,6 +27,7 @@ In one sense, it should be possible to manage a software engineering project in 
 ### Professional Certifications
 
 - [IBM IT Project Manager Professional Certificate](https://www.coursera.org/professional-certificates/ibm-it-project-manager)
+- [IBM IT Scrum Master Professional Certificate](https://www.coursera.org/professional-certificates/ibm-it-scrum-master)
 - [IBM Product Manager Professional Certificate](https://www.coursera.org/professional-certificates/ibm-product-manager)
 - [IBM AI Product Manager Professional Certificate](https://www.coursera.org/professional-certificates/ibm-ai-product-manager)
 - [Google Project Management Professional Certificate](https://www.coursera.org/professional-certificates/google-project-management)
