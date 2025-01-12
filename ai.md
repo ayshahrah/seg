@@ -31,7 +31,10 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [IBM Foundations of AI Professional Certificate](https://www.edx.org/professional-certificate/foundations-of-ai)
 - [IBM Applied AI Professional Certificate](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)
 - [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer)
+- [IBM AI Developer Professional Certificate](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)
+- [IBM Generative AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-generative-ai-engineering)
 - [IBM Machine Learning Professional Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning)
+- [IBM Deep Learning with PyTorch, Keras and Tensorflow Professional Certificate](https://www.coursera.org/professional-certificates/ibm-deep-learning-with-pytorch-keras-tensorflow)
 - [Databricks Large Language Models Professional Certificate](https://www.edx.org/professional-certificate/databricks-large-language-models)
 
 ### Online Communities
