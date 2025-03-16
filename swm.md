@@ -75,11 +75,9 @@ Software maintenance is defined as the totality of activities required to provid
 
 #### MOOCs
 
-- [Computer Security and Systems Management](https://www.coursera.org/specializations/computer-security-systems-management)
 - [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
 - [Hands-on Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting)
 - [Fundamentals of Red Hat Enterprise Linux](https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x)
-- [Unix Tools: Data, Software and Production Engineering](https://www.edx.org/course/unix-tools-data-software-and-production-engineering)
 
 #### Websites
 
@@ -90,8 +88,6 @@ Software maintenance is defined as the totality of activities required to provid
 #### MOOCs
 
 - [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud)
-- [Introduction to Cloud Infrastructure Technologies](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x#!)
-- [Introduction to Cloud Foundry and Cloud Native Software Architecture](https://www.edx.org/course/introduction-cloud-foundry-cloud-native-linuxfoundationx-lfs132x)
 - [Monitoring and Observability for Application Developers](https://www.edx.org/course/monitoring-and-observability-for-application-developers)
 
 #### Websites
@@ -104,7 +100,6 @@ Software maintenance is defined as the totality of activities required to provid
 
 #### MOOCs
 
-- [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 - [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift)
 - [Introduction to Kubernetes](https://www.edx.org/course/introduction-to-kubernetes)
 - [Introduction to DevOps](https://www.coursera.org/learn/intro-to-devops)
