@@ -74,9 +74,8 @@ Quality.
 
 #### MOOCs
 
-- [A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
 - [Agile and Scrum Fundamentals](https://www.edx.org/course/agile-and-scrum-fundamentals)
-- [Agile Development](https://www.coursera.org/specializations/agile-development)
+- [Google Agile Essentials](https://www.coursera.org/learn/google-agile-essentials)
 
 #### Websites
 
