@@ -75,14 +75,10 @@ For many organizations, the approach to software quality is one of prevention: i
 
 - [Test and Behavior Driven Development (TDD/BDD)](https://www.coursera.org/learn/test-and-behavior-driven-development-tdd-bdd)
 - [Software Testing and Automation](https://www.coursera.org/specializations/software-testing-automation)
-- [Agile and Scrum Fundamentals](https://www.edx.org/course/agile-and-scrum-fundamentals)
-- [Agile Development](https://www.coursera.org/specializations/agile-development)
 
 #### Websites
 
 - [The Agile Coach](https://www.atlassian.com/agile)
-- [Scrum Guide](http://www.scrumguides.org/)
-- [ALM Body of Knowledge](http://www.almbok.com/)
 
 ### Advanced
 
