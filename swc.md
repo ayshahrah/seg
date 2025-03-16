@@ -59,9 +59,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 - [Awesome Resources](https://github.com/sindresorhus/awesome)
 - [Awesome Open Source](https://awesomeopensource.com/)
-- [Code Analysis Tools](https://analysis-tools.dev/)
 - [Open Source Advisor](https://snyk.io/advisor/)
-- [Public APIs](https://publicapis.sznm.dev/)
 
 ## Learning Resources
 
@@ -80,7 +78,6 @@ Since software construction requires knowledge of algorithms and of coding pract
 - [TIOBE Index](https://www.tiobe.com/tiobe-index/)
 - [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey/)
 - [GitHub: The State of the Octoverse](https://octoverse.github.com/)
-- [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar)
 
 ### Beginner
 
@@ -88,19 +85,14 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ##### General
 
-- [What is Programming?](https://www.udacity.com/course/what-is-programming--ud994)
-- [CS50's Introduction to Programming with Scratch](https://www.edx.org/course/cs50s-introduction-to-programming-with-scratch)
 - [CS50's Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)
-- [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
 - [Java Programming and Software Engineering Fundamentals](https://www.coursera.org/specializations/java-programming)
 - [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
 
 ##### Web
 
-- [Intro to HTML and CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001)
 - [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 - [Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)
-- [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 - [Front-End Interview Prep](https://www.udacity.com/course/front-end-interview-prep--ud250)
 
 ##### Mobile
@@ -111,16 +103,11 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 - [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 - [Build Your First Android App (Project-Centered Course)](https://www.coursera.org/learn/android-app)
-- [Android Mobile Lifecycle and Software Development Approaches](https://www.coursera.org/learn/android-mobile-lifecycle-and-software-development-approaches)
-- [The Web and Databases in Android](https://www.coursera.org/learn/web-databases)
-- [UX Design for Mobile Developers](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
 
 ###### iOS
 
-- [Swift for Beginners](https://www.udacity.com/course/swift-for-beginners--ud1022)
 - [Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
 - [iOS App Development with Swift](https://www.coursera.org/specializations/app-development)
-- [iOS Mobile Lifecycle and Software Development Approaches](https://www.coursera.org/learn/ios-mobile-lifecycle-and-software-development-approaches)
 
 #### Websites
 
@@ -136,68 +123,31 @@ Since software construction requires knowledge of algorithms and of coding pract
 ##### General
 
 - [Introduction to Object-Oriented Programming with Java](https://www.edx.org/professional-certificate/gtx-introduction-to-object-oriented-programming-with-java)
-- [Object Oriented Programming in Java](https://www.udacity.com/course/object-oriented-programming-in-java--ud283)
 
 ##### Web
 
-- [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088)
 - [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
-- [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud711)
-- [Intro to jQuery](https://www.udacity.com/course/intro-to-jquery--ud245)
-- [Intro to Backend](https://www.udacity.com/course/intro-to-backend--ud171)
 - [Introduction to Node.js](https://www.edx.org/course/introduction-to-nodejs-2)
-- [Building High Conversion Web Forms](https://www.udacity.com/course/building-high-conversion-web-forms--ud890)
-- [JavaScript and the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
-- [Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
-- [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
 - [Responsive Website Development and Design](https://www.coursera.org/specializations/website-development)
-- [Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
-- [Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
-- [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
-- [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899)
-- [Intro to Progressive Web Apps](https://www.udacity.com/course/intro-to-progressive-web-apps--ud811)
-- [Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
-- [Full-Stack Interview Prep](https://www.udacity.com/course/full-stack-interview-prep--ud252)
 
 ##### Mobile
 
 - [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
-- [Build Native Mobile Apps with Flutter](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
-
-###### Android
-
-- [Kotlin Bootcamp for Programmers - Udacity](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
-- [Kotlin Bootcamp for Programmers - Google](https://developer.android.com/courses/kotlin-bootcamp/overview)
-- [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
-- [Firebase in a Weekend: Android](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352)
-- [Firebase Analytics: Android](https://www.udacity.com/course/firebase-analytics-android--ud354)
-- [Android Interview Prep](https://www.udacity.com/course/android-interview-prep--ud241)
-
-###### iOS
-
-- [Intro to iOS App Development with Swift](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)
-- [AutoLayout](https://www.udacity.com/course/auto-layout--ud1026)
-- [Server-Side Swift](https://www.udacity.com/course/server-side-swift--ud1031)
-- [Firebase in a Weekend: iOS](https://www.udacity.com/course/firebase-in-a-weekend-by-google-ios--ud0351)
-- [Firebase Analytics: iOS](https://www.udacity.com/course/firebase-analytics-ios--ud353)
-- [iOS Interview Prep](https://www.udacity.com/course/ios-interview-prep--ud240)
 
 ##### Databases
 
 - [CS50's Introduction to Databases with SQL](https://www.edx.org/course/cs50s-introduction-to-databases-with-sql)
-- [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 - [Database Management Essentials](https://www.coursera.org/learn/database-management)
 
 ##### Data Structures and Algorithms
 
-- [Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
 - [Data Structures and Algorithms - coursera](https://www.coursera.org/specializations/data-structures-algorithms)
 - [Data Structures and Algorithms - edx](https://www.edx.org/professional-certificate/gtx-data-structures-and-algorithms)
 
 ##### Software Development Management
 
 - [Agile and Scrum Fundamentals](https://www.edx.org/course/agile-and-scrum-fundamentals)
-- [Agile Development](https://www.coursera.org/specializations/agile-development)
+- [Google Agile Essentials](https://www.coursera.org/learn/google-agile-essentials)
 
 #### Websites
 
@@ -209,35 +159,8 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 #### MOOCs
 
-##### General
-
-- [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
-
-##### Web
-
-- [ES6 - JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356)
-- [JavaScript Design Patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
-- [JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
-- [Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
-- [Browser Rendering Optimization](https://www.udacity.com/course/browser-rendering-optimization--ud860)
-- [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
-
-##### Mobile
-
-###### Android
-
-- [Kotlin for Android Developers](https://www.udacity.com/course/kotlin-for-android-developers--ud888)
-- [Advanced Android with Kotlin](https://www.udacity.com/course/advanced-android-with-kotlin--ud940)
-
-###### iOS
-
-- [iOS Design Patterns](https://www.udacity.com/course/ios-design-patterns--ud1029)
-
-##### Others
-
 - [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud)
 - [Introduction to DevOps](https://www.coursera.org/learn/intro-to-devops)
-- [Introduction to the Internet of Things (IoT)](https://www.edx.org/course/introduction-to-the-internet-of-things-iot)
 
 #### Websites
 
