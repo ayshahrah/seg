@@ -43,7 +43,6 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 - [Toools.design](https://www.toools.design/)
 - [Undesign](https://undesign.learn.uno/)
-- [Checklist Design](https://www.checklist.design/)
 - [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)
 
 ## Learning Resources
@@ -69,7 +68,6 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 ##### Software Architecture
 
-- [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
 - [Software Design and Architecture](https://www.coursera.org/specializations/software-design-architecture)
 - [Secure Software Design](https://www.coursera.org/specializations/secure-software-design)
 
@@ -77,8 +75,6 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 - [Principles of UX/UI Design](https://www.coursera.org/learn/principles-of-ux-ui-design)
 - [UI / UX Design](https://www.coursera.org/specializations/ui-ux-design)
-- [Introduction to User Experience Design](https://www.coursera.org/learn/user-experience-design)
-- [Graphic Design](https://www.coursera.org/specializations/graphic-design)
 
 #### Websites
 
@@ -100,8 +96,6 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 ##### UI & UX
 
 - [Interaction Design](https://www.coursera.org/specializations/interaction-design)
-- [Product Design](https://www.udacity.com/course/product-design--ud509)
-- [Rapid Prototyping](https://www.udacity.com/course/rapid-prototyping--ud723)
 
 ##### Software Development Management
 
@@ -117,12 +111,6 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 ### Advanced
 
 #### MOOCs
-
-##### Software Architecture
-
-- [Software Architecture for the Internet of Things](https://www.coursera.org/learn/iot-software-architecture)
-
-##### Others
 
 - [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud)
 - [Introduction to DevOps](https://www.coursera.org/learn/intro-to-devops)
