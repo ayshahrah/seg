@@ -64,7 +64,6 @@ Augmented reality apps are written in special 3D programs that allow the develop
 
 #### MOOCs
 
-- [Introduction to Virtual Reality](https://www.udacity.com/course/introduction-to-virtual-reality--ud1012)
 - [Virtual Reality](https://www.coursera.org/specializations/virtual-reality)
 - [VR and 360 Video Production](https://www.coursera.org/learn/360-vr-video-production)
 - [Introduction to Augmented Reality and ARCore](https://www.coursera.org/learn/ar)
@@ -72,6 +71,7 @@ Augmented reality apps are written in special 3D programs that allow the develop
 #### Websites
 
 - [VR/AR Association](https://www.thevrara.com/)
+- [Unity VR](https://learn.unity.com/course/create-with-vr)
 
 ### Intermediate
 
@@ -80,14 +80,12 @@ Augmented reality apps are written in special 3D programs that allow the develop
 - [Getting started with Augmented Reality](https://www.coursera.org/learn/augmented-reality)
 - [Virtual Reality (VR) App Development](https://www.edx.org/certificates/professional-certificate/ucsandiegox-virtual-reality-app-development)
 - [AR in marketing using Meta Spark](https://www.coursera.org/learn/ar-in-marketing-using-meta-spark-specialization)
-- [VR Interview Prep](https://www.udacity.com/course/vr-interview-prep--ud251)
 
 #### Websites
 
 - [Google VR](https://developers.google.com/vr/)
 - [Google AR](https://developers.google.com/ar/)
 - [Apple AR](https://developer.apple.com/augmented-reality/)
-- [Unity VR](https://learn.unity.com/course/create-with-vr)
 
 ### Advanced
 
