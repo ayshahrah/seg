@@ -28,7 +28,6 @@ A generally accepted view concerning software security is that it is much better
 - [OWASP](https://owasp.org/)
 - [CWE](https://cwe.mitre.org/index.html)
 - [MITRE ATT&CK](https://attack.mitre.org/)
-- [OpenSSF](https://openssf.org/)
 
 ### Blogs
 
@@ -75,27 +74,18 @@ A generally accepted view concerning software security is that it is much better
 
 - [Application Security for Developers](https://www.edx.org/course/application-security-for-developers)
 - [Secure Coding Practices](https://www.coursera.org/specializations/secure-coding-practices)
-- [Cyber Security in the Software Development Life Cycle](https://www.futurelearn.com/courses/cyber-security-in-the-software-development-life-cycle)
-- [Agile and Scrum Fundamentals](https://www.edx.org/course/agile-and-scrum-fundamentals)
-- [Agile Development](https://www.coursera.org/specializations/agile-development)
 
 #### Websites
 
 - [Security Development Lifecycle](https://www.microsoft.com/en-us/SDL)
 - [Secure Coding](https://developers.redhat.com/topics/secure-coding/)
-- [The Agile Coach](https://www.atlassian.com/agile)
-- [Scrum Guide](http://www.scrumguides.org/)
-- [ALM Body of Knowledge](http://www.almbok.com/)
 
 ### Advanced
 
 #### MOOCs
 
-- [JavaScript Security](https://www.coursera.org/specializations/javascript-security)
 - [Web Application Security Testing with OWASP ZAP](https://www.coursera.org/projects/web-application-security-testing-with-owsap-zap)
-- [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud)
 - [Cloud Application Security](https://www.coursera.org/learn/cloud-application-security)
-- [Introduction to DevOps](https://www.coursera.org/learn/intro-to-devops)
 - [Introduction to DevSecOps](https://www.coursera.org/learn/introduction-to-devsecops)
 
 #### Websites
@@ -103,4 +93,3 @@ A generally accepted view concerning software security is that it is much better
 - [Secure DevOps](https://learn.techbeacon.com/tracks/secure-devops)
 - [Veracode Resources](https://www.veracode.com/resources)
 - [Snyk Security Resources](https://snyk.io/security-resources/)
-- [Checkmarx Resources](https://www.checkmarx.com/resources/)
