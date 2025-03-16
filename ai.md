@@ -53,7 +53,6 @@ Self-driving cars and computers that play chess are two examples of machines wit
 - [Hugging Face](https://huggingface.co/)
 - [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
 - [Awesome MLOps](https://github.com/visenger/awesome-mlops)
-- [Papers With Code](https://paperswithcode.com/)
 
 ## Learning Resources
 
@@ -77,7 +76,6 @@ Self-driving cars and computers that play chess are two examples of machines wit
 #### MOOCs
 
 - [Introduction to Artificial Intelligence (AI)](https://www.coursera.org/learn/introduction-to-ai)
-- [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
 - [Introduction to Generative AI](https://www.coursera.org/learn/introduction-to-generative-ai)
 - [Robotics](https://www.coursera.org/specializations/robotics)
 
@@ -92,15 +90,10 @@ Self-driving cars and computers that play chess are two examples of machines wit
 #### MOOCs
 
 - [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python)
-- [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
-- [Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)
 - [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
 - [Generative AI Engineering with LLMs](https://www.coursera.org/specializations/generative-ai-engineering-with-llms)
-- [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)
-- [Tiny Machine Learning (TinyML)](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
 - [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
-- [Machine Learning Interview Preparation](https://www.udacity.com/course/machine-learning-interview-prep--ud1001)
 
 #### Websites
 
@@ -113,16 +106,8 @@ Self-driving cars and computers that play chess are two examples of machines wit
 #### MOOCs
 
 - [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
-- [Deep Learning](https://www.coursera.org/specializations/deep-learning)
-- [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 - [Practical Deep Learning For Coders](http://course.fast.ai/)
-- [TensorFlow in Practice](https://www.coursera.org/specializations/tensorflow-in-practice)
-- [TensorFlow: Data and Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
-- [TensorFlow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques)
-- [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
-- [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing)
 - [A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
-- [Natural Language Processing (NLP) for Semantic Search](https://www.pinecone.io/learn/nlp/)
 
 #### Websites
 
