@@ -60,7 +60,6 @@ A generally accepted view concerning software security is that it is much better
 
 - [Secure Software Development Fundamentals](https://www.edx.org/professional-certificate/linuxfoundationx-secure-software-development-fundamentals)
 - [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals-kuleuvenx-websecx)
-- [Systems and Application Security](https://www.coursera.org/learn/systems-application-security-sscp)
 
 #### Websites
 
