@@ -29,6 +29,7 @@ Quality.
 - [Certified Professional for Requirements Engineering (CPRE)](https://www.ireb.org/en/cpre/)
 - [IBM Systems Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-systems-analyst)
 - [IBM Product Owner Professional Certificate](https://www.coursera.org/professional-certificates/ibm-product-owner)
+- [SAP Business Analyst Professional Certificate](https://www.coursera.org/professional-certificates/sap-business-analyst)
 
 ### Online Communities
 
