@@ -27,8 +27,8 @@ Quality.
 - [International Institute of Business Analysis (IIBA) Certifications](https://www.iiba.org/business-analysis-certifications/iiba-certifications/)
 - [PMI Professional in Business Analysis (PMI-PBA)](https://www.pmi.org/certifications/types/business-analysis-pba)
 - [Certified Professional for Requirements Engineering (CPRE)](https://www.ireb.org/en/cpre/)
+- [IBM Systems Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-systems-analyst)
 - [IBM Product Owner Professional Certificate](https://www.coursera.org/professional-certificates/ibm-product-owner)
-
 
 ### Online Communities
 
