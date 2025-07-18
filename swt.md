@@ -62,12 +62,10 @@ For many organizations, the approach to software quality is one of prevention: i
 #### MOOCs
 
 - [Foundations of Software Testing and Validation](https://www.coursera.org/learn/foundations-of-software-testing-and-validation)
-- [Software Analysis & Testing](https://www.udacity.com/course/software-analysis-testing--ud333)
 
 #### Websites
 
 - [Software Testing Tutorial: Free Course](https://www.guru99.com/software-testing.html)
-- [Mobile Testing](https://learn.techbeacon.com/tracks/mobile-testing)
 
 ### Intermediate
 
