@@ -88,5 +88,4 @@ For many organizations, the approach to software quality is one of prevention: i
 
 #### Websites
 
-- [Continuous Testing](https://learn.techbeacon.com/tracks/continuous-testing)
 - [Huddle Resources](https://huddle.eurostarsoftwaretesting.com/resources/)
