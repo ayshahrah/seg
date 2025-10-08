@@ -56,8 +56,6 @@ In one sense, it should be possible to manage a software engineering project in 
 
 ## Learning Resources
 
-**Important Note:** *all learning resources available here are free. If you found any learning resource that requires a fee or the URL is broken/wrong, please [inform us](https://github.com/ayshahrah/seg/issues). Regarding the MOOCs that are bundled as a specialization track with a fee (e.g. coursera's specializations and edx's xseries programs), you can look for each individual course and take it for free (Audit option).*
-
 ### Foundation
 
 #### MOOCs
