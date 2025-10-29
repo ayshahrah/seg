@@ -29,6 +29,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 - [The Software Engineering Institute (SEI) Software Architecture Certificates](https://www.sei.cmu.edu/training/certificates/architecture/)
 - [Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design)
 - [Microsoft UX Design Professional Certificate](https://www.coursera.org/professional-certificates/ux-design)
+- [IBM UI/UX Designer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-ui-ux-designer)
 
 ### Online Communities
 
@@ -73,6 +74,7 @@ In a standard list of software life cycle processes, such as that in ISO/IEC/IEE
 
 - [Principles of UX/UI Design](https://www.coursera.org/learn/principles-of-ux-ui-design)
 - [UI / UX Design](https://www.coursera.org/specializations/ui-ux-design)
+- [Generative AI for UI UX Design](https://www.coursera.org/specializations/generative-ai-for-ui-ux-design)
 
 #### Websites
 
