@@ -122,6 +122,7 @@ Since software construction requires knowledge of algorithms and of coding pract
 ##### General
 
 - [Introduction to Object-Oriented Programming with Java](https://www.edx.org/professional-certificate/gtx-introduction-to-object-oriented-programming-with-java)
+- [Generative AI for Software Developers](https://www.coursera.org/specializations/generative-ai-for-software-developers)
 
 ##### Web
 
