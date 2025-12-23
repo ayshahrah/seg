@@ -58,6 +58,7 @@ A generally accepted view concerning software security is that it is much better
 
 - [Secure Software Development Fundamentals](https://www.edx.org/professional-certificate/linuxfoundationx-secure-software-development-fundamentals)
 - [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals-kuleuvenx-websecx)
+- [AI Security Nuggets](https://www.netacad.com/modules/ai-security-nuggets)
 
 #### Websites
 
