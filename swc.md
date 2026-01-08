@@ -90,9 +90,9 @@ Since software construction requires knowledge of algorithms and of coding pract
 
 ##### Web
 
+- [Certified Full Stack Developer Curriculum](https://www.freecodecamp.org/learn/full-stack-developer-v9/)
 - [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 - [Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)
-- [Front-End Interview Prep](https://www.udacity.com/course/front-end-interview-prep--ud250)
 
 ##### Mobile
 
