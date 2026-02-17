@@ -69,7 +69,7 @@ Augmented reality apps are written in special 3D programs that allow the develop
 #### Websites
 
 - [VR/AR Association](https://www.thevrara.com/)
-- [Unity VR](https://learn.unity.com/course/create-with-vr)
+- [Unity Learn](https://learn.unity.com/)
 
 ### Intermediate
 
