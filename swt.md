@@ -39,6 +39,7 @@ For many organizations, the approach to software quality is one of prevention: i
 
 ### Resources Collections
 
+- [TestVerse](https://testverse.ai/)
 - [Awesome Testing](https://github.com/TheJambo/awesome-testing)
 
 ## Learning Resources
