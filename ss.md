@@ -21,8 +21,8 @@
 
 **Critical Thinking**
 
+- [Solving Problems with Creative and Critical Thinking](https://www.coursera.org/learn/solving-problems-with-creative-and-critical-thinking)
 - [Introduction to Logic and Critical Thinking](https://www.coursera.org/specializations/logic-critical-thinking-duke)
-- [Creative Thinking: Techniques and Tools for Success](https://www.edx.org/course/creative-thinking-techniques-0)
 - [Critical Thinking & Problem Solving](https://www.edx.org/learn/critical-thinking-skills/rochester-institute-of-technology-critical-thinking-problem-solving)
 
 **Design Thinking**
