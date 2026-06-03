@@ -32,10 +32,12 @@ Software maintenance is defined as the totality of activities required to provid
 - [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
 - [Google Cloud Engineer Professional Certificate](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
 - [Google Cloud Architect Professional Certificate](https://www.coursera.org/professional-certificates/gcp-cloud-architect)
+- [Google Cloud DevOps Engineer Professional Certificate](https://www.coursera.org/professional-certificates/sre-devops-engineer-google-cloud)
+- [Google Cloud Certifications](https://cloud.google.com/learn/certification)
 - [IBM Technical Support Professional Certificate](https://www.coursera.org/professional-certificates/ibm-technical-support)
 - [IBM Applied DevOps Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ibm-applied-devops-engineering)
-- [Microsoft Azure Certifications](https://www.coursera.org/articles/azure-certification)
-- [AWS Certifications](https://www.coursera.org/articles/aws-certification)
+- [Microsoft Azure Certifications](https://learn.microsoft.com/en-us/collections/7rys6e16e5qjr)
+- [AWS Certifications](https://aws.amazon.com/certification/)
 
 ### Online Communities
 
