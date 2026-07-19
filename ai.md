@@ -17,7 +17,7 @@ Self-driving cars and computers that play chess are two examples of machines wit
 
 ### How To
 
-- [How to Build Your Career in AI](https://wordpress.deeplearning.ai/wp-content/uploads/2022/10/eBook-How-to-Build-a-Career-in-AI.pdf)
+- [How to Build Your Career in AI](https://info.deeplearning.ai/how-to-build-a-career-in-ai-book)
 - [AI Expert Roadmap](https://i.am.ai/roadmap)
 - [What Is an AI Engineer?](https://www.coursera.org/articles/ai-engineer)
 - [What Is a Machine Learning Engineer?](https://www.coursera.org/articles/what-is-machine-learning-engineer)
